@@ -1,0 +1,21 @@
+[
+{"id":"680503B5-199F","name":"Vorder Spitzalpelistock","kind":"summit","e":2711426,"n":1188756,"alt":2929,"prio":90},
+{"id":"53E34513-7B5A","name":"Boggtschingel","kind":"summit","e":2710968,"n":1189700,"alt":3078,"prio":90},
+{"id":"42DE9BDB-10E9","name":"Vorder Geissbützistock","kind":"summit","e":2713311,"n":1189449,"alt":2661,"prio":90},
+{"id":"5A188685-1533","name":"Hinter Geissbützistock","kind":"summit","e":2713016,"n":1189766,"alt":2719,"prio":90},
+{"id":"64B92CA2-9F64","name":"Beggistock","kind":"summit","e":2714240,"n":1189766,"alt":2634,"prio":90},
+{"id":"0BFD8D1B-0734","name":"Claridenpass","kind":"pass","e":2710132,"n":1187508,"alt":2932,"prio":60},
+{"id":"0BFD8D1B-0734","name":"Hüfipass","kind":"pass","e":2710132,"n":1187508,"alt":2932,"prio":60},
+{"id":"45A1EF24-9C4E","name":"Hinter Spitzalpelistock","kind":"summit","e":2710249,"n":1186713,"alt":3006,"prio":90},
+{"id":"5308F025-F101","name":"Sandgipfel","kind":"summit","e":2713309,"n":1186399,"alt":3390,"prio":90},
+{"id":"E78F07CA-3C2D","name":"Sandpass","kind":"pass","e":2710633,"n":1185825,"alt":2780,"prio":60},
+{"id":"EE698FDF-32BA","name":"Chli Tödi","kind":"summit","e":2711493,"n":1185783,"alt":3076,"prio":90},
+{"id":"EE698FDF-32BA","name":"Crap Glaruna","kind":"summit","e":2711493,"n":1185783,"alt":3076,"prio":90},
+{"id":"CBC73ECA-65CD","name":"Grüehoren","kind":"summit","e":2714160,"n":1185315,"alt":2952,"prio":90},
+{"id":"CBC73ECA-65CD","name":"Grünhorn","kind":"summit","e":2714160,"n":1185315,"alt":2952,"prio":90},
+{"id":"3AD8948B-6643","name":"Piz Russein","kind":"summit","e":2712648,"n":1185507,"alt":3612,"prio":100},
+{"id":"ED2DD763-EFD2","name":"Glarner Tödi","kind":"summit","e":2713203,"n":1185435,"alt":3568,"prio":100},
+{"id":"46CA840E-275C","name":"Geissbützibüchel","kind":"summit","e":2713692,"n":1188929,"alt":2168,"prio":60},
+{"id":"CF909AF0-7F0C","name":"Planurahütte SAC","kind":"inn","e":2710016,"n":1186439,"alt":2947,"prio":50},
+{"id":"9B6DF2B2-D51F","name":"Bifertengrätli","kind":"ridge","e":2714317,"n":1186911,"alt":2498,"prio":20}
+]

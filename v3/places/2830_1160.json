@@ -1,0 +1,20 @@
+[
+{"id":"FB58F475-C32A","name":"Piz Chalderas","kind":"summit","e":2831621,"n":1163728,"alt":2794,"prio":90},
+{"id":"DED70ED4-1F99","name":"Piz Sielva","kind":"summit","e":2833623,"n":1164350,"alt":2851,"prio":90},
+{"id":"56E9D7FB-DF01","name":"Klein Tartscherkopf","kind":"summit","e":2832715,"n":1160029,"alt":2919,"prio":90},
+{"id":"56E9D7FB-DF01","name":"Cima Piccola di Tàrres","kind":"summit","e":2832715,"n":1160029,"alt":2919,"prio":90},
+{"id":"5909BC35-024C","name":"Gross Tartscherkopf","kind":"summit","e":2832979,"n":1160693,"alt":2963,"prio":90},
+{"id":"5909BC35-024C","name":"Monte di Tàrres","kind":"summit","e":2832979,"n":1160693,"alt":2963,"prio":90},
+{"id":"4E9DF666-0BF7","name":"Fuorcla Costainas","kind":"pass","e":2832851,"n":1161011,"alt":2805,"prio":60},
+{"id":"5DCA2C05-7D8E","name":"Piz Val Gronda","kind":"summit","e":2831042,"n":1161220,"alt":2879,"prio":90},
+{"id":"41F14409-31D8","name":"Furkelspitz","kind":"summit","e":2832742,"n":1161282,"alt":3004,"prio":90},
+{"id":"41F14409-31D8","name":"Piz Costainas","kind":"summit","e":2832742,"n":1161282,"alt":3004,"prio":90},
+{"id":"D0E42F75-1112","name":"Fallaschkopf","kind":"summit","e":2832718,"n":1161770,"alt":2902,"prio":90},
+{"id":"D0E42F75-1112","name":"Cima di Vallazza","kind":"summit","e":2832718,"n":1161770,"alt":2902,"prio":90},
+{"id":"621BF4E2-3181","name":"Fallaschjoch","kind":"pass","e":2833026,"n":1162396,"alt":2741,"prio":60},
+{"id":"621BF4E2-3181","name":"Passo di Vallazza","kind":"pass","e":2833026,"n":1162396,"alt":2741,"prio":60},
+{"id":"0467DFCE-5830","name":"Piz Minschuns","kind":"summit","e":2833337,"n":1163360,"alt":2934,"prio":90},
+{"id":"0467DFCE-5830","name":"Schafberg","kind":"summit","e":2833337,"n":1163360,"alt":2934,"prio":90},
+{"id":"3AD13ACA-1662","name":"Spi da Minschuns","kind":"ridge","e":2832203,"n":1163465,"alt":2864,"prio":20},
+{"id":"F09E4B56-C1F8","name":"Lai da Minschuns","kind":"lake","e":2832528,"n":1162460,"alt":2571,"prio":50}
+]

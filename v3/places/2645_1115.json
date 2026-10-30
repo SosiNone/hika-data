@@ -1,0 +1,16 @@
+[
+{"id":"801678C1-E7C2","name":"Simplon Dorf, Eggen","kind":"stop","e":2646656,"n":1117275,"alt":1589,"prio":25},
+{"id":"74362619-532D","name":"Simplon Dorf, Blatt","kind":"stop","e":2647607,"n":1116460,"alt":1474,"prio":25},
+{"id":"5CA4EAE9-63F0","name":"Simplon Dorf, Maschihüs","kind":"stop","e":2646407,"n":1118245,"alt":1625,"prio":25},
+{"id":"0FD185B8-A799","name":"Simplon Dorf, Post","kind":"stop","e":2647613,"n":1116198,"alt":1475,"prio":25},
+{"id":"3DD759A5-9BD9","name":"Glatthorn","kind":"summit","e":2648696,"n":1118143,"alt":2582,"prio":60},
+{"id":"DC54948D-2AFD","name":"Bodmerhorn","kind":"summit","e":2646187,"n":1115392,"alt":2387,"prio":60},
+{"id":"3DBF1F59-AF3B","name":"Chellihorn","kind":"summit","e":2649867,"n":1118115,"alt":2934,"prio":90},
+{"id":"CA868BC5-27A1","name":"Chesselhorn","kind":"summit","e":2649595,"n":1118739,"alt":2981,"prio":90},
+{"id":"CCB2FB60-BFDA","name":"Alpjepass","kind":"pass","e":2649354,"n":1119261,"alt":2852,"prio":60},
+{"id":"1EBB59B4-653E","name":"Simplon Dorf","kind":"village","e":2647612,"n":1116241,"alt":1470,"prio":30},
+{"id":"6FF610CE-E7E2","name":"Gabi (Simplon)","kind":"village","e":2649007,"n":1115018,"alt":1230,"prio":5},
+{"id":"BE2BB937-6645","name":"Egga","kind":"village","e":2646626,"n":1117213,"alt":1592,"prio":5},
+{"id":"74B38FEC-50CA","name":"Sidegga","kind":"village","e":2647521,"n":1116903,"alt":1539,"prio":5},
+{"id":"02DEB208-7094","name":"Galu","kind":"ridge","e":2645282,"n":1117217,"alt":2282,"prio":20}
+]

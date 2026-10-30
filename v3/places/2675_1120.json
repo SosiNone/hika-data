@@ -1,0 +1,18 @@
+[
+{"id":"F27EBE6E-4250","name":"Bocchetta Cielo Largo","kind":"pass","e":2677872,"n":1123597,"alt":2300,"prio":60},
+{"id":"BD422428-DCF6","name":"Al Pizz Cavégna","kind":"summit","e":2679878,"n":1122585,"alt":2281,"prio":60},
+{"id":"4B1B8AA6-30B9","name":"Pizzo dell'Alpe Gelato","kind":"summit","e":2677539,"n":1122537,"alt":2617,"prio":90},
+{"id":"4B1B8AA6-30B9","name":"Pizzo del Lago Gelato","kind":"summit","e":2677539,"n":1122537,"alt":2617,"prio":90},
+{"id":"B6BFBBAC-9213","name":"Pizzo Stanga","kind":"summit","e":2678243,"n":1122623,"alt":2410,"prio":60},
+{"id":"BEB09D68-2882","name":"Passo della Cavegna","kind":"pass","e":2678868,"n":1121985,"alt":2387,"prio":60},
+{"id":"C3446EB1-2E80","name":"Al Pizz Porcarésc","kind":"summit","e":2679075,"n":1121981,"alt":2467,"prio":90},
+{"id":"F371B7BC-7382","name":"Pizzo Paìna","kind":"summit","e":2679157,"n":1124452,"alt":2238,"prio":60},
+{"id":"643C45BC-821D","name":"Al Pass da Porcarésc","kind":"pass","e":2679179,"n":1121772,"alt":2381,"prio":60},
+{"id":"643C45BC-821D","name":"Passo del Lago Cavegna","kind":"pass","e":2679179,"n":1121772,"alt":2381,"prio":60},
+{"id":"2CA76CB3-CA18","name":"Al Pizz da Madèi","kind":"summit","e":2679449,"n":1120696,"alt":2551,"prio":90},
+{"id":"2CA76CB3-CA18","name":"Pizzo Medaro","kind":"summit","e":2679449,"n":1120696,"alt":2551,"prio":90},
+{"id":"51ED5F19-0E9D","name":"Tramalitt","kind":"ridge","e":2678396,"n":1124027,"alt":2342,"prio":20},
+{"id":"944EB879-CFA5","name":"La Crésta di Madèi","kind":"ridge","e":2679929,"n":1120508,"alt":2422,"prio":20},
+{"id":"EBCA5A07-B6BD","name":"Lago dei Pozzöi","kind":"lake","e":2679625,"n":1124193,"alt":1954,"prio":50},
+{"id":"52AE450F-FA30","name":"Lago Gelato","kind":"lake","e":2678266,"n":1123457,"alt":2161,"prio":50}
+]

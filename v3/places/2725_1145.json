@@ -1,0 +1,16 @@
+[
+{"id":"3AF7C784-43ED","name":"Rheinquellhorn","kind":"summit","e":2725542,"n":1148968,"alt":3200,"prio":90},
+{"id":"B58407F1-410C","name":"Zapporthorn","kind":"summit","e":2728555,"n":1148961,"alt":3155,"prio":100},
+{"id":"27C5B12B-3657","name":"Breitstock","kind":"summit","e":2729673,"n":1149625,"alt":3030,"prio":90},
+{"id":"5519C3F1-A916","name":"Pass de Mucia","kind":"pass","e":2729297,"n":1148405,"alt":2782,"prio":60},
+{"id":"D06A6EE2-08AF","name":"Zapportpass","kind":"pass","e":2726210,"n":1148625,"alt":3045,"prio":60},
+{"id":"BE7BACD1-1B81","name":"Piz de Stabi","kind":"summit","e":2726812,"n":1148598,"alt":3136,"prio":90},
+{"id":"47626CED-B4D2","name":"Pass de Stabi","kind":"pass","e":2726497,"n":1148430,"alt":3068,"prio":60},
+{"id":"8ADCB579-4014","name":"Paradieshüreli","kind":"summit","e":2725836,"n":1149891,"alt":2963,"prio":90},
+{"id":"63C895FB-474A","name":"Poncion di Fracion","kind":"summit","e":2726448,"n":1147953,"alt":3202,"prio":90},
+{"id":"EBEE7642-5436","name":"Passo di Giumello","kind":"pass","e":2726866,"n":1147470,"alt":2957,"prio":60},
+{"id":"7141F387-F008","name":"Piz Piotta","kind":"summit","e":2727038,"n":1145498,"alt":3121,"prio":90},
+{"id":"896F8739-2219","name":"Poncion de la Paré","kind":"summit","e":2727249,"n":1146798,"alt":2984,"prio":90},
+{"id":"2F71712C-119A","name":"Zapportgrat","kind":"ridge","e":2729346,"n":1149473,"alt":2873,"prio":20},
+{"id":"C00692D4-B500","name":"Fil de Stabi","kind":"ridge","e":2729423,"n":1148165,"alt":2637,"prio":20}
+]

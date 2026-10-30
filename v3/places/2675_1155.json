@@ -1,0 +1,19 @@
+[
+{"id":"8C5C271E-5E48","name":"Furka DFB","kind":"stop","e":2675870,"n":1158792,"alt":2160,"prio":45},
+{"id":"F6FACD45-AD9E","name":"Furkapass, Furkablick","kind":"stop","e":2675340,"n":1158800,"alt":2427,"prio":25},
+{"id":"C6D7491B-F2F6","name":"Gross Muttenhorn","kind":"summit","e":2675816,"n":1155507,"alt":3099,"prio":90},
+{"id":"69E1E8EF-BC1D","name":"Rottällihorn","kind":"summit","e":2678743,"n":1155193,"alt":2912,"prio":90},
+{"id":"C085B4AF-E9E3","name":"Blaubergpass","kind":"pass","e":2675491,"n":1156542,"alt":2864,"prio":60},
+{"id":"D9F33858-F4B1","name":"Blauberg","kind":"summit","e":2675227,"n":1157683,"alt":2768,"prio":90},
+{"id":"83D0B6A1-5F89","name":"Restaurant Furkablick","kind":"inn","e":2675354,"n":1158799,"alt":2427,"prio":50},
+{"id":"ED31CE11-813B","name":"Rottälligrat","kind":"ridge","e":2679435,"n":1155294,"alt":2774,"prio":20},
+{"id":"D0B2264E-8ABF","name":"Griegufergrat","kind":"ridge","e":2675329,"n":1157126,"alt":2843,"prio":20},
+{"id":"C80B0F0C-3017","name":"Stotzigen Firsten","kind":"ridge","e":2676946,"n":1158033,"alt":2732,"prio":20},
+{"id":"99A2A705-1226","name":"Chrummegg","kind":"ridge","e":2677458,"n":1156319,"alt":2366,"prio":20},
+{"id":"1742CEF2-070D","name":"Schattige Firsten","kind":"ridge","e":2677941,"n":1158105,"alt":2639,"prio":20},
+{"id":"9535EDA1-BF6E","name":"Mittelegg","kind":"ridge","e":2678599,"n":1159196,"alt":2225,"prio":20},
+{"id":"59453034-73C7","name":"Lägeten Firsten","kind":"ridge","e":2678608,"n":1158351,"alt":2531,"prio":20},
+{"id":"25DB76A5-A62D","name":"Schwärzistöck","kind":"ridge","e":2678137,"n":1158806,"alt":2419,"prio":20},
+{"id":"C37A5CC9-99CA","name":"Muttenstöck","kind":"ridge","e":2676674,"n":1155837,"alt":2596,"prio":20},
+{"id":"A2D3070D-582D","name":"Garschigsee","kind":"lake","e":2678766,"n":1157984,"alt":2444,"prio":50}
+]

@@ -1,0 +1,9 @@
+[
+{"id":"949D5704-ECB1","name":"Col du Vieux","kind":"pass","e":2556418,"n":1099787,"alt":2573,"prio":60},
+{"id":"FBB5CD02-4244","name":"Aiguille du Charmoz","kind":"summit","e":2557931,"n":1099775,"alt":2654,"prio":90},
+{"id":"6DEFA65F-2B80","name":"Pointe à Corbeau","kind":"summit","e":2556594,"n":1099630,"alt":2686,"prio":90},
+{"id":"8060A7FE-977C","name":"Col de la Terrasse","kind":"pass","e":2557674,"n":1099513,"alt":2640,"prio":60},
+{"id":"995DE8A6-49A3","name":"Col de Corbeau","kind":"pass","e":2556907,"n":1099439,"alt":2603,"prio":60},
+{"id":"9CD6A551-CB39","name":"Col du Sassey","kind":"pass","e":2557628,"n":1099096,"alt":2714,"prio":60},
+{"id":"E8857E45-8F85","name":"Lac Vert","kind":"lake","e":2557414,"n":1099433,"alt":2610,"prio":50}
+]

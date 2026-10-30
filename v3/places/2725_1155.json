@@ -1,0 +1,20 @@
+[
+{"id":"E985A5E3-5051","name":"Vals, Zervreila","kind":"stop","e":2729112,"n":1159868,"alt":1841,"prio":25},
+{"id":"20F1E8FA-EFA1","name":"Bleschaturra","kind":"summit","e":2729348,"n":1157768,"alt":2733,"prio":90},
+{"id":"E3AE3ED7-5C49","name":"Wissgrätli","kind":"summit","e":2728971,"n":1157215,"alt":2865,"prio":90},
+{"id":"50CDB299-FC26","name":"Fanellhorn","kind":"summit","e":2729752,"n":1156568,"alt":3123,"prio":90},
+{"id":"82C22BA2-5FE3","name":"Chrüzturra","kind":"summit","e":2729127,"n":1156524,"alt":2884,"prio":90},
+{"id":"05F1DC95-2B4E","name":"Brochahöreli","kind":"summit","e":2725874,"n":1156259,"alt":2687,"prio":90},
+{"id":"80B784AD-B5F8","name":"Fanelllücke","kind":"pass","e":2729511,"n":1155939,"alt":2869,"prio":60},
+{"id":"7DE27EF6-E81B","name":"Brochahorn","kind":"summit","e":2728507,"n":1155793,"alt":2760,"prio":90},
+{"id":"FA83A2F5-D457","name":"Piz Conteschas","kind":"summit","e":2725124,"n":1159762,"alt":2794,"prio":90},
+{"id":"FF13A77C-777E","name":"Hohbüel","kind":"summit","e":2728579,"n":1158699,"alt":2272,"prio":60},
+{"id":"26E52A75-8048","name":"Hohbärg","kind":"summit","e":2728547,"n":1158256,"alt":2431,"prio":60},
+{"id":"211A020E-05B0","name":"Fuorcla Conteschas","kind":"pass","e":2725243,"n":1159841,"alt":2758,"prio":60},
+{"id":"EE8F7CDA-7589","name":"Restaurant Zervreila","kind":"inn","e":2729107,"n":1159893,"alt":1839,"prio":50},
+{"id":"B82B4A8C-285E","name":"Butzegga","kind":"ridge","e":2726116,"n":1157724,"alt":2187,"prio":20},
+{"id":"D00EFD3D-E14F","name":"Rotgrätli","kind":"ridge","e":2729414,"n":1155027,"alt":3003,"prio":20},
+{"id":"5532FE25-5EF5","name":"Horaegga","kind":"ridge","e":2725867,"n":1157885,"alt":2187,"prio":20},
+{"id":"CA471DB6-71B7","name":"Zervreilasee","kind":"lake","e":2727275,"n":1158510,"alt":1857,"prio":50},
+{"id":"D50DB8E5-13FF","name":"Fanellsee","kind":"lake","e":2729848,"n":1155919,"alt":2777,"prio":50}
+]

@@ -1,0 +1,17 @@
+[
+{"id":"D6E7C0D6-A273","name":"Stein am Rhein, Strandbad","kind":"stop","e":2706075,"n":1280212,"alt":402,"prio":25},
+{"id":"4C167E29-B223","name":"Wolkestaanerbärg","kind":"summit","e":2705328,"n":1281640,"alt":609,"prio":10},
+{"id":"FB1EC6A9-96F8","name":"Öözebärg","kind":"summit","e":2706124,"n":1282661,"alt":536,"prio":10},
+{"id":"62287C52-85B8","name":"Winzbüel","kind":"summit","e":2705282,"n":1283848,"alt":593,"prio":10},
+{"id":"B5B5B129-1F14","name":"Rööselibuck","kind":"summit","e":2706795,"n":1283960,"alt":583,"prio":10},
+{"id":"2257A4BB-C56F","name":"5 Minuten-Höhle","kind":"cave","e":2706138,"n":1280738,"alt":458,"prio":25},
+{"id":"78855923-C0C1","name":"Im Randen","kind":"village","e":2705493,"n":1280918,"alt":426,"prio":5},
+{"id":"FAE08370-E99A","name":"Erlenhof","kind":"village","e":2707280,"n":1280657,"alt":512,"prio":5},
+{"id":"97F6817C-AEAA","name":"Bleiki","kind":"village","e":2707747,"n":1280858,"alt":532,"prio":5},
+{"id":"C73BA2AB-8D00","name":"Unterwald","kind":"village","e":2707445,"n":1283980,"alt":583,"prio":5},
+{"id":"E837535D-C148","name":"Oberwald","kind":"village","e":2706549,"n":1284215,"alt":599,"prio":5},
+{"id":"B2285B16-140C","name":"Faleberg","kind":"village","e":2707437,"n":1280845,"alt":542,"prio":5},
+{"id":"5B4D314C-B4E0","name":"Bauernwirtschaft Oberwald","kind":"inn","e":2706476,"n":1284071,"alt":597,"prio":50},
+{"id":"E73C7AF2-6A04","name":"Restaurant Burg Hohenklingen","kind":"inn","e":2706631,"n":1280537,"alt":592,"prio":50},
+{"id":"3EFBBBC1-EB4B","name":"Obere Müliwäier","kind":"lake","e":2707645,"n":1280427,"alt":438,"prio":50}
+]

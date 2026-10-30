@@ -1,0 +1,19 @@
+[
+{"id":"C9EF1690-F68C","name":"Figino, Dogana","kind":"stop","e":2713713,"n":1089610,"alt":281,"prio":25},
+{"id":"C80E6DAE-1257","name":"Morcote, Piazza Grande","kind":"stop","e":2714617,"n":1086748,"alt":272,"prio":25},
+{"id":"99AEFE49-BC4A","name":"Morcote, Burò","kind":"stop","e":2713221,"n":1087869,"alt":276,"prio":25},
+{"id":"64737FFE-BA56","name":"Morcote, Vedo","kind":"stop","e":2713619,"n":1087454,"alt":274,"prio":25},
+{"id":"B1A80E7F-786C","name":"Figino, Posta","kind":"stop","e":2713960,"n":1089957,"alt":280,"prio":25},
+{"id":"EBAE621F-6DCE","name":"Morcote, Arbostora","kind":"stop","e":2713902,"n":1087257,"alt":274,"prio":25},
+{"id":"ABCCA5D5-E6C9","name":"Morcote, Cantine","kind":"stop","e":2713386,"n":1088664,"alt":278,"prio":25},
+{"id":"EFD64D76-24AD","name":"Morcote, La Canva","kind":"stop","e":2713268,"n":1088258,"alt":277,"prio":25},
+{"id":"D4812211-F105","name":"Morcote, Parco Scherrer","kind":"stop","e":2714139,"n":1086945,"alt":274,"prio":25},
+{"id":"91D317EF-85F3","name":"Morcote, Preda dei Buchi","kind":"stop","e":2713524,"n":1089037,"alt":277,"prio":25},
+{"id":"7A62254C-24D5","name":"Vico Morcote, Paese","kind":"stop","e":2714902,"n":1087535,"alt":440,"prio":25},
+{"id":"0BB043A1-7CF1","name":"Brusino Arsizio, Confine","kind":"stop","e":2714879,"n":1085863,"alt":275,"prio":25},
+{"id":"9B17AD38-DAD3","name":"Monte Arbòstora","kind":"summit","e":2714317,"n":1088677,"alt":822,"prio":10},
+{"id":"0292A9FE-0135","name":"Figino","kind":"village","e":2713765,"n":1089826,"alt":298,"prio":45},
+{"id":"BD3B74FA-EA99","name":"Morcote","kind":"village","e":2714762,"n":1086861,"alt":277,"prio":30},
+{"id":"8D32D1EF-641B","name":"Torrello","kind":"village","e":2714290,"n":1089486,"alt":523,"prio":5},
+{"id":"3AFAD748-0833","name":"Ristorante Alpe Vicania","kind":"inn","e":2714470,"n":1088056,"alt":661,"prio":50}
+]

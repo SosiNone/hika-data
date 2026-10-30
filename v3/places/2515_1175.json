@@ -1,0 +1,8 @@
+[
+{"id":"7CB2BF45-FD9A","name":"Vallorbe, Le Creux","kind":"stop","e":2519748,"n":1175985,"alt":807,"prio":25},
+{"id":"98ABCEEC-D750","name":"Le Creux","kind":"village","e":2519787,"n":1176046,"alt":801,"prio":5},
+{"id":"C45A59B8-BF12","name":"La Banderette","kind":"village","e":2519816,"n":1176497,"alt":869,"prio":5},
+{"id":"F8050188-C275","name":"La Frasse Dessus","kind":"village","e":2518982,"n":1175699,"alt":883,"prio":5},
+{"id":"AD017FC1-DF7E","name":"La Frasse Dessous","kind":"village","e":2519345,"n":1175799,"alt":860,"prio":5},
+{"id":"23DE3CAD-0620","name":"Le Creux","kind":"village","e":2519600,"n":1176052,"alt":811,"prio":5}
+]

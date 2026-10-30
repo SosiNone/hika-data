@@ -1,0 +1,15 @@
+[
+{"id":"330D7D20-A51A","name":"All'Acqua","kind":"stop","e":2679562,"n":1148885,"alt":1613,"prio":25},
+{"id":"C553F572-900C","name":"Cruina","kind":"stop","e":2675647,"n":1147620,"alt":2035,"prio":25},
+{"id":"C900E13F-28D0","name":"Forcella","kind":"summit","e":2675303,"n":1149475,"alt":2846,"prio":90},
+{"id":"C7387352-DA76","name":"Westlicher Gerenpass","kind":"pass","e":2675567,"n":1149676,"alt":2694,"prio":60},
+{"id":"3486248D-3C73","name":"Sidelenlücke","kind":"pass","e":2675138,"n":1149598,"alt":2744,"prio":60},
+{"id":"1BF68686-4007","name":"Pizzo San Giacomo","kind":"summit","e":2679070,"n":1145436,"alt":2924,"prio":90},
+{"id":"96A92C35-155E","name":"Poncione di Manió","kind":"summit","e":2676573,"n":1149984,"alt":2925,"prio":90},
+{"id":"E728E958-3274","name":"Punta di Elgio","kind":"summit","e":2675007,"n":1145719,"alt":2837,"prio":90},
+{"id":"E728E958-3274","name":"Helgenhorn","kind":"summit","e":2675007,"n":1145719,"alt":2837,"prio":90},
+{"id":"982626B2-5042","name":"Passo San Giacomo","kind":"pass","e":2677865,"n":1145797,"alt":2307,"prio":60},
+{"id":"936674B4-3AC8","name":"Ristorante All'Acqua","kind":"inn","e":2679580,"n":1148945,"alt":1618,"prio":50},
+{"id":"B8FDAA17-D09C","name":"Capanna Piansecco CAS","kind":"inn","e":2679290,"n":1149757,"alt":1984,"prio":50},
+{"id":"B864178B-64E2","name":"Lago delle Pigne","kind":"lake","e":2677461,"n":1149366,"alt":2277,"prio":50}
+]

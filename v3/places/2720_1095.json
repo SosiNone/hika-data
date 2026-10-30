@@ -1,0 +1,21 @@
+[
+{"id":"01E94DAE-300B","name":"Brè, Paese","kind":"stop","e":2720630,"n":1096668,"alt":787,"prio":25},
+{"id":"48970A8C-03B5","name":"Brè, S. Antonio","kind":"stop","e":2720152,"n":1096291,"alt":739,"prio":25},
+{"id":"E4DDBBC5-CE44","name":"Gandria, Dogana","kind":"stop","e":2722429,"n":1097190,"alt":279,"prio":25},
+{"id":"A7BD84A1-20E9","name":"Gandria, Paese","kind":"stop","e":2721184,"n":1096107,"alt":293,"prio":25},
+{"id":"24A21EB4-7EED","name":"Gandria, Strada","kind":"stop","e":2721114,"n":1096147,"alt":339,"prio":25},
+{"id":"7FBD434C-3B6F","name":"Monte Boglia","kind":"summit","e":2721479,"n":1098799,"alt":1516,"prio":60},
+{"id":"7FBD434C-3B6F","name":"Colma Regia","kind":"summit","e":2721479,"n":1098799,"alt":1516,"prio":60},
+{"id":"C2EF1CB6-AFBA","name":"Sasso Rosso","kind":"summit","e":2721689,"n":1097970,"alt":1295,"prio":30},
+{"id":"9293E38F-2467","name":"Materone","kind":"summit","e":2721211,"n":1097117,"alt":931,"prio":30},
+{"id":"6D432032-FFAE","name":"Brè sopra Lugano","kind":"village","e":2720662,"n":1096776,"alt":798,"prio":30},
+{"id":"AD003558-E750","name":"Valà","kind":"village","e":2720444,"n":1099942,"alt":710,"prio":5},
+{"id":"F69BDF35-A330","name":"Gandria","kind":"village","e":2721119,"n":1096090,"alt":311,"prio":30},
+{"id":"8D324E6F-498B","name":"Promé","kind":"village","e":2720429,"n":1097049,"alt":777,"prio":5},
+{"id":"01D5FDF7-986D","name":"Grotto Castagneto","kind":"inn","e":2720416,"n":1096705,"alt":771,"prio":50},
+{"id":"7EF39DB4-229C","name":"Grotto Teresa","kind":"inn","e":2722289,"n":1095300,"alt":278,"prio":50},
+{"id":"AAED672A-1B3E","name":"Grotto Descanso","kind":"inn","e":2722342,"n":1095326,"alt":279,"prio":50},
+{"id":"BFF26DD0-0C11","name":"Grotto Alpe Valà","kind":"inn","e":2720447,"n":1099939,"alt":710,"prio":50},
+{"id":"8585695C-3F1F","name":"Grotto Alpe Bolla","kind":"inn","e":2721472,"n":1099597,"alt":1134,"prio":50},
+{"id":"66B2BD0B-639C","name":"Hotel Elvezia al Lago","kind":"inn","e":2720427,"n":1095916,"alt":277,"prio":50}
+]

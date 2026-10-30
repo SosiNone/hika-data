@@ -1,0 +1,18 @@
+[
+{"id":"B1271B2F-5ABC","name":"Piz Chöglias","kind":"summit","e":2817551,"n":1200077,"alt":2926,"prio":90},
+{"id":"FCBFEE3F-ABF7","name":"Piz Fenga Pitschna","kind":"summit","e":2816579,"n":1200259,"alt":2725,"prio":90},
+{"id":"C65E2A56-EAAA","name":"Fuorcla Fenga Pitschna","kind":"pass","e":2817396,"n":1200710,"alt":2751,"prio":60},
+{"id":"C65E2A56-EAAA","name":"Fuorcla Val Gronda","kind":"pass","e":2817396,"n":1200710,"alt":2751,"prio":60},
+{"id":"43EB981A-97B3","name":"Piz Val Gronda","kind":"summit","e":2817207,"n":1200856,"alt":2811,"prio":90},
+{"id":"CF935F94-EDE8","name":"Piz Vadret","kind":"summit","e":2819716,"n":1200911,"alt":3034,"prio":90},
+{"id":"CF935F94-EDE8","name":"Sulnerspitz","kind":"summit","e":2819716,"n":1200911,"alt":3034,"prio":90},
+{"id":"49ABA1F0-694B","name":"Fuorcla Roz","kind":"pass","e":2817906,"n":1201002,"alt":2792,"prio":60},
+{"id":"49ABA1F0-694B","name":"Vesiljoch","kind":"pass","e":2817906,"n":1201002,"alt":2792,"prio":60},
+{"id":"E9D3B878-70E5","name":"Piz Roz","kind":"summit","e":2819101,"n":1201140,"alt":3097,"prio":90},
+{"id":"E9D3B878-70E5","name":"Vesilspitz","kind":"summit","e":2819101,"n":1201140,"alt":3097,"prio":90},
+{"id":"ABC4451C-D929","name":"Zeblasjoch","kind":"pass","e":2818521,"n":1202493,"alt":2539,"prio":60},
+{"id":"453B03E8-37CA","name":"Pischakopf","kind":"summit","e":2819617,"n":1203539,"alt":2543,"prio":60},
+{"id":"EA106FAB-031A","name":"Paliner Kopf","kind":"summit","e":2818491,"n":1203900,"alt":2863,"prio":90},
+{"id":"6804F719-C729","name":"Salaaser Kopf","kind":"summit","e":2819875,"n":1204365,"alt":2743,"prio":90},
+{"id":"9D80F882-451B","name":"Inner Viderjoch","kind":"pass","e":2819963,"n":1204754,"alt":2689,"prio":60}
+]

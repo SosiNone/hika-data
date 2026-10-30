@@ -1,0 +1,16 @@
+[
+{"id":"3AD06C21-5844","name":"Punta Loraccio","kind":"summit","e":2645815,"n":1100273,"alt":3238,"prio":90},
+{"id":"B2E95513-DB3E","name":"Cima dello Spigolo","kind":"summit","e":2645281,"n":1101522,"alt":3362,"prio":90},
+{"id":"44D54F04-940B","name":"Punta Banella","kind":"summit","e":2645366,"n":1101382,"alt":3331,"prio":90},
+{"id":"76D14F36-24DD","name":"Pizzo Scarone","kind":"summit","e":2645469,"n":1100975,"alt":3342,"prio":90},
+{"id":"3B9E2D90-3426","name":"Sonnighorn","kind":"summit","e":2645166,"n":1102688,"alt":3488,"prio":90},
+{"id":"3B9E2D90-3426","name":"Pizzo Bottarello","kind":"summit","e":2645166,"n":1102688,"alt":3488,"prio":90},
+{"id":"8D21914C-AF0C","name":"Augstkummenhorn","kind":"summit","e":2645125,"n":1102177,"alt":3418,"prio":90},
+{"id":"D430E3FE-6E25","name":"Mittelrück","kind":"summit","e":2645759,"n":1104110,"alt":3363,"prio":90},
+{"id":"D430E3FE-6E25","name":"Pizzo di Loranco","kind":"summit","e":2645759,"n":1104110,"alt":3363,"prio":90},
+{"id":"3802EAAB-3C32","name":"Bocchetta del Bottarello","kind":"pass","e":2645687,"n":1103511,"alt":3143,"prio":60},
+{"id":"3802EAAB-3C32","name":"Sonnigpass","kind":"pass","e":2645687,"n":1103511,"alt":3143,"prio":60},
+{"id":"8D5C7671-C68E","name":"Port","kind":"pass","e":2645895,"n":1104817,"alt":3290,"prio":60},
+{"id":"C1F1A41C-DAEA","name":"Cimone di Camposecco","kind":"summit","e":2645295,"n":1101971,"alt":3398,"prio":90},
+{"id":"6354D523-5522","name":"Cresta di Saas","kind":"ridge","e":2645580,"n":1100728,"alt":3221,"prio":20}
+]

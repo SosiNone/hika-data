@@ -1,0 +1,14 @@
+[
+{"id":"310C0B2C-E3D2","name":"Cima di Camutsch","kind":"summit","e":2758872,"n":1144947,"alt":2903,"prio":90},
+{"id":"7464D261-314A","name":"Tscheischhorn","kind":"summit","e":2759768,"n":1143941,"alt":3019,"prio":90},
+{"id":"C2EE76DF-E049","name":"Chlin Horn","kind":"summit","e":2758243,"n":1144741,"alt":2868,"prio":90},
+{"id":"90368222-AB0B","name":"Schwarzseehorn","kind":"summit","e":2755434,"n":1142229,"alt":2863,"prio":90},
+{"id":"20C1AB59-93B0","name":"Piz Bles","kind":"summit","e":2755969,"n":1140547,"alt":3045,"prio":90},
+{"id":"5F39A710-B3E1","name":"Pizzo d'Inferno","kind":"summit","e":2755962,"n":1140202,"alt":3036,"prio":90},
+{"id":"BCA66DA6-E26D","name":"Pürder Lücka","kind":"pass","e":2759290,"n":1144557,"alt":2759,"prio":60},
+{"id":"1CB28AFE-E462","name":"Cima di Pian Secco","kind":"summit","e":2755047,"n":1143710,"alt":2768,"prio":90},
+{"id":"98AE05A7-39EB","name":"Bleiserlücka","kind":"pass","e":2755744,"n":1141345,"alt":2788,"prio":60},
+{"id":"98AE05A7-39EB","name":"Pass da la Bles","kind":"pass","e":2755744,"n":1141345,"alt":2788,"prio":60},
+{"id":"EBB3B4E2-1F3E","name":"Under Schwarzsee","kind":"lake","e":2755796,"n":1143041,"alt":2521,"prio":50},
+{"id":"49D481BF-A440","name":"Ober Schwarzsee","kind":"lake","e":2755750,"n":1142770,"alt":2554,"prio":50}
+]

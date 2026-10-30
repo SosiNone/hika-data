@@ -1,0 +1,17 @@
+[
+{"id":"BC6C87D4-3280","name":"Chlei Furgga","kind":"pass","e":2768496,"n":1214297,"alt":2245,"prio":60},
+{"id":"BC6C87D4-3280","name":"Salarueljoch","kind":"pass","e":2768496,"n":1214297,"alt":2245,"prio":60},
+{"id":"03FB00E5-4E98","name":"Hornspitz","kind":"summit","e":2767602,"n":1214440,"alt":2536,"prio":90},
+{"id":"CB5951D2-E837","name":"Ronabühel","kind":"summit","e":2769662,"n":1211716,"alt":1749,"prio":60},
+{"id":"8DD58611-604F","name":"Heidbühel","kind":"summit","e":2767913,"n":1212401,"alt":1822,"prio":60},
+{"id":"D186FC27-4FA5","name":"Tschingel","kind":"summit","e":2766985,"n":1213523,"alt":2541,"prio":90},
+{"id":"CF28CE86-A8D2","name":"Bartümeljoch","kind":"pass","e":2766028,"n":1213585,"alt":2319,"prio":60},
+{"id":"BCAB4E09-89AF","name":"Gross Furgga","kind":"pass","e":2767355,"n":1214011,"alt":2358,"prio":60},
+{"id":"BCAB4E09-89AF","name":"Hochjoch","kind":"pass","e":2767355,"n":1214011,"alt":2358,"prio":60},
+{"id":"0C27EE90-AD01","name":"Schafberg","kind":"summit","e":2769140,"n":1214494,"alt":2729,"prio":90},
+{"id":"04F5FF68-7971","name":"Äbigrat","kind":"ridge","e":2765486,"n":1211069,"alt":1898,"prio":20},
+{"id":"2635EF77-A74C","name":"Leidegg","kind":"ridge","e":2768953,"n":1212146,"alt":1647,"prio":20},
+{"id":"89816622-F030","name":"Sandegg","kind":"ridge","e":2769177,"n":1210919,"alt":1447,"prio":20},
+{"id":"9EB031C7-252B","name":"Pudenalegg","kind":"ridge","e":2768665,"n":1211042,"alt":1512,"prio":20},
+{"id":"7C833D82-5497","name":"Schafegg","kind":"ridge","e":2767265,"n":1212252,"alt":1589,"prio":20}
+]

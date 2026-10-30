@@ -1,0 +1,17 @@
+[
+{"id":"35A4B9BC-5647","name":"Passo di Pianca Bella","kind":"pass","e":2725910,"n":1102466,"alt":1676,"prio":60},
+{"id":"4B5BD0AC-2E11","name":"Bocchetta di San Bernardo","kind":"pass","e":2726876,"n":1103160,"alt":1586,"prio":60},
+{"id":"01A38957-5B67","name":"Passo di Fiorina","kind":"pass","e":2726818,"n":1102802,"alt":1688,"prio":60},
+{"id":"01A38957-5B67","name":"Passo di Fojorina","kind":"pass","e":2726818,"n":1102802,"alt":1688,"prio":60},
+{"id":"9762C84B-38D6","name":"Cima Mosè","kind":"summit","e":2725689,"n":1102396,"alt":1727,"prio":60},
+{"id":"D9CBBC1B-1D12","name":"Cima dell'Oress","kind":"summit","e":2725357,"n":1102348,"alt":1706,"prio":60},
+{"id":"D9CBBC1B-1D12","name":"Cima di Nores","kind":"summit","e":2725357,"n":1102348,"alt":1706,"prio":60},
+{"id":"F4114FB4-C319","name":"Cima alla Pianca","kind":"summit","e":2725949,"n":1102957,"alt":1600,"prio":30},
+{"id":"6FC2BC3C-F3F1","name":"Monte Cucco","kind":"summit","e":2726904,"n":1104035,"alt":1623,"prio":60},
+{"id":"6FC2BC3C-F3F1","name":"Dosso Colmine","kind":"summit","e":2726904,"n":1104035,"alt":1623,"prio":60},
+{"id":"E0D2E6B7-8200","name":"Colmo di San Bernardo","kind":"summit","e":2726829,"n":1103304,"alt":1616,"prio":60},
+{"id":"8AC9C366-8A7E","name":"Cima di Fojorina","kind":"summit","e":2726453,"n":1102552,"alt":1810,"prio":60},
+{"id":"8AC9C366-8A7E","name":"Cima di Fiorina","kind":"summit","e":2726453,"n":1102552,"alt":1810,"prio":60},
+{"id":"3BBFB95F-FCFA","name":"Certara","kind":"village","e":2725389,"n":1104987,"alt":1012,"prio":15},
+{"id":"39A122EA-D69E","name":"Marda di Certara","kind":"village","e":2725053,"n":1104880,"alt":870,"prio":5}
+]

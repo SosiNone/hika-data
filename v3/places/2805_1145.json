@@ -1,0 +1,8 @@
+[
+{"id":"8B9F50C6-DEFE","name":"Piz Paradisin","kind":"summit","e":2805863,"n":1145146,"alt":3303,"prio":100},
+{"id":"858B6920-B527","name":"Cima Valeta","kind":"summit","e":2805964,"n":1145459,"alt":3293,"prio":90},
+{"id":"BEF4CB3A-0626","name":"Piz Cunfin","kind":"summit","e":2807836,"n":1145468,"alt":2904,"prio":90},
+{"id":"BCBA8972-B5C3","name":"Colle Val Nera","kind":"pass","e":2806681,"n":1145698,"alt":2991,"prio":60},
+{"id":"7D49CA27-B045","name":"Piz Valnera","kind":"summit","e":2806969,"n":1146009,"alt":3186,"prio":90},
+{"id":"7D49CA27-B045","name":"Monte Val Nera","kind":"summit","e":2806969,"n":1146009,"alt":3186,"prio":90}
+]

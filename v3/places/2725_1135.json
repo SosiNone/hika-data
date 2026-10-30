@@ -1,0 +1,20 @@
+[
+{"id":"5F666488-C818","name":"Augio, Paese","kind":"stop","e":2729892,"n":1136152,"alt":1034,"prio":25},
+{"id":"FA830584-CC1F","name":"Augio, Tarco","kind":"stop","e":2729844,"n":1136579,"alt":1048,"prio":25},
+{"id":"608E2616-9187","name":"Rossa, Villaggio","kind":"stop","e":2729803,"n":1137111,"alt":1071,"prio":25},
+{"id":"2C06710D-2A33","name":"Pizzo Bidensc","kind":"summit","e":2725532,"n":1136403,"alt":2265,"prio":60},
+{"id":"B9B64B2D-0ACF","name":"Passo Bidensc","kind":"pass","e":2725555,"n":1136273,"alt":2224,"prio":60},
+{"id":"36A37C4A-EE15","name":"Pizzo di Bòrsgen","kind":"summit","e":2725094,"n":1138712,"alt":2150,"prio":20},
+{"id":"91305EAA-7DF4","name":"Pizzo della Strega","kind":"summit","e":2726808,"n":1138827,"alt":2911,"prio":90},
+{"id":"15C40B0C-5EF6","name":"Passo di Giümèla","kind":"pass","e":2727364,"n":1136992,"alt":2117,"prio":60},
+{"id":"F2656F52-6635","name":"Pizzo di Giümèla","kind":"summit","e":2727287,"n":1136449,"alt":2444,"prio":60},
+{"id":"F2656F52-6635","name":"Piz Red","kind":"summit","e":2727287,"n":1136449,"alt":2444,"prio":60},
+{"id":"F25A4318-500F","name":"Senda del Bò","kind":"pass","e":2725808,"n":1135621,"alt":2295,"prio":60},
+{"id":"D73C4DDA-0733","name":"Bocchetta Rotonda","kind":"pass","e":2727158,"n":1135053,"alt":2428,"prio":60},
+{"id":"0BFAF202-5E70","name":"Pizzo Scarión","kind":"summit","e":2725548,"n":1135948,"alt":2335,"prio":60},
+{"id":"0BFAF202-5E70","name":"Crostàl Lung","kind":"summit","e":2725548,"n":1135948,"alt":2335,"prio":60},
+{"id":"425C1BC6-185B","name":"Rossa","kind":"village","e":2729835,"n":1137156,"alt":1076,"prio":15},
+{"id":"AE71C9E5-7266","name":"Augio","kind":"village","e":2729900,"n":1136252,"alt":1035,"prio":15},
+{"id":"98AA6376-DB16","name":"Fil de Remia","kind":"ridge","e":2727327,"n":1137648,"alt":2326,"prio":20},
+{"id":"72316834-EEB4","name":"Laghet del Pagan","kind":"lake","e":2728739,"n":1135252,"alt":1784,"prio":50}
+]

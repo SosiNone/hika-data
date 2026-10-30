@@ -1,0 +1,20 @@
+[
+{"id":"A6C60D41-84AC","name":"Lana (télésiège)","kind":"lift","e":2602981,"n":1107787,"alt":1403,"prio":40},
+{"id":"34B4686B-C95E","name":"La Meina (Lana)","kind":"lift","e":2601309,"n":1107728,"alt":2142,"prio":40},
+{"id":"9E058228-7EEA","name":"Evolène, Route de Lannaz","kind":"stop","e":2604779,"n":1106397,"alt":1377,"prio":25},
+{"id":"24E4D7A1-DDCA","name":"Evolène, Village","kind":"stop","e":2604310,"n":1107024,"alt":1400,"prio":25},
+{"id":"1D161854-40FF","name":"Evolène, La Fauchère","kind":"stop","e":2604930,"n":1105975,"alt":1391,"prio":25},
+{"id":"48A37F75-72AD","name":"Evolène, Les Flantzes","kind":"stop","e":2604088,"n":1107140,"alt":1397,"prio":25},
+{"id":"5AC132F5-5CB2","name":"Evolène, Planchet","kind":"stop","e":2603797,"n":1107406,"alt":1392,"prio":25},
+{"id":"8EAC17CB-2562","name":"Evolène, La Villettaz","kind":"stop","e":2602280,"n":1109784,"alt":1217,"prio":25},
+{"id":"89C6CE56-DF30","name":"Evolène, centre scolaire","kind":"stop","e":2604557,"n":1106493,"alt":1362,"prio":25},
+{"id":"5E3F76CA-8154","name":"Pas d'Arpilles","kind":"pass","e":2600317,"n":1105680,"alt":2435,"prio":60},
+{"id":"56653FC7-CFCB","name":"Mel de la Niva","kind":"summit","e":2602003,"n":1105472,"alt":2757,"prio":90},
+{"id":"B91B5D38-9C62","name":"Evolène","kind":"village","e":2604396,"n":1106837,"alt":1375,"prio":30},
+{"id":"FDB3565C-6E90","name":"La Villette","kind":"village","e":2602149,"n":1109812,"alt":1165,"prio":5},
+{"id":"A30DC1F0-E237","name":"Lanna","kind":"village","e":2603129,"n":1107684,"alt":1403,"prio":5},
+{"id":"5E026712-EFF6","name":"La Petite Auberge de Lannaz","kind":"inn","e":2603173,"n":1107638,"alt":1401,"prio":50},
+{"id":"42A75389-F0E8","name":"Buvette d'Arbey","kind":"inn","e":2603007,"n":1106941,"alt":1763,"prio":50},
+{"id":"9AFE336F-8F4B","name":"Restaurant de Chemeuille","kind":"inn","e":2601333,"n":1107763,"alt":2130,"prio":50},
+{"id":"50F7A9FA-5574","name":"Le Gollié d'Arbey","kind":"lake","e":2602889,"n":1106948,"alt":1766,"prio":50}
+]

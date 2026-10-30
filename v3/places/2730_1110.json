@@ -1,0 +1,18 @@
+[
+{"id":"ECBA68FC-C2A2","name":"Marmontana","kind":"summit","e":2733746,"n":1114847,"alt":2315,"prio":60},
+{"id":"EA1ECF87-D20C","name":"Mottone di Giumello","kind":"summit","e":2731073,"n":1112754,"alt":2027,"prio":60},
+{"id":"EA1ECF87-D20C","name":"Monte Albano","kind":"summit","e":2731073,"n":1112754,"alt":2027,"prio":60},
+{"id":"C45BC07F-D5CF","name":"Cima di Cugn","kind":"summit","e":2733028,"n":1114711,"alt":2237,"prio":60},
+{"id":"DF44F573-4921","name":"Cima Pomodoro","kind":"summit","e":2730326,"n":1111399,"alt":1976,"prio":60},
+{"id":"59493C85-29E8","name":"Bocchetta di Sommafiume","kind":"pass","e":2730150,"n":1110946,"alt":1925,"prio":60},
+{"id":"43A773A8-66EF","name":"Cima Verta","kind":"summit","e":2730007,"n":1110620,"alt":2078,"prio":60},
+{"id":"43A773A8-66EF","name":"Motto della Tappa","kind":"summit","e":2730007,"n":1110620,"alt":2078,"prio":60},
+{"id":"0701EB1F-BBED","name":"Bocchetta di Nembruno","kind":"pass","e":2731571,"n":1113034,"alt":1879,"prio":60},
+{"id":"6644388A-EBF9","name":"Passo della Traversa","kind":"pass","e":2732624,"n":1113701,"alt":1974,"prio":60},
+{"id":"E40C58CE-D59A","name":"Passo San Jorio","kind":"pass","e":2732864,"n":1114251,"alt":2012,"prio":60},
+{"id":"1C7A2724-C9ED","name":"Bocchetta del Lago","kind":"pass","e":2734463,"n":1114590,"alt":2121,"prio":60},
+{"id":"1C7A2724-C9ED","name":"Bocchetta di Stazzona","kind":"pass","e":2734463,"n":1114590,"alt":2121,"prio":60},
+{"id":"95FF2706-9318","name":"Bocchetta di Albano","kind":"pass","e":2730794,"n":1112249,"alt":1898,"prio":60},
+{"id":"F8CB263B-43FD","name":"Rifugio San Jorio","kind":"inn","e":2732938,"n":1114274,"alt":1984,"prio":50},
+{"id":"7F72115F-FCC1","name":"Alpe Giumello","kind":"inn","e":2730410,"n":1113604,"alt":1598,"prio":50}
+]

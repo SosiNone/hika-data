@@ -1,0 +1,12 @@
+[
+{"id":"ACA72407-2A64","name":"Pizzo Roggione","kind":"summit","e":2739673,"n":1125514,"alt":2575,"prio":90},
+{"id":"ACA72407-2A64","name":"Piz de Cressim","kind":"summit","e":2739673,"n":1125514,"alt":2575,"prio":90},
+{"id":"D4DA610B-2839","name":"Sass Castel","kind":"summit","e":2737515,"n":1127054,"alt":2516,"prio":90},
+{"id":"639E5624-78F3","name":"Piz Croch","kind":"summit","e":2736794,"n":1126798,"alt":2377,"prio":60},
+{"id":"67E0CC2B-9FBA","name":"Bocheta d'Egion","kind":"pass","e":2739791,"n":1127578,"alt":2145,"prio":60},
+{"id":"D19DF62B-AB2E","name":"Bocheta de Cressim","kind":"pass","e":2738721,"n":1125762,"alt":2245,"prio":60},
+{"id":"C28C4CA0-68B1","name":"Rifugio Poz","kind":"inn","e":2738867,"n":1127315,"alt":1633,"prio":45},
+{"id":"880C0AE9-492B","name":"Fil Gordasc","kind":"ridge","e":2737768,"n":1128582,"alt":2073,"prio":20},
+{"id":"BD492B03-AA4D","name":"Scima di Laghitt","kind":"ridge","e":2739741,"n":1128165,"alt":2197,"prio":20},
+{"id":"9C503831-149A","name":"Fil de Brion","kind":"ridge","e":2738326,"n":1126447,"alt":2448,"prio":20}
+]

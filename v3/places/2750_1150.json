@@ -1,0 +1,18 @@
+[
+{"id":"824D57AF-EA0B","name":"Ferrera, Abzw. Val digl Uors","kind":"stop","e":2754595,"n":1153077,"alt":1552,"prio":25},
+{"id":"B65E0A55-0470","name":"Ferrera, Innerferrera","kind":"stop","e":2753780,"n":1154168,"alt":1479,"prio":25},
+{"id":"5E420E55-A99D","name":"Cimalmotta","kind":"summit","e":2753180,"n":1151568,"alt":2835,"prio":90},
+{"id":"5E420E55-A99D","name":"Piz Miez","kind":"summit","e":2753180,"n":1151568,"alt":2835,"prio":90},
+{"id":"BC6F85EC-4B00","name":"Farcletta","kind":"summit","e":2752657,"n":1154181,"alt":1852,"prio":60},
+{"id":"DC8FD1B6-CA3A","name":"Mut d'Avers","kind":"summit","e":2753964,"n":1153681,"alt":1565,"prio":30},
+{"id":"2FDA6048-2AA9","name":"Hüreli","kind":"summit","e":2750537,"n":1154736,"alt":2854,"prio":90},
+{"id":"0CB5159B-67BD","name":"Piz Muttala","kind":"summit","e":2750102,"n":1153260,"alt":2960,"prio":90},
+{"id":"101D1032-6022","name":"Passo Crotto","kind":"pass","e":2752537,"n":1150645,"alt":2729,"prio":60},
+{"id":"6FC192B2-CE65","name":"Piz dil Crot","kind":"summit","e":2752755,"n":1150883,"alt":2846,"prio":90},
+{"id":"6FC192B2-CE65","name":"Pizzo del Crot","kind":"summit","e":2752755,"n":1150883,"alt":2846,"prio":90},
+{"id":"6497F6F8-C84A","name":"Innerferrera","kind":"village","e":2753784,"n":1154171,"alt":1479,"prio":10},
+{"id":"6497F6F8-C84A","name":"Calantgil","kind":"village","e":2753784,"n":1154171,"alt":1479,"prio":10},
+{"id":"438466AE-1716","name":"Lai da Muttala","kind":"lake","e":2751220,"n":1154227,"alt":2465,"prio":50},
+{"id":"B1196789-D9FA","name":"Lais da Muttala","kind":"lake","e":2751033,"n":1153328,"alt":2410,"prio":50},
+{"id":"A2294EC9-AB86","name":"Lai da Marenda","kind":"lake","e":2750717,"n":1154467,"alt":2601,"prio":50}
+]

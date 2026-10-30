@@ -1,0 +1,22 @@
+[
+{"id":"8FE369BD-33B5","name":"Sufers, Underem Dorf","kind":"stop","e":2747926,"n":1159395,"alt":1413,"prio":25},
+{"id":"6F6CB7F4-4E31","name":"Sufers, Dorf","kind":"stop","e":2747805,"n":1159451,"alt":1423,"prio":25},
+{"id":"D6F8794C-6581","name":"Sufers, Festungsmuseum Crestawald","kind":"stop","e":2749522,"n":1159431,"alt":1345,"prio":25},
+{"id":"77CD22E7-3239","name":"Nesslabüel","kind":"summit","e":2749408,"n":1157845,"alt":1852,"prio":60},
+{"id":"7E897FD7-2039","name":"Mittaghorn","kind":"summit","e":2748372,"n":1156522,"alt":2562,"prio":90},
+{"id":"5E9A69CF-373B","name":"Rütigutsch","kind":"summit","e":2745822,"n":1157705,"alt":1622,"prio":30},
+{"id":"B36A6EDC-0BE1","name":"Rundhorn","kind":"summit","e":2745232,"n":1159981,"alt":2548,"prio":90},
+{"id":"A1CAAA79-CED9","name":"Schwarzwaldchopf","kind":"summit","e":2749788,"n":1158791,"alt":1652,"prio":60},
+{"id":"A4236755-F6C6","name":"Rosschopf","kind":"summit","e":2748599,"n":1158730,"alt":1713,"prio":60},
+{"id":"D3BF3401-D225","name":"Seehorn","kind":"summit","e":2747831,"n":1155446,"alt":2763,"prio":90},
+{"id":"8344FBFD-FA6D","name":"Rothorn","kind":"summit","e":2747971,"n":1155217,"alt":2752,"prio":90},
+{"id":"ABF6F29C-6EE9","name":"Chli Hüreli","kind":"summit","e":2749857,"n":1156320,"alt":2119,"prio":60},
+{"id":"5D40E7C4-15E8","name":"Büel","kind":"summit","e":2747408,"n":1159724,"alt":1539,"prio":30},
+{"id":"56E94F95-AE54","name":"Sufers","kind":"village","e":2747877,"n":1159503,"alt":1425,"prio":30},
+{"id":"53E23F37-2C65","name":"Wissbach","kind":"village","e":2746981,"n":1159116,"alt":1442,"prio":5},
+{"id":"DB8BA981-EC95","name":"Geisrügg","kind":"ridge","e":2748640,"n":1158869,"alt":1628,"prio":20},
+{"id":"CB935CC3-760C","name":"Sufnersee","kind":"lake","e":2747903,"n":1159066,"alt":1398,"prio":50},
+{"id":"4D0F2B81-42CD","name":"Ober Surettasee","kind":"lake","e":2746862,"n":1155770,"alt":2265,"prio":50},
+{"id":"EF3A9690-709D","name":"Under Surettasee","kind":"lake","e":2746414,"n":1155763,"alt":2192,"prio":50},
+{"id":"FCCF15D6-E81B","name":"Turrasee","kind":"lake","e":2746976,"n":1155488,"alt":2267,"prio":50}
+]

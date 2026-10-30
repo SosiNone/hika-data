@@ -1,0 +1,7 @@
+[
+{"id":"D22DD920-B722","name":"L'Auberson, La Grand'Borne","kind":"stop","e":2523809,"n":1186301,"alt":1097,"prio":25},
+{"id":"4C5A6AA7-B497","name":"Vers-la-Fivaz","kind":"village","e":2524605,"n":1186006,"alt":1114,"prio":5},
+{"id":"B922B07A-28A1","name":"Haute-Joux","kind":"village","e":2524422,"n":1187867,"alt":1150,"prio":5},
+{"id":"072E9CD4-78F2","name":"La Grand-Borne","kind":"village","e":2523821,"n":1186295,"alt":1096,"prio":5},
+{"id":"8777A8A0-EA48","name":"Hôtel Restaurant La Grand'Borne","kind":"inn","e":2523823,"n":1186304,"alt":1096,"prio":50}
+]

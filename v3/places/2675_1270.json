@@ -1,0 +1,17 @@
+[
+{"id":"9E425EF8-F210","name":"Wasterkingen, Gemeindehaus","kind":"stop","e":2677533,"n":1271551,"alt":390,"prio":25},
+{"id":"3EDE5EF6-E69F","name":"Wasterkingen,Ausserdorfstrasse","kind":"stop","e":2677848,"n":1271530,"alt":388,"prio":25},
+{"id":"D5349BFE-432E","name":"Hüntwangen, Dorf","kind":"stop","e":2679287,"n":1272102,"alt":388,"prio":25},
+{"id":"6B55EB37-CF14","name":"Wil ZH, Lirenhof","kind":"stop","e":2679774,"n":1273457,"alt":465,"prio":25},
+{"id":"27109A5D-BABF","name":"Gnüll","kind":"summit","e":2677524,"n":1273059,"alt":589,"prio":10},
+{"id":"49945ED9-B739","name":"Bäl","kind":"summit","e":2679670,"n":1272452,"alt":466,"prio":10},
+{"id":"80BCF529-F52B","name":"Felsenegg","kind":"summit","e":2679875,"n":1273474,"alt":480,"prio":10},
+{"id":"33B407DF-4485","name":"Hüntwangen","kind":"village","e":2679233,"n":1272230,"alt":393,"prio":45},
+{"id":"81E31E78-7A0C","name":"Wasterkingen","kind":"village","e":2677529,"n":1271561,"alt":391,"prio":30},
+{"id":"CCBA74A9-20FD","name":"Buchenloo","kind":"village","e":2679326,"n":1274226,"alt":467,"prio":10},
+{"id":"8C1DABB9-A37A","name":"Im Büelbrunnen","kind":"village","e":2677103,"n":1272597,"alt":514,"prio":5},
+{"id":"3BC2582B-257D","name":"Zum Bergheim","kind":"village","e":2677035,"n":1272724,"alt":536,"prio":5},
+{"id":"325653F1-7A84","name":"Eichhof","kind":"village","e":2678865,"n":1272762,"alt":437,"prio":5},
+{"id":"C46B02FB-8E56","name":"Berghof","kind":"village","e":2679251,"n":1273584,"alt":499,"prio":5},
+{"id":"8B34F412-0FCB","name":"Neuhus","kind":"village","e":2679499,"n":1270234,"alt":353,"prio":5}
+]
