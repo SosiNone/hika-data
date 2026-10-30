@@ -1,0 +1,13 @@
+[
+{"id":"C4EAA904-CCBE","name":"Breithorn","kind":"summit","e":2653877,"n":1134161,"alt":2599,"prio":90},
+{"id":"13D98F6C-4B5B","name":"Graus Horli","kind":"summit","e":2650515,"n":1130165,"alt":2613,"prio":60},
+{"id":"52F3122E-32E0","name":"Chriesihorn","kind":"summit","e":2650211,"n":1132585,"alt":2561,"prio":60},
+{"id":"7A43FE69-7AF5","name":"Letihorn","kind":"summit","e":2651578,"n":1132501,"alt":2662,"prio":90},
+{"id":"DFDBEA84-0C79","name":"Milihorn","kind":"summit","e":2650840,"n":1132058,"alt":2800,"prio":90},
+{"id":"22113E11-E0D4","name":"Bättlihorn","kind":"summit","e":2650437,"n":1131923,"alt":2951,"prio":90},
+{"id":"DC179F78-7C82","name":"Saflischpass","kind":"pass","e":2650529,"n":1130401,"alt":2556,"prio":60},
+{"id":"323D3CA9-DB5B","name":"Witentir","kind":"pass","e":2654427,"n":1130468,"alt":2450,"prio":60},
+{"id":"A53F6374-7D6D","name":"Saflischhorli","kind":"summit","e":2651398,"n":1131842,"alt":2843,"prio":90},
+{"id":"6BAF977F-0FA4","name":"Ronegrat","kind":"ridge","e":2650815,"n":1133093,"alt":2410,"prio":20},
+{"id":"FA799300-C396","name":"Mittelegg","kind":"ridge","e":2653295,"n":1134737,"alt":2060,"prio":20}
+]

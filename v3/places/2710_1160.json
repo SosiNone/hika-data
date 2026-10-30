@@ -1,0 +1,21 @@
+[
+{"id":"ABDF2EA3-1FCF","name":"Pian Geirett","kind":"stop","e":2714597,"n":1162563,"alt":2003,"prio":25},
+{"id":"C935A473-4AE9","name":"Cima di Garína","kind":"summit","e":2712284,"n":1160254,"alt":2780,"prio":90},
+{"id":"9ED9CC96-5FFD","name":"Pass d'Uffiern","kind":"pass","e":2713157,"n":1161572,"alt":2627,"prio":60},
+{"id":"D35A42E1-4BBF","name":"Fuorcla dallas Crunas","kind":"pass","e":2710424,"n":1164178,"alt":2771,"prio":60},
+{"id":"938D5B44-F3AB","name":"Cima di Camadra","kind":"summit","e":2712414,"n":1163133,"alt":3173,"prio":90},
+{"id":"39802292-781D","name":"Piz Uffiern","kind":"summit","e":2711469,"n":1163107,"alt":3150,"prio":90},
+{"id":"7E24C17E-43B6","name":"Fuorcla Cristallina","kind":"pass","e":2711130,"n":1163058,"alt":3003,"prio":60},
+{"id":"1CD03DC0-4B24","name":"Fuorcla Su","kind":"pass","e":2711911,"n":1162917,"alt":3061,"prio":60},
+{"id":"20CD8D2D-4BE1","name":"Refugi da Camutschs","kind":"summit","e":2712349,"n":1164861,"alt":2949,"prio":90},
+{"id":"8EA2C0A3-D2E3","name":"Piz Medel","kind":"summit","e":2712786,"n":1164058,"alt":3209,"prio":100},
+{"id":"88089CB4-D44F","name":"Piz dalla Siala","kind":"summit","e":2710453,"n":1163801,"alt":3023,"prio":90},
+{"id":"91F2A9D0-0CF9","name":"Piz a Spescha","kind":"summit","e":2710399,"n":1163321,"alt":3108,"prio":90},
+{"id":"1FF335D7-327C","name":"Piz Pian","kind":"summit","e":2710149,"n":1163255,"alt":2986,"prio":90},
+{"id":"813FEB6A-3442","name":"Fuorcla Puzzetta","kind":"pass","e":2710449,"n":1163197,"alt":3036,"prio":60},
+{"id":"F3E2213E-C9F3","name":"Piz Cristallina","kind":"summit","e":2710579,"n":1163072,"alt":3128,"prio":90},
+{"id":"A16BA13A-BFA8","name":"Siala","kind":"pass","e":2710467,"n":1163683,"alt":2964,"prio":60},
+{"id":"77466B18-39DC","name":"Davos la Buora","kind":"ridge","e":2711162,"n":1164920,"alt":2834,"prio":20},
+{"id":"960CFE41-F2E4","name":"Crunas","kind":"ridge","e":2710087,"n":1164725,"alt":2659,"prio":20},
+{"id":"562FB5D2-5BA0","name":"Lai d'Uffiern","kind":"lake","e":2712699,"n":1161638,"alt":2587,"prio":50}
+]

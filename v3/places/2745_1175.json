@@ -1,0 +1,19 @@
+[
+{"id":"5E72785D-C313","name":"Versam, Egschi","kind":"stop","e":2745309,"n":1177830,"alt":1254,"prio":25},
+{"id":"38728729-1943","name":"Tenna, Abzw.","kind":"stop","e":2746024,"n":1178802,"alt":1302,"prio":25},
+{"id":"E3FA51AE-8460","name":"Tenna, Mitte","kind":"stop","e":2745176,"n":1179025,"alt":1644,"prio":25},
+{"id":"76449BEA-AD84","name":"Tenna, Solarskilift","kind":"stop","e":2745428,"n":1179559,"alt":1645,"prio":25},
+{"id":"C20AD3C3-107B","name":"Dultschegnas","kind":"lift","e":2748708,"n":1176632,"alt":1701,"prio":40},
+{"id":"6D7DBEBF-E818","name":"Tenna, Pflanzgarten","kind":"stop","e":2745776,"n":1179149,"alt":1465,"prio":25},
+{"id":"40A3C46D-3723","name":"Präzer Höhi","kind":"summit","e":2747874,"n":1178276,"alt":2120,"prio":60},
+{"id":"40A3C46D-3723","name":"Mutta","kind":"summit","e":2747874,"n":1178276,"alt":2120,"prio":60},
+{"id":"6680CD01-1D41","name":"Tguma","kind":"summit","e":2746579,"n":1175966,"alt":2163,"prio":60},
+{"id":"E2B73D04-117B","name":"Stublibüel","kind":"summit","e":2745305,"n":1179416,"alt":1690,"prio":30},
+{"id":"4AF239CA-CE2F","name":"Tenna","kind":"village","e":2745254,"n":1179102,"alt":1649,"prio":30},
+{"id":"46BE0713-0BE8","name":"Egschi","kind":"village","e":2745307,"n":1177788,"alt":1240,"prio":5},
+{"id":"0499B92A-462D","name":"Saloms","kind":"village","e":2749394,"n":1178190,"alt":1542,"prio":5},
+{"id":"C5081E98-86D6","name":"Sarneralp","kind":"inn","e":2747950,"n":1177406,"alt":1951,"prio":50},
+{"id":"E2912CB4-DD1F","name":"Bergrestaurant Parsiras","kind":"inn","e":2747652,"n":1175797,"alt":1834,"prio":50},
+{"id":"BB8FD261-74BB","name":"Ruchegga","kind":"ridge","e":2745063,"n":1178707,"alt":1600,"prio":20},
+{"id":"8734A990-5109","name":"Stausee","kind":"lake","e":2745244,"n":1177168,"alt":1146,"prio":50}
+]

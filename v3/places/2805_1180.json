@@ -1,0 +1,15 @@
+[
+{"id":"97E89926-E445","name":"Guarda","kind":"stop","e":2807091,"n":1183610,"alt":1432,"prio":45},
+{"id":"DF13DBBF-4AA7","name":"Guarda, cumün","kind":"stop","e":2807225,"n":1184069,"alt":1655,"prio":25},
+{"id":"35558272-9FD6","name":"Guarda, staziun","kind":"stop","e":2807091,"n":1183625,"alt":1432,"prio":25},
+{"id":"6464547A-8F5A","name":"Guarda, Pitschen","kind":"stop","e":2806976,"n":1184143,"alt":1646,"prio":25},
+{"id":"D782B294-9A04","name":"Piz Giarsinom","kind":"summit","e":2807126,"n":1181198,"alt":2665,"prio":90},
+{"id":"8AD96CBF-0D0B","name":"Craista","kind":"summit","e":2807360,"n":1183450,"alt":1461,"prio":30},
+{"id":"BB44D68B-94D3","name":"La Sella","kind":"pass","e":2808887,"n":1181142,"alt":2483,"prio":60},
+{"id":"85357DF9-4F02","name":"Guarda","kind":"village","e":2807168,"n":1184061,"alt":1651,"prio":30},
+{"id":"7277966B-6C6F","name":"Bos-cha","kind":"village","e":2808469,"n":1184290,"alt":1666,"prio":5},
+{"id":"4CCC4B36-E557","name":"Giarsun","kind":"village","e":2806554,"n":1183429,"alt":1405,"prio":5},
+{"id":"CA289383-D7BA","name":"Sur En","kind":"village","e":2809023,"n":1183170,"alt":1470,"prio":5},
+{"id":"2BE2E3A4-4907","name":"Spi da Nuna","kind":"ridge","e":2808408,"n":1182612,"alt":1813,"prio":20},
+{"id":"8E2D7FAD-894A","name":"Lajet","kind":"lake","e":2807252,"n":1184675,"alt":1816,"prio":50}
+]

@@ -1,0 +1,21 @@
+[
+{"id":"96E126CB-153B","name":"Burst","kind":"summit","e":2627709,"n":1178115,"alt":1968,"prio":60},
+{"id":"FF0F0F77-16E0","name":"Bluemhorn","kind":"summit","e":2627429,"n":1178040,"alt":1940,"prio":60},
+{"id":"925288B0-4C9E","name":"Sichle","kind":"pass","e":2628019,"n":1177789,"alt":1679,"prio":60},
+{"id":"0E03FCD6-E50C","name":"Schibe","kind":"summit","e":2628199,"n":1177652,"alt":1955,"prio":60},
+{"id":"A1322441-55FC","name":"Mäscherchopf","kind":"summit","e":2625014,"n":1177610,"alt":1558,"prio":30},
+{"id":"3006D822-3CBE","name":"Mittaghorn","kind":"summit","e":2626010,"n":1176395,"alt":2014,"prio":60},
+{"id":"BF97BFBC-3D8B","name":"Guggihürli","kind":"summit","e":2629824,"n":1175908,"alt":1819,"prio":60},
+{"id":"CF06B6F9-634E","name":"Gemmenalphorn","kind":"summit","e":2628129,"n":1175707,"alt":2061,"prio":60},
+{"id":"CCD69471-8C1F","name":"Sigriswiler Rothorn","kind":"summit","e":2625365,"n":1175559,"alt":2051,"prio":90},
+{"id":"2F7DCB4E-64F6","name":"Schafloch","kind":"cave","e":2625464,"n":1175465,"alt":1801,"prio":25},
+{"id":"303CED96-BC85","name":"Martismurerloch","kind":"cave","e":2629107,"n":1178733,"alt":1885,"prio":25},
+{"id":"EE98E696-D8E1","name":"Alphütte Oberhofnerberg","kind":"inn","e":2627514,"n":1176925,"alt":1453,"prio":50},
+{"id":"1C6C69DA-1053","name":"Lilis Beizli","kind":"inn","e":2627154,"n":1176032,"alt":1312,"prio":50},
+{"id":"6C499744-122D","name":"Alphütte Hindersberg","kind":"inn","e":2627623,"n":1176638,"alt":1371,"prio":50},
+{"id":"28A89037-530C","name":"Loubenegg","kind":"ridge","e":2628782,"n":1176624,"alt":1856,"prio":20},
+{"id":"084AEB3D-8821","name":"Sibe Hängste","kind":"ridge","e":2628985,"n":1178540,"alt":1876,"prio":20},
+{"id":"084AEB3D-8821","name":"Sieben Hengste","kind":"ridge","e":2628985,"n":1178540,"alt":1876,"prio":20},
+{"id":"B02D12D0-0294","name":"Sigriswilgrat","kind":"ridge","e":2625395,"n":1175963,"alt":1904,"prio":20},
+{"id":"5F12B641-B23B","name":"Schörizegg","kind":"ridge","e":2627577,"n":1179624,"alt":1476,"prio":20}
+]

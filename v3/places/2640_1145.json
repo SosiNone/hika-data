@@ -1,0 +1,11 @@
+[
+{"id":"D94C3E33-BB9D","name":"Aletschjoch","kind":"pass","e":2643765,"n":1147426,"alt":3616,"prio":60},
+{"id":"029AAA59-DB7F","name":"Lötschenlücke","kind":"pass","e":2640297,"n":1147171,"alt":3145,"prio":60},
+{"id":"81D369A1-5718","name":"Sattelhorn","kind":"summit","e":2640377,"n":1146381,"alt":3744,"prio":90},
+{"id":"1B632EC7-60D1","name":"Kleines Aletschhorn","kind":"summit","e":2641333,"n":1146364,"alt":3745,"prio":90},
+{"id":"7D753637-8905","name":"Aletschhorn","kind":"summit","e":2642627,"n":1146132,"alt":4194,"prio":100},
+{"id":"521D026D-51AD","name":"Mittelaletschlücke","kind":"pass","e":2642946,"n":1145340,"alt":3699,"prio":60},
+{"id":"3C96C67F-9352","name":"Dreieckhorn","kind":"summit","e":2644658,"n":1147569,"alt":3811,"prio":90},
+{"id":"CC71BD30-B15A","name":"Hollandiahütte SAC","kind":"inn","e":2640051,"n":1147241,"alt":3234,"prio":50},
+{"id":"BAB48EAD-AF26","name":"Haslerrippe","kind":"ridge","e":2643356,"n":1147552,"alt":3469,"prio":20}
+]

@@ -1,0 +1,16 @@
+[
+{"id":"4C87D87E-FBB3","name":"Zernez","kind":"stop","e":2802742,"n":1175271,"alt":1471,"prio":45},
+{"id":"31A60492-F369","name":"Zernez, scoula","kind":"stop","e":2803079,"n":1175478,"alt":1470,"prio":25},
+{"id":"183C6AC1-13F4","name":"Zernez, staziun","kind":"stop","e":2802773,"n":1175279,"alt":1471,"prio":25},
+{"id":"3D9941B4-697F","name":"Zernez, Center Parc Naziunal","kind":"stop","e":2803258,"n":1175366,"alt":1473,"prio":25},
+{"id":"F85EDFD0-6B28","name":"Muottas da Clüs","kind":"summit","e":2802146,"n":1177714,"alt":1685,"prio":60},
+{"id":"D2865FC6-E058","name":"Fuorcla Pitschna","kind":"pass","e":2804975,"n":1178068,"alt":2838,"prio":60},
+{"id":"C6EB0E75-995A","name":"Muottas","kind":"summit","e":2803657,"n":1175477,"alt":1591,"prio":30},
+{"id":"B7081E40-98A8","name":"Muot da l'Ova Sparsa","kind":"summit","e":2800033,"n":1176935,"alt":2499,"prio":60},
+{"id":"120B5BF0-18E0","name":"Piz Sursassa","kind":"summit","e":2804465,"n":1178492,"alt":2967,"prio":90},
+{"id":"C33370FB-ECEC","name":"Piz d'Arpiglias","kind":"summit","e":2804717,"n":1179401,"alt":3026,"prio":90},
+{"id":"D5ED7840-846F","name":"Fuorcla d'Arpiglias","kind":"pass","e":2804827,"n":1179812,"alt":2797,"prio":60},
+{"id":"66080D87-3211","name":"Chasuot","kind":"village","e":2802139,"n":1177449,"alt":1451,"prio":5},
+{"id":"2CD2833B-085B","name":"Scheschna","kind":"village","e":2803749,"n":1175207,"alt":1490,"prio":10},
+{"id":"B841E359-D8DF","name":"Zernez","kind":"village","e":2803041,"n":1175469,"alt":1470,"prio":45}
+]

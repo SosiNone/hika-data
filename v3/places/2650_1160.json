@@ -1,0 +1,18 @@
+[
+{"id":"C4C279AF-6BA1","name":"Chrinnenhorn","kind":"summit","e":2650430,"n":1164816,"alt":2741,"prio":90},
+{"id":"02F0BB7E-42A8","name":"Rosenegg","kind":"pass","e":2653962,"n":1164059,"alt":3434,"prio":60},
+{"id":"45DD3984-5416","name":"Bärglistock","kind":"summit","e":2653781,"n":1162878,"alt":3655,"prio":90},
+{"id":"DAF4F78A-ABA9","name":"Ankenbälli","kind":"summit","e":2654151,"n":1162483,"alt":3601,"prio":90},
+{"id":"99AD0883-AFAB","name":"Lauteraarsattel","kind":"pass","e":2653212,"n":1161495,"alt":3124,"prio":60},
+{"id":"7121A485-3F13","name":"Gwächtejoch","kind":"pass","e":2650284,"n":1161549,"alt":3100,"prio":60},
+{"id":"4EEB6C37-2568","name":"Klein Schreckhorn","kind":"summit","e":2650851,"n":1161374,"alt":3495,"prio":90},
+{"id":"9EA8A808-12D7","name":"Nässihorn","kind":"summit","e":2651657,"n":1160578,"alt":3743,"prio":90},
+{"id":"C499CAC1-F0A6","name":"Nässijoch","kind":"pass","e":2651716,"n":1160525,"alt":3721,"prio":60},
+{"id":"88C05345-950F","name":"Schreckhorn","kind":"summit","e":2652075,"n":1160072,"alt":4078,"prio":100},
+{"id":"3C288B79-F1C7","name":"Bärglijoch","kind":"pass","e":2653787,"n":1163598,"alt":3432,"prio":60},
+{"id":"C6C2DA5A-4022","name":"Rosenhorn","kind":"summit","e":2653488,"n":1164758,"alt":3689,"prio":90},
+{"id":"D3353085-7CA2","name":"Hick","kind":"pass","e":2651862,"n":1164621,"alt":3076,"prio":60},
+{"id":"532103FC-E1F2","name":"Westliche Wätterlimi","kind":"pass","e":2654750,"n":1164508,"alt":3216,"prio":60},
+{"id":"E69A99AF-6FBC","name":"Glecksteinhütte SAC","kind":"inn","e":2650385,"n":1163973,"alt":2317,"prio":50},
+{"id":"352CB383-627A","name":"Grossenegg","kind":"ridge","e":2650274,"n":1160166,"alt":2650,"prio":20}
+]

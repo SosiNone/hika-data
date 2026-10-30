@@ -1,0 +1,16 @@
+[
+{"id":"8FA40F3D-0249","name":"Herbriggen","kind":"stop","e":2627277,"n":1109022,"alt":1254,"prio":45},
+{"id":"ED3ECF98-18B2","name":"Randa","kind":"stop","e":2626506,"n":1105436,"alt":1406,"prio":45},
+{"id":"F12C38A6-6844","name":"Herbriggen, Bahnhof","kind":"stop","e":2627298,"n":1109051,"alt":1260,"prio":25},
+{"id":"71760868-6874","name":"Herbriggen, Breitmatten","kind":"stop","e":2627025,"n":1108044,"alt":1278,"prio":25},
+{"id":"F509D142-C3D5","name":"Herbriggen, Biel","kind":"stop","e":2627273,"n":1109851,"alt":1255,"prio":25},
+{"id":"571C22AD-2C79","name":"Randa, Bahnhof","kind":"stop","e":2626519,"n":1105444,"alt":1407,"prio":25},
+{"id":"98BCA413-846C","name":"Chli Haupt","kind":"summit","e":2629478,"n":1105298,"alt":3097,"prio":60},
+{"id":"14A282BE-D6D6","name":"Gross Haupt","kind":"summit","e":2629116,"n":1105315,"alt":2872,"prio":60},
+{"id":"C490A33A-4FC5","name":"Herbriggen","kind":"village","e":2627331,"n":1109457,"alt":1258,"prio":30},
+{"id":"73C282E2-98B6","name":"Breitmatten","kind":"village","e":2627075,"n":1108048,"alt":1284,"prio":10},
+{"id":"D44812B1-1FED","name":"Lerch","kind":"village","e":2626793,"n":1106357,"alt":1439,"prio":5},
+{"id":"1A646A5D-F1B7","name":"Randa","kind":"village","e":2626561,"n":1105429,"alt":1411,"prio":30},
+{"id":"A402648A-9011","name":"Domhütte SAC","kind":"inn","e":2629308,"n":1105769,"alt":2940,"prio":50},
+{"id":"C9040B5A-9C9B","name":"Europahütte","kind":"inn","e":2628402,"n":1106083,"alt":2263,"prio":50}
+]

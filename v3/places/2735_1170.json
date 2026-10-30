@@ -1,0 +1,12 @@
+[
+{"id":"E5335CD8-D594","name":"Pala da Tgiern","kind":"summit","e":2736219,"n":1172342,"alt":2279,"prio":60},
+{"id":"08845F68-AF5C","name":"Furcletta","kind":"pass","e":2738868,"n":1173730,"alt":2096,"prio":60},
+{"id":"70B15083-02F0","name":"Cruschaulta","kind":"summit","e":2735203,"n":1171623,"alt":2089,"prio":60},
+{"id":"A6ADE613-A7CF","name":"Camaner Grat","kind":"ridge","e":2739455,"n":1170272,"alt":2405,"prio":20},
+{"id":"7F89032A-49A1","name":"Calasagrat","kind":"ridge","e":2736177,"n":1170974,"alt":2426,"prio":20},
+{"id":"5778984F-3132","name":"Con Lad","kind":"ridge","e":2739203,"n":1171359,"alt":1946,"prio":20},
+{"id":"EBAED8FB-7384","name":"Con","kind":"ridge","e":2737628,"n":1174329,"alt":1840,"prio":20},
+{"id":"5F539033-CA90","name":"Con la Cuscha","kind":"ridge","e":2736260,"n":1171821,"alt":2263,"prio":20},
+{"id":"88F50963-E21F","name":"Con da Tschamiu","kind":"ridge","e":2738445,"n":1173507,"alt":1963,"prio":20},
+{"id":"E7F35C4E-7D1E","name":"Con da Sablun","kind":"ridge","e":2737996,"n":1172456,"alt":1490,"prio":20}
+]

@@ -1,0 +1,19 @@
+[
+{"id":"C82923D4-A163","name":"Schinhorn","kind":"summit","e":2639030,"n":1144596,"alt":3796,"prio":100},
+{"id":"854D1DCE-AEF8","name":"Wysshorn","kind":"summit","e":2639629,"n":1143671,"alt":3547,"prio":90},
+{"id":"22CE641A-EE88","name":"Südliches Wysshorn","kind":"summit","e":2639568,"n":1143257,"alt":3482,"prio":90},
+{"id":"882721C6-203A","name":"Beichpass","kind":"pass","e":2636888,"n":1142708,"alt":3127,"prio":60},
+{"id":"FC60BA4F-10CC","name":"Beichspitza","kind":"summit","e":2636630,"n":1142416,"alt":3205,"prio":90},
+{"id":"08255228-5D74","name":"Unterer Torberg","kind":"summit","e":2639795,"n":1142060,"alt":3023,"prio":90},
+{"id":"2A604927-4E95","name":"Nesthorn","kind":"summit","e":2637469,"n":1140313,"alt":3820,"prio":100},
+{"id":"1C694554-3D0F","name":"Gredetschjoch","kind":"pass","e":2636382,"n":1140285,"alt":3502,"prio":60},
+{"id":"EA27ED77-F677","name":"Gredetschhorli","kind":"summit","e":2636158,"n":1140155,"alt":3646,"prio":90},
+{"id":"CF678591-6D98","name":"Nördliches Wysshorn","kind":"summit","e":2639567,"n":1143987,"alt":3625,"prio":90},
+{"id":"F169AC99-6971","name":"Oberer Torberg","kind":"summit","e":2639730,"n":1142775,"alt":3324,"prio":90},
+{"id":"AD4F892D-767E","name":"Mittlerer Torberg","kind":"summit","e":2639758,"n":1142546,"alt":3240,"prio":90},
+{"id":"07A65F8E-25CB","name":"Lonzahörner","kind":"summit","e":2635782,"n":1141499,"alt":3559,"prio":90},
+{"id":"38B93E6A-1AA6","name":"Anenhütte","kind":"inn","e":2636341,"n":1144910,"alt":2358,"prio":50},
+{"id":"7D484AD8-E486","name":"Tiertossen","kind":"ridge","e":2637792,"n":1144344,"alt":2842,"prio":20},
+{"id":"335F2159-3024","name":"Beichgrat","kind":"ridge","e":2637483,"n":1143292,"alt":3238,"prio":20},
+{"id":"23019375-3863","name":"Gandegga","kind":"ridge","e":2635745,"n":1143827,"alt":2121,"prio":20}
+]

@@ -1,0 +1,8 @@
+[
+{"id":"36FC4CBC-9CC3","name":"Concise","kind":"stop","e":2545423,"n":1189100,"alt":429,"prio":45},
+{"id":"54E905D9-5F1F","name":"Concise, haut du village","kind":"stop","e":2545197,"n":1189814,"alt":491,"prio":25},
+{"id":"540B1F24-F263","name":"Concise, village","kind":"stop","e":2545171,"n":1189205,"alt":445,"prio":25},
+{"id":"169F8ACE-1208","name":"Concise, Bas-du-Pavé","kind":"stop","e":2545129,"n":1189565,"alt":466,"prio":25},
+{"id":"20DB76B9-4035","name":"La Lance","kind":"village","e":2546507,"n":1189998,"alt":438,"prio":5},
+{"id":"02AC45E2-0258","name":"Concise","kind":"village","e":2545328,"n":1189130,"alt":438,"prio":30}
+]

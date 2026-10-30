@@ -1,0 +1,16 @@
+[
+{"id":"CFB64F36-0C18","name":"Mattmark","kind":"stop","e":2639963,"n":1099766,"alt":2197,"prio":25},
+{"id":"F3F50778-A660","name":"Hangende Gletscher Joch","kind":"pass","e":2637594,"n":1097895,"alt":3285,"prio":60},
+{"id":"1BA67457-A2D8","name":"Fluchthorn","kind":"summit","e":2636846,"n":1096783,"alt":3795,"prio":90},
+{"id":"EDFCC3C7-508C","name":"Fluchtpass","kind":"pass","e":2636631,"n":1096660,"alt":3719,"prio":60},
+{"id":"5691BF5B-7180","name":"Strahlhorn","kind":"summit","e":2635888,"n":1095846,"alt":4190,"prio":100},
+{"id":"09AD21F7-5746","name":"Allalinhorn","kind":"summit","e":2635294,"n":1099497,"alt":4027,"prio":100},
+{"id":"6EB57927-F53A","name":"Grüenberghorn","kind":"summit","e":2639201,"n":1095495,"alt":3074,"prio":90},
+{"id":"E365C1B0-D59E","name":"Grüenbergsattel","kind":"pass","e":2639061,"n":1095116,"alt":3037,"prio":60},
+{"id":"62AF6C1B-8169","name":"Üssere Turu","kind":"summit","e":2638548,"n":1098972,"alt":3030,"prio":60},
+{"id":"C0139895-DD92","name":"Schwarzbergchopf","kind":"summit","e":2639021,"n":1099245,"alt":2869,"prio":60},
+{"id":"920388AA-DE8F","name":"Innere Turre","kind":"summit","e":2637433,"n":1097786,"alt":3381,"prio":60},
+{"id":"6CD9E93A-FECD","name":"Restaurant Mattmark","kind":"inn","e":2639935,"n":1099765,"alt":2202,"prio":50},
+{"id":"67BD493F-678D","name":"Hohlaubgrat","kind":"ridge","e":2636572,"n":1099907,"alt":3450,"prio":20},
+{"id":"128BAB3A-BB87","name":"Schwarzberggrat","kind":"ridge","e":2638256,"n":1098289,"alt":3162,"prio":20}
+]

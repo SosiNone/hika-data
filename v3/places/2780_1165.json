@@ -1,0 +1,12 @@
+[
+{"id":"1C3C1404-012B","name":"Bergün/Bravuogn, Tuors Chants","kind":"stop","e":2782845,"n":1168825,"alt":1820,"prio":25},
+{"id":"8AE878A9-726A","name":"Bergün/Bravuogn, Tuors Davant","kind":"stop","e":2780934,"n":1168466,"alt":1704,"prio":25},
+{"id":"ACF760BC-850A","name":"Piz As-cha","kind":"summit","e":2784739,"n":1165539,"alt":2731,"prio":90},
+{"id":"27B71841-E9B0","name":"Tschimas da Tesch","kind":"summit","e":2782022,"n":1165566,"alt":2871,"prio":90},
+{"id":"49A8C61B-B399","name":"Piz Darlux","kind":"summit","e":2780521,"n":1166229,"alt":2642,"prio":90},
+{"id":"F45992E3-CB5C","name":"Piz Fregslas","kind":"summit","e":2782268,"n":1166663,"alt":2819,"prio":90},
+{"id":"73BA2D8F-C449","name":"Pischotta","kind":"water","e":2781242,"n":1168208,"alt":1862,"prio":25},
+{"id":"DA18EC84-8C13","name":"Berghaus Piz Kesch","kind":"inn","e":2782868,"n":1168840,"alt":1825,"prio":50},
+{"id":"B3DA67BC-4685","name":"Crestas","kind":"ridge","e":2782526,"n":1168932,"alt":1859,"prio":20},
+{"id":"20ECBD00-A58B","name":"Lai","kind":"lake","e":2782967,"n":1165416,"alt":2519,"prio":50}
+]

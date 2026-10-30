@@ -1,0 +1,15 @@
+[
+{"id":"173DA492-67E8","name":"Munt Müsella","kind":"summit","e":2791243,"n":1158547,"alt":2631,"prio":60},
+{"id":"41F0B699-8468","name":"Fuorcla Burdun","kind":"pass","e":2792683,"n":1155078,"alt":2974,"prio":60},
+{"id":"57F2580A-9161","name":"Pass Trid","kind":"pass","e":2794141,"n":1155448,"alt":2897,"prio":60},
+{"id":"4A4EF186-D8FE","name":"Munt Olivet","kind":"summit","e":2793933,"n":1155342,"alt":2918,"prio":90},
+{"id":"4FAF62B3-B987","name":"Fuorcla Malat","kind":"pass","e":2791370,"n":1156055,"alt":2917,"prio":60},
+{"id":"59659B4F-C8AC","name":"Piz Malat","kind":"summit","e":2792599,"n":1156239,"alt":2992,"prio":90},
+{"id":"538907A0-DE12","name":"Piz Utèr","kind":"summit","e":2791256,"n":1156255,"alt":2967,"prio":90},
+{"id":"2B389148-9376","name":"Fuorcla Müsella","kind":"pass","e":2791400,"n":1156662,"alt":2764,"prio":60},
+{"id":"FBFA8D94-262C","name":"Munt Gravatscha","kind":"summit","e":2790296,"n":1156811,"alt":2756,"prio":60},
+{"id":"B61CE408-1A72","name":"Pass Mel","kind":"pass","e":2792091,"n":1158222,"alt":2233,"prio":60},
+{"id":"4BCEF4D6-1878","name":"Piz Colani","kind":"summit","e":2792556,"n":1156541,"alt":2943,"prio":90},
+{"id":"BA1FB9F1-5BCA","name":"Crasta Burdun","kind":"ridge","e":2792259,"n":1155572,"alt":3121,"prio":20},
+{"id":"42A57CBC-38BF","name":"Lejs da Burdun","kind":"lake","e":2793147,"n":1155242,"alt":2713,"prio":50}
+]

@@ -1,0 +1,4 @@
+# The atlas is compared byte for byte when it is rebuilt: never convert line endings.
+* -text
+*.bin binary
+*.u16 binary

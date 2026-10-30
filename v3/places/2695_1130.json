@@ -1,0 +1,21 @@
+[
+{"id":"0710F921-D4FE","name":"Cima di Broglio","kind":"summit","e":2695861,"n":1131751,"alt":2385,"prio":60},
+{"id":"EA04BD1A-69CB","name":"Pizzo delle Pecore","kind":"summit","e":2695711,"n":1131144,"alt":2381,"prio":60},
+{"id":"17CCD1F7-FF18","name":"Bocchetta Canòva","kind":"pass","e":2696055,"n":1130774,"alt":2226,"prio":60},
+{"id":"0F4C6C4A-A008","name":"Sass d'Argent","kind":"summit","e":2696362,"n":1130646,"alt":2317,"prio":60},
+{"id":"F4A2F8E1-A8C7","name":"Pizzo Albèr","kind":"summit","e":2696399,"n":1130220,"alt":2219,"prio":60},
+{"id":"75BF496F-FEA9","name":"Monte Zucchero","kind":"summit","e":2698173,"n":1134439,"alt":2735,"prio":100},
+{"id":"F6C994D8-37C2","name":"Medee di Pietro","kind":"summit","e":2695314,"n":1134450,"alt":2089,"prio":60},
+{"id":"38E79FF7-48A5","name":"Pizzo Val Mala","kind":"summit","e":2695922,"n":1134603,"alt":2271,"prio":60},
+{"id":"A48AD0F3-4BB2","name":"Bocchetta di Mügaia","kind":"pass","e":2698230,"n":1134072,"alt":2518,"prio":60},
+{"id":"B2DC4550-B0F3","name":"Bocchetta dei Pini","kind":"pass","e":2696621,"n":1132884,"alt":2198,"prio":60},
+{"id":"0F93F8FE-5D91","name":"Passo del Cocco","kind":"pass","e":2696518,"n":1132618,"alt":2142,"prio":60},
+{"id":"916B012D-EB1B","name":"Rasiva","kind":"summit","e":2699459,"n":1132400,"alt":2684,"prio":90},
+{"id":"EF9D7055-DD88","name":"Pizzo del Cocco","kind":"summit","e":2696419,"n":1132148,"alt":2339,"prio":60},
+{"id":"F02610F7-5D2E","name":"Pizzo dei Chènt","kind":"summit","e":2696638,"n":1133606,"alt":2444,"prio":60},
+{"id":"49249E96-437D","name":"Passo di Chènt","kind":"pass","e":2696541,"n":1133897,"alt":2223,"prio":60},
+{"id":"3BA1B33B-7A51","name":"Capanna Osola","kind":"inn","e":2697473,"n":1131465,"alt":1417,"prio":45},
+{"id":"1C10F61D-0D5B","name":"Capanna Alpe Spluga","kind":"inn","e":2695553,"n":1130073,"alt":1842,"prio":45},
+{"id":"31E36220-8B31","name":"Rifugio Sambuco","kind":"inn","e":2697501,"n":1132992,"alt":1901,"prio":45},
+{"id":"A5785AB8-B5AF","name":"Crestom","kind":"ridge","e":2698480,"n":1133522,"alt":2442,"prio":20}
+]

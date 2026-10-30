@@ -1,0 +1,19 @@
+[
+{"id":"7D4E1090-E4E0","name":"Fürflue","kind":"summit","e":2595707,"n":1139455,"alt":2131,"prio":60},
+{"id":"EA750ECF-BF9D","name":"Iffighore","kind":"summit","e":2597227,"n":1137984,"alt":2378,"prio":60},
+{"id":"6F8FA66A-5B32","name":"Stigellegi","kind":"pass","e":2595386,"n":1137922,"alt":2084,"prio":60},
+{"id":"6F8FA66A-5B32","name":"Tungelpass","kind":"pass","e":2595386,"n":1137922,"alt":2084,"prio":60},
+{"id":"804A6EB8-4872","name":"Niesehore","kind":"summit","e":2595012,"n":1136767,"alt":2776,"prio":90},
+{"id":"14DA7F27-0B96","name":"Schnidehore","kind":"summit","e":2596479,"n":1135757,"alt":2937,"prio":90},
+{"id":"0B3A064F-CD32","name":"Chilchli","kind":"summit","e":2595404,"n":1135448,"alt":2785,"prio":90},
+{"id":"85A6F2C2-5944","name":"Schnidejoch","kind":"pass","e":2596167,"n":1135322,"alt":2756,"prio":60},
+{"id":"6D4B4B66-C2F8","name":"Lischbüelhubel","kind":"summit","e":2599764,"n":1139102,"alt":1906,"prio":30},
+{"id":"7F8FBA2D-59CB","name":"Wildhornhütte SAC","kind":"inn","e":2596105,"n":1136432,"alt":2301,"prio":50},
+{"id":"1CE3FDD1-F35D","name":"Blattigrat","kind":"ridge","e":2595438,"n":1138999,"alt":2149,"prio":20},
+{"id":"D3CEA719-DACB","name":"Äbigrat","kind":"ridge","e":2596263,"n":1139608,"alt":2025,"prio":20},
+{"id":"0DA70487-6F0A","name":"Pörisgrat","kind":"ridge","e":2598422,"n":1139506,"alt":1847,"prio":20},
+{"id":"DA8DB07D-A403","name":"Waldigiegge","kind":"ridge","e":2597204,"n":1138576,"alt":1849,"prio":20},
+{"id":"BB55ED1A-E921","name":"Egge","kind":"ridge","e":2596539,"n":1138403,"alt":1823,"prio":20},
+{"id":"060CE268-4326","name":"Tungelgrat","kind":"ridge","e":2595246,"n":1138406,"alt":2158,"prio":20},
+{"id":"6A9B442A-1321","name":"Iffigsee","kind":"lake","e":2597508,"n":1137236,"alt":2065,"prio":50}
+]

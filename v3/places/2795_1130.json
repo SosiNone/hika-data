@@ -1,0 +1,14 @@
+[
+{"id":"1639BBE5-B74C","name":"Pass da Cancian","kind":"pass","e":2797057,"n":1130642,"alt":2463,"prio":60},
+{"id":"A3B1D698-167C","name":"Mott di Curt","kind":"summit","e":2798192,"n":1134731,"alt":2408,"prio":60},
+{"id":"299CCAA8-2227","name":"Mota d'Ur","kind":"summit","e":2799945,"n":1131749,"alt":1953,"prio":60},
+{"id":"FB5ECC66-B92B","name":"Corno delle Ruzze","kind":"summit","e":2797272,"n":1132304,"alt":2808,"prio":90},
+{"id":"FB5ECC66-B92B","name":"Corno Campascio","kind":"summit","e":2797272,"n":1132304,"alt":2808,"prio":90},
+{"id":"C9FFC078-0B3A","name":"Dent Blanch","kind":"summit","e":2797564,"n":1132388,"alt":2677,"prio":20},
+{"id":"47F7A326-6F07","name":"Piz Canfinal","kind":"summit","e":2796152,"n":1133082,"alt":2812,"prio":90},
+{"id":"BD67C00C-96A2","name":"Pass da Canfinal","kind":"pass","e":2795974,"n":1133930,"alt":2626,"prio":60},
+{"id":"DF061647-425D","name":"Pass d'Ur","kind":"pass","e":2797253,"n":1131313,"alt":2517,"prio":60},
+{"id":"DF061647-425D","name":"Passo della Poschiavina","kind":"pass","e":2797253,"n":1131313,"alt":2517,"prio":60},
+{"id":"788226EF-A4A6","name":"Bivacco Anghileri e Rusconi","kind":"inn","e":2795963,"n":1134069,"alt":2655,"prio":45},
+{"id":"7DC66005-A03A","name":"Laghett d'Ur","kind":"lake","e":2797707,"n":1131582,"alt":2367,"prio":50}
+]

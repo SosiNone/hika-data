@@ -1,0 +1,18 @@
+[
+{"id":"4B6E7130-A374","name":"Lumbrein, vitg","kind":"stop","e":2729914,"n":1171625,"alt":1405,"prio":25},
+{"id":"170C0D3A-C8EE","name":"Lumbrein, St. Andriu","kind":"stop","e":2728008,"n":1170463,"alt":1437,"prio":25},
+{"id":"2AB2CAEF-AB95","name":"Lumbrein, Nussaus","kind":"stop","e":2727622,"n":1170094,"alt":1446,"prio":25},
+{"id":"B4B34613-3E20","name":"Lumbrein, spv. Surin","kind":"stop","e":2729375,"n":1171664,"alt":1396,"prio":25},
+{"id":"091B2F0A-3217","name":"Sezner","kind":"lift","e":2727047,"n":1174433,"alt":2268,"prio":40},
+{"id":"3703491E-3D9D","name":"Piz Sezner","kind":"summit","e":2727459,"n":1174308,"alt":2309,"prio":60},
+{"id":"A525C00D-FD79","name":"Crest Lentgas","kind":"summit","e":2726876,"n":1172789,"alt":2182,"prio":60},
+{"id":"2C56B9DE-6F51","name":"Um Su","kind":"summit","e":2726165,"n":1171801,"alt":2357,"prio":60},
+{"id":"462A0866-166A","name":"Lumbrein","kind":"village","e":2729934,"n":1171685,"alt":1408,"prio":30},
+{"id":"79ADA14D-FB98","name":"Stumiaus","kind":"village","e":2729644,"n":1172070,"alt":1488,"prio":5},
+{"id":"12BC1DF8-F85F","name":"Sogn Andriu","kind":"village","e":2728129,"n":1170521,"alt":1433,"prio":5},
+{"id":"EFDF89B6-EF6D","name":"Pruastg Dado","kind":"village","e":2729289,"n":1170330,"alt":1257,"prio":5},
+{"id":"0A2FF2F5-AF10","name":"Nussaus","kind":"village","e":2727706,"n":1170160,"alt":1448,"prio":10},
+{"id":"06886C92-FA9F","name":"Pruastg Dadens","kind":"village","e":2729002,"n":1170156,"alt":1255,"prio":5},
+{"id":"1ECE44CD-95B9","name":"Silgin","kind":"village","e":2729680,"n":1170551,"alt":1237,"prio":5},
+{"id":"443B188B-BDD5","name":"Crest la Marendera","kind":"ridge","e":2729660,"n":1173443,"alt":1655,"prio":20}
+]

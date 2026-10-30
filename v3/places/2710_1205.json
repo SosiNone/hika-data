@@ -1,0 +1,21 @@
+[
+{"id":"75B4C39A-75C1","name":"Klöntal, Eggliberg","kind":"stop","e":2713850,"n":1209427,"alt":900,"prio":25},
+{"id":"2BB744D0-A8E0","name":"Klöntal, Vorauen","kind":"stop","e":2714604,"n":1209458,"alt":850,"prio":25},
+{"id":"F6722B03-3101","name":"Klöntal, Plätz","kind":"stop","e":2714129,"n":1209179,"alt":853,"prio":25},
+{"id":"07830EF5-C80C","name":"Klöntal, Richisau","kind":"stop","e":2711984,"n":1209023,"alt":1101,"prio":25},
+{"id":"6298D5A5-3B6B","name":"Klöntal, Schwändeli","kind":"stop","e":2712974,"n":1209586,"alt":1030,"prio":25},
+{"id":"B5AD7ADA-6E0B","name":"Bietstock","kind":"summit","e":2710528,"n":1206505,"alt":2061,"prio":60},
+{"id":"CC0A71A5-BE93","name":"Hüttlisgütsch","kind":"summit","e":2712413,"n":1206175,"alt":2002,"prio":60},
+{"id":"E5C14C98-344B","name":"Milchblanggenstock","kind":"summit","e":2714348,"n":1207621,"alt":2108,"prio":60},
+{"id":"D11B163C-AC6B","name":"Silberen","kind":"summit","e":2711117,"n":1205627,"alt":2318,"prio":60},
+{"id":"DEF86961-99D8","name":"Fluriberg","kind":"village","e":2712967,"n":1209147,"alt":893,"prio":5},
+{"id":"021DAE89-207C","name":"Eggliberg","kind":"village","e":2713868,"n":1209459,"alt":903,"prio":5},
+{"id":"915FF9E3-EA2E","name":"Gallatiberg","kind":"village","e":2713155,"n":1209340,"alt":936,"prio":5},
+{"id":"1E437722-CA37","name":"Kubliberg","kind":"village","e":2713516,"n":1209052,"alt":881,"prio":5},
+{"id":"7E98366C-9EA2","name":"Simmenberg","kind":"village","e":2714006,"n":1209667,"alt":908,"prio":5},
+{"id":"E3998436-91F2","name":"Gasthaus Richisau","kind":"inn","e":2711997,"n":1209058,"alt":1104,"prio":50},
+{"id":"1CAEF189-BC74","name":"Berggasthaus Käsernalp","kind":"inn","e":2714225,"n":1206046,"alt":1271,"prio":50},
+{"id":"B0DB1A81-CE87","name":"Restaurant Plätz","kind":"inn","e":2714137,"n":1209195,"alt":853,"prio":50},
+{"id":"7E72532B-A06F","name":"Gampeleggen","kind":"ridge","e":2710544,"n":1208557,"alt":1208,"prio":20},
+{"id":"85734E24-46A3","name":"Ronenegg","kind":"ridge","e":2711931,"n":1208329,"alt":1443,"prio":20}
+]

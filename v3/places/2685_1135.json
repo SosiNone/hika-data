@@ -1,0 +1,18 @@
+[
+{"id":"7EECB93B-6A5F","name":"Ritorto (Bavona)","kind":"stop","e":2686050,"n":1136098,"alt":651,"prio":25},
+{"id":"CC422782-F992","name":"Sabbione (Bavona)","kind":"stop","e":2686723,"n":1135624,"alt":644,"prio":25},
+{"id":"436B94B2-A739","name":"Fontana (Bavona)","kind":"stop","e":2687720,"n":1135020,"alt":596,"prio":25},
+{"id":"A719AB81-F4A3","name":"Foroglio (Bavona)","kind":"stop","e":2685379,"n":1136398,"alt":683,"prio":25},
+{"id":"A92043B5-2207","name":"Pizzo Malora","kind":"summit","e":2688423,"n":1137580,"alt":2640,"prio":90},
+{"id":"AC8B1D66-B7AB","name":"Pizzo d'Ogliè","kind":"summit","e":2687351,"n":1138332,"alt":2605,"prio":90},
+{"id":"23A824F0-3C51","name":"Rosso","kind":"summit","e":2687433,"n":1139278,"alt":2604,"prio":90},
+{"id":"A1DC0227-93F1","name":"Bocchetta di Sovénat","kind":"pass","e":2687426,"n":1138870,"alt":2433,"prio":60},
+{"id":"20DF1CB1-973A","name":"Pizzo Rosso","kind":"summit","e":2689884,"n":1137872,"alt":2497,"prio":60},
+{"id":"6D2A86DD-109C","name":"Cascata di Foroglio","kind":"water","e":2685114,"n":1136116,"alt":835,"prio":25},
+{"id":"1D4DDA97-A9C1","name":"Fontana","kind":"village","e":2687873,"n":1135039,"alt":627,"prio":5},
+{"id":"CBEB33B0-AB65","name":"Grott di Balöi","kind":"inn","e":2687674,"n":1135044,"alt":599,"prio":50},
+{"id":"ED8FB08C-2344","name":"Rifugio Fiorasca","kind":"inn","e":2689596,"n":1137126,"alt":2086,"prio":45},
+{"id":"B8FD5AFF-9A98","name":"Ristorante La Froda","kind":"inn","e":2685317,"n":1136427,"alt":688,"prio":50},
+{"id":"A0EC8447-D406","name":"Costa di Cröis","kind":"ridge","e":2688606,"n":1139854,"alt":2057,"prio":20},
+{"id":"E97C384F-BD34","name":"Costa della Pradera","kind":"ridge","e":2687862,"n":1139574,"alt":2313,"prio":20}
+]

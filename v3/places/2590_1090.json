@@ -1,0 +1,16 @@
+[
+{"id":"C3840386-83E4","name":"Mauvoisin","kind":"stop","e":2592565,"n":1094547,"alt":1841,"prio":25},
+{"id":"81E12E28-45A5","name":"La Grande Ashle","kind":"summit","e":2594042,"n":1094908,"alt":3053,"prio":20},
+{"id":"35E830A9-CCD8","name":"Tournelon Blanc","kind":"summit","e":2590968,"n":1090913,"alt":3700,"prio":100},
+{"id":"4D4A2D44-33BF","name":"Col du Tournelon Blanc","kind":"pass","e":2590545,"n":1090014,"alt":3528,"prio":60},
+{"id":"B166E2DB-577D","name":"Col du Giétro","kind":"pass","e":2594932,"n":1094005,"alt":3105,"prio":60},
+{"id":"4D91D9BE-0925","name":"Grand Tavé","kind":"summit","e":2590378,"n":1093534,"alt":3158,"prio":90},
+{"id":"53A42519-D620","name":"Tavé des Chasseurs","kind":"summit","e":2590559,"n":1093102,"alt":3165,"prio":90},
+{"id":"D70868E2-B38A","name":"Col de Bocheresse","kind":"pass","e":2590549,"n":1092522,"alt":3100,"prio":60},
+{"id":"250D5E01-CB8E","name":"Aiguille de Bocheresse","kind":"summit","e":2591114,"n":1092305,"alt":3345,"prio":90},
+{"id":"0F9FC808-10C4","name":"Becca de la Lia","kind":"summit","e":2590708,"n":1092045,"alt":3458,"prio":90},
+{"id":"E452B14A-93F6","name":"Col des Otanes","kind":"pass","e":2590104,"n":1094244,"alt":2846,"prio":60},
+{"id":"D1E037DC-783B","name":"Hôtel de Mauvoisin","kind":"inn","e":2592587,"n":1094614,"alt":1845,"prio":50},
+{"id":"EEF2ED46-EC44","name":"Mulets de la Lia","kind":"ridge","e":2591796,"n":1093003,"alt":2808,"prio":20},
+{"id":"978A78BE-8C3C","name":"Lac de Mauvoisin","kind":"lake","e":2593322,"n":1092379,"alt":1969,"prio":50}
+]

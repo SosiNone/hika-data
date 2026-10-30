@@ -1,0 +1,22 @@
+[
+{"id":"0177525D-43D7","name":"Lunschania","kind":"stop","e":2734010,"n":1169307,"alt":1076,"prio":25},
+{"id":"E42DC186-B658","name":"St. Martin, Bucarischuna","kind":"stop","e":2733854,"n":1168303,"alt":1166,"prio":25},
+{"id":"F9BA20CC-721A","name":"Vals, Camp","kind":"stop","e":2733688,"n":1165237,"alt":1246,"prio":25},
+{"id":"AEC27194-A5A0","name":"Branderspitzli","kind":"summit","e":2730637,"n":1167046,"alt":2734,"prio":90},
+{"id":"3F5AE855-63E6","name":"Fuorcla Serenastga","kind":"pass","e":2730649,"n":1166531,"alt":2634,"prio":60},
+{"id":"01F4B00C-9ED0","name":"Piz Serenastga","kind":"summit","e":2730771,"n":1166101,"alt":2874,"prio":90},
+{"id":"17012B01-6E10","name":"Satteltilücke","kind":"pass","e":2730627,"n":1165789,"alt":2762,"prio":60},
+{"id":"B2D32894-21F6","name":"Satteltichopf","kind":"summit","e":2730563,"n":1165598,"alt":2864,"prio":90},
+{"id":"426152D3-4430","name":"Piz Ner","kind":"summit","e":2730471,"n":1167356,"alt":2621,"prio":90},
+{"id":"186F9AD3-6AEA","name":"Wannaspitz","kind":"summit","e":2731350,"n":1168087,"alt":2444,"prio":60},
+{"id":"7A31F932-9073","name":"Schlossgütsch","kind":"summit","e":2732212,"n":1166146,"alt":2080,"prio":30},
+{"id":"4F887A4B-DCAB","name":"Fuorcla","kind":"pass","e":2731743,"n":1169658,"alt":2039,"prio":60},
+{"id":"609E629B-502F","name":"Mont","kind":"village","e":2734162,"n":1169917,"alt":1471,"prio":5},
+{"id":"47A6A5CA-4FB2","name":"Gadastatt","kind":"village","e":2733692,"n":1169231,"alt":1104,"prio":5},
+{"id":"0F93CC49-6FBD","name":"Lunschania","kind":"village","e":2733933,"n":1169159,"alt":1049,"prio":5},
+{"id":"9C78CC1C-FB32","name":"Montaschg","kind":"village","e":2733802,"n":1168872,"alt":1123,"prio":5},
+{"id":"B440A1C8-5A1A","name":"Bucarischuna","kind":"village","e":2733862,"n":1168318,"alt":1165,"prio":5},
+{"id":"5651B020-565B","name":"Breitengrat","kind":"ridge","e":2730094,"n":1165191,"alt":2807,"prio":20},
+{"id":"B920A4B9-E5E1","name":"Wannagrat","kind":"ridge","e":2731252,"n":1167891,"alt":2395,"prio":20},
+{"id":"550079C5-D996","name":"Brandergrätli","kind":"ridge","e":2730992,"n":1167225,"alt":2609,"prio":20}
+]

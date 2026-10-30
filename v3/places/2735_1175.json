@@ -1,0 +1,19 @@
+[
+{"id":"1CC47810-7794","name":"Pitasch, Mulin da Pitasch","kind":"stop","e":2735336,"n":1176864,"alt":797,"prio":25},
+{"id":"CAB70032-C2BC","name":"Cumbel, Farmarins","kind":"stop","e":2735258,"n":1178644,"alt":987,"prio":25},
+{"id":"D7A63EF1-F574","name":"Duvin, vitg","kind":"stop","e":2735563,"n":1175301,"alt":1175,"prio":25},
+{"id":"F2BA8D17-B8C0","name":"Pitasch, vitg","kind":"stop","e":2736001,"n":1177195,"alt":1039,"prio":25},
+{"id":"2194F379-0CA7","name":"Riein, vitg","kind":"stop","e":2737165,"n":1178600,"alt":1271,"prio":25},
+{"id":"00550CF5-E500","name":"Luven, Tegia Alva","kind":"stop","e":2735022,"n":1179935,"alt":901,"prio":25},
+{"id":"FF431BC9-FB26","name":"Riein, Giudem Vitg","kind":"stop","e":2737009,"n":1178583,"alt":1255,"prio":25},
+{"id":"B316BA07-CF0B","name":"Botta Burschina","kind":"summit","e":2738301,"n":1175731,"alt":2103,"prio":60},
+{"id":"AE12F0A2-0DE2","name":"Piz Miezgi","kind":"summit","e":2739644,"n":1175518,"alt":2331,"prio":60},
+{"id":"C68B67EA-3B82","name":"Riein","kind":"village","e":2737099,"n":1178576,"alt":1269,"prio":15},
+{"id":"B9417951-05F7","name":"Duvin","kind":"village","e":2735585,"n":1175252,"alt":1179,"prio":15},
+{"id":"D68C92F6-43EF","name":"Mulin da Pitasch","kind":"village","e":2735325,"n":1176858,"alt":797,"prio":5},
+{"id":"6A8B6041-D6A2","name":"Pitasch","kind":"village","e":2735886,"n":1176945,"alt":1065,"prio":15},
+{"id":"DD3AAFD6-10C8","name":"Signina","kind":"village","e":2738369,"n":1177687,"alt":1315,"prio":5},
+{"id":"F6AE15EB-9B57","name":"Fil","kind":"ridge","e":2738859,"n":1175636,"alt":2171,"prio":20},
+{"id":"DF3B7903-3C29","name":"Cresta","kind":"ridge","e":2737166,"n":1178481,"alt":1263,"prio":20},
+{"id":"29E9E59B-644A","name":"Con dil Buc","kind":"ridge","e":2739751,"n":1176078,"alt":1992,"prio":20}
+]

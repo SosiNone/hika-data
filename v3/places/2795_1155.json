@@ -1,0 +1,11 @@
+[
+{"id":"123E5B9D-DE90","name":"Fuorcla Lavirun","kind":"pass","e":2799816,"n":1157542,"alt":2815,"prio":60},
+{"id":"123E5B9D-DE90","name":"Passo del Leverone","kind":"pass","e":2799816,"n":1157542,"alt":2815,"prio":60},
+{"id":"3114AC3F-A3FC","name":"Fuorcla Chaschauna","kind":"pass","e":2799741,"n":1158504,"alt":2802,"prio":60},
+{"id":"F03BD54F-D65E","name":"Fuorcla Chaschanella","kind":"pass","e":2798590,"n":1158763,"alt":2784,"prio":60},
+{"id":"2A7946F1-3D8F","name":"Fuorcla Vaüglia","kind":"pass","e":2796623,"n":1159329,"alt":2859,"prio":60},
+{"id":"B5F812CB-4AA9","name":"Piz Vaüglia","kind":"summit","e":2797882,"n":1159026,"alt":2974,"prio":90},
+{"id":"884FCFC8-D5A2","name":"Piz Chaschanella","kind":"summit","e":2799437,"n":1159088,"alt":2929,"prio":90},
+{"id":"F0A354B0-0905","name":"Il Corn","kind":"summit","e":2795774,"n":1159693,"alt":2959,"prio":90},
+{"id":"D4232EE1-A127","name":"Paraid Giavagl","kind":"ridge","e":2798166,"n":1155297,"alt":2810,"prio":20}
+]

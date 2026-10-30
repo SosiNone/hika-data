@@ -1,0 +1,15 @@
+[
+{"id":"4CB8CB05-7EAD","name":"Pizzo Fedora","kind":"summit","e":2694568,"n":1109305,"alt":1908,"prio":60},
+{"id":"3A262488-3479","name":"Pizzo dei Laghetti","kind":"summit","e":2694331,"n":1109207,"alt":1879,"prio":60},
+{"id":"46B9A52A-B974","name":"Mottone","kind":"summit","e":2694365,"n":1108984,"alt":1966,"prio":60},
+{"id":"EFAEF58B-BE1B","name":"Bocchetta di Valle","kind":"pass","e":2694358,"n":1108450,"alt":1948,"prio":60},
+{"id":"6799EE58-A3CC","name":"Cruit","kind":"summit","e":2694133,"n":1107888,"alt":2086,"prio":60},
+{"id":"D2E5C99C-5279","name":"Pizzo Ometto","kind":"summit","e":2694872,"n":1109884,"alt":1846,"prio":60},
+{"id":"A8DD0409-0919","name":"Fumadiga","kind":"summit","e":2694430,"n":1108653,"alt":2010,"prio":60},
+{"id":"714567A0-0076","name":"Teste","kind":"summit","e":2693172,"n":1109983,"alt":1420,"prio":30},
+{"id":"013EA491-CBF9","name":"Monte Limidario","kind":"summit","e":2693474,"n":1108705,"alt":2187,"prio":90},
+{"id":"013EA491-CBF9","name":"Gridone","kind":"summit","e":2693474,"n":1108705,"alt":2187,"prio":90},
+{"id":"43DC3D0D-0A3D","name":"Bocchetta del Fornale","kind":"pass","e":2692127,"n":1108564,"alt":2033,"prio":60},
+{"id":"0FB2E421-FDBD","name":"Testa di Misello","kind":"summit","e":2690575,"n":1109474,"alt":1596,"prio":30},
+{"id":"DE1B1B6A-9297","name":"Rifugio Al Legn","kind":"inn","e":2694962,"n":1108618,"alt":1785,"prio":50}
+]

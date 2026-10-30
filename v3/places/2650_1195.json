@@ -1,0 +1,13 @@
+[
+{"id":"6F67CEA5-C54A","name":"Finsterwald LU, Gründli","kind":"stop","e":2652251,"n":1198005,"alt":1135,"prio":25},
+{"id":"210B4C33-893B","name":"Finsterwald LU, Rotbach","kind":"stop","e":2651451,"n":1195928,"alt":1339,"prio":25},
+{"id":"188F2B7B-0302","name":"Schimberig","kind":"summit","e":2651433,"n":1198952,"alt":1817,"prio":90},
+{"id":"7045C861-8FBC","name":"Bärnerstig","kind":"pass","e":2651900,"n":1195124,"alt":1649,"prio":60},
+{"id":"441CEA92-59CF","name":"Hängst","kind":"summit","e":2651723,"n":1199118,"alt":1810,"prio":60},
+{"id":"E452374E-F570","name":"Brüedere","kind":"village","e":2652782,"n":1199917,"alt":1026,"prio":5},
+{"id":"DA4367C1-9904","name":"Grund","kind":"village","e":2651907,"n":1198183,"alt":1190,"prio":5},
+{"id":"3DA614F7-EC98","name":"Äschitanne","kind":"village","e":2650056,"n":1199890,"alt":1181,"prio":5},
+{"id":"A123E54A-E514","name":"Alpwirtschaft Gründli","kind":"inn","e":2652274,"n":1198001,"alt":1138,"prio":50},
+{"id":"5EABDCF6-4C5C","name":"Restaurant Schimbrigbad","kind":"inn","e":2650338,"n":1198550,"alt":1422,"prio":50},
+{"id":"567CA179-E4F9","name":"Schlieregrat","kind":"ridge","e":2653313,"n":1197141,"alt":1692,"prio":20}
+]

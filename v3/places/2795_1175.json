@@ -1,0 +1,22 @@
+[
+{"id":"55155C28-56BD","name":"Piz Arpschella","kind":"summit","e":2796592,"n":1177369,"alt":3031,"prio":90},
+{"id":"AEEEDA42-C177","name":"Piz d'Urezza","kind":"summit","e":2799486,"n":1175034,"alt":2906,"prio":90},
+{"id":"018CA299-49A5","name":"Fuorcla Sarsura","kind":"pass","e":2795789,"n":1175261,"alt":2921,"prio":60},
+{"id":"24F967B1-053F","name":"Sella da Pülschezza","kind":"pass","e":2798101,"n":1175323,"alt":2626,"prio":60},
+{"id":"083FF1D7-6386","name":"Piz Sarsura Pitschen","kind":"summit","e":2795664,"n":1175749,"alt":3133,"prio":90},
+{"id":"D7CFA986-9532","name":"Piz d'Immez","kind":"summit","e":2797582,"n":1176797,"alt":2892,"prio":90},
+{"id":"C0A567DE-EF52","name":"Sella d'Arpschella","kind":"pass","e":2797321,"n":1178353,"alt":2775,"prio":60},
+{"id":"725BE0D0-706B","name":"Piz Murterchömbel","kind":"summit","e":2796201,"n":1178583,"alt":2998,"prio":90},
+{"id":"3A4521D6-378C","name":"Piz Murtaröl","kind":"summit","e":2796680,"n":1179567,"alt":2881,"prio":90},
+{"id":"9CA7C954-BECB","name":"Piz dal Ras","kind":"summit","e":2798268,"n":1179624,"alt":3028,"prio":90},
+{"id":"52A219BA-9743","name":"Mot Radond","kind":"summit","e":2797994,"n":1179899,"alt":2828,"prio":60},
+{"id":"0AE2B0AD-82F8","name":"Piz Spadlas","kind":"summit","e":2799917,"n":1179897,"alt":2528,"prio":60},
+{"id":"4FBB841D-9994","name":"Piz Munt","kind":"summit","e":2798939,"n":1175426,"alt":2849,"prio":90},
+{"id":"064C3E10-6545","name":"Spi d'Arpschella","kind":"ridge","e":2798050,"n":1178496,"alt":2873,"prio":20},
+{"id":"EAA22B17-B73A","name":"Spi da Bunaloua","kind":"ridge","e":2799225,"n":1178788,"alt":2769,"prio":20},
+{"id":"754CF6DF-B0A3","name":"Spi da Murteras","kind":"ridge","e":2799087,"n":1175858,"alt":2727,"prio":20},
+{"id":"53295985-FB0F","name":"Spi d'Urezza","kind":"ridge","e":2799086,"n":1175259,"alt":2801,"prio":20},
+{"id":"FAA800A0-B3C1","name":"Lais da Pülschezza","kind":"lake","e":2797407,"n":1175099,"alt":2676,"prio":50},
+{"id":"88282A3E-25DB","name":"Lais da Sarsura","kind":"lake","e":2797736,"n":1175878,"alt":2555,"prio":50},
+{"id":"788E6052-96D0","name":"Lai Alb","kind":"lake","e":2797282,"n":1176345,"alt":2684,"prio":50}
+]

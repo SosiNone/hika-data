@@ -1,0 +1,17 @@
+[
+{"id":"516B143F-5116","name":"Täschhorn","kind":"summit","e":2632376,"n":1103631,"alt":4491,"prio":100},
+{"id":"F3F7A62C-9631","name":"Domjoch","kind":"pass","e":2632556,"n":1104171,"alt":4278,"prio":60},
+{"id":"F231B77C-926D","name":"Dom","kind":"summit","e":2632500,"n":1104798,"alt":4546,"prio":100},
+{"id":"D2181D18-F828","name":"Alphubeljoch","kind":"pass","e":2633759,"n":1100363,"alt":3767,"prio":60},
+{"id":"F630EAF7-5EEE","name":"Kinhorn","kind":"summit","e":2630587,"n":1102929,"alt":3750,"prio":90},
+{"id":"084BACD2-97A8","name":"Kinlücke","kind":"pass","e":2630736,"n":1102995,"alt":3637,"prio":60},
+{"id":"A7468A6E-CCFC","name":"Mischabeljoch","kind":"pass","e":2633041,"n":1102632,"alt":3847,"prio":60},
+{"id":"F35D2F7F-390A","name":"Alphubel","kind":"summit","e":2632907,"n":1101352,"alt":4203,"prio":100},
+{"id":"5B0468B9-36D4","name":"Festi-Kin Lücke","kind":"pass","e":2631195,"n":1104715,"alt":3734,"prio":60},
+{"id":"86B1E6A3-0DA5","name":"Mischabeljochbiwak SAC","kind":"inn","e":2633049,"n":1102612,"alt":3850,"prio":45},
+{"id":"5363C855-AFAB","name":"Täschhütte SAC","kind":"inn","e":2630292,"n":1100080,"alt":2701,"prio":50},
+{"id":"5D92E6B8-A3B0","name":"Teufelsgrat","kind":"ridge","e":2631563,"n":1103300,"alt":3983,"prio":20},
+{"id":"3F65DEFF-A5CA","name":"Wissgrat","kind":"ridge","e":2630539,"n":1100808,"alt":3027,"prio":20},
+{"id":"24D17C4A-4BC0","name":"Rotgrat","kind":"ridge","e":2631882,"n":1100766,"alt":3484,"prio":20},
+{"id":"A073AC02-1786","name":"Weingartensee","kind":"lake","e":2630997,"n":1101405,"alt":3056,"prio":50}
+]

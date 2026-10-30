@@ -1,0 +1,10 @@
+[
+{"id":"80B27710-4A39","name":"Agassizjoch","kind":"pass","e":2652042,"n":1154967,"alt":3747,"prio":60},
+{"id":"391B9B41-BBDC","name":"Hugisattel","kind":"pass","e":2652520,"n":1154518,"alt":4087,"prio":60},
+{"id":"C582ECD6-0DCA","name":"Obers Studerjoch","kind":"pass","e":2653772,"n":1153992,"alt":3389,"prio":60},
+{"id":"F102328F-6A56","name":"Studerhorn","kind":"summit","e":2654397,"n":1153698,"alt":3632,"prio":90},
+{"id":"9A80BD61-CD81","name":"Gemschlicke","kind":"pass","e":2654085,"n":1152381,"alt":3335,"prio":60},
+{"id":"EF80FFE1-4BF7","name":"Finsteraarrothorn","kind":"summit","e":2654477,"n":1152073,"alt":3530,"prio":90},
+{"id":"3A02A5B9-B403","name":"Finsteraarhorn","kind":"summit","e":2652735,"n":1154237,"alt":4274,"prio":100},
+{"id":"4E1B6D9D-6CD7","name":"Finsteraarhornhütte SAC","kind":"inn","e":2651858,"n":1152519,"alt":3051,"prio":50}
+]

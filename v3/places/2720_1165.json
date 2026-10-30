@@ -1,0 +1,22 @@
+[
+{"id":"BB1F755C-AF94","name":"Vrin, Puzzatsch","kind":"stop","e":2724923,"n":1166661,"alt":1667,"prio":25},
+{"id":"BD30CC83-0CD5","name":"Vrin, Parvalsauns","kind":"stop","e":2724560,"n":1166501,"alt":1631,"prio":25},
+{"id":"5DA8BC10-58D1","name":"Piz Cavel","kind":"summit","e":2721028,"n":1168410,"alt":2945,"prio":90},
+{"id":"473C5D3F-9FFB","name":"Artg Diesrut","kind":"summit","e":2722778,"n":1166450,"alt":2468,"prio":60},
+{"id":"4A3ABF0A-BC64","name":"Muot la Greina","kind":"summit","e":2720068,"n":1165551,"alt":2398,"prio":60},
+{"id":"BAC0BEC6-7C53","name":"Piz da Vrin","kind":"summit","e":2724097,"n":1168747,"alt":2563,"prio":90},
+{"id":"2C3B3BCA-6E06","name":"La Capiala","kind":"summit","e":2721693,"n":1168552,"alt":2709,"prio":90},
+{"id":"E52B8DBA-EC5E","name":"Fuorcla da Ramosa","kind":"pass","e":2721326,"n":1167663,"alt":2650,"prio":60},
+{"id":"251DFD4A-3370","name":"Piz Tgietschen","kind":"summit","e":2721126,"n":1167306,"alt":2858,"prio":90},
+{"id":"2E8743D8-17E4","name":"Piz las Palas","kind":"summit","e":2720701,"n":1166949,"alt":2800,"prio":90},
+{"id":"864DD6E9-69B3","name":"Fuorcla Cotschna","kind":"pass","e":2721365,"n":1166872,"alt":2585,"prio":60},
+{"id":"2957057B-0C22","name":"Piz Ner","kind":"summit","e":2721479,"n":1166732,"alt":2691,"prio":90},
+{"id":"146F34FF-77CE","name":"Pass Diesrut","kind":"pass","e":2721417,"n":1166263,"alt":2428,"prio":60},
+{"id":"2179BAD3-F970","name":"Piz Stgir","kind":"summit","e":2721589,"n":1165718,"alt":2712,"prio":90},
+{"id":"2D8E7784-DBBE","name":"Fuorcla da Cavel","kind":"pass","e":2720835,"n":1169091,"alt":2534,"prio":60},
+{"id":"04444209-1485","name":"Piz Cugn","kind":"summit","e":2720657,"n":1169577,"alt":2672,"prio":90},
+{"id":"5761FE72-3D67","name":"Mutaun","kind":"ridge","e":2724504,"n":1165044,"alt":2465,"prio":20},
+{"id":"8931A819-7C95","name":"Fil da Ramosa","kind":"ridge","e":2722668,"n":1168456,"alt":2458,"prio":20},
+{"id":"8904490C-E104","name":"Lag Grond","kind":"lake","e":2722016,"n":1169963,"alt":2459,"prio":50},
+{"id":"0B53272C-63D8","name":"Lags","kind":"lake","e":2723709,"n":1167756,"alt":2044,"prio":50}
+]

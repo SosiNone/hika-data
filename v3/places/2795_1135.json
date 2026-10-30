@@ -1,0 +1,17 @@
+[
+{"id":"EBA64201-D05E","name":"Alp Grüm","kind":"stop","e":2799453,"n":1139208,"alt":2090,"prio":45},
+{"id":"7F07DEE3-EC1E","name":"Mota Rossa","kind":"summit","e":2797994,"n":1135408,"alt":2563,"prio":90},
+{"id":"64E0E540-51D7","name":"Piz Varuna","kind":"summit","e":2796577,"n":1136626,"alt":3453,"prio":100},
+{"id":"D3E70B4B-E3E8","name":"Bochetta da Canton","kind":"pass","e":2797978,"n":1137075,"alt":2692,"prio":60},
+{"id":"9AF6DB0B-6A64","name":"Passo di Gembré","kind":"pass","e":2795178,"n":1137233,"alt":3233,"prio":60},
+{"id":"227D060E-D3A3","name":"Curnasell","kind":"summit","e":2798535,"n":1137265,"alt":2809,"prio":90},
+{"id":"48ED31D5-1BC5","name":"Piz Canton","kind":"summit","e":2797036,"n":1137469,"alt":3147,"prio":90},
+{"id":"9C407247-7482","name":"Mott da Sanza","kind":"summit","e":2799743,"n":1137288,"alt":2187,"prio":60},
+{"id":"303ACA6D-1E2B","name":"Agriturismo Alpe Palü","kind":"inn","e":2799187,"n":1139026,"alt":1939,"prio":50},
+{"id":"F294F1E9-D37D","name":"Albergo Ristorante Alp Grüm","kind":"inn","e":2799444,"n":1139203,"alt":2089,"prio":50},
+{"id":"6A5003BF-59A8","name":"Casa Alpina Belvedere","kind":"inn","e":2799643,"n":1139248,"alt":2152,"prio":50},
+{"id":"90DF9EF8-4CAC","name":"Lagh da Canton","kind":"lake","e":2797926,"n":1137594,"alt":2563,"prio":50},
+{"id":"D8A28967-06FF","name":"Laghett da Penat","kind":"lake","e":2799385,"n":1137316,"alt":2232,"prio":50},
+{"id":"96DD7D23-FAD7","name":"Lagh da Palü","kind":"lake","e":2798999,"n":1139045,"alt":1923,"prio":50},
+{"id":"040AF8CA-907F","name":"Lagh da Caralin","kind":"lake","e":2796754,"n":1138526,"alt":2322,"prio":50}
+]
