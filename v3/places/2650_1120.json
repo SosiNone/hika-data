@@ -1,0 +1,11 @@
+[
+{"id":"83EBB97A-F297","name":"Pizzo d'Avino","kind":"summit","e":2652571,"n":1120756,"alt":2881,"prio":90},
+{"id":"1221A025-C90C","name":"Passo Fne","kind":"pass","e":2652600,"n":1120658,"alt":2804,"prio":60},
+{"id":"F8D83A43-DC40","name":"Pizzo Fne","kind":"summit","e":2652873,"n":1120228,"alt":2933,"prio":90},
+{"id":"04E62B8D-6194","name":"Passo d'Avino","kind":"pass","e":2652198,"n":1120731,"alt":2973,"prio":60},
+{"id":"3F4BAFBA-6D3B","name":"Monte Leone","kind":"summit","e":2651789,"n":1122226,"alt":3553,"prio":100},
+{"id":"52845319-7D34","name":"Tunnelspitz","kind":"summit","e":2650577,"n":1124548,"alt":2902,"prio":90},
+{"id":"536C00EE-F2E1","name":"Stichelgrat","kind":"ridge","e":2651988,"n":1121094,"alt":3222,"prio":20},
+{"id":"F3F6D31C-4C4F","name":"Vierte See","kind":"lake","e":2652394,"n":1120478,"alt":2678,"prio":50},
+{"id":"BD38A9A7-B671","name":"Dritte See","kind":"lake","e":2652254,"n":1120138,"alt":2610,"prio":50}
+]

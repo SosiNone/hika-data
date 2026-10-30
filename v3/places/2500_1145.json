@@ -1,0 +1,6 @@
+[
+{"id":"09D2AAC9-E046","name":"St-Cergue, bif. La Chèvrerie","kind":"stop","e":2502806,"n":1145218,"alt":1061,"prio":25},
+{"id":"DC1D5577-7368","name":"Le Molard","kind":"summit","e":2504513,"n":1146362,"alt":1043,"prio":30},
+{"id":"C418F7C2-1370","name":"La Violettaz","kind":"village","e":2504290,"n":1145993,"alt":1041,"prio":5},
+{"id":"94BC86A1-0119","name":"Restaurant Basseruche","kind":"inn","e":2501146,"n":1145203,"alt":1093,"prio":50}
+]

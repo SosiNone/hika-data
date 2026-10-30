@@ -1,0 +1,23 @@
+[
+{"id":"DC180386-FBA4","name":"Unnere Stock","kind":"summit","e":2662239,"n":1151918,"alt":2671,"prio":90},
+{"id":"112CCD0F-15EA","name":"Furggelti","kind":"pass","e":2660890,"n":1150300,"alt":2489,"prio":60},
+{"id":"0B144EB3-54E1","name":"Gross Sidelhorn","kind":"summit","e":2664960,"n":1154760,"alt":2878,"prio":90},
+{"id":"287B87B3-8D72","name":"Üerlicherjoch","kind":"pass","e":2664402,"n":1154212,"alt":2756,"prio":60},
+{"id":"61724DAD-D273","name":"Uelistock","kind":"summit","e":2663774,"n":1154076,"alt":2890,"prio":90},
+{"id":"2D11F61D-EA63","name":"Tellerelicke","kind":"pass","e":2663111,"n":1153669,"alt":2810,"prio":60},
+{"id":"6A84A025-ECDC","name":"Geschinerstock","kind":"summit","e":2662862,"n":1153454,"alt":2855,"prio":90},
+{"id":"CC4045BC-8FD3","name":"Hireli","kind":"summit","e":2664414,"n":1153119,"alt":2632,"prio":60},
+{"id":"2877214E-62F5","name":"Obere Stock","kind":"summit","e":2662002,"n":1152349,"alt":2785,"prio":90},
+{"id":"3DCB7483-873F","name":"Talschien","kind":"summit","e":2660554,"n":1153085,"alt":3039,"prio":90},
+{"id":"61C22887-D7AC","name":"Trützipass","kind":"pass","e":2662156,"n":1153353,"alt":2825,"prio":60},
+{"id":"1B28484C-739B","name":"Löffelhorn","kind":"summit","e":2661262,"n":1153143,"alt":3096,"prio":90},
+{"id":"5169DE90-72F6","name":"Löuwenestock","kind":"summit","e":2663257,"n":1150692,"alt":2251,"prio":60},
+{"id":"543EBC87-1193","name":"Telleregrat","kind":"ridge","e":2663646,"n":1153961,"alt":2808,"prio":20},
+{"id":"8F3B6E5E-EBC7","name":"Holzegg","kind":"ridge","e":2662907,"n":1150107,"alt":1987,"prio":20},
+{"id":"A8CE882B-A912","name":"Blatthörner","kind":"ridge","e":2660430,"n":1153056,"alt":2931,"prio":20},
+{"id":"0EA6E2E8-4340","name":"Aargrat","kind":"ridge","e":2662007,"n":1153303,"alt":2854,"prio":20},
+{"id":"B318A667-C8E4","name":"Obersts Seewji","kind":"lake","e":2663562,"n":1153580,"alt":2674,"prio":50},
+{"id":"D60435FD-DB77","name":"Mittelsee","kind":"lake","e":2664052,"n":1152931,"alt":2428,"prio":50},
+{"id":"ECEB98E1-E104","name":"Seewjeni","kind":"lake","e":2664152,"n":1152585,"alt":2297,"prio":50},
+{"id":"187F66BF-9F4C","name":"Trützisee","kind":"lake","e":2662333,"n":1152597,"alt":2580,"prio":50}
+]

@@ -1,0 +1,19 @@
+[
+{"id":"79490D03-92DF","name":"Simplon Dorf, Niwen","kind":"stop","e":2644917,"n":1120903,"alt":1947,"prio":25},
+{"id":"E9F3D99F-1111","name":"Simplon Dorf, Hospiz-Niederalp","kind":"stop","e":2644366,"n":1120009,"alt":1868,"prio":25},
+{"id":"8C6AC829-3D52","name":"Staldhorn","kind":"summit","e":2644854,"n":1123606,"alt":2462,"prio":60},
+{"id":"BD77ED0A-0540","name":"Üsseri Nanzlicke","kind":"pass","e":2641885,"n":1123095,"alt":2601,"prio":60},
+{"id":"DAC4216B-B9EF","name":"Tochuhorn","kind":"summit","e":2643344,"n":1122941,"alt":2661,"prio":90},
+{"id":"630DA38D-308B","name":"Inneri Nanzlicke","kind":"pass","e":2641940,"n":1122496,"alt":2580,"prio":60},
+{"id":"6EB5811E-AC2B","name":"Nanzlicke","kind":"pass","e":2641915,"n":1121556,"alt":2447,"prio":60},
+{"id":"827D859F-3399","name":"Bistinepass","kind":"pass","e":2641745,"n":1121092,"alt":2418,"prio":60},
+{"id":"A12F88DD-74BF","name":"Magehorn","kind":"summit","e":2641777,"n":1120376,"alt":2622,"prio":90},
+{"id":"9E51E767-CCC6","name":"Spitzhorli","kind":"summit","e":2641785,"n":1123826,"alt":2736,"prio":90},
+{"id":"C7364E41-7F17","name":"Ärezhorn","kind":"summit","e":2642390,"n":1123746,"alt":2679,"prio":90},
+{"id":"A8D938AD-9EA4","name":"Gälmji","kind":"pass","e":2644363,"n":1123327,"alt":2373,"prio":60},
+{"id":"3A061B4B-9B0A","name":"Gampisch","kind":"summit","e":2644177,"n":1120114,"alt":1889,"prio":30},
+{"id":"8FBB54EE-E648","name":"Straffulgrat","kind":"ridge","e":2642550,"n":1121919,"alt":2554,"prio":20},
+{"id":"BBC243E2-EB82","name":"Undre Rossusee","kind":"lake","e":2642583,"n":1122806,"alt":2474,"prio":50},
+{"id":"A38D5A24-3336","name":"Obre Rossusee","kind":"lake","e":2642326,"n":1123519,"alt":2573,"prio":50},
+{"id":"2B26F9D8-BCB6","name":"Straffolsee","kind":"lake","e":2641762,"n":1121551,"alt":2423,"prio":50}
+]

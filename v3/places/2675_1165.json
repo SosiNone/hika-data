@@ -1,0 +1,20 @@
+[
+{"id":"12C88B90-BCB8","name":"Mässplanggstock","kind":"summit","e":2676400,"n":1167890,"alt":2571,"prio":60},
+{"id":"BB7BAB3F-F598","name":"Moosstock","kind":"summit","e":2677505,"n":1166879,"alt":2610,"prio":60},
+{"id":"3B20CF24-281E","name":"Schneestock","kind":"summit","e":2675279,"n":1166767,"alt":3608,"prio":90},
+{"id":"0DCAAE75-1866","name":"Höhenberg","kind":"summit","e":2679714,"n":1165698,"alt":2368,"prio":60},
+{"id":"11BC8A3F-70E8","name":"Gämschistöckli","kind":"summit","e":2677434,"n":1165339,"alt":2379,"prio":60},
+{"id":"5E9C93D0-3FDE","name":"Hoch Horenfellistock","kind":"summit","e":2679082,"n":1169374,"alt":3175,"prio":90},
+{"id":"8FC4DF8A-DABB","name":"Schinstock","kind":"summit","e":2679332,"n":1169201,"alt":3161,"prio":90},
+{"id":"33A2DD29-CA22","name":"Rhonejoch","kind":"pass","e":2675064,"n":1165442,"alt":3507,"prio":60},
+{"id":"80A4432A-715D","name":"Hinterer Rhonestock","kind":"summit","e":2675090,"n":1165239,"alt":3588,"prio":90},
+{"id":"E043A79F-0C36","name":"Oberes Winterjoch","kind":"pass","e":2675090,"n":1165186,"alt":3525,"prio":60},
+{"id":"60011C23-7D04","name":"Dammastock","kind":"summit","e":2675217,"n":1166272,"alt":3630,"prio":100},
+{"id":"A2A12D6D-4483","name":"Dammapass","kind":"pass","e":2675141,"n":1165701,"alt":3502,"prio":60},
+{"id":"4E9752B0-0A93","name":"Dammajoch","kind":"pass","e":2675219,"n":1166559,"alt":3562,"prio":60},
+{"id":"514E58B8-3241","name":"Dammahütte SAC","kind":"inn","e":2678024,"n":1166464,"alt":2440,"prio":50},
+{"id":"7D3C5FD7-4A6F","name":"Chelenalphütte SAC","kind":"inn","e":2676617,"n":1169430,"alt":2351,"prio":50},
+{"id":"20D565A7-8A45","name":"Moosgrat","kind":"ridge","e":2676943,"n":1166760,"alt":2693,"prio":20},
+{"id":"B90011AB-57A5","name":"Egg","kind":"ridge","e":2679134,"n":1166555,"alt":1841,"prio":20},
+{"id":"534A5033-CAEF","name":"Bergsee","kind":"lake","e":2679856,"n":1167884,"alt":2341,"prio":50}
+]

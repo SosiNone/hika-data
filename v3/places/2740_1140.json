@@ -1,0 +1,9 @@
+[
+{"id":"270F0C09-7BED","name":"Monte Bardan","kind":"summit","e":2741199,"n":1142557,"alt":2811,"prio":90},
+{"id":"1329B9F1-3D74","name":"Pass de la Sancia","kind":"pass","e":2741627,"n":1140267,"alt":2578,"prio":60},
+{"id":"C41E7A8D-A457","name":"Pass de Barna","kind":"pass","e":2741685,"n":1141418,"alt":2547,"prio":60},
+{"id":"13BB27A1-3D40","name":"Piz de Montagnía","kind":"summit","e":2741751,"n":1140578,"alt":2714,"prio":90},
+{"id":"13BB27A1-3D40","name":"Pizzo di Sancia","kind":"summit","e":2741751,"n":1140578,"alt":2714,"prio":90},
+{"id":"E1DAB100-0769","name":"Cima de Barna","kind":"summit","e":2740289,"n":1142649,"alt":2860,"prio":90},
+{"id":"95DCB567-35E6","name":"Piz Dalé","kind":"summit","e":2741666,"n":1141728,"alt":2611,"prio":90}
+]

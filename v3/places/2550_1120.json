@@ -1,0 +1,20 @@
+[
+{"id":"2C2DA215-7485","name":"Morgins (Les Têtes)","kind":"lift","e":2554927,"n":1121252,"alt":1342,"prio":40},
+{"id":"366CEE7C-D984","name":"Morgins, école","kind":"stop","e":2554869,"n":1120926,"alt":1329,"prio":25},
+{"id":"B48042CF-9D6F","name":"Morgins, le Corbeau","kind":"stop","e":2554881,"n":1121150,"alt":1331,"prio":25},
+{"id":"08C091FF-34CE","name":"Morgins, Les Planoz","kind":"stop","e":2554662,"n":1121462,"alt":1371,"prio":25},
+{"id":"43810F6E-D62C","name":"Morgins, Chemin Brun","kind":"stop","e":2554655,"n":1121543,"alt":1373,"prio":25},
+{"id":"2E3D11F5-0B9A","name":"Morgins, Lac","kind":"stop","e":2554293,"n":1122198,"alt":1369,"prio":25},
+{"id":"370D1BBB-2A73","name":"Morgins, Le Géant / C. sportif","kind":"stop","e":2554752,"n":1120819,"alt":1342,"prio":25},
+{"id":"9251C352-DC77","name":"Morgins, Chemin Joli-Bois","kind":"stop","e":2554705,"n":1120919,"alt":1348,"prio":25},
+{"id":"24B82AFE-42EC","name":"Morgins, Camping","kind":"stop","e":2554684,"n":1121152,"alt":1362,"prio":25},
+{"id":"4FA54E1D-08F4","name":"Velar du Pertuis","kind":"summit","e":2553432,"n":1121055,"alt":1895,"prio":60},
+{"id":"6C721466-420F","name":"Col de Fécon","kind":"pass","e":2553177,"n":1120608,"alt":1827,"prio":60},
+{"id":"9A05BAA0-079A","name":"Crête de Linge","kind":"summit","e":2552344,"n":1120012,"alt":2160,"prio":60},
+{"id":"9A05BAA0-079A","name":"Tête de Linga","kind":"summit","e":2552344,"n":1120012,"alt":2160,"prio":60},
+{"id":"55A89F09-B1AB","name":"Pointe du Midi","kind":"summit","e":2553662,"n":1121674,"alt":1850,"prio":60},
+{"id":"8D509471-0346","name":"Pas de Morgins","kind":"pass","e":2554611,"n":1121558,"alt":1374,"prio":60},
+{"id":"21B51E93-A553","name":"Cheval Blanc","kind":"summit","e":2554962,"n":1123248,"alt":1793,"prio":60},
+{"id":"48A921D3-19FF","name":"Pas de Morgins","kind":"pass","e":2554603,"n":1121779,"alt":1378,"prio":50},
+{"id":"F4AE5ADD-C10C","name":"Lac de Morgins","kind":"lake","e":2554371,"n":1122033,"alt":1366,"prio":50}
+]

@@ -1,0 +1,15 @@
+[
+{"id":"9A09BA2B-6C04","name":"Kapberg","kind":"summit","e":2583967,"n":1171193,"alt":1442,"prio":30},
+{"id":"A546AAC2-8873","name":"Le Cousimbert","kind":"summit","e":2580655,"n":1171224,"alt":1632,"prio":60},
+{"id":"A546AAC2-8873","name":"Käsenberg","kind":"summit","e":2580655,"n":1171224,"alt":1632,"prio":60},
+{"id":"1DD41638-714D","name":"Chrüzflue","kind":"summit","e":2583062,"n":1174037,"alt":1266,"prio":30},
+{"id":"73222C0B-438E","name":"La Feyla","kind":"summit","e":2581411,"n":1174789,"alt":1087,"prio":30},
+{"id":"34AE2E58-705A","name":"Kapitelberg","kind":"summit","e":2581530,"n":1172612,"alt":1497,"prio":30},
+{"id":"B19D2453-E79F","name":"Feyersaga","kind":"village","e":2583627,"n":1172709,"alt":1035,"prio":5},
+{"id":"288DAA34-E294","name":"Corpatauli","kind":"village","e":2584540,"n":1173559,"alt":1009,"prio":5},
+{"id":"75B1A5A5-A220","name":"Buvette du Gros Cousimbert","kind":"inn","e":2580773,"n":1171792,"alt":1572,"prio":50},
+{"id":"73736F3A-5687","name":"Buvette Feyersaga","kind":"inn","e":2583631,"n":1172715,"alt":1034,"prio":50},
+{"id":"25A3C27C-E5EF","name":"Buvette Crau-Rappo","kind":"inn","e":2582411,"n":1173349,"alt":1310,"prio":50},
+{"id":"D73B73A0-9E66","name":"Cousimbert des Particuliers","kind":"inn","e":2581077,"n":1170929,"alt":1484,"prio":50},
+{"id":"906CE18C-C0DE","name":"Buvette Wusta","kind":"inn","e":2581930,"n":1172382,"alt":1367,"prio":50}
+]

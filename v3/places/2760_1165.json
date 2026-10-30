@@ -1,0 +1,21 @@
+[
+{"id":"67221865-6377","name":"Cunter, Burvagn","kind":"stop","e":2764695,"n":1165791,"alt":1180,"prio":25},
+{"id":"6A9AB0C9-5337","name":"Mon, avant porta","kind":"stop","e":2762608,"n":1168875,"alt":1230,"prio":25},
+{"id":"AB226829-B96A","name":"Mon, plaz","kind":"stop","e":2762717,"n":1168735,"alt":1231,"prio":25},
+{"id":"865A35C8-BC28","name":"Salouf, vischnanca","kind":"stop","e":2763652,"n":1165936,"alt":1257,"prio":25},
+{"id":"3BD4AA76-B0B5","name":"Salouf, curt Del","kind":"stop","e":2763246,"n":1167576,"alt":1339,"prio":25},
+{"id":"EE214C0D-BC15","name":"Salouf, baselgia","kind":"stop","e":2763599,"n":1166344,"alt":1278,"prio":25},
+{"id":"0F3F4B12-8449","name":"Salouf, Pulens","kind":"stop","e":2763445,"n":1166672,"alt":1298,"prio":25},
+{"id":"5A0EFDB1-CEB7","name":"Salouf, scola","kind":"stop","e":2763619,"n":1166194,"alt":1265,"prio":25},
+{"id":"5047863A-0951","name":"Motta Vallac","kind":"summit","e":2763646,"n":1167193,"alt":1376,"prio":30},
+{"id":"F50F0725-D434","name":"Motta Radonda","kind":"summit","e":2762848,"n":1169983,"alt":927,"prio":10},
+{"id":"DC881CF6-602B","name":"Bot la Cresta","kind":"summit","e":2763926,"n":1169882,"alt":906,"prio":10},
+{"id":"C933F150-B3B5","name":"Chistinotbet","kind":"cave","e":2762022,"n":1166048,"alt":1719,"prio":25},
+{"id":"3A626A93-CBC9","name":"Salouf","kind":"village","e":2763637,"n":1165904,"alt":1260,"prio":30},
+{"id":"BE13F705-CB5D","name":"Burvagn","kind":"village","e":2764486,"n":1165986,"alt":1178,"prio":5},
+{"id":"90DC644F-FD92","name":"Del","kind":"village","e":2762983,"n":1167490,"alt":1374,"prio":5},
+{"id":"23AAA30A-C467","name":"Mon","kind":"village","e":2762693,"n":1168701,"alt":1238,"prio":15},
+{"id":"C6211D6A-2598","name":"Navaras","kind":"village","e":2763274,"n":1167556,"alt":1340,"prio":5},
+{"id":"BC1654F5-32E8","name":"Crestas","kind":"ridge","e":2764673,"n":1166376,"alt":1281,"prio":20},
+{"id":"3F8F1108-E7F1","name":"Lai da Burvagn","kind":"lake","e":2764538,"n":1165623,"alt":1116,"prio":50}
+]

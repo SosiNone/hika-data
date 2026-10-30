@@ -1,0 +1,12 @@
+[
+{"id":"70E7D2A7-B80A","name":"Tête du Filon","kind":"summit","e":2591128,"n":1084301,"alt":3306,"prio":90},
+{"id":"202A9FDB-34E3","name":"Fenêtre de Durand","kind":"pass","e":2593623,"n":1084153,"alt":2797,"prio":60},
+{"id":"072E721B-B7C0","name":"Mont Gelé","kind":"summit","e":2594367,"n":1083618,"alt":3518,"prio":100},
+{"id":"2A6D9534-3081","name":"Mont de la Balme","kind":"summit","e":2594985,"n":1083182,"alt":3347,"prio":90},
+{"id":"8FF08DCB-5EFA","name":"Col de By","kind":"pass","e":2590631,"n":1084490,"alt":3189,"prio":60},
+{"id":"9B563460-D8F6","name":"Col du Filon","kind":"pass","e":2591376,"n":1084326,"alt":3256,"prio":60},
+{"id":"250A61B3-38C1","name":"Tête de Balme","kind":"summit","e":2591702,"n":1084360,"alt":3314,"prio":90},
+{"id":"E9D7169D-7972","name":"Col du Mont Avril","kind":"pass","e":2592018,"n":1084548,"alt":3194,"prio":60},
+{"id":"8F109ED8-0C61","name":"Mont Avril","kind":"summit","e":2592670,"n":1084852,"alt":3347,"prio":90},
+{"id":"D4C646D1-FE92","name":"Col de la Balme","kind":"pass","e":2594958,"n":1083249,"alt":3320,"prio":60}
+]

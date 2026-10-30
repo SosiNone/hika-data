@@ -1,0 +1,21 @@
+[
+{"id":"A647CEBA-C6E7","name":"Bosco/Gurin, Ueberab","kind":"stop","e":2682528,"n":1130230,"alt":1316,"prio":25},
+{"id":"06A3D4E5-4468","name":"Ciavena Alta","kind":"summit","e":2684806,"n":1133610,"alt":2394,"prio":60},
+{"id":"1471749B-2CA6","name":"Pizzo d'Orsalietta","kind":"summit","e":2684501,"n":1133075,"alt":2475,"prio":60},
+{"id":"818A9A60-D96A","name":"Bocchetta del Madone","kind":"pass","e":2684473,"n":1132810,"alt":2318,"prio":60},
+{"id":"6FAA4354-D30F","name":"Bocchetta di Cerentino","kind":"pass","e":2684950,"n":1132753,"alt":2318,"prio":60},
+{"id":"BBDD37C3-E28B","name":"Madone","kind":"summit","e":2684248,"n":1132704,"alt":2477,"prio":60},
+{"id":"809EDE31-0FBF","name":"Pizzo d'Orsalía","kind":"summit","e":2682221,"n":1132540,"alt":2664,"prio":90},
+{"id":"BE7867AC-2937","name":"Bocchetta d'Orsalía","kind":"pass","e":2682800,"n":1132277,"alt":2444,"prio":60},
+{"id":"1FE6B283-ABA5","name":"Camino","kind":"summit","e":2683455,"n":1132208,"alt":2489,"prio":60},
+{"id":"F1065959-3DA9","name":"Bosco/Gurin","kind":"village","e":2681077,"n":1130015,"alt":1497,"prio":10},
+{"id":"F6D6E6AE-86E3","name":"Strahlbann","kind":"ridge","e":2680862,"n":1132593,"alt":2610,"prio":20},
+{"id":"50949DF7-2E3F","name":"Heij Bärg","kind":"ridge","e":2681080,"n":1131459,"alt":2289,"prio":20},
+{"id":"B15C0E2A-5EFA","name":"Creste d'Orsalía","kind":"ridge","e":2681842,"n":1132513,"alt":2546,"prio":20},
+{"id":"EFD4303F-D8AB","name":"Laghi di Formazzöö","kind":"lake","e":2680094,"n":1133412,"alt":2251,"prio":50},
+{"id":"347C5FD2-716D","name":"Üssera See","kind":"lake","e":2682656,"n":1132269,"alt":2394,"prio":50},
+{"id":"347C5FD2-716D","name":"Lago Pero","kind":"lake","e":2682656,"n":1132269,"alt":2394,"prio":50},
+{"id":"BA241169-31DE","name":"Schwarzsee","kind":"lake","e":2681962,"n":1132195,"alt":2316,"prio":50},
+{"id":"BA241169-31DE","name":"Lago Melo","kind":"lake","e":2681962,"n":1132195,"alt":2316,"prio":50},
+{"id":"EB2876AA-1DAC","name":"Lago d'Orsalìa","kind":"lake","e":2683520,"n":1132598,"alt":2146,"prio":50}
+]

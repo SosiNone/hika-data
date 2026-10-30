@@ -1,0 +1,19 @@
+[
+{"id":"EFDC5017-8AE3","name":"Bächlistock","kind":"summit","e":2661379,"n":1159792,"alt":3246,"prio":90},
+{"id":"1EB94947-8EAF","name":"Hiendertelltijoch","kind":"pass","e":2660050,"n":1159694,"alt":3093,"prio":60},
+{"id":"518B7B73-4B91","name":"Fellenberglicken","kind":"pass","e":2662019,"n":1159341,"alt":2995,"prio":60},
+{"id":"884B3D15-CDEE","name":"Brandlammhoren","kind":"summit","e":2662766,"n":1159249,"alt":3108,"prio":90},
+{"id":"1594F055-91EB","name":"Brandlammlicken","kind":"pass","e":2663822,"n":1158852,"alt":2813,"prio":60},
+{"id":"56A75D4F-E849","name":"Vorder Zinggestock","kind":"summit","e":2662799,"n":1156195,"alt":2921,"prio":90},
+{"id":"B407BA45-5F61","name":"Desorstock","kind":"summit","e":2661698,"n":1156459,"alt":2872,"prio":90},
+{"id":"7510E2A7-0F19","name":"Hinder Zinggestock","kind":"summit","e":2661504,"n":1156034,"alt":3040,"prio":90},
+{"id":"61460FA2-47B1","name":"Zinggenlicken","kind":"pass","e":2661362,"n":1155876,"alt":2982,"prio":60},
+{"id":"BAF1E6D2-A5BE","name":"Vorder Tierberg","kind":"summit","e":2660596,"n":1155718,"alt":3111,"prio":90},
+{"id":"5E8A2C5D-5E9E","name":"Chüetriftehoren","kind":"summit","e":2660721,"n":1159615,"alt":3117,"prio":90},
+{"id":"F7B14066-BE9D","name":"Brünberg","kind":"summit","e":2664270,"n":1158636,"alt":2982,"prio":90},
+{"id":"7367AE9F-E7FF","name":"Bäregg","kind":"summit","e":2664706,"n":1155853,"alt":2498,"prio":60},
+{"id":"DDE57ECF-C101","name":"Lauteraarhütte SAC","kind":"inn","e":2660070,"n":1157943,"alt":2392,"prio":50},
+{"id":"6A0414DD-24BD","name":"Berghaus Oberaar","kind":"inn","e":2664338,"n":1155637,"alt":2347,"prio":50},
+{"id":"048FC91A-6C1F","name":"Bächlitalhütte SAC","kind":"inn","e":2664683,"n":1159872,"alt":2329,"prio":50},
+{"id":"E7FF585B-4B81","name":"Oberaarsee","kind":"lake","e":2662989,"n":1155045,"alt":2302,"prio":50}
+]

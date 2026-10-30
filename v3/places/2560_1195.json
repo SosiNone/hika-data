@@ -1,0 +1,12 @@
+[
+{"id":"B29F449A-A239","name":"Portalban, Dessus","kind":"stop","e":2563050,"n":1195659,"alt":473,"prio":25},
+{"id":"285698D2-6EC8","name":"Delley, école","kind":"stop","e":2564176,"n":1196024,"alt":498,"prio":25},
+{"id":"38B6AAD9-6C20","name":"Delley, En Roche","kind":"stop","e":2564505,"n":1195785,"alt":502,"prio":25},
+{"id":"495F4EF6-8D82","name":"Portalban, village","kind":"stop","e":2563247,"n":1196413,"alt":436,"prio":25},
+{"id":"327F8FC2-E3AD","name":"Portalban, école","kind":"stop","e":2563174,"n":1196458,"alt":434,"prio":25},
+{"id":"25F5D1A3-AD05","name":"Pré de Riva","kind":"village","e":2561510,"n":1195037,"alt":431,"prio":30},
+{"id":"B8FA3227-7025","name":"Portalban","kind":"village","e":2563243,"n":1196600,"alt":431,"prio":30},
+{"id":"9F964DED-949F","name":"Fin de Gros-Bois","kind":"village","e":2562209,"n":1195105,"alt":472,"prio":30},
+{"id":"78B14DA2-F475","name":"Delley","kind":"village","e":2564165,"n":1195686,"alt":502,"prio":30},
+{"id":"3810282E-D709","name":"Gros-Champ","kind":"village","e":2562280,"n":1195294,"alt":462,"prio":5}
+]

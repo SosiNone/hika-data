@@ -1,0 +1,11 @@
+[
+{"id":"A4CA8C7A-E0B5","name":"Chute du Bief de Vautenaivre","kind":"water","e":2564090,"n":1236743,"alt":571,"prio":25},
+{"id":"60CC6207-57AF","name":"Sur le Rang","kind":"village","e":2564682,"n":1236668,"alt":683,"prio":5},
+{"id":"1F887BCE-D9B9","name":"Les Roies","kind":"village","e":2564038,"n":1237035,"alt":628,"prio":5},
+{"id":"B55E0FDE-EC4D","name":"Bois Banal","kind":"village","e":2563868,"n":1235885,"alt":860,"prio":5},
+{"id":"F00342F2-59F4","name":"La Verte Herbe","kind":"village","e":2563151,"n":1235697,"alt":498,"prio":5},
+{"id":"65D74149-FE77","name":"Vautenaivre","kind":"village","e":2563436,"n":1236406,"alt":637,"prio":5},
+{"id":"B7F83FE7-4DC6","name":"Vieux Pont","kind":"village","e":2563053,"n":1235109,"alt":490,"prio":5},
+{"id":"594E88BA-9F85","name":"La Vauchotte","kind":"village","e":2563209,"n":1235474,"alt":496,"prio":5},
+{"id":"A813AD86-AD6E","name":"Auberge de la Verte Herbe","kind":"inn","e":2563163,"n":1235691,"alt":498,"prio":50}
+]

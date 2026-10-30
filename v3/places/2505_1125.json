@@ -1,0 +1,21 @@
+[
+{"id":"86371A2C-6DF5","name":"Hermance, Triaz","kind":"stop","e":2507886,"n":1127895,"alt":391,"prio":25},
+{"id":"3D054A54-7610","name":"Hermance, Villars","kind":"stop","e":2507682,"n":1127508,"alt":398,"prio":25},
+{"id":"811A4BC4-A27C","name":"Anières, village","kind":"stop","e":2506319,"n":1125781,"alt":401,"prio":25},
+{"id":"9864A095-52E2","name":"Anières, Marguerite","kind":"stop","e":2506109,"n":1125334,"alt":394,"prio":25},
+{"id":"61B81A8C-A80E","name":"Anières, Nant-d'Aisy","kind":"stop","e":2505984,"n":1125103,"alt":389,"prio":25},
+{"id":"7505E7D5-3988","name":"Anières, Bassy","kind":"stop","e":2506845,"n":1125957,"alt":422,"prio":25},
+{"id":"65CEA965-9E05","name":"Anières, Chavannes","kind":"stop","e":2506793,"n":1126470,"alt":391,"prio":25},
+{"id":"55A5F09B-D9AA","name":"Anières, Courson","kind":"stop","e":2507313,"n":1126389,"alt":425,"prio":25},
+{"id":"D7D12517-341D","name":"Anières, Gravière","kind":"stop","e":2507400,"n":1127093,"alt":394,"prio":25},
+{"id":"1AAF8B0C-BD04","name":"Anières, mairie","kind":"stop","e":2506652,"n":1125536,"alt":423,"prio":25},
+{"id":"3645BD25-5361","name":"Anières, Courbes","kind":"stop","e":2506629,"n":1126210,"alt":394,"prio":25},
+{"id":"19054558-31A2","name":"Anières, Foyer","kind":"stop","e":2507058,"n":1125197,"alt":428,"prio":25},
+{"id":"EE4CDAA9-22CB","name":"Anières, Sous-Chevrens","kind":"stop","e":2507165,"n":1126844,"alt":395,"prio":25},
+{"id":"7C611FE2-1134","name":"Anières, Chevrens","kind":"stop","e":2507516,"n":1126534,"alt":425,"prio":25},
+{"id":"D985747E-3FFB","name":"Hermance, village","kind":"stop","e":2507961,"n":1128431,"alt":380,"prio":25},
+{"id":"704E5792-212E","name":"Anières","kind":"village","e":2506588,"n":1126074,"alt":401,"prio":55},
+{"id":"3D2D173A-4357","name":"Hermance","kind":"village","e":2507978,"n":1128534,"alt":378,"prio":45},
+{"id":"139F8352-ED6B","name":"Chevrens","kind":"village","e":2507377,"n":1126434,"alt":424,"prio":30},
+{"id":"82DC9CAA-EEE9","name":"Le Pont-des-Golettes","kind":"village","e":2507367,"n":1125916,"alt":422,"prio":5}
+]

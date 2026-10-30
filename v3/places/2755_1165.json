@@ -1,0 +1,13 @@
+[
+{"id":"9FBF4138-165A","name":"Muttner Hora","kind":"summit","e":2756661,"n":1169023,"alt":2394,"prio":60},
+{"id":"65548373-E7A8","name":"Piz Toissa","kind":"summit","e":2759785,"n":1165166,"alt":2656,"prio":90},
+{"id":"3219100C-E6AE","name":"Curvér Pintg da Taspegn","kind":"summit","e":2757857,"n":1165718,"alt":2731,"prio":90},
+{"id":"BE468179-838C","name":"Crap l'Evla","kind":"summit","e":2758519,"n":1165565,"alt":2510,"prio":20},
+{"id":"21E96D61-AAA5","name":"Bot Schischlet","kind":"summit","e":2758973,"n":1167757,"alt":2170,"prio":60},
+{"id":"A164F57B-47BA","name":"Ehemalige Silberminen Alp Taspegn","kind":"cave","e":2756494,"n":1166034,"alt":2164,"prio":25},
+{"id":"A9958559-060A","name":"Alphüttenbeiz Tigia Alp Stierva","kind":"inn","e":2758960,"n":1169801,"alt":2029,"prio":50},
+{"id":"14ADCE4D-7ED5","name":"Feil","kind":"ridge","e":2757834,"n":1166863,"alt":2451,"prio":20},
+{"id":"2FC9C2F8-C86B","name":"Fil da Muntanealas","kind":"ridge","e":2757056,"n":1166086,"alt":2383,"prio":20},
+{"id":"A09057E0-A25D","name":"Lai digl Feil","kind":"lake","e":2757892,"n":1167580,"alt":2404,"prio":50},
+{"id":"084DC834-9E53","name":"Lais","kind":"lake","e":2758548,"n":1168511,"alt":2159,"prio":50}
+]

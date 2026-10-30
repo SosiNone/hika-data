@@ -1,0 +1,17 @@
+[
+{"id":"316D56B6-EF5A","name":"Cresciano, Paese","kind":"stop","e":2720628,"n":1126798,"alt":256,"prio":25},
+{"id":"0CA2F46D-504D","name":"Cresciano, Palazzi","kind":"stop","e":2721080,"n":1126154,"alt":252,"prio":25},
+{"id":"B8AE55A8-A346","name":"Preonzo, Nord","kind":"stop","e":2720197,"n":1125123,"alt":260,"prio":25},
+{"id":"A96D89B8-CC5A","name":"Torrone Rosso","kind":"summit","e":2723928,"n":1128827,"alt":2429,"prio":60},
+{"id":"BDEC7794-506C","name":"Cima Cioltro","kind":"summit","e":2721467,"n":1129942,"alt":1846,"prio":60},
+{"id":"45553BBE-1735","name":"Pass de Mem","kind":"pass","e":2724844,"n":1126772,"alt":2192,"prio":60},
+{"id":"2A13B673-D832","name":"Pizzo di Claro","kind":"summit","e":2724589,"n":1128466,"alt":2727,"prio":90},
+{"id":"2A13B673-D832","name":"Visagn","kind":"summit","e":2724589,"n":1128466,"alt":2727,"prio":90},
+{"id":"B3245929-7299","name":"Bocchetta di Simidii","kind":"pass","e":2724926,"n":1128586,"alt":2558,"prio":60},
+{"id":"56C57C8D-9951","name":"Cresciano","kind":"village","e":2720670,"n":1126710,"alt":258,"prio":30},
+{"id":"4FEF74FA-EEAA","name":"Alpe di Mott","kind":"inn","e":2724561,"n":1125792,"alt":1862,"prio":45},
+{"id":"4BBF2E99-5C78","name":"Rifugio Peurett","kind":"inn","e":2722985,"n":1127914,"alt":1747,"prio":45},
+{"id":"E66A3DAF-29D3","name":"Alpe di Domass","kind":"inn","e":2724372,"n":1125460,"alt":1665,"prio":45},
+{"id":"371960DE-E591","name":"Rifugio Alpe di Pèu","kind":"inn","e":2722723,"n":1128188,"alt":1724,"prio":45},
+{"id":"79A85A98-8140","name":"Lago di Canèe","kind":"lake","e":2723887,"n":1128574,"alt":2197,"prio":50}
+]

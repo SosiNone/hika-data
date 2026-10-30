@@ -1,0 +1,9 @@
+[
+{"id":"84B98904-6558","name":"Basel, Kleinhüningen","kind":"stop","e":2611547,"n":1270076,"alt":249,"prio":45},
+{"id":"86C41F88-AD85","name":"Basel, Rheinhafen","kind":"stop","e":2611213,"n":1270251,"alt":249,"prio":25},
+{"id":"30543513-EB66","name":"Basel, Weil am Rhein Grenze","kind":"stop","e":2611638,"n":1270928,"alt":249,"prio":45},
+{"id":"3DC386D6-227D","name":"Basel, Kleinhüningeranlage","kind":"stop","e":2611675,"n":1270352,"alt":251,"prio":45},
+{"id":"BBE6F1E9-D5B3","name":"Weil am Rhein, Grenze","kind":"stop","e":2611631,"n":1270957,"alt":249,"prio":25},
+{"id":"03299F26-F36A","name":"Basel, Dreiländereck","kind":"stop","e":2611288,"n":1270677,"alt":249,"prio":25},
+{"id":"C4FCB0BA-3CD3","name":"Basel, Badenstrasse","kind":"stop","e":2612005,"n":1270157,"alt":251,"prio":25}
+]

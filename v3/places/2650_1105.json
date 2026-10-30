@@ -1,0 +1,15 @@
+[
+{"id":"7F111FDD-5745","name":"Passo di Pontimia","kind":"pass","e":2652275,"n":1108147,"alt":2380,"prio":60},
+{"id":"A1F1F0D3-B3EF","name":"Passo del Rosso","kind":"pass","e":2651895,"n":1107090,"alt":2553,"prio":60},
+{"id":"1471E258-6753","name":"Passo di Vallaro","kind":"pass","e":2653388,"n":1109616,"alt":2488,"prio":60},
+{"id":"3B244843-7A18","name":"Ricca","kind":"summit","e":2652242,"n":1108897,"alt":2533,"prio":90},
+{"id":"755A276D-8E84","name":"Pizzo Straciugo","kind":"summit","e":2652716,"n":1109196,"alt":2713,"prio":90},
+{"id":"537320B9-9F18","name":"Cima d'Azoglio","kind":"summit","e":2654061,"n":1109613,"alt":2611,"prio":90},
+{"id":"46B491BD-C427","name":"Passo del Büsin","kind":"pass","e":2651020,"n":1106676,"alt":2480,"prio":60},
+{"id":"14CD3240-9F0A","name":"Cima del Rosso","kind":"summit","e":2651899,"n":1107290,"alt":2624,"prio":90},
+{"id":"3AC22EF5-2910","name":"Pizzo del Büsin","kind":"summit","e":2650914,"n":1106536,"alt":2552,"prio":90},
+{"id":"3DFCBC28-8872","name":"Mittelgrätji","kind":"ridge","e":2650723,"n":1106986,"alt":2435,"prio":20},
+{"id":"BD6FE311-EAF8","name":"Potimiaseewjini","kind":"lake","e":2651752,"n":1108279,"alt":2246,"prio":50},
+{"id":"794C61B8-E966","name":"Potimiaseewjini","kind":"lake","e":2651803,"n":1108128,"alt":2246,"prio":50},
+{"id":"A08F379A-8C00","name":"Potimiaseewjini","kind":"lake","e":2651691,"n":1108423,"alt":2248,"prio":50}
+]

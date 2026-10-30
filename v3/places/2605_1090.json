@@ -1,0 +1,21 @@
+[
+{"id":"54FF2EE2-9CED","name":"Col de Bertol","kind":"pass","e":2606874,"n":1094872,"alt":3265,"prio":60},
+{"id":"CEDE6740-B0BC","name":"Mont Collon","kind":"summit","e":2605333,"n":1091725,"alt":3637,"prio":90},
+{"id":"C38D9838-1EA2","name":"Le Chancelier","kind":"summit","e":2605054,"n":1091482,"alt":3625,"prio":20},
+{"id":"0104EB70-2207","name":"Mitre de l'Evêque","kind":"summit","e":2605247,"n":1090800,"alt":3653,"prio":90},
+{"id":"71DA41F0-3132","name":"Tête de Chavannes","kind":"summit","e":2609777,"n":1092770,"alt":3672,"prio":90},
+{"id":"71DA41F0-3132","name":"Petite Tête Blanche","kind":"summit","e":2609777,"n":1092770,"alt":3672,"prio":90},
+{"id":"1194CB54-F36F","name":"La Vierge","kind":"summit","e":2606157,"n":1090127,"alt":3232,"prio":90},
+{"id":"B021926A-D319","name":"Dents de Bertol","kind":"summit","e":2607744,"n":1093981,"alt":3546,"prio":90},
+{"id":"945FF3FB-6423","name":"Petit Bouquetin","kind":"summit","e":2608027,"n":1091808,"alt":3670,"prio":90},
+{"id":"66F27F86-DE08","name":"Pointe Barnes","kind":"summit","e":2607977,"n":1091643,"alt":3611,"prio":90},
+{"id":"7F02324E-6021","name":"Pointe de la Grande Arête","kind":"summit","e":2608213,"n":1090776,"alt":3354,"prio":90},
+{"id":"386C981C-9952","name":"Col du Mont Brulé","kind":"pass","e":2608274,"n":1090357,"alt":3215,"prio":60},
+{"id":"A9EAF1BD-E5A1","name":"Col des Bouquetins","kind":"pass","e":2609259,"n":1092859,"alt":3339,"prio":60},
+{"id":"FD928C15-9127","name":"Bouquetins Sommet Central","kind":"summit","e":2608281,"n":1092304,"alt":3838,"prio":90},
+{"id":"7ABAC266-AF68","name":"Bouquetins Sommet Nord","kind":"summit","e":2608222,"n":1092885,"alt":3779,"prio":90},
+{"id":"94A2B047-4957","name":"Col de la Grande Arête","kind":"pass","e":2608141,"n":1090872,"alt":3295,"prio":60},
+{"id":"D6817AE5-0950","name":"Cabane de Bertol CAS","kind":"inn","e":2606895,"n":1094951,"alt":3311,"prio":50},
+{"id":"C52AC71C-C395","name":"Refuge des Bouquetins CAS","kind":"inn","e":2607121,"n":1091038,"alt":2979,"prio":45},
+{"id":"32D4CD99-5517","name":"Crête du Plan","kind":"ridge","e":2606477,"n":1094263,"alt":3138,"prio":20}
+]

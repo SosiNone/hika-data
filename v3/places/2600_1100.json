@@ -1,0 +1,19 @@
+[
+{"id":"5A5762B1-DFB8","name":"Arolla, La Gouille","kind":"stop","e":2603997,"n":1100294,"alt":1835,"prio":25},
+{"id":"9DAAB33D-05D0","name":"Les Haudères, Farquèses","kind":"stop","e":2604577,"n":1103806,"alt":1685,"prio":25},
+{"id":"18CC3E9C-59E4","name":"Les Haudères, La Coutaz","kind":"stop","e":2604086,"n":1102796,"alt":1798,"prio":25},
+{"id":"4B2C1F81-01FB","name":"Les Haudères, Les Juttes","kind":"stop","e":2604064,"n":1101107,"alt":1823,"prio":25},
+{"id":"78B1EF00-E3DF","name":"Mont des Ritses","kind":"summit","e":2602283,"n":1101436,"alt":2915,"prio":60},
+{"id":"1EE330C6-13F3","name":"La Palantse de la Cretta","kind":"summit","e":2602001,"n":1104748,"alt":2929,"prio":90},
+{"id":"D3D81BB7-865F","name":"Mont de l'Etoile","kind":"summit","e":2600891,"n":1102485,"alt":3369,"prio":90},
+{"id":"E5D53808-C5D0","name":"Le Bèche de la Cretta","kind":"pass","e":2601687,"n":1104341,"alt":2869,"prio":60},
+{"id":"CACB7B53-0D2E","name":"La Coutaz","kind":"village","e":2604073,"n":1102893,"alt":1830,"prio":5},
+{"id":"CE4AEF3B-E753","name":"L'Ata Gieute","kind":"village","e":2604523,"n":1104946,"alt":1760,"prio":5},
+{"id":"57C34E18-C27C","name":"Le Grand Pra","kind":"village","e":2604659,"n":1104273,"alt":1687,"prio":5},
+{"id":"15D1EBC8-43DF","name":"La Vèntura","kind":"village","e":2604398,"n":1102476,"alt":1605,"prio":5},
+{"id":"C35D58AC-4E45","name":"Le Vouartsé","kind":"village","e":2603811,"n":1100296,"alt":1895,"prio":5},
+{"id":"55B1EEE6-733C","name":"La Gouille","kind":"village","e":2603964,"n":1100244,"alt":1838,"prio":5},
+{"id":"EA211C44-3E4B","name":"Les Chlistes","kind":"village","e":2604184,"n":1103388,"alt":1901,"prio":5},
+{"id":"B98F5C2D-A13F","name":"Cabane des Aiguilles Rouges","kind":"inn","e":2601456,"n":1100539,"alt":2810,"prio":50},
+{"id":"E2FFD282-B113","name":"Pension du Lac Bleu","kind":"inn","e":2603960,"n":1100218,"alt":1835,"prio":50}
+]

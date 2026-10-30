@@ -1,0 +1,16 @@
+[
+{"id":"2CD86FC7-2680","name":"Bosco/Gurin Grossalp","kind":"lift","e":2679070,"n":1129897,"alt":1993,"prio":40},
+{"id":"73555727-E860","name":"Rossboda (Grossalp)","kind":"lift","e":2677724,"n":1129580,"alt":2335,"prio":40},
+{"id":"40ED0E02-EABD","name":"Batnall","kind":"summit","e":2677183,"n":1128575,"alt":2748,"prio":90},
+{"id":"40ED0E02-EABD","name":"Madone","kind":"summit","e":2677183,"n":1128575,"alt":2748,"prio":90},
+{"id":"256C9335-43A7","name":"Passo della Stella","kind":"pass","e":2677272,"n":1129238,"alt":2443,"prio":60},
+{"id":"17D077AE-9AA7","name":"Krameggpass","kind":"pass","e":2677312,"n":1129978,"alt":2518,"prio":60},
+{"id":"246D8EA4-D17B","name":"Crös Cavörgn","kind":"pass","e":2676795,"n":1128417,"alt":2531,"prio":60},
+{"id":"246D8EA4-D17B","name":"Passo Lareggio","kind":"pass","e":2676795,"n":1128417,"alt":2531,"prio":60},
+{"id":"E8E6C236-C614","name":"Kleinhorn","kind":"summit","e":2679387,"n":1128388,"alt":2171,"prio":60},
+{"id":"4B0AE4DE-E578","name":"Sasso Rosso","kind":"summit","e":2679741,"n":1128292,"alt":2177,"prio":60},
+{"id":"F0C731F1-2E3A","name":"Passo Quadrella","kind":"pass","e":2679039,"n":1128122,"alt":2136,"prio":60},
+{"id":"93339E08-FCC9","name":"Pizzo Quadro","kind":"summit","e":2676210,"n":1127916,"alt":2793,"prio":100},
+{"id":"77C81517-982E","name":"Sasso del Pino","kind":"summit","e":2677218,"n":1126120,"alt":2028,"prio":60},
+{"id":"8D236CDE-17FA","name":"Starna","kind":"ridge","e":2677302,"n":1129385,"alt":2472,"prio":20}
+]

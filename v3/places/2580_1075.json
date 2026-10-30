@@ -1,0 +1,9 @@
+[
+{"id":"9E7F106F-3605","name":"La Pointe de Babylone","kind":"summit","e":2581284,"n":1079886,"alt":2856,"prio":90},
+{"id":"9E7F106F-3605","name":"Tête Verte","kind":"summit","e":2581284,"n":1079886,"alt":2856,"prio":90},
+{"id":"4A6D8FA2-2B7C","name":"Pointe de Barasson","kind":"summit","e":2581529,"n":1079079,"alt":2963,"prio":90},
+{"id":"309A2EDF-85F7","name":"Tête de Barasson","kind":"summit","e":2580733,"n":1078592,"alt":2730,"prio":90},
+{"id":"11830182-DD77","name":"Col Est de Barasson","kind":"pass","e":2580859,"n":1078649,"alt":2681,"prio":60},
+{"id":"C13BE553-04CF","name":"Col Ouest de Barasson","kind":"pass","e":2580239,"n":1078759,"alt":2634,"prio":60},
+{"id":"8F0F1F09-8F79","name":"L'Arête de Tcholeire","kind":"ridge","e":2581231,"n":1079886,"alt":2828,"prio":20}
+]

@@ -1,0 +1,11 @@
+[
+{"id":"5FA2FB59-48F1","name":"Limmerenpass","kind":"pass","e":2719665,"n":1185632,"alt":2612,"prio":60},
+{"id":"626141B2-90ED","name":"Vorder Schiben","kind":"summit","e":2717331,"n":1186939,"alt":2987,"prio":90},
+{"id":"7BD8E451-D881","name":"Plattas Alvas","kind":"summit","e":2717707,"n":1188555,"alt":2949,"prio":90},
+{"id":"7BD8E451-D881","name":"Mittler Selbsanft","kind":"summit","e":2717707,"n":1188555,"alt":2949,"prio":90},
+{"id":"040CD9DF-6AC5","name":"Hinter Selbsanft","kind":"summit","e":2717435,"n":1187882,"alt":3029,"prio":90},
+{"id":"F8F201B4-C150","name":"Ochsenstock","kind":"summit","e":2715190,"n":1187513,"alt":2260,"prio":60},
+{"id":"E047DC5E-8FF8","name":"Hinter Schiben","kind":"summit","e":2717001,"n":1186430,"alt":3083,"prio":90},
+{"id":"DDE24853-147F","name":"Griessloch","kind":"pass","e":2717715,"n":1187361,"alt":2847,"prio":60},
+{"id":"7AEA8D52-1D42","name":"Fridolinshütte SAC","kind":"inn","e":2715329,"n":1186685,"alt":2112,"prio":50}
+]

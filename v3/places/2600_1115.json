@@ -1,0 +1,21 @@
+[
+{"id":"539A8607-647F","name":"Nax","kind":"lift","e":2601821,"n":1119321,"alt":1512,"prio":40},
+{"id":"3C5F8E1F-A7DE","name":"Gautier","kind":"lift","e":2602443,"n":1118692,"alt":1913,"prio":40},
+{"id":"D03E23BC-060D","name":"Mase, La Fougère","kind":"stop","e":2600502,"n":1115802,"alt":1366,"prio":25},
+{"id":"D48B1211-0FF3","name":"Cabane (Mont Noble)","kind":"lift","e":2603131,"n":1117747,"alt":2292,"prio":40},
+{"id":"1055172A-8855","name":"La Combe (Mont Noble)","kind":"lift","e":2602921,"n":1116485,"alt":2179,"prio":40},
+{"id":"2E3716F2-B0E7","name":"La Vachette","kind":"lift","e":2602156,"n":1118661,"alt":1812,"prio":40},
+{"id":"AB50DB86-728E","name":"Mont Noble","kind":"lift","e":2604026,"n":1117235,"alt":2641,"prio":40},
+{"id":"BEFAFAE8-1B5A","name":"Tour de Bonvin","kind":"summit","e":2603749,"n":1118253,"alt":2443,"prio":60},
+{"id":"A740D16B-C90B","name":"Mont Noble","kind":"summit","e":2604000,"n":1117335,"alt":2672,"prio":90},
+{"id":"19C91DBB-5973","name":"Col de Cou","kind":"pass","e":2604272,"n":1116719,"alt":2529,"prio":60},
+{"id":"03A54A44-A8F9","name":"Mont Gautier","kind":"summit","e":2604161,"n":1116232,"alt":2697,"prio":90},
+{"id":"8AC0DE5E-1E9A","name":"Tête des Planards","kind":"summit","e":2603187,"n":1117104,"alt":2449,"prio":60},
+{"id":"2049A5C2-108F","name":"Les Brechets","kind":"pass","e":2603911,"n":1115818,"alt":2618,"prio":60},
+{"id":"5D7F5866-EE19","name":"Les Ottiores","kind":"village","e":2600967,"n":1116075,"alt":1610,"prio":5},
+{"id":"85B3BA85-9A44","name":"Tsampé","kind":"village","e":2601234,"n":1115756,"alt":1472,"prio":5},
+{"id":"EE1B8753-1365","name":"Buvette et Gîte de la Louère","kind":"inn","e":2602949,"n":1115973,"alt":2164,"prio":50},
+{"id":"0D544636-4C1C","name":"Buvette du Chiesso Gauthier","kind":"inn","e":2602230,"n":1117974,"alt":2071,"prio":50},
+{"id":"D4C3589C-F126","name":"Lac de Vernamiège","kind":"lake","e":2600784,"n":1117886,"alt":1742,"prio":50},
+{"id":"5F7F99A6-208B","name":"Gouille de la Grand-Rionde","kind":"lake","e":2604649,"n":1115109,"alt":2468,"prio":50}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"4A3784C9-F633","name":"Schönenbuch, Dorf","kind":"stop","e":2604726,"n":1265113,"alt":356,"prio":25},
+{"id":"E98BAD6F-E22C","name":"Schönenbuch, Niederfeld","kind":"stop","e":2604929,"n":1265305,"alt":359,"prio":25},
+{"id":"44B2ACB5-8F87","name":"Schönenbuch","kind":"village","e":2604775,"n":1265180,"alt":358,"prio":45}
+]

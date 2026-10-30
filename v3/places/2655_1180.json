@@ -1,0 +1,23 @@
+[
+{"id":"FB251397-6522","name":"Lungern","kind":"stop","e":2655362,"n":1181939,"alt":752,"prio":45},
+{"id":"43AD6A08-957B","name":"Kaiserstuhl OW, Bahnhof","kind":"stop","e":2656242,"n":1184919,"alt":697,"prio":25},
+{"id":"40878EB1-BDA7","name":"Lungern, Dorfkapelle","kind":"stop","e":2655060,"n":1181880,"alt":712,"prio":25},
+{"id":"48E2F1E6-C89C","name":"Lungern, Zihl","kind":"stop","e":2655388,"n":1182581,"alt":701,"prio":25},
+{"id":"2D028F9D-06DD","name":"Höh Grat","kind":"summit","e":2657779,"n":1184409,"alt":1923,"prio":60},
+{"id":"C0ED02DC-03F8","name":"Güpfi","kind":"summit","e":2657766,"n":1183062,"alt":2043,"prio":60},
+{"id":"C2481E07-E105","name":"Horn","kind":"summit","e":2657665,"n":1181448,"alt":1858,"prio":60},
+{"id":"0766B9B5-60F1","name":"Erzbiel","kind":"summit","e":2658232,"n":1180577,"alt":1711,"prio":30},
+{"id":"84FC8264-50A2","name":"Gibel","kind":"summit","e":2657377,"n":1180178,"alt":2036,"prio":60},
+{"id":"6DF7D42C-453F","name":"Chingstuel","kind":"summit","e":2658764,"n":1180100,"alt":2120,"prio":60},
+{"id":"0AAE16E0-CBC4","name":"Schild","kind":"summit","e":2656533,"n":1181017,"alt":1580,"prio":30},
+{"id":"7B80DB91-EA44","name":"Bürglen OW","kind":"village","e":2655427,"n":1184807,"alt":726,"prio":15},
+{"id":"85CCFFA5-3946","name":"Buchholzacher","kind":"village","e":2655069,"n":1184554,"alt":772,"prio":5},
+{"id":"3B36EB75-19B7","name":"Uf dr Bürglen","kind":"village","e":2655452,"n":1184544,"alt":743,"prio":5},
+{"id":"56CA184E-F4B5","name":"Hintermatt","kind":"village","e":2655445,"n":1184980,"alt":741,"prio":5},
+{"id":"0A24E3C8-A98A","name":"Stadel","kind":"village","e":2655140,"n":1184721,"alt":778,"prio":5},
+{"id":"2317D1EA-4169","name":"Geissweg","kind":"village","e":2655230,"n":1184846,"alt":784,"prio":5},
+{"id":"7E1C32F9-38CC","name":"Enetmatt","kind":"village","e":2655080,"n":1184373,"alt":716,"prio":5},
+{"id":"C63298AB-7076","name":"Lungern","kind":"village","e":2655238,"n":1181858,"alt":736,"prio":45},
+{"id":"5BE99803-4C03","name":"Schwarzegg","kind":"ridge","e":2658188,"n":1183208,"alt":1766,"prio":20},
+{"id":"D4CBD7A5-E953","name":"Lungerersee","kind":"lake","e":2655285,"n":1183797,"alt":688,"prio":50}
+]
