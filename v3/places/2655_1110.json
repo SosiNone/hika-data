@@ -1,9 +1,0 @@
-[
-{"id":"DCA999BA-B194","name":"Passo di Monscera","kind":"pass","e":2655098,"n":1112970,"alt":2102,"prio":60},
-{"id":"A3940534-B63C","name":"Bocchetta Gattascosa","kind":"pass","e":2655179,"n":1111520,"alt":2157,"prio":60},
-{"id":"6BCB9E44-2C5B","name":"Cima Mattaroni","kind":"summit","e":2655109,"n":1111747,"alt":2235,"prio":60},
-{"id":"4400D1B8-C2AC","name":"Camoscellahorn","kind":"summit","e":2655686,"n":1113972,"alt":2612,"prio":90},
-{"id":"4400D1B8-C2AC","name":"Pizzo Pioltone","kind":"summit","e":2655686,"n":1113972,"alt":2612,"prio":90},
-{"id":"0D61C2F4-ADD2","name":"Pizzo l'Omasca","kind":"summit","e":2656150,"n":1114673,"alt":2253,"prio":60},
-{"id":"48802795-6174","name":"Passo di Oriaccia","kind":"pass","e":2655174,"n":1110647,"alt":2325,"prio":60}
-]

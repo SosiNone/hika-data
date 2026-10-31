@@ -1,8 +1,0 @@
-[
-{"id":"8906DF8C-18BC","name":"Dietlisberg","kind":"summit","e":2684081,"n":1275123,"alt":518,"prio":10},
-{"id":"0B7D6788-E12A","name":"Blettliacker","kind":"village","e":2681903,"n":1275093,"alt":513,"prio":5},
-{"id":"6B539EA0-42A3","name":"Rossberg","kind":"village","e":2680803,"n":1279599,"alt":625,"prio":5},
-{"id":"1270AB5A-E112","name":"Langenriet","kind":"village","e":2681902,"n":1275770,"alt":523,"prio":5},
-{"id":"8D585178-9E51","name":"Restaurant Rossberghof","kind":"inn","e":2680808,"n":1279608,"alt":625,"prio":50},
-{"id":"019586B4-DFBE","name":"See","kind":"lake","e":2680961,"n":1277981,"alt":422,"prio":50}
-]

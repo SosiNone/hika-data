@@ -1,8 +1,0 @@
-[
-{"id":"74DFAB86-250B","name":"Vinadi","kind":"stop","e":2831992,"n":1201591,"alt":1088,"prio":25},
-{"id":"2F551F4A-D42B","name":"Craista Sura","kind":"summit","e":2830440,"n":1202736,"alt":2073,"prio":60},
-{"id":"0543DE96-5C58","name":"Craista Sot","kind":"summit","e":2830493,"n":1202955,"alt":1928,"prio":60},
-{"id":"3A00D34B-E9A7","name":"Craista Dadaint","kind":"summit","e":2830137,"n":1203499,"alt":1901,"prio":60},
-{"id":"AE70A823-9F57","name":"Vinadi","kind":"village","e":2831958,"n":1201639,"alt":1085,"prio":5},
-{"id":"AE70A823-9F57","name":"Weinberg","kind":"village","e":2831958,"n":1201639,"alt":1085,"prio":5}
-]

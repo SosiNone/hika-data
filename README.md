@@ -47,8 +47,7 @@ v4/
 ```
 
 A new format goes into a new directory (`v5/`) next to the current one, until the app release
-that reads it is live. `v3/`, the format before ranges and areas (with square regions), stays for
-HIKA 0.15 until 0.16.0 is live, and is no longer rebuilt.
+that reads it is live, and the old one is removed once that release is live.
 
 ## Updating
 
