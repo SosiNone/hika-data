@@ -1,0 +1,23 @@
+[
+{"id":"5B40361D-9252","name":"Hinter Fruttstöck","kind":"summit","e":2703310,"n":1180755,"alt":2396,"prio":60},
+{"id":"4AE28494-FF8C","name":"Usser Fruttstock","kind":"summit","e":2702591,"n":1180634,"alt":2318,"prio":60},
+{"id":"5E922B64-7706","name":"Libplanggenstock","kind":"summit","e":2702126,"n":1180590,"alt":2161,"prio":60},
+{"id":"67BE1AB5-1525","name":"Hochbocki","kind":"summit","e":2703565,"n":1180528,"alt":2605,"prio":90},
+{"id":"7BD8516B-3F8D","name":"Hoch Rinderbiel","kind":"summit","e":2704000,"n":1181434,"alt":2010,"prio":60},
+{"id":"17B95855-017C","name":"Pucher","kind":"summit","e":2700846,"n":1184871,"alt":2932,"prio":90},
+{"id":"C04F12E3-42CA","name":"Gwasmet","kind":"summit","e":2700481,"n":1184803,"alt":2841,"prio":90},
+{"id":"77997D8C-B8D8","name":"Schwarz Berg","kind":"summit","e":2700045,"n":1184359,"alt":2588,"prio":90},
+{"id":"76A4C46B-6CA4","name":"Alpgnofer Stock","kind":"summit","e":2702846,"n":1184701,"alt":2764,"prio":90},
+{"id":"28F54CEC-2A18","name":"Fruttstock","kind":"summit","e":2703053,"n":1180046,"alt":2837,"prio":90},
+{"id":"3FD29088-175D","name":"Heueregg","kind":"summit","e":2702031,"n":1181241,"alt":1571,"prio":30},
+{"id":"F986A5C6-0513","name":"Ruch Fensterturm","kind":"summit","e":2701230,"n":1184906,"alt":2918,"prio":20},
+{"id":"62ADB706-0426","name":"Stäuber","kind":"water","e":2703038,"n":1182027,"alt":1485,"prio":25},
+{"id":"8130B584-A275","name":"Alp Stössi","kind":"inn","e":2700765,"n":1181354,"alt":1179,"prio":50},
+{"id":"1CF7AE55-5564","name":"Windgällenhütte AACZ","kind":"inn","e":2700558,"n":1182961,"alt":2034,"prio":50},
+{"id":"3B5B5007-74A4","name":"Hinterbalmhütte","kind":"inn","e":2703848,"n":1181829,"alt":1817,"prio":50},
+{"id":"19E793B2-A5AF","name":"Berghotel Maderanertal","kind":"inn","e":2701829,"n":1182060,"alt":1350,"prio":50},
+{"id":"F50CF63A-9334","name":"Chalchegg","kind":"ridge","e":2701122,"n":1183005,"alt":1976,"prio":20},
+{"id":"AE367D87-9F03","name":"Ligegg","kind":"ridge","e":2704105,"n":1180902,"alt":2006,"prio":20},
+{"id":"B5FE375F-C040","name":"Ligegg","kind":"ridge","e":2700909,"n":1180109,"alt":1820,"prio":20},
+{"id":"3BEFDD6D-4550","name":"Hüfisee","kind":"lake","e":2704661,"n":1184645,"alt":1635,"prio":50}
+]

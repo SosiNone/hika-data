@@ -1,0 +1,9 @@
+[
+{"id":"A2BF80DF-D556","name":"Muot sainza Bön","kind":"summit","e":2801384,"n":1170312,"alt":2405,"prio":60},
+{"id":"89135F2B-2185","name":"Muotta da Foppas","kind":"summit","e":2802481,"n":1174226,"alt":1521,"prio":30},
+{"id":"A4D15D11-51F4","name":"Muotta da Lingin","kind":"summit","e":2802237,"n":1173849,"alt":1544,"prio":30},
+{"id":"62A00861-A773","name":"Carolina","kind":"village","e":2800416,"n":1172032,"alt":1564,"prio":5},
+{"id":"9C58E475-724E","name":"Suot Via","kind":"village","e":2800134,"n":1172297,"alt":1579,"prio":5},
+{"id":"A1B22C1A-A256","name":"Chamanna Cluozza","kind":"inn","e":2804997,"n":1171460,"alt":1879,"prio":50},
+{"id":"62EA617E-76A4","name":"Spi da Murtaröl","kind":"ridge","e":2803356,"n":1172131,"alt":2470,"prio":20}
+]

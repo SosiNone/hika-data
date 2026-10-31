@@ -1,0 +1,19 @@
+[
+{"id":"A12CB32E-FE17","name":"Pizzo Pian Forno","kind":"summit","e":2711372,"n":1134362,"alt":2302,"prio":60},
+{"id":"E6C9116A-4DE5","name":"Pizzo Ricuca","kind":"summit","e":2714050,"n":1131990,"alt":2282,"prio":60},
+{"id":"9A3131C7-9DDE","name":"Cima di Stubiello","kind":"summit","e":2713762,"n":1131511,"alt":2263,"prio":60},
+{"id":"9A3131C7-9DDE","name":"Cima di Piatto","kind":"summit","e":2713762,"n":1131511,"alt":2263,"prio":60},
+{"id":"4AD1FFE0-F908","name":"Bocchetta di Rierna","kind":"pass","e":2710965,"n":1130219,"alt":2294,"prio":60},
+{"id":"D4C3F027-E578","name":"Cima di Rierna","kind":"summit","e":2710371,"n":1130895,"alt":2461,"prio":60},
+{"id":"9340AF7D-3147","name":"Motto dei Ciavéi","kind":"summit","e":2712317,"n":1132262,"alt":1656,"prio":60},
+{"id":"012E1885-1AD7","name":"Sprügh Rosso","kind":"summit","e":2710740,"n":1131359,"alt":2205,"prio":60},
+{"id":"E3A498A9-82AB","name":"Bocchetta della Riva","kind":"pass","e":2713875,"n":1131786,"alt":2181,"prio":60},
+{"id":"C0A78217-4BFA","name":"Bocchetta di Piatto","kind":"pass","e":2713470,"n":1130896,"alt":2080,"prio":60},
+{"id":"57CD5F96-0589","name":"Passo del Rampi","kind":"pass","e":2710061,"n":1134360,"alt":2351,"prio":60},
+{"id":"79B6CA34-AFE9","name":"Rifugio Trüsp","kind":"inn","e":2712417,"n":1134454,"alt":1709,"prio":45},
+{"id":"1AA21733-3F6D","name":"Rifugio Alpe Repiano","kind":"inn","e":2714543,"n":1130447,"alt":1280,"prio":45},
+{"id":"693EF542-2E9F","name":"Stabbio di Mezzo","kind":"inn","e":2711133,"n":1134995,"alt":1745,"prio":45},
+{"id":"3269C325-184B","name":"Rifugio Montdint","kind":"inn","e":2712931,"n":1133638,"alt":907,"prio":45},
+{"id":"85BF035D-8131","name":"Motte di Bri","kind":"ridge","e":2711910,"n":1131406,"alt":1996,"prio":20},
+{"id":"CC42BDCE-8BB6","name":"Costa della Iametta","kind":"ridge","e":2710048,"n":1133019,"alt":1917,"prio":20}
+]

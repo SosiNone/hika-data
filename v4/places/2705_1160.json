@@ -1,0 +1,13 @@
+[
+{"id":"62D85504-3F4E","name":"Platta, Sogn Gions","kind":"stop","e":2706715,"n":1164850,"alt":1591,"prio":25},
+{"id":"22420717-A222","name":"Platta, Pardatsch","kind":"stop","e":2707187,"n":1164878,"alt":1560,"prio":25},
+{"id":"88E0FE63-44B7","name":"Platta, Sogn Gagl","kind":"stop","e":2705867,"n":1162886,"alt":1708,"prio":25},
+{"id":"A8E045FC-CCB9","name":"Fuorcla da Garviel","kind":"pass","e":2706930,"n":1162207,"alt":2440,"prio":60},
+{"id":"E8662E48-4629","name":"Piz Curvet","kind":"summit","e":2706875,"n":1163761,"alt":2248,"prio":60},
+{"id":"074E9753-8666","name":"La Muota","kind":"summit","e":2708454,"n":1164726,"alt":2340,"prio":60},
+{"id":"74F0001D-89AF","name":"Piz Starlera","kind":"summit","e":2709149,"n":1163719,"alt":2713,"prio":90},
+{"id":"3632CC4D-9A26","name":"Piz Garviel","kind":"summit","e":2706778,"n":1161182,"alt":2738,"prio":90},
+{"id":"8D181252-2337","name":"Fuorcla Vallatscha","kind":"pass","e":2706752,"n":1160887,"alt":2639,"prio":60},
+{"id":"1882F33B-6E49","name":"Fil da Garviel","kind":"ridge","e":2707005,"n":1162107,"alt":2447,"prio":20},
+{"id":"DC9794E4-5373","name":"Crest la Barla","kind":"ridge","e":2707522,"n":1163318,"alt":1867,"prio":20}
+]

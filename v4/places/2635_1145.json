@@ -1,0 +1,18 @@
+[
+{"id":"913EC4E6-74A5","name":"Mittaghorn","kind":"summit","e":2637924,"n":1149779,"alt":3890,"prio":90},
+{"id":"073CF2AE-06AA","name":"Brunnenhoren","kind":"summit","e":2635273,"n":1149188,"alt":2744,"prio":60},
+{"id":"19E7F003-D86E","name":"Mittagjoch","kind":"pass","e":2637002,"n":1149053,"alt":3639,"prio":60},
+{"id":"F84D7223-6900","name":"Anujoch","kind":"pass","e":2638282,"n":1148873,"alt":3625,"prio":60},
+{"id":"13C8FD4E-7CC3","name":"Grossjoch","kind":"pass","e":2636426,"n":1148691,"alt":3558,"prio":60},
+{"id":"727BC698-03BF","name":"Grosshorn","kind":"summit","e":2636212,"n":1148509,"alt":3754,"prio":90},
+{"id":"88DF18E6-8E9E","name":"Schmadrijoch","kind":"pass","e":2635098,"n":1147981,"alt":3316,"prio":60},
+{"id":"416F1087-D6C9","name":"Anuchnubel","kind":"summit","e":2639218,"n":1147716,"alt":3589,"prio":90},
+{"id":"E04650BC-2AFA","name":"Zem Hindri Ligg","kind":"pass","e":2636407,"n":1146891,"alt":3007,"prio":60},
+{"id":"1C55D937-1843","name":"Jegichnubel","kind":"summit","e":2636325,"n":1146520,"alt":3124,"prio":90},
+{"id":"A7EA2FF0-231F","name":"Sattellicka","kind":"pass","e":2639947,"n":1146162,"alt":3374,"prio":60},
+{"id":"D8657DAF-6AA9","name":"Distlighorn","kind":"summit","e":2639214,"n":1145043,"alt":3716,"prio":90},
+{"id":"FF7C9B3D-C1E5","name":"Anungrat","kind":"ridge","e":2638916,"n":1147943,"alt":3544,"prio":20},
+{"id":"E947E7BF-0EAE","name":"Chrumme Rigg","kind":"ridge","e":2638519,"n":1147187,"alt":3176,"prio":20},
+{"id":"6394052A-C8CF","name":"Grosshorn-Nordwestgrat","kind":"ridge","e":2635539,"n":1149018,"alt":2938,"prio":20},
+{"id":"E66CD3EF-4EB2","name":"Anusee","kind":"lake","e":2636442,"n":1145051,"alt":2367,"prio":50}
+]

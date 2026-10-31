@@ -1,0 +1,14 @@
+[
+{"id":"5CA6014D-0E9B","name":"Biaufond, Les Avants","kind":"stop","e":2554840,"n":1222040,"alt":779,"prio":25},
+{"id":"819444D4-2EBB","name":"Biaufond, La Rasse","kind":"stop","e":2554958,"n":1222815,"alt":628,"prio":25},
+{"id":"33834283-8942","name":"La Chaux-de-Fonds, Brenetets","kind":"stop","e":2553453,"n":1220801,"alt":941,"prio":25},
+{"id":"7BEEC82E-23FA","name":"La Maison-Monsieur, bif.","kind":"stop","e":2554697,"n":1222227,"alt":656,"prio":25},
+{"id":"4421AAD7-3070","name":"Le Carré","kind":"village","e":2554011,"n":1220673,"alt":1035,"prio":5},
+{"id":"7DED7F65-BBFE","name":"Brenetets","kind":"village","e":2553433,"n":1220767,"alt":951,"prio":5},
+{"id":"FA32A290-0409","name":"Haute Maison","kind":"village","e":2554684,"n":1221158,"alt":1065,"prio":5},
+{"id":"29289224-88A1","name":"Le Logeu","kind":"village","e":2553742,"n":1220453,"alt":1025,"prio":5},
+{"id":"FB880F67-F638","name":"La Maison-Monsieur","kind":"village","e":2554630,"n":1222266,"alt":622,"prio":5},
+{"id":"7A3BE63C-317C","name":"Petit Carré","kind":"village","e":2553511,"n":1220137,"alt":1006,"prio":5},
+{"id":"8BE4F6DB-7FC5","name":"Le Prévôt","kind":"village","e":2554019,"n":1220545,"alt":1050,"prio":5},
+{"id":"C8D4AE9D-F295","name":"Buvette Le Caprice","kind":"inn","e":2554657,"n":1222306,"alt":623,"prio":50}
+]

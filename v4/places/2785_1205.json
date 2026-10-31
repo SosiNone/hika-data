@@ -1,0 +1,18 @@
+[
+{"id":"DE3A4E09-FE01","name":"Riedchopf","kind":"summit","e":2785567,"n":1205541,"alt":2551,"prio":90},
+{"id":"DE3A4E09-FE01","name":"Ronggspitz","kind":"summit","e":2785567,"n":1205541,"alt":2551,"prio":90},
+{"id":"ACA64672-6601","name":"Rotspitz","kind":"summit","e":2785947,"n":1206474,"alt":2517,"prio":90},
+{"id":"49D36406-34ED","name":"Viereggerpass","kind":"pass","e":2786063,"n":1206627,"alt":2404,"prio":60},
+{"id":"FF5D4A60-C9FD","name":"Vieregger","kind":"summit","e":2786105,"n":1206747,"alt":2481,"prio":60},
+{"id":"531A9E1A-D107","name":"Graustei","kind":"summit","e":2785348,"n":1207208,"alt":2189,"prio":60},
+{"id":"9C6B6AAA-9D2E","name":"Mittelflua","kind":"summit","e":2785287,"n":1207797,"alt":2337,"prio":60},
+{"id":"4D5C2D14-824E","name":"Sarotlapass","kind":"pass","e":2786390,"n":1207972,"alt":2389,"prio":60},
+{"id":"4B1A0CF1-B92D","name":"Stock","kind":"summit","e":2785067,"n":1208251,"alt":2483,"prio":60},
+{"id":"45F3D66A-3B3A","name":"Plasseggapass","kind":"pass","e":2785586,"n":1208740,"alt":2343,"prio":60},
+{"id":"D738C032-2E04","name":"Schijenflue","kind":"summit","e":2785119,"n":1209021,"alt":2626,"prio":90},
+{"id":"D7566699-5676","name":"Uf der Breita Furgga","kind":"pass","e":2785942,"n":1206044,"alt":2425,"prio":60},
+{"id":"3A409BED-2395","name":"Sarotlaspitz","kind":"summit","e":2786297,"n":1208432,"alt":2565,"prio":90},
+{"id":"D2EA8854-10B0","name":"Tanzbüel","kind":"summit","e":2785464,"n":1206938,"alt":2173,"prio":60},
+{"id":"BB803E15-6F30","name":"Weberlisch Höli","kind":"cave","e":2785362,"n":1206842,"alt":2010,"prio":25},
+{"id":"809F2361-59BF","name":"Röbispitzen","kind":"ridge","e":2786460,"n":1207466,"alt":2377,"prio":20}
+]

@@ -1,0 +1,18 @@
+[
+{"id":"52434A95-A6F8","name":"Schalb","kind":"lift","e":2629182,"n":1118465,"alt":1893,"prio":40},
+{"id":"8CF40549-72C5","name":"Embd (Luftseilbahn)","kind":"lift","e":2629893,"n":1118250,"alt":1415,"prio":40},
+{"id":"C6F6F5EB-677D","name":"St. Niklaus VS, Meiggern","kind":"stop","e":2629798,"n":1115501,"alt":1470,"prio":25},
+{"id":"647D5F8A-7EBB","name":"Gasenried, Hubeln","kind":"stop","e":2629802,"n":1115199,"alt":1517,"prio":25},
+{"id":"F2061ECB-98B6","name":"Rittinen","kind":"stop","e":2629624,"n":1115245,"alt":1454,"prio":25},
+{"id":"51FA6DF4-3D9A","name":"Chumminilicke","kind":"pass","e":2626891,"n":1119507,"alt":2802,"prio":60},
+{"id":"0E817769-BA6F","name":"Twära","kind":"summit","e":2627228,"n":1117081,"alt":2667,"prio":60},
+{"id":"E03766E9-B489","name":"Horn","kind":"summit","e":2626250,"n":1116824,"alt":2891,"prio":60},
+{"id":"2AA22801-601B","name":"Greechbiel","kind":"summit","e":2629876,"n":1115968,"alt":1514,"prio":30},
+{"id":"66BAA450-599F","name":"Borterhorn","kind":"summit","e":2625104,"n":1119395,"alt":2899,"prio":60},
+{"id":"F9176266-F93B","name":"Rieberg","kind":"summit","e":2626445,"n":1118886,"alt":2961,"prio":60},
+{"id":"48BFB0A8-A673","name":"Ginalspass","kind":"pass","e":2626061,"n":1118753,"alt":2910,"prio":60},
+{"id":"13432231-E457","name":"Biel","kind":"summit","e":2628104,"n":1116196,"alt":1900,"prio":10},
+{"id":"3E3C30D7-3545","name":"Bergrestaurant Jungeralp","kind":"inn","e":2627943,"n":1116147,"alt":1990,"prio":50},
+{"id":"23D16109-7578","name":"Augstbordgrat","kind":"ridge","e":2626736,"n":1119068,"alt":2901,"prio":20},
+{"id":"C7F3530B-1B52","name":"Grosse See","kind":"lake","e":2626100,"n":1119840,"alt":2545,"prio":50}
+]

@@ -1,0 +1,12 @@
+[
+{"id":"C4B5850C-BB89","name":"Piz Forbesch","kind":"summit","e":2762702,"n":1154312,"alt":3262,"prio":90},
+{"id":"3137D0C6-B398","name":"Fuorcla Cagniel","kind":"pass","e":2762036,"n":1153278,"alt":2748,"prio":60},
+{"id":"C3BF3039-0CCD","name":"Piz Cagniel","kind":"summit","e":2761215,"n":1152874,"alt":2976,"prio":90},
+{"id":"16ACADFA-4A6F","name":"Fuorcla Curtegns","kind":"pass","e":2760673,"n":1152327,"alt":2658,"prio":60},
+{"id":"815F3C48-C9C1","name":"Furcla Starlera","kind":"pass","e":2760017,"n":1153165,"alt":2513,"prio":60},
+{"id":"6C94D798-89E5","name":"Tälifurgga","kind":"pass","e":2760814,"n":1150799,"alt":2816,"prio":60},
+{"id":"8798DD00-5F62","name":"Piz Platta","kind":"summit","e":2762996,"n":1150621,"alt":3391,"prio":100},
+{"id":"4409EB35-8563","name":"Mittler Wissberg","kind":"summit","e":2760508,"n":1150410,"alt":3002,"prio":90},
+{"id":"B867E9DD-13BA","name":"Täligrat","kind":"ridge","e":2762678,"n":1150231,"alt":3052,"prio":20},
+{"id":"891AF9BA-BD11","name":"Murter","kind":"ridge","e":2760382,"n":1154869,"alt":2611,"prio":20}
+]

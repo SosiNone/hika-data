@@ -1,0 +1,22 @@
+[
+{"id":"27C353D7-7BB8","name":"Mutta Sut","kind":"summit","e":2747589,"n":1190493,"alt":2018,"prio":60},
+{"id":"F6A7BD9A-4936","name":"Mutta Sura","kind":"summit","e":2747307,"n":1191070,"alt":2198,"prio":60},
+{"id":"C2B940EA-DDFE","name":"Turm","kind":"summit","e":2748550,"n":1191236,"alt":1908,"prio":20},
+{"id":"503ADA6E-6F84","name":"Säsagit","kind":"summit","e":2748539,"n":1191392,"alt":1999,"prio":60},
+{"id":"B7D56856-4243","name":"Baldachopf","kind":"summit","e":2748018,"n":1192597,"alt":2107,"prio":60},
+{"id":"6991A9CA-5808","name":"Tschepp Sut","kind":"summit","e":2745013,"n":1192830,"alt":2666,"prio":90},
+{"id":"037FD4F2-F8D3","name":"Spitzig Stei","kind":"summit","e":2747725,"n":1193663,"alt":2288,"prio":60},
+{"id":"9F3A7A2E-FB98","name":"Crap Mats","kind":"summit","e":2746253,"n":1193711,"alt":2946,"prio":90},
+{"id":"1E9FABA6-6A27","name":"Morchopf","kind":"summit","e":2745984,"n":1194209,"alt":2941,"prio":90},
+{"id":"9E870B64-0D23","name":"Rund Chopf","kind":"summit","e":2748347,"n":1191052,"alt":1806,"prio":60},
+{"id":"0F1ECB81-4E19","name":"Tschepp","kind":"summit","e":2745028,"n":1194405,"alt":2942,"prio":90},
+{"id":"BFF87E87-363C","name":"Chli Furggla","kind":"pass","e":2748130,"n":1191964,"alt":1941,"prio":60},
+{"id":"F092C0A8-52AB","name":"Bühel","kind":"summit","e":2747631,"n":1193290,"alt":2154,"prio":60},
+{"id":"D6DC33D2-5AD4","name":"Sennastei","kind":"summit","e":2748212,"n":1191737,"alt":2012,"prio":60},
+{"id":"1060364A-C906","name":"Ringelspitzhütte SAC","kind":"inn","e":2748062,"n":1192351,"alt":1998,"prio":50},
+{"id":"17FF5C22-60B2","name":"Schafgrat","kind":"ridge","e":2748224,"n":1194822,"alt":2475,"prio":20},
+{"id":"99BCE9D3-9D4D","name":"Hochegg","kind":"ridge","e":2746798,"n":1194346,"alt":2401,"prio":20},
+{"id":"E3C5F157-8FDA","name":"Chessiegg","kind":"ridge","e":2748091,"n":1194106,"alt":2095,"prio":20},
+{"id":"AE9CF670-6688","name":"Schnäggenegg","kind":"ridge","e":2749785,"n":1192620,"alt":1261,"prio":20},
+{"id":"C16E0F83-9D0B","name":"Lago Laghet","kind":"lake","e":2745389,"n":1193345,"alt":2516,"prio":50}
+]

@@ -1,0 +1,14 @@
+[
+{"id":"D9814D55-85D1","name":"Monte dell'Oro","kind":"summit","e":2778877,"n":1134645,"alt":3154,"prio":90},
+{"id":"076E2487-64FB","name":"Furcela da Fedoz","kind":"pass","e":2779329,"n":1134342,"alt":3082,"prio":60},
+{"id":"076E2487-64FB","name":"Passo dell'Oro","kind":"pass","e":2779329,"n":1134342,"alt":3082,"prio":60},
+{"id":"581088DD-D204","name":"Monte del Forno","kind":"summit","e":2775991,"n":1134436,"alt":3213,"prio":90},
+{"id":"4989A1F5-CF3E","name":"Monte Rosso","kind":"summit","e":2775516,"n":1132727,"alt":3088,"prio":90},
+{"id":"5D94F7D4-D9F0","name":"Cima di Val Bona","kind":"summit","e":2776142,"n":1132376,"alt":3033,"prio":90},
+{"id":"B0431D1D-8243","name":"Passo Vazzeda","kind":"pass","e":2776131,"n":1131983,"alt":2967,"prio":60},
+{"id":"00C98612-0EF2","name":"Cima di Vazzeda","kind":"summit","e":2776002,"n":1131236,"alt":3301,"prio":90},
+{"id":"EC0532B1-A65A","name":"Cima di Rosso","kind":"summit","e":2775607,"n":1130894,"alt":3365,"prio":90},
+{"id":"DA467077-4499","name":"Passo Sissone","kind":"pass","e":2775392,"n":1130088,"alt":3148,"prio":60},
+{"id":"073DFE0C-3F54","name":"Sella del Forno","kind":"pass","e":2775925,"n":1133632,"alt":2769,"prio":60},
+{"id":"07206B22-D21F","name":"Passo di Val Bona","kind":"pass","e":2775646,"n":1132533,"alt":2944,"prio":60}
+]

@@ -1,0 +1,19 @@
+[
+{"id":"C1A52DF5-8D16","name":"Pointe d'Ayace","kind":"summit","e":2595285,"n":1085085,"alt":3019,"prio":90},
+{"id":"4E70E9EF-772F","name":"Mont Durand","kind":"summit","e":2595005,"n":1087279,"alt":2459,"prio":60},
+{"id":"A86695CD-3F0A","name":"Col de Tsofeiret","kind":"pass","e":2595363,"n":1088888,"alt":2621,"prio":60},
+{"id":"C67DAB1D-3D9D","name":"Petite Aouille","kind":"summit","e":2599661,"n":1086642,"alt":3343,"prio":90},
+{"id":"F688300C-C5B9","name":"Pointe du Jardin des Chamois","kind":"summit","e":2598373,"n":1085855,"alt":3260,"prio":90},
+{"id":"D527C443-610F","name":"Col d'Epicoune","kind":"pass","e":2599424,"n":1085178,"alt":3233,"prio":60},
+{"id":"F212413E-BCEB","name":"Col de la Petite Lire","kind":"pass","e":2598890,"n":1089426,"alt":3316,"prio":60},
+{"id":"3D414302-A851","name":"Pointe de la Petite Lire","kind":"summit","e":2598689,"n":1089079,"alt":3443,"prio":90},
+{"id":"7E8249DA-5139","name":"Col Sud des Portons","kind":"pass","e":2598051,"n":1088600,"alt":3179,"prio":60},
+{"id":"96760C6C-6E29","name":"Pointe d'Otemma","kind":"summit","e":2596832,"n":1087988,"alt":3403,"prio":90},
+{"id":"F6E809AB-5465","name":"Pointe des Portons","kind":"summit","e":2599358,"n":1089626,"alt":3512,"prio":90},
+{"id":"D56DA134-517A","name":"Pointe de la Grande Lire","kind":"summit","e":2597572,"n":1088455,"alt":3360,"prio":90},
+{"id":"F828C3C8-7052","name":"Grand Epicoune","kind":"summit","e":2599665,"n":1085473,"alt":3344,"prio":90},
+{"id":"CA317BBC-A264","name":"Col de l'Aouille Tseuque","kind":"pass","e":2599727,"n":1085622,"alt":3258,"prio":60},
+{"id":"8CEEB041-7EEC","name":"Cabane de Chanrion CAS","kind":"inn","e":2595526,"n":1087512,"alt":2462,"prio":50},
+{"id":"5E38446C-0297","name":"Lac de Tsofeiret","kind":"lake","e":2595458,"n":1089165,"alt":2572,"prio":50},
+{"id":"57E3920B-8A0B","name":"Lac de Chanrion","kind":"lake","e":2595318,"n":1087105,"alt":2388,"prio":50}
+]

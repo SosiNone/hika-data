@@ -1,0 +1,22 @@
+[
+{"id":"C9E6E186-949F","name":"Iseltwald, Dorfplatz","kind":"stop","e":2640194,"n":1173506,"alt":567,"prio":25},
+{"id":"006B110B-8973","name":"Furggenhoren","kind":"summit","e":2640287,"n":1170597,"alt":2170,"prio":60},
+{"id":"036AFE86-0BC4","name":"Schwabhoren","kind":"summit","e":2642132,"n":1170415,"alt":2374,"prio":60},
+{"id":"C161AE73-BE56","name":"Litschgiburg","kind":"summit","e":2642383,"n":1172199,"alt":2069,"prio":60},
+{"id":"6A8AA201-F9B0","name":"Bättenalpburg","kind":"summit","e":2641970,"n":1171996,"alt":2135,"prio":60},
+{"id":"08CF40F7-EC0F","name":"Farnihubel","kind":"summit","e":2641437,"n":1173939,"alt":735,"prio":10},
+{"id":"9A80E226-5853","name":"Iseltwald","kind":"village","e":2640155,"n":1173374,"alt":573,"prio":30},
+{"id":"240F6D42-6AEE","name":"Geeren","kind":"village","e":2641792,"n":1173822,"alt":861,"prio":5},
+{"id":"E55969C3-CF19","name":"Gloota","kind":"village","e":2642262,"n":1174652,"alt":642,"prio":5},
+{"id":"2F095B26-4FCE","name":"Muoschbach","kind":"village","e":2640198,"n":1172720,"alt":813,"prio":5},
+{"id":"282B0152-4636","name":"Twerweg","kind":"village","e":2640380,"n":1172798,"alt":827,"prio":5},
+{"id":"85381D54-4F17","name":"Alphütte Fangisalp","kind":"inn","e":2643642,"n":1171252,"alt":1926,"prio":50},
+{"id":"67EB076D-8DD7","name":"Chlempenegg","kind":"ridge","e":2640395,"n":1171204,"alt":1684,"prio":20},
+{"id":"F57BF7DD-CC6A","name":"Schonegg","kind":"ridge","e":2642024,"n":1170800,"alt":2207,"prio":20},
+{"id":"BF438EB1-178B","name":"Lägeregg","kind":"ridge","e":2643435,"n":1171858,"alt":1879,"prio":20},
+{"id":"41A47C27-35E5","name":"Hohgrat","kind":"ridge","e":2643584,"n":1174566,"alt":1413,"prio":20},
+{"id":"F427C5A5-469C","name":"Brienzersee","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
+{"id":"F427C5A5-469C","name":"Lac de Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
+{"id":"F427C5A5-469C","name":"Lago di Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
+{"id":"F427C5A5-469C","name":"Lai da Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50}
+]

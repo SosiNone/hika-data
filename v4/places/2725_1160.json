@@ -1,0 +1,12 @@
+[
+{"id":"87F107B2-33F7","name":"Dachberg","kind":"summit","e":2727564,"n":1161415,"alt":2852,"prio":90},
+{"id":"61D79BD3-5188","name":"Frunthorn","kind":"summit","e":2726470,"n":1160752,"alt":3030,"prio":90},
+{"id":"C000DE8A-91B7","name":"Fuorcla da Patnaul","kind":"pass","e":2728902,"n":1164475,"alt":2773,"prio":60},
+{"id":"978A9FAC-9519","name":"Faltschonhorn","kind":"summit","e":2728403,"n":1163727,"alt":3022,"prio":90},
+{"id":"6C374BC4-CA19","name":"Piz Aul","kind":"summit","e":2729154,"n":1164892,"alt":3121,"prio":100},
+{"id":"F0F2BE45-6B27","name":"Schwarzhorn","kind":"summit","e":2727775,"n":1163165,"alt":2943,"prio":90},
+{"id":"046DB3FC-AE71","name":"Fuorcla da Puozas","kind":"pass","e":2727333,"n":1162025,"alt":2739,"prio":60},
+{"id":"D2ACABFF-0CC7","name":"Cuolmet","kind":"summit","e":2727436,"n":1164225,"alt":2569,"prio":60},
+{"id":"9EE64F9D-D77F","name":"Bleschaturra","kind":"summit","e":2729983,"n":1164308,"alt":2558,"prio":90},
+{"id":"FAEDA395-5805","name":"Fruntseeli","kind":"lake","e":2727615,"n":1161188,"alt":2647,"prio":50}
+]

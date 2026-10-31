@@ -1,13 +1,14 @@
 name: Check the atlas
 
 # Runs HIKA's check-atlas (tiles, routes, catalogue, regions, window budgets) on the atlas in this
-# repository, against the region configs in HIKA.
+# repository, against the region configs in HIKA. Each format is checked by the HIKA code that
+# reads it: v3 by the last commit before format 4, v4 by main (or the ref given).
 on:
   pull_request:
   workflow_dispatch:
     inputs:
       hika-ref:
-        description: HIKA branch, tag or commit whose checks to run
+        description: HIKA branch, tag or commit whose checks to run on v4
         default: main
 
 permissions:
@@ -16,6 +17,14 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - atlas: v3
+            hika-ref: 27e4d18f6954e4f587e6a6370cfb2e190ebae757
+          - atlas: v4
+    name: check ${{ matrix.atlas }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -23,7 +32,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           repository: SosiNone/hika
-          ref: ${{ inputs.hika-ref || 'main' }}
+          ref: ${{ matrix.hika-ref || inputs.hika-ref || 'main' }}
           path: hika
       - uses: actions/setup-node@v7
         with:
@@ -32,5 +41,5 @@ jobs:
           cache-dependency-path: hika/package-lock.json
       - run: npm ci
         working-directory: hika
-      - run: npm run check:atlas -- ../data/v3
+      - run: npm run check:atlas -- ../data/${{ matrix.atlas }}
         working-directory: hika

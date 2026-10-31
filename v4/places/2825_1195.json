@@ -1,0 +1,21 @@
+[
+{"id":"E984ECC6-A832","name":"Strada i. E., Sclamischot","kind":"stop","e":2829182,"n":1195429,"alt":1049,"prio":25},
+{"id":"16E97F22-2534","name":"Tschlin, cumün","kind":"stop","e":2827487,"n":1195111,"alt":1506,"prio":25},
+{"id":"A0BB0FA7-5DB2","name":"Tschlin, Davo San Jon","kind":"stop","e":2827748,"n":1195415,"alt":1528,"prio":25},
+{"id":"5171C03A-0604","name":"Mot Tea Nova","kind":"summit","e":2825892,"n":1196328,"alt":2313,"prio":60},
+{"id":"7217D2EF-5DA6","name":"Mot da las Amblanas","kind":"summit","e":2825099,"n":1197604,"alt":2782,"prio":90},
+{"id":"BF208E7D-76F2","name":"Motta d'Alp","kind":"summit","e":2829031,"n":1198364,"alt":2110,"prio":60},
+{"id":"53F2A5D4-579B","name":"Fuorcletta","kind":"pass","e":2825246,"n":1198547,"alt":2801,"prio":60},
+{"id":"03EC3D8F-218D","name":"Fuorcla Salet","kind":"pass","e":2825717,"n":1198875,"alt":2826,"prio":60},
+{"id":"383A222C-726D","name":"Piz Salet","kind":"summit","e":2825544,"n":1198878,"alt":2970,"prio":90},
+{"id":"C68E6008-8285","name":"Piz Malmurainza","kind":"summit","e":2826122,"n":1199278,"alt":3038,"prio":90},
+{"id":"A1341FF3-E400","name":"Fuorcla d'Alp","kind":"pass","e":2826487,"n":1199662,"alt":2808,"prio":60},
+{"id":"0EB7F9AF-60AD","name":"Motta Mundin","kind":"summit","e":2829766,"n":1199827,"alt":2138,"prio":60},
+{"id":"3738697C-5C35","name":"Piz Fot","kind":"summit","e":2827627,"n":1199909,"alt":2593,"prio":60},
+{"id":"98A6DC8A-4EE3","name":"Tschlin","kind":"village","e":2827699,"n":1195343,"alt":1533,"prio":30},
+{"id":"66C475C8-8233","name":"Sclamischot","kind":"village","e":2829450,"n":1195464,"alt":1045,"prio":5},
+{"id":"AE7C9359-9DA6","name":"S-chadatsch","kind":"village","e":2829043,"n":1195187,"alt":1048,"prio":5},
+{"id":"E7BAA1AA-12D5","name":"Ustarietta Tea Tschlin","kind":"inn","e":2829023,"n":1198670,"alt":2041,"prio":50},
+{"id":"DA430FD8-4BEE","name":"Spi da l'Alp Vedra","kind":"ridge","e":2825875,"n":1199959,"alt":2615,"prio":20},
+{"id":"AAB03627-EF41","name":"Spi da Faschalunga","kind":"ridge","e":2826721,"n":1199140,"alt":2786,"prio":20}
+]

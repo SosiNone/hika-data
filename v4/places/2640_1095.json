@@ -1,0 +1,18 @@
+[
+{"id":"724C655C-44E1","name":"Galmenhorn","kind":"summit","e":2642087,"n":1096750,"alt":2845,"prio":60},
+{"id":"ECFE909F-030A","name":"Stellipass","kind":"pass","e":2642776,"n":1099469,"alt":3039,"prio":60},
+{"id":"48DF89F9-5875","name":"Stelli","kind":"summit","e":2643129,"n":1098673,"alt":3357,"prio":90},
+{"id":"145365B6-87E5","name":"Stellihorn","kind":"summit","e":2643536,"n":1098457,"alt":3436,"prio":100},
+{"id":"949A3CB8-6BAD","name":"Pizzo di Cingino Sud","kind":"summit","e":2644789,"n":1097245,"alt":3103,"prio":90},
+{"id":"B35F52E9-8C82","name":"Passo di Antigine","kind":"pass","e":2644367,"n":1096598,"alt":2834,"prio":60},
+{"id":"B35F52E9-8C82","name":"Ofentalpass","kind":"pass","e":2644367,"n":1096598,"alt":2834,"prio":60},
+{"id":"F4FCB476-3B98","name":"Jazzihorn","kind":"summit","e":2644386,"n":1097902,"alt":3227,"prio":90},
+{"id":"F4FCB476-3B98","name":"Pizzo di Cingino Nord","kind":"summit","e":2644386,"n":1097902,"alt":3227,"prio":90},
+{"id":"FA7F7F5B-8371","name":"Jazzilücke","kind":"pass","e":2644604,"n":1097684,"alt":3081,"prio":60},
+{"id":"FA7F7F5B-8371","name":"Passo di Cingino","kind":"pass","e":2644604,"n":1097684,"alt":3081,"prio":60},
+{"id":"6CCEBE0C-D498","name":"Ofentalhorn","kind":"summit","e":2644433,"n":1095766,"alt":3059,"prio":90},
+{"id":"09EA5B0A-2065","name":"Spechhorn","kind":"summit","e":2643564,"n":1095785,"alt":3189,"prio":90},
+{"id":"09EA5B0A-2065","name":"Pizzo di Antigine","kind":"summit","e":2643564,"n":1095785,"alt":3189,"prio":90},
+{"id":"0900891A-BB2B","name":"Spähnhörner","kind":"ridge","e":2642541,"n":1096452,"alt":2936,"prio":20},
+{"id":"E59E6A41-81EC","name":"Stausee Mattmark","kind":"lake","e":2640403,"n":1098709,"alt":2195,"prio":50}
+]

@@ -1,0 +1,20 @@
+[
+{"id":"F6EC46C4-F6EB","name":"Piz Fless","kind":"summit","e":2798380,"n":1185042,"alt":3020,"prio":90},
+{"id":"5D89EDC1-18B6","name":"Rosställispitz","kind":"summit","e":2795046,"n":1185153,"alt":2929,"prio":90},
+{"id":"53F6BA78-EC89","name":"Chirchli","kind":"summit","e":2795491,"n":1185639,"alt":2770,"prio":90},
+{"id":"E38EED9B-CD25","name":"Gamsspitz","kind":"summit","e":2796067,"n":1185760,"alt":2752,"prio":90},
+{"id":"773E069E-167A","name":"Flesspass","kind":"pass","e":2797220,"n":1185886,"alt":2458,"prio":60},
+{"id":"773E069E-167A","name":"Pass da Fless","kind":"pass","e":2797220,"n":1185886,"alt":2458,"prio":60},
+{"id":"B34ED8CB-2FA9","name":"Pass dal Veraina","kind":"pass","e":2798565,"n":1186235,"alt":2593,"prio":60},
+{"id":"B34ED8CB-2FA9","name":"Vereinapass","kind":"pass","e":2798565,"n":1186235,"alt":2593,"prio":60},
+{"id":"8FA138D4-C767","name":"Piz Zadrell","kind":"summit","e":2799663,"n":1187962,"alt":3103,"prio":90},
+{"id":"1FF9332B-9842","name":"Ross Chopf","kind":"summit","e":2796998,"n":1189797,"alt":2688,"prio":20},
+{"id":"BCDAB198-16C8","name":"Vorderes Plattenhorn","kind":"summit","e":2797994,"n":1187620,"alt":3220,"prio":90},
+{"id":"7064DB5F-D698","name":"Hinteres Plattenhorn","kind":"summit","e":2798833,"n":1187552,"alt":3199,"prio":90},
+{"id":"40F3DA75-1C3D","name":"Mittelgrat","kind":"ridge","e":2795384,"n":1189603,"alt":2599,"prio":20},
+{"id":"F0178700-A9C6","name":"Süser Chöpf","kind":"ridge","e":2795272,"n":1185940,"alt":2598,"prio":20},
+{"id":"2CA4ED63-018B","name":"Unghürhörner","kind":"ridge","e":2795934,"n":1187800,"alt":2855,"prio":20},
+{"id":"709D588F-5BDA","name":"Bürgensee","kind":"lake","e":2799720,"n":1189635,"alt":2466,"prio":50},
+{"id":"E527C55B-8469","name":"Süserseeli","kind":"lake","e":2796827,"n":1187243,"alt":2516,"prio":50},
+{"id":"BAEA2438-DA00","name":"Chessisee","kind":"lake","e":2798681,"n":1189359,"alt":2359,"prio":50}
+]

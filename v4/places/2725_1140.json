@@ -1,0 +1,18 @@
+[
+{"id":"CE231CB9-FE3F","name":"Cima dei Cógn","kind":"summit","e":2726840,"n":1143647,"alt":3062,"prio":90},
+{"id":"0EEA038B-928B","name":"Cavallo Bianco","kind":"summit","e":2725898,"n":1143636,"alt":2815,"prio":90},
+{"id":"9183BFE8-46B7","name":"Cima Rossa","kind":"summit","e":2726664,"n":1144931,"alt":3161,"prio":90},
+{"id":"434D6734-34D5","name":"Piz Remolasch","kind":"summit","e":2727478,"n":1140066,"alt":2915,"prio":90},
+{"id":"E5BE8522-5AD4","name":"Pizzo Caldözz","kind":"summit","e":2726470,"n":1140829,"alt":2681,"prio":90},
+{"id":"A58CC842-738E","name":"Piz del Pianasc","kind":"summit","e":2727969,"n":1141381,"alt":2831,"prio":90},
+{"id":"0488D292-3BAA","name":"Bocchetta della Cima Rossa","kind":"pass","e":2726792,"n":1144126,"alt":2886,"prio":60},
+{"id":"DB0B9BA3-A967","name":"Bocchetta di Caldözz","kind":"pass","e":2726761,"n":1140776,"alt":2588,"prio":60},
+{"id":"E193ECD4-280A","name":"Pass de Remolasch","kind":"pass","e":2727096,"n":1140435,"alt":2615,"prio":60},
+{"id":"79CABCFE-ECE3","name":"Pass de Revi","kind":"pass","e":2727298,"n":1142972,"alt":2675,"prio":60},
+{"id":"64EC8604-9E64","name":"Bivacco Piano della Parete","kind":"inn","e":2726095,"n":1144306,"alt":2724,"prio":45},
+{"id":"76BE2F80-B17D","name":"Filo di Bugéla","kind":"ridge","e":2727074,"n":1143379,"alt":2851,"prio":20},
+{"id":"69158ABA-CB08","name":"Gronda de Pianasc","kind":"ridge","e":2728371,"n":1141357,"alt":2430,"prio":20},
+{"id":"98E476C2-CD1A","name":"Fil de Revi","kind":"ridge","e":2727707,"n":1142275,"alt":2710,"prio":20},
+{"id":"CC340F63-DF56","name":"Filo di Rosso","kind":"ridge","e":2726882,"n":1144227,"alt":2929,"prio":20},
+{"id":"E99A968C-6283","name":"Gronda de Remolasch","kind":"ridge","e":2727882,"n":1140050,"alt":2666,"prio":20}
+]

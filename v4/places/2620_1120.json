@@ -1,0 +1,18 @@
+[
+{"id":"B5FCD2EF-8A9B","name":"Ergisch, Wasserleite","kind":"stop","e":2620880,"n":1123638,"alt":1451,"prio":25},
+{"id":"6132E654-75FB","name":"Ärgischhoru","kind":"summit","e":2622908,"n":1124770,"alt":2525,"prio":60},
+{"id":"6132E654-75FB","name":"Ergischhorn","kind":"summit","e":2622908,"n":1124770,"alt":2525,"prio":60},
+{"id":"FEE91A84-93D5","name":"Distelhorn","kind":"summit","e":2623546,"n":1124460,"alt":2452,"prio":60},
+{"id":"BB117716-BD68","name":"Signalhoru","kind":"summit","e":2623735,"n":1122720,"alt":2910,"prio":90},
+{"id":"9C92CB5B-5B27","name":"Rinderhorn","kind":"summit","e":2624748,"n":1122741,"alt":2628,"prio":60},
+{"id":"14131E2C-6C66","name":"Altstafelhorn","kind":"summit","e":2624092,"n":1121684,"alt":2838,"prio":90},
+{"id":"C4E1196B-CA03","name":"Ginalshorn","kind":"summit","e":2623281,"n":1120675,"alt":3026,"prio":90},
+{"id":"7B2D241A-4B1A","name":"Borthorn","kind":"summit","e":2623319,"n":1120155,"alt":2992,"prio":60},
+{"id":"775BA2DA-49EF","name":"Ärgischalphoru","kind":"summit","e":2623197,"n":1123401,"alt":2850,"prio":90},
+{"id":"775BA2DA-49EF","name":"Ergischalphorn","kind":"summit","e":2623197,"n":1123401,"alt":2850,"prio":90},
+{"id":"E20A2DF3-319F","name":"Roti Ritze","kind":"ridge","e":2623705,"n":1121010,"alt":2855,"prio":20},
+{"id":"176D4DD4-A14D","name":"Riebgrat","kind":"ridge","e":2622812,"n":1121474,"alt":2750,"prio":20},
+{"id":"D7316F55-B00F","name":"Chleis Grätji","kind":"ridge","e":2623180,"n":1121230,"alt":2880,"prio":20},
+{"id":"6C2FC147-F9F8","name":"Chummetjigrätji","kind":"ridge","e":2623898,"n":1122202,"alt":2802,"prio":20},
+{"id":"73E7BDC8-C3E8","name":"Chummetjisee","kind":"lake","e":2623295,"n":1121725,"alt":2548,"prio":50}
+]

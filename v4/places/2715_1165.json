@@ -1,0 +1,17 @@
+[
+{"id":"0DC80DA5-BF4C","name":"Piz Rentiert","kind":"summit","e":2715913,"n":1168685,"alt":2615,"prio":90},
+{"id":"447A16CE-FF5E","name":"Muotta la Tieua","kind":"summit","e":2716993,"n":1167837,"alt":1967,"prio":60},
+{"id":"9A8C1302-AA7B","name":"Piz Stavelatsch","kind":"summit","e":2715150,"n":1168446,"alt":2753,"prio":90},
+{"id":"5FD9E7ED-C4FA","name":"Piz da Stiarls","kind":"summit","e":2718143,"n":1165924,"alt":2993,"prio":90},
+{"id":"7C83A1D2-036A","name":"Piz Vial","kind":"summit","e":2717192,"n":1165666,"alt":3168,"prio":90},
+{"id":"9E5F04DD-57FD","name":"Piz Greina","kind":"summit","e":2717554,"n":1165443,"alt":3124,"prio":90},
+{"id":"1EA5DF8E-A7EF","name":"Piz Miezdi","kind":"summit","e":2718550,"n":1166449,"alt":2791,"prio":90},
+{"id":"2F691F45-5427","name":"Piz Gaglianera","kind":"summit","e":2716331,"n":1165422,"alt":3121,"prio":90},
+{"id":"0B40BB23-64ED","name":"Piz Vigliuts","kind":"summit","e":2716876,"n":1166650,"alt":2639,"prio":90},
+{"id":"5239CFF8-E102","name":"Piz Valdraus","kind":"summit","e":2715941,"n":1165700,"alt":3096,"prio":90},
+{"id":"9B1EC9A5-6FE5","name":"Cuolmet","kind":"summit","e":2716794,"n":1168270,"alt":2192,"prio":60},
+{"id":"A6657DAE-AE21","name":"Camona da Terri CAS","kind":"inn","e":2719942,"n":1166005,"alt":2170,"prio":50},
+{"id":"C6765449-5C02","name":"Crest la Greina","kind":"ridge","e":2719545,"n":1166657,"alt":2062,"prio":20},
+{"id":"5EF0441A-B94E","name":"Crest la Gonda","kind":"ridge","e":2718666,"n":1168438,"alt":1467,"prio":20},
+{"id":"B917F1E4-F540","name":"Con Rentiert","kind":"ridge","e":2715031,"n":1169254,"alt":2352,"prio":20}
+]

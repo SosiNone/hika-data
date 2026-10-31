@@ -1,0 +1,14 @@
+[
+{"id":"1C8A4BC7-32AB","name":"Grop di Quaggio","kind":"summit","e":2726085,"n":1119472,"alt":1178,"prio":30},
+{"id":"BBA6D501-492E","name":"Mota de Rodas","kind":"summit","e":2729711,"n":1118899,"alt":1570,"prio":30},
+{"id":"13AE8624-5F01","name":"Motto d'Arbino","kind":"summit","e":2726124,"n":1116475,"alt":1691,"prio":60},
+{"id":"AB68B089-B961","name":"Motto della Conca","kind":"summit","e":2725052,"n":1117639,"alt":1304,"prio":30},
+{"id":"6D55E18A-361F","name":"Sasso Guida","kind":"summit","e":2727188,"n":1115984,"alt":1713,"prio":60},
+{"id":"B912895D-57F4","name":"Motto del Tonö","kind":"summit","e":2728205,"n":1117647,"alt":1063,"prio":30},
+{"id":"D4B668B0-C2A0","name":"Motto della Perosetta","kind":"summit","e":2725077,"n":1117139,"alt":1378,"prio":30},
+{"id":"04502995-57B8","name":"Motto della Perosa Grande","kind":"summit","e":2725195,"n":1116875,"alt":1470,"prio":30},
+{"id":"0A43DF87-4434","name":"Ristorante La Bola","kind":"inn","e":2728431,"n":1119307,"alt":1344,"prio":50},
+{"id":"7B820651-4551","name":"Cresta del Stabi","kind":"ridge","e":2729648,"n":1117975,"alt":1819,"prio":20},
+{"id":"3BB40278-9185","name":"Laghetti della Costa","kind":"lake","e":2726694,"n":1116092,"alt":1622,"prio":50},
+{"id":"D6367F22-E2DE","name":"Laghetto d'Orbello","kind":"lake","e":2726599,"n":1118451,"alt":725,"prio":50}
+]

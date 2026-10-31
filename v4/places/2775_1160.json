@@ -1,0 +1,13 @@
+[
+{"id":"15AEF69C-BE09","name":"Preda","kind":"stop","e":2779208,"n":1162331,"alt":1789,"prio":45},
+{"id":"9D950E13-98FD","name":"Preda, Lai da Palpuogna","kind":"stop","e":2779502,"n":1161875,"alt":1909,"prio":25},
+{"id":"EE08CD24-5EAC","name":"Preda, Hotel Kulm/Bahnhof","kind":"stop","e":2779098,"n":1162466,"alt":1795,"prio":25},
+{"id":"2D75D686-FDC0","name":"Piz Muet","kind":"summit","e":2779464,"n":1163849,"alt":2670,"prio":90},
+{"id":"C2D7471E-F863","name":"Piz Palpuogna","kind":"summit","e":2779082,"n":1160683,"alt":2730,"prio":90},
+{"id":"D8FCB462-64F6","name":"Piz Mulix","kind":"summit","e":2776007,"n":1160706,"alt":2888,"prio":90},
+{"id":"C7BC2132-AA4A","name":"Piz Rugnux","kind":"summit","e":2775615,"n":1163960,"alt":2890,"prio":90},
+{"id":"CF2AD77C-8252","name":"Preda","kind":"village","e":2779147,"n":1162404,"alt":1789,"prio":5},
+{"id":"D782C49A-6996","name":"Hotel Preda Kulm","kind":"inn","e":2779133,"n":1162490,"alt":1801,"prio":50},
+{"id":"107021E9-7404","name":"Tschimas da Tschitta","kind":"ridge","e":2775213,"n":1162696,"alt":2721,"prio":20},
+{"id":"BB5DCEE4-FBFE","name":"Lai da Palpuegna","kind":"lake","e":2779901,"n":1161619,"alt":1918,"prio":50}
+]

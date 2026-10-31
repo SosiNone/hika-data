@@ -1,0 +1,14 @@
+[
+{"id":"79BE70F8-B329","name":"Rinderpirglückli","kind":"pass","e":2738058,"n":1166925,"alt":2586,"prio":60},
+{"id":"4208B2B3-46EE","name":"Plangghöreli","kind":"summit","e":2736597,"n":1169035,"alt":2441,"prio":60},
+{"id":"14CE5B4B-8653","name":"Crap Grisch","kind":"summit","e":2737327,"n":1168646,"alt":2862,"prio":90},
+{"id":"14CE5B4B-8653","name":"Plangghora","kind":"summit","e":2737327,"n":1168646,"alt":2862,"prio":90},
+{"id":"32488D17-EA42","name":"Tällihorn","kind":"summit","e":2737784,"n":1167726,"alt":2856,"prio":90},
+{"id":"AA8D6B75-83C5","name":"Hohberg","kind":"summit","e":2735202,"n":1166131,"alt":2327,"prio":60},
+{"id":"BE85096E-5BFA","name":"Tomüllückli","kind":"pass","e":2736209,"n":1165423,"alt":2578,"prio":60},
+{"id":"7CB7AE66-AE69","name":"Piz Tomül","kind":"summit","e":2737077,"n":1165139,"alt":2945,"prio":100},
+{"id":"7CB7AE66-AE69","name":"Wissasteihora","kind":"summit","e":2737077,"n":1165139,"alt":2945,"prio":100},
+{"id":"0B017032-E571","name":"Travisasch","kind":"village","e":2735195,"n":1169738,"alt":1684,"prio":5},
+{"id":"0928A872-C04E","name":"Büelegga","kind":"ridge","e":2735714,"n":1168577,"alt":2173,"prio":20},
+{"id":"8DE9807A-50D0","name":"Schiagrätli","kind":"ridge","e":2735319,"n":1165642,"alt":2237,"prio":20}
+]

@@ -1,0 +1,13 @@
+[
+{"id":"A892E90D-A04B","name":"Bocchetta dal Meden","kind":"pass","e":2802231,"n":1122512,"alt":2438,"prio":60},
+{"id":"FAF96501-091B","name":"Col d'Anzana","kind":"pass","e":2803664,"n":1122549,"alt":2221,"prio":60},
+{"id":"DC0A5C77-515A","name":"Cima Buzzi","kind":"summit","e":2804015,"n":1122882,"alt":2344,"prio":60},
+{"id":"A8EAC38F-8218","name":"Piz Combul","kind":"summit","e":2800960,"n":1123136,"alt":2900,"prio":90},
+{"id":"3C6E13C3-9CF6","name":"Bocchetta Malgina","kind":"pass","e":2801688,"n":1123849,"alt":2618,"prio":60},
+{"id":"E2096FEA-F105","name":"Piz Malgina","kind":"summit","e":2801842,"n":1124665,"alt":2876,"prio":90},
+{"id":"E7C7F096-17F0","name":"Piz Cancan","kind":"summit","e":2803094,"n":1121817,"alt":2435,"prio":60},
+{"id":"616EEBE5-DCC6","name":"Al Mat","kind":"summit","e":2801970,"n":1123675,"alt":2582,"prio":60},
+{"id":"CAC04C78-C8C6","name":"Fil da Salarsa","kind":"ridge","e":2804353,"n":1123066,"alt":2285,"prio":20},
+{"id":"12349A3E-1A93","name":"Lagh da la Regina","kind":"lake","e":2802094,"n":1122877,"alt":2417,"prio":50},
+{"id":"43D72038-2341","name":"Lagh dal Mat","kind":"lake","e":2801862,"n":1123551,"alt":2523,"prio":50}
+]

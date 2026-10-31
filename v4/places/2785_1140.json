@@ -1,0 +1,21 @@
+[
+{"id":"86F20769-A6E8","name":"Fuorcla da Boval","kind":"pass","e":2789381,"n":1143022,"alt":3346,"prio":60},
+{"id":"8FA6B653-1418","name":"Fuorcla Tschierva","kind":"pass","e":2789000,"n":1143211,"alt":3335,"prio":60},
+{"id":"34CFE69E-1212","name":"Piz Tschierva","kind":"summit","e":2788160,"n":1143283,"alt":3545,"prio":100},
+{"id":"29CC56BE-E669","name":"Piz Boval","kind":"summit","e":2789381,"n":1143643,"alt":3353,"prio":90},
+{"id":"488081BE-1302","name":"Piz Aguagliouls","kind":"summit","e":2786372,"n":1140238,"alt":3117,"prio":90},
+{"id":"895E6794-CFF9","name":"Piz Umur","kind":"summit","e":2788470,"n":1140416,"alt":3253,"prio":90},
+{"id":"2F5443EC-445E","name":"Fuorcla Prievlusa","kind":"pass","e":2789812,"n":1141088,"alt":3427,"prio":60},
+{"id":"495A1992-369D","name":"Piz Prievlus","kind":"summit","e":2789868,"n":1141339,"alt":3609,"prio":90},
+{"id":"59583AA1-8A0B","name":"Piz Morteratsch","kind":"summit","e":2789374,"n":1141987,"alt":3751,"prio":100},
+{"id":"20CD5E4B-34D1","name":"Fuorcla da Misaun","kind":"pass","e":2789129,"n":1143902,"alt":3208,"prio":60},
+{"id":"CAC3C6F3-7E30","name":"Piz Misaun","kind":"summit","e":2788725,"n":1144570,"alt":3249,"prio":90},
+{"id":"EAB30FCB-BCAE","name":"Chamanna da Tschierva CAS","kind":"inn","e":2787720,"n":1142090,"alt":2585,"prio":50},
+{"id":"6F2AA9BD-7BDC","name":"La Crasta","kind":"ridge","e":2787462,"n":1140026,"alt":3207,"prio":20},
+{"id":"32B523F6-F84E","name":"Crast'Alva","kind":"ridge","e":2789777,"n":1140542,"alt":3683,"prio":20},
+{"id":"32B523F6-F84E","name":"Biancograt","kind":"ridge","e":2789777,"n":1140542,"alt":3683,"prio":20},
+{"id":"1998E66B-3C2C","name":"Crasta da Boval","kind":"ridge","e":2789059,"n":1143983,"alt":3226,"prio":20},
+{"id":"AD248989-5C47","name":"Crasta d'Mez","kind":"ridge","e":2789874,"n":1144160,"alt":2944,"prio":20},
+{"id":"780D2191-2BE3","name":"Crasta da Morteratsch","kind":"ridge","e":2789356,"n":1142698,"alt":3418,"prio":20},
+{"id":"8408E32D-C08C","name":"Lej da Vadret","kind":"lake","e":2785354,"n":1141582,"alt":2160,"prio":50}
+]

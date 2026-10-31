@@ -1,0 +1,11 @@
+[
+{"id":"C4FB1785-84A0","name":"Campocologno","kind":"stop","e":2808469,"n":1123837,"alt":553,"prio":45},
+{"id":"BEE1A7A2-4A55","name":"Campascio, Strada","kind":"stop","e":2807640,"n":1124975,"alt":629,"prio":25},
+{"id":"C507BF50-E0A3","name":"Campascio, Zalende","kind":"stop","e":2807825,"n":1124700,"alt":607,"prio":25},
+{"id":"DE0B18A7-F5B3","name":"Campocologno, Stazione","kind":"stop","e":2808519,"n":1123845,"alt":553,"prio":25},
+{"id":"700BB132-84ED","name":"Vetta Salarsa","kind":"summit","e":2805338,"n":1123084,"alt":2279,"prio":60},
+{"id":"0384BE7D-D4C7","name":"Col da Salarsa","kind":"pass","e":2805096,"n":1123134,"alt":2234,"prio":60},
+{"id":"A27C5BB5-7CD5","name":"Monte Scala","kind":"village","e":2807733,"n":1123908,"alt":930,"prio":5},
+{"id":"124E620A-EB1D","name":"Campocologno","kind":"village","e":2808488,"n":1123810,"alt":553,"prio":30},
+{"id":"BB0646C3-DB3F","name":"Doss","kind":"ridge","e":2805769,"n":1124959,"alt":1541,"prio":20}
+]

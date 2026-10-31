@@ -1,0 +1,23 @@
+[
+{"id":"F6F6983F-615B","name":"Bouveret, village","kind":"stop","e":2555010,"n":1137149,"alt":385,"prio":25},
+{"id":"3A86DAE2-B510","name":"Noville, Chotron","kind":"stop","e":2558700,"n":1135182,"alt":378,"prio":25},
+{"id":"1C7CC176-AC11","name":"Noville, Collège","kind":"stop","e":2558593,"n":1136549,"alt":379,"prio":25},
+{"id":"9A2090D7-C051","name":"Bouveret, Aquaparc","kind":"stop","e":2555589,"n":1137769,"alt":373,"prio":25},
+{"id":"79F63AB9-0682","name":"Bouveret, Parc Bellossy","kind":"stop","e":2555500,"n":1136418,"alt":374,"prio":25},
+{"id":"AFEA8DE2-D0A8","name":"Bouveret, Swiss Vapeur Parc","kind":"stop","e":2555371,"n":1137320,"alt":374,"prio":25},
+{"id":"8FE4DDD2-BC4B","name":"Rennaz","kind":"village","e":2559990,"n":1136223,"alt":377,"prio":30},
+{"id":"CEE95FB8-F58D","name":"Noville","kind":"village","e":2558558,"n":1136740,"alt":376,"prio":45},
+{"id":"44342BAE-6D93","name":"Es Clos","kind":"village","e":2559564,"n":1135247,"alt":379,"prio":5},
+{"id":"5D81E1F2-B59D","name":"Les Grangettes","kind":"village","e":2558098,"n":1138102,"alt":375,"prio":10},
+{"id":"6BA9F0F0-BF9C","name":"La Goille","kind":"village","e":2559616,"n":1135017,"alt":380,"prio":5},
+{"id":"0F7B7C04-A644","name":"Perrausa","kind":"village","e":2558949,"n":1137544,"alt":374,"prio":5},
+{"id":"81CCAF42-9F7F","name":"Le Grand Canal","kind":"village","e":2557698,"n":1138323,"alt":372,"prio":5},
+{"id":"09A5205A-BA86","name":"La Pièce","kind":"village","e":2559082,"n":1135600,"alt":377,"prio":5},
+{"id":"F7E3469A-2F4A","name":"Grange du Bras","kind":"village","e":2557827,"n":1135726,"alt":375,"prio":5},
+{"id":"F499C900-6A61","name":"En Grammont","kind":"village","e":2556169,"n":1135957,"alt":374,"prio":5},
+{"id":"51BFACE1-CB4B","name":"Vers le Chêne","kind":"village","e":2557141,"n":1135902,"alt":375,"prio":5},
+{"id":"0659A552-8210","name":"L'Essert","kind":"village","e":2557074,"n":1137042,"alt":374,"prio":5},
+{"id":"89EDFF02-6F40","name":"Les Evuex","kind":"village","e":2559959,"n":1135076,"alt":378,"prio":5},
+{"id":"5717BDE8-67FC","name":"Port-Valais","kind":"village","e":2556480,"n":1135750,"alt":390,"prio":5},
+{"id":"B8DDC9EC-15E5","name":"Le Châtelet","kind":"village","e":2559020,"n":1136202,"alt":379,"prio":5}
+]

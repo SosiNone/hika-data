@@ -1,0 +1,17 @@
+[
+{"id":"13B3E5BD-D7BF","name":"Schwenden i. D., Weid","kind":"stop","e":2604512,"n":1160155,"alt":1160,"prio":25},
+{"id":"335E1849-1025","name":"Zwischenflüh, Anger","kind":"stop","e":2604917,"n":1160792,"alt":1082,"prio":25},
+{"id":"1B6B5586-FD7E","name":"Turne","kind":"summit","e":2604151,"n":1164121,"alt":2079,"prio":60},
+{"id":"8DCCB436-41A7","name":"Puntel","kind":"summit","e":2601744,"n":1163430,"alt":1921,"prio":60},
+{"id":"7136B354-D8F8","name":"Buufal","kind":"summit","e":2600669,"n":1162071,"alt":1943,"prio":60},
+{"id":"3D5BFF8E-5E95","name":"Schwalmflue","kind":"summit","e":2601482,"n":1162573,"alt":1939,"prio":60},
+{"id":"1C44CECC-8049","name":"Puntelgable","kind":"summit","e":2601894,"n":1162452,"alt":1950,"prio":60},
+{"id":"1BE2E0AB-268A","name":"Spicherflue","kind":"summit","e":2602983,"n":1164117,"alt":1801,"prio":60},
+{"id":"15064BF9-90DD","name":"Rain","kind":"village","e":2603936,"n":1162219,"alt":1286,"prio":5},
+{"id":"30329431-404D","name":"Blatten","kind":"village","e":2604422,"n":1162049,"alt":1245,"prio":5},
+{"id":"36EC5005-F3C2","name":"Färrich","kind":"village","e":2603703,"n":1162204,"alt":1261,"prio":5},
+{"id":"6F935739-91E6","name":"Bergrestaurant Sennhütte","kind":"inn","e":2603124,"n":1161305,"alt":1593,"prio":50},
+{"id":"1BC1B6E6-62AB","name":"Meniggrat","kind":"ridge","e":2603427,"n":1160134,"alt":1907,"prio":20},
+{"id":"E622CEB1-D1CD","name":"Pfyfenegg","kind":"ridge","e":2600799,"n":1164320,"alt":1500,"prio":20},
+{"id":"9D7254A9-D8EF","name":"Dürrenegg","kind":"ridge","e":2600661,"n":1163905,"alt":1433,"prio":20}
+]

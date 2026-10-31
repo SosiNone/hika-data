@@ -1,0 +1,6 @@
+[
+{"id":"FB8F5364-EC88","name":"Beurnevésin, poste","kind":"stop","e":2577179,"n":1260230,"alt":422,"prio":25},
+{"id":"6CCFBA4B-3EB0","name":"Beurnevésin, Couronne","kind":"stop","e":2577449,"n":1260154,"alt":425,"prio":25},
+{"id":"36E1B2FF-7DCD","name":"Beurnevésin","kind":"village","e":2577226,"n":1260195,"alt":422,"prio":30},
+{"id":"EBA93ED6-EA6C","name":"Les Courbes-Champs","kind":"village","e":2576053,"n":1260005,"alt":440,"prio":5}
+]

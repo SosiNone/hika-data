@@ -1,0 +1,18 @@
+[
+{"id":"2A4CDCD6-449E","name":"Pizzo di Scinghign","kind":"summit","e":2700006,"n":1139711,"alt":2801,"prio":90},
+{"id":"AB79E8ED-120F","name":"Pizzo di Piancói","kind":"summit","e":2701672,"n":1139404,"alt":2769,"prio":90},
+{"id":"A2164028-ADDE","name":"Pizzo della Bedéia","kind":"summit","e":2702391,"n":1139159,"alt":2666,"prio":90},
+{"id":"0F09C1FA-1475","name":"Bocchetta di Campale","kind":"pass","e":2703223,"n":1138941,"alt":2409,"prio":60},
+{"id":"571BE901-7AF0","name":"Passo di Piatto","kind":"pass","e":2704698,"n":1138531,"alt":2110,"prio":60},
+{"id":"AB5CE9C9-CED9","name":"Pizzo del Laghetto","kind":"summit","e":2703752,"n":1138922,"alt":2442,"prio":60},
+{"id":"3916F286-B540","name":"Pizzo Campale","kind":"summit","e":2703406,"n":1138877,"alt":2481,"prio":60},
+{"id":"55C0D827-F10F","name":"Cima di Cagnói","kind":"summit","e":2702138,"n":1136115,"alt":2548,"prio":90},
+{"id":"36269B1E-AB03","name":"Cima dell'Uomo","kind":"summit","e":2702155,"n":1139369,"alt":2572,"prio":60},
+{"id":"36269B1E-AB03","name":"Uomo di Campionigo","kind":"summit","e":2702155,"n":1139369,"alt":2572,"prio":60},
+{"id":"E17D8C0C-37DA","name":"Capanna Barone","kind":"inn","e":2700769,"n":1139107,"alt":2171,"prio":45},
+{"id":"047B5DEE-4B47","name":"Costa del Laghetto","kind":"ridge","e":2704019,"n":1139370,"alt":2209,"prio":20},
+{"id":"17222286-1D9E","name":"Costa di Campale","kind":"ridge","e":2702961,"n":1139687,"alt":2193,"prio":20},
+{"id":"1418FFA4-1980","name":"Lago Barone","kind":"lake","e":2700995,"n":1139832,"alt":2391,"prio":50},
+{"id":"F0AE39AC-2B5D","name":"Lago di Porchiér","kind":"lake","e":2700433,"n":1136893,"alt":2192,"prio":50},
+{"id":"F5DD064F-C8DD","name":"Laghetto","kind":"lake","e":2704668,"n":1139247,"alt":1762,"prio":50}
+]

@@ -1,0 +1,22 @@
+[
+{"id":"4C6ECB47-DECC","name":"Champex (télésiège)","kind":"lift","e":2574289,"n":1097823,"alt":1500,"prio":40},
+{"id":"EFF4D7E9-317F","name":"La Breya","kind":"lift","e":2574023,"n":1096739,"alt":2199,"prio":40},
+{"id":"06E4DFBB-EC06","name":"Champex, télé","kind":"stop","e":2574312,"n":1097850,"alt":1496,"prio":25},
+{"id":"7717519B-F5E8","name":"Combe de la Breya","kind":"lift","e":2573774,"n":1097188,"alt":1972,"prio":40},
+{"id":"D52B2D5E-3567","name":"Champex-Lac, Jardin alpin","kind":"stop","e":2574734,"n":1097815,"alt":1480,"prio":25},
+{"id":"4079B494-F9DB","name":"Pointe des Tsevreresses","kind":"summit","e":2574822,"n":1099917,"alt":2567,"prio":20},
+{"id":"59BD3507-0789","name":"La Breya","kind":"summit","e":2573587,"n":1096426,"alt":2374,"prio":60},
+{"id":"05126AD3-BE57","name":"Col de la Breya","kind":"pass","e":2573022,"n":1095905,"alt":2400,"prio":60},
+{"id":"3F5F0038-2883","name":"Six Carro","kind":"summit","e":2570020,"n":1097167,"alt":2825,"prio":90},
+{"id":"3AC63DB2-BFBD","name":"Tête d'Arpette","kind":"summit","e":2571373,"n":1096311,"alt":2294,"prio":20},
+{"id":"AECF634C-99C9","name":"Aiguille du Glacier Rond","kind":"summit","e":2571312,"n":1095071,"alt":2999,"prio":90},
+{"id":"D2720C09-A9CE","name":"Fenêtre de Grône","kind":"pass","e":2570291,"n":1097453,"alt":2685,"prio":60},
+{"id":"69D8866F-28BD","name":"Clocher d'Arpette","kind":"summit","e":2570803,"n":1097723,"alt":2819,"prio":20},
+{"id":"A14CF377-0ABA","name":"Col de Champex","kind":"pass","e":2574300,"n":1097847,"alt":1496,"prio":60},
+{"id":"853A61E5-97C0","name":"Champex d'en Haut","kind":"village","e":2573694,"n":1098344,"alt":1437,"prio":5},
+{"id":"6C4C8FEC-487E","name":"Champex d'en Bas","kind":"village","e":2573301,"n":1099117,"alt":1353,"prio":5},
+{"id":"6330F258-F2BC","name":"Gîte Bon Abri","kind":"inn","e":2573704,"n":1098273,"alt":1440,"prio":50},
+{"id":"C369C56A-7EE6","name":"Buvette Plan de l'Au","kind":"inn","e":2572205,"n":1099908,"alt":1329,"prio":50},
+{"id":"7C7A9E0B-7580","name":"Relais d'Arpette","kind":"inn","e":2573228,"n":1097666,"alt":1626,"prio":50},
+{"id":"8C01F37B-005D","name":"Restaurant de la Breya","kind":"inn","e":2574053,"n":1096735,"alt":2189,"prio":50}
+]

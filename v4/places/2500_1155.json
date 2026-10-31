@@ -1,0 +1,8 @@
+[
+{"id":"6398484B-5498","name":"Le Brassus, Bas-du-Chenit","kind":"stop","e":2504264,"n":1158581,"alt":1040,"prio":25},
+{"id":"87BF0D0A-D438","name":"Gouffre du Grêlon","kind":"cave","e":2504375,"n":1155970,"alt":1326,"prio":25},
+{"id":"BAA29641-1150","name":"Les Grandes Roches","kind":"village","e":2503868,"n":1159927,"alt":1101,"prio":5},
+{"id":"24D0BB8A-09D1","name":"Le Pont-des-Scies","kind":"village","e":2504355,"n":1158917,"alt":1030,"prio":5},
+{"id":"C538D981-9EE8","name":"Le Carroz","kind":"village","e":2501877,"n":1156048,"alt":1074,"prio":5},
+{"id":"01834E13-4095","name":"Bas-du-Chenit","kind":"village","e":2504614,"n":1158796,"alt":1042,"prio":10}
+]

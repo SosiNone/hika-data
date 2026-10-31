@@ -1,0 +1,20 @@
+[
+{"id":"0AF8CA48-FF54","name":"Schwarzhörnli","kind":"summit","e":2624209,"n":1104604,"alt":2963,"prio":60},
+{"id":"590A42A3-DB6B","name":"Schalihorn","kind":"summit","e":2620600,"n":1103683,"alt":3974,"prio":90},
+{"id":"E7E82CE4-F0BA","name":"Hohlichtpass","kind":"pass","e":2620342,"n":1103292,"alt":3730,"prio":60},
+{"id":"6BD2023D-459F","name":"Crête Nord de Moming","kind":"summit","e":2620218,"n":1102928,"alt":3863,"prio":90},
+{"id":"3CC1E678-4075","name":"Schalijoch","kind":"pass","e":2620816,"n":1104562,"alt":3747,"prio":60},
+{"id":"158D308A-B6D0","name":"Wisse Schijen","kind":"summit","e":2623549,"n":1104747,"alt":3369,"prio":90},
+{"id":"6AB826DA-8BB4","name":"Col de Moming","kind":"pass","e":2620065,"n":1102686,"alt":3771,"prio":60},
+{"id":"61AEAF27-1F89","name":"Unter Äschhorn","kind":"summit","e":2621399,"n":1100781,"alt":3618,"prio":90},
+{"id":"4BD77626-2268","name":"Furgghorn","kind":"summit","e":2621946,"n":1100311,"alt":3392,"prio":90},
+{"id":"E0167FB2-1D34","name":"Platthorn","kind":"summit","e":2623044,"n":1100284,"alt":3345,"prio":90},
+{"id":"3F965B12-3F69","name":"Mettelhorn","kind":"summit","e":2623451,"n":1100503,"alt":3405,"prio":90},
+{"id":"55220580-07A7","name":"Furggji","kind":"pass","e":2622611,"n":1100375,"alt":3150,"prio":60},
+{"id":"F48DD923-19D6","name":"Unter Äschjoch","kind":"pass","e":2621091,"n":1100975,"alt":3550,"prio":60},
+{"id":"E3FEDE3B-123D","name":"Ober Äschjoch","kind":"pass","e":2620521,"n":1100741,"alt":3619,"prio":60},
+{"id":"6643781A-A344","name":"Ober Äschhorn","kind":"summit","e":2620818,"n":1101038,"alt":3668,"prio":90},
+{"id":"44810AD8-AC8E","name":"Getschung","kind":"summit","e":2624192,"n":1101563,"alt":2863,"prio":60},
+{"id":"A37ED3EA-3710","name":"Schalijochbiwak SAC","kind":"inn","e":2620950,"n":1104681,"alt":3789,"prio":45},
+{"id":"8D06E57A-9C85","name":"Weisshornhütte SAC","kind":"inn","e":2623588,"n":1103873,"alt":2934,"prio":50}
+]

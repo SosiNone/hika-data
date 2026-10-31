@@ -1,0 +1,19 @@
+[
+{"id":"22A52093-2035","name":"Gordevio","kind":"stop","e":2700596,"n":1120110,"alt":314,"prio":25},
+{"id":"666836E8-7F09","name":"Cima di Nimi","kind":"summit","e":2702863,"n":1123952,"alt":2191,"prio":60},
+{"id":"EDFE187A-F058","name":"Cròs Pizzitt","kind":"summit","e":2701810,"n":1123512,"alt":1952,"prio":60},
+{"id":"FEABB0FF-EB0B","name":"Passo di Nimi","kind":"pass","e":2703057,"n":1123302,"alt":2048,"prio":60},
+{"id":"F96FDC1A-FD66","name":"Madom da Sgióf","kind":"summit","e":2703099,"n":1124941,"alt":2265,"prio":90},
+{"id":"8408340A-C624","name":"Cima","kind":"summit","e":2703343,"n":1122637,"alt":2099,"prio":60},
+{"id":"4D0C2B0B-5884","name":"Cima di Aiarlo","kind":"summit","e":2701031,"n":1123378,"alt":1904,"prio":60},
+{"id":"59CBA9FD-F7FE","name":"Mött di Pègor","kind":"summit","e":2703903,"n":1122333,"alt":2169,"prio":60},
+{"id":"9063B275-9155","name":"Pizzo d'Orgnana","kind":"summit","e":2704256,"n":1122466,"alt":2218,"prio":60},
+{"id":"1A5B35AC-A43B","name":"Bocchetta d'Orgnana","kind":"pass","e":2704662,"n":1121927,"alt":1951,"prio":60},
+{"id":"94BA2AD3-6512","name":"Pizzo di Corbella","kind":"summit","e":2704807,"n":1121724,"alt":2066,"prio":60},
+{"id":"0F8D0537-00D0","name":"Gordevio","kind":"village","e":2700724,"n":1120357,"alt":334,"prio":30},
+{"id":"AD6C2610-00EE","name":"In Arc'èsg","kind":"village","e":2701459,"n":1120571,"alt":726,"prio":5},
+{"id":"B8CE399A-275B","name":"C'imói","kind":"village","e":2702302,"n":1120389,"alt":884,"prio":5},
+{"id":"AB695E95-3AC0","name":"Capanna Nimi","kind":"inn","e":2702470,"n":1123191,"alt":1720,"prio":50},
+{"id":"4F2100AF-A183","name":"Costa della Motta","kind":"ridge","e":2703505,"n":1121879,"alt":1881,"prio":20},
+{"id":"462403CA-4751","name":"Laghetto d'Orgnana","kind":"lake","e":2704789,"n":1122085,"alt":1872,"prio":50}
+]

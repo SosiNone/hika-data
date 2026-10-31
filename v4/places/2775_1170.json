@@ -1,0 +1,15 @@
+[
+{"id":"002A3B04-09DF","name":"Bott'Ota","kind":"summit","e":2777756,"n":1171191,"alt":2684,"prio":60},
+{"id":"FC807E4F-3C9A","name":"Büelefurgga","kind":"pass","e":2778643,"n":1171447,"alt":2649,"prio":60},
+{"id":"75DC04F4-FC3E","name":"Büelehora","kind":"summit","e":2778090,"n":1171665,"alt":2807,"prio":90},
+{"id":"75DC04F4-FC3E","name":"Büelenhorn","kind":"summit","e":2778090,"n":1171665,"alt":2807,"prio":90},
+{"id":"74D0ADDB-F571","name":"Muchetta","kind":"summit","e":2775463,"n":1171895,"alt":2623,"prio":90},
+{"id":"0265AA24-FD14","name":"Ehemaliges Bergwerk Silberberg","kind":"cave","e":2776582,"n":1174337,"alt":1505,"prio":25},
+{"id":"98021D17-7E7C","name":"Jenisberg","kind":"village","e":2775011,"n":1174120,"alt":1504,"prio":5},
+{"id":"B2BBBAE7-5C20","name":"Laubegga","kind":"ridge","e":2775357,"n":1172363,"alt":2302,"prio":20},
+{"id":"2087CF59-334E","name":"Fil da Stugl","kind":"ridge","e":2777695,"n":1171901,"alt":2685,"prio":20},
+{"id":"2087CF59-334E","name":"Stulsergrat","kind":"ridge","e":2777695,"n":1171901,"alt":2685,"prio":20},
+{"id":"0E893E30-73E1","name":"Rügg","kind":"ridge","e":2779687,"n":1174951,"alt":2227,"prio":20},
+{"id":"779CA441-D74B","name":"Mittelegg","kind":"ridge","e":2775995,"n":1172530,"alt":2267,"prio":20},
+{"id":"13FBC675-6658","name":"Chüebärggrat","kind":"ridge","e":2778055,"n":1172793,"alt":2593,"prio":20}
+]

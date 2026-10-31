@@ -1,0 +1,21 @@
+[
+{"id":"F87ACBAE-2792","name":"Crest Murtetsch","kind":"summit","e":2710189,"n":1167443,"alt":2313,"prio":60},
+{"id":"2C4F1EAC-E76B","name":"Fuorcla da Lavaz","kind":"pass","e":2712985,"n":1166469,"alt":2507,"prio":60},
+{"id":"1BE63A05-023C","name":"Fuorcla dalla Buora","kind":"pass","e":2710620,"n":1166029,"alt":2291,"prio":60},
+{"id":"59186681-EC58","name":"Muota dalla Buora","kind":"summit","e":2710788,"n":1165711,"alt":2554,"prio":90},
+{"id":"8597D71C-1FBE","name":"Fuorcla da Vallesa","kind":"pass","e":2712753,"n":1169172,"alt":2629,"prio":60},
+{"id":"3E6B8511-9F0A","name":"Piz Cazirauns","kind":"summit","e":2712532,"n":1168557,"alt":2935,"prio":90},
+{"id":"926FCB39-7952","name":"Fuorcla da Stavelatsch","kind":"pass","e":2714447,"n":1168493,"alt":2592,"prio":60},
+{"id":"3CAB51B5-9460","name":"Tuor Denter Corns","kind":"summit","e":2712693,"n":1168258,"alt":2905,"prio":90},
+{"id":"812010EB-BE5E","name":"Piz Santeri","kind":"summit","e":2713798,"n":1168188,"alt":2881,"prio":90},
+{"id":"C5889439-33FB","name":"Fuorcla Denter Corns","kind":"pass","e":2712660,"n":1168378,"alt":2821,"prio":60},
+{"id":"18EE67BE-CC0D","name":"Piz Miez","kind":"summit","e":2712977,"n":1168239,"alt":2913,"prio":90},
+{"id":"7189B617-B91F","name":"Piz Caschleglia","kind":"summit","e":2712206,"n":1167747,"alt":2935,"prio":90},
+{"id":"1FF4CD35-09FD","name":"Fuorcla Encarden","kind":"pass","e":2712605,"n":1168050,"alt":2800,"prio":60},
+{"id":"2FC58D63-4A60","name":"Piz la Buora","kind":"summit","e":2710871,"n":1165496,"alt":2678,"prio":90},
+{"id":"AFE500D1-FA9A","name":"Camona da Medel CAS","kind":"inn","e":2712938,"n":1166540,"alt":2523,"prio":50},
+{"id":"31BF1F27-EE02","name":"Fil da Cazirauns","kind":"ridge","e":2711983,"n":1168686,"alt":2650,"prio":20},
+{"id":"39C10C2E-2FB4","name":"Fil Liung","kind":"ridge","e":2713127,"n":1165699,"alt":3030,"prio":20},
+{"id":"4F918371-4F50","name":"Crest da Crusch","kind":"ridge","e":2713405,"n":1166966,"alt":2440,"prio":20},
+{"id":"FD48D287-DBC6","name":"Lai Encarden","kind":"lake","e":2712884,"n":1167460,"alt":2515,"prio":50}
+]

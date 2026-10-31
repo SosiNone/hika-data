@@ -1,0 +1,23 @@
+[
+{"id":"AE09723E-F690","name":"Frasco, Mora","kind":"stop","e":2704112,"n":1133876,"alt":908,"prio":25},
+{"id":"ABFC2D76-4FB4","name":"Sonogno","kind":"stop","e":2703918,"n":1134065,"alt":909,"prio":25},
+{"id":"C8842E1E-77DE","name":"Frasco, Cantone","kind":"stop","e":2704850,"n":1133223,"alt":889,"prio":25},
+{"id":"DFA9EDBA-8870","name":"Frasco, Chiesa","kind":"stop","e":2704990,"n":1132964,"alt":886,"prio":25},
+{"id":"92CD9FB4-2142","name":"Frasco, Mora di Fuori","kind":"stop","e":2704647,"n":1133477,"alt":895,"prio":25},
+{"id":"764717AE-6602","name":"Gerra (Verzasca), Paese","kind":"stop","e":2704940,"n":1130867,"alt":817,"prio":25},
+{"id":"13FEF60D-C579","name":"Cima di Cazzai","kind":"summit","e":2702060,"n":1131421,"alt":2435,"prio":60},
+{"id":"C7B92373-F68B","name":"Poncione della Marcia","kind":"summit","e":2702215,"n":1130653,"alt":2455,"prio":60},
+{"id":"30A1BD83-7284","name":"Sasso Rosso","kind":"summit","e":2701058,"n":1131527,"alt":2449,"prio":60},
+{"id":"3A4E3D0C-C1BC","name":"Cima di Cardèd","kind":"summit","e":2701067,"n":1133007,"alt":2228,"prio":60},
+{"id":"3C0B1339-E86A","name":"Sgemögna","kind":"summit","e":2700279,"n":1132376,"alt":2545,"prio":60},
+{"id":"CE0B2DED-C83B","name":"Ciòssa","kind":"pass","e":2700477,"n":1132115,"alt":2373,"prio":60},
+{"id":"F664786A-BCBB","name":"Mött Perüs","kind":"summit","e":2701342,"n":1133980,"alt":1432,"prio":30},
+{"id":"1C70BE31-D5B6","name":"La Froda","kind":"water","e":2702538,"n":1133691,"alt":1075,"prio":25},
+{"id":"43393523-9CAF","name":"Sonogno","kind":"village","e":2703847,"n":1134227,"alt":921,"prio":15},
+{"id":"16590EDF-6612","name":"Croce","kind":"village","e":2704961,"n":1131863,"alt":859,"prio":5},
+{"id":"FB23ED68-B293","name":"Pinell","kind":"village","e":2704112,"n":1134630,"alt":930,"prio":5},
+{"id":"45E7F47F-0BB8","name":"Aunèd","kind":"village","e":2704509,"n":1133255,"alt":889,"prio":5},
+{"id":"49A1D255-0BF1","name":"Grotto Efra","kind":"inn","e":2702946,"n":1133972,"alt":941,"prio":50},
+{"id":"E25D7760-95B6","name":"Cresta di Cazzai","kind":"ridge","e":2702545,"n":1131994,"alt":2214,"prio":20},
+{"id":"D938F9EC-E2A7","name":"Crestone","kind":"ridge","e":2700753,"n":1132665,"alt":2277,"prio":20}
+]

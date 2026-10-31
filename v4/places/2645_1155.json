@@ -1,0 +1,14 @@
+[
+{"id":"FDBFE392-8BE7","name":"Obere Buggel","kind":"summit","e":2649530,"n":1158489,"alt":2831,"prio":90},
+{"id":"CFF5975E-4FCA","name":"Ochsejoch","kind":"pass","e":2649220,"n":1157767,"alt":3053,"prio":60},
+{"id":"E6EE5B96-4076","name":"Walcherhorn","kind":"summit","e":2645729,"n":1156696,"alt":3692,"prio":90},
+{"id":"89F0CA55-C99D","name":"Pfaffestecki","kind":"summit","e":2649260,"n":1157815,"alt":3113,"prio":90},
+{"id":"91AF496E-159D","name":"Ochs","kind":"summit","e":2648860,"n":1156228,"alt":3895,"prio":90},
+{"id":"91AF496E-159D","name":"Kleines Fiescherhorn","kind":"summit","e":2648860,"n":1156228,"alt":3895,"prio":90},
+{"id":"501725A2-7CBF","name":"Hinteres Fiescherhorn","kind":"summit","e":2648246,"n":1155198,"alt":4025,"prio":90},
+{"id":"8F0E7FC9-B812","name":"Fiescherjoch","kind":"pass","e":2649290,"n":1155963,"alt":3696,"prio":60},
+{"id":"71FDF4B7-776A","name":"Grosses Fiescherhorn","kind":"summit","e":2647766,"n":1155750,"alt":4049,"prio":100},
+{"id":"7B9ABB3D-A6A1","name":"Fieschersattel","kind":"pass","e":2648027,"n":1155504,"alt":3923,"prio":60},
+{"id":"BBD4BBB9-D94D","name":"Mittellegi","kind":"ridge","e":2645219,"n":1159649,"alt":3154,"prio":20},
+{"id":"B7821405-2BB4","name":"Walchergrat","kind":"ridge","e":2647124,"n":1156220,"alt":3775,"prio":20}
+]

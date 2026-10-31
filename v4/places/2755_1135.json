@@ -1,0 +1,14 @@
+[
+{"id":"2E61F117-7F14","name":"Pizzun","kind":"summit","e":2759659,"n":1137467,"alt":2966,"prio":90},
+{"id":"28FAA0CD-1436","name":"Pass da la Prasignola","kind":"pass","e":2758700,"n":1137082,"alt":2724,"prio":60},
+{"id":"D31790ED-D012","name":"Piz Galagiun","kind":"summit","e":2757666,"n":1137118,"alt":3107,"prio":100},
+{"id":"1D6D3F7A-6EC2","name":"Cima da Lägh","kind":"summit","e":2755589,"n":1138115,"alt":3083,"prio":90},
+{"id":"8386FAA9-B4DF","name":"Pizzo Rosso","kind":"summit","e":2755742,"n":1138546,"alt":3051,"prio":90},
+{"id":"E42ADF8D-EAE7","name":"Cima da la Sovräna","kind":"summit","e":2756147,"n":1139528,"alt":3016,"prio":90},
+{"id":"464E5548-E53D","name":"Madrisberg","kind":"pass","e":2756736,"n":1137529,"alt":2650,"prio":60},
+{"id":"464E5548-E53D","name":"Bocchetta da Lägh","kind":"pass","e":2756736,"n":1137529,"alt":2650,"prio":60},
+{"id":"02D7B511-94BD","name":"Mota Märcia","kind":"summit","e":2759520,"n":1136850,"alt":2562,"prio":20},
+{"id":"8CFC9ED4-B965","name":"Cima da Cävi","kind":"summit","e":2759519,"n":1137390,"alt":2908,"prio":90},
+{"id":"0770910F-422C","name":"Lägh da Pizzun","kind":"lake","e":2759849,"n":1138133,"alt":2679,"prio":50},
+{"id":"0770910F-422C","name":"Pizzun See","kind":"lake","e":2759849,"n":1138133,"alt":2679,"prio":50}
+]

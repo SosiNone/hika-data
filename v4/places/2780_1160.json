@@ -1,0 +1,23 @@
+[
+{"id":"E7410DC2-50A5","name":"Albulapass, Hospiz","kind":"stop","e":2783882,"n":1161860,"alt":2311,"prio":25},
+{"id":"0380EE1B-C81F","name":"Preda, Crap Alv","kind":"stop","e":2781980,"n":1161181,"alt":2169,"prio":25},
+{"id":"44086AFB-15B4","name":"Piz Murtel da Fier","kind":"summit","e":2782967,"n":1164907,"alt":2747,"prio":90},
+{"id":"79BB2EB7-8019","name":"Dschimels","kind":"summit","e":2782658,"n":1160617,"alt":2781,"prio":90},
+{"id":"DE984E75-CD91","name":"Fuorcla Melnetta","kind":"pass","e":2783049,"n":1160680,"alt":2630,"prio":60},
+{"id":"0110CB75-641E","name":"Piz da las Blais","kind":"summit","e":2783564,"n":1160703,"alt":2929,"prio":90},
+{"id":"A20ACCA9-BC3F","name":"Piz Mez","kind":"summit","e":2784765,"n":1160707,"alt":2899,"prio":90},
+{"id":"AE249211-1EC1","name":"Pass d'Alvra","kind":"pass","e":2783857,"n":1161820,"alt":2311,"prio":60},
+{"id":"AE249211-1EC1","name":"Albulapass","kind":"pass","e":2783857,"n":1161820,"alt":2311,"prio":60},
+{"id":"6A2CB1D7-2F6A","name":"Igl Compass","kind":"summit","e":2782716,"n":1162555,"alt":3015,"prio":90},
+{"id":"427615A4-1768","name":"Fuorcla Zavretta","kind":"pass","e":2783119,"n":1162923,"alt":2888,"prio":60},
+{"id":"AA8AD08A-32B3","name":"Piz Üertsch","kind":"summit","e":2783710,"n":1163378,"alt":3267,"prio":100},
+{"id":"57A5E482-D03C","name":"Piz Alvra","kind":"summit","e":2783177,"n":1163381,"alt":3117,"prio":90},
+{"id":"5213E9F7-DB99","name":"Piz Zavretta","kind":"summit","e":2782254,"n":1163408,"alt":3041,"prio":90},
+{"id":"C1843B14-4ADB","name":"Berggasthaus Albula Hospiz","kind":"inn","e":2783849,"n":1161839,"alt":2314,"prio":50},
+{"id":"43D3172A-078C","name":"Bottas Glischas","kind":"ridge","e":2781703,"n":1160094,"alt":2561,"prio":20},
+{"id":"4B56DA78-39C2","name":"Crestas da Palpuegna","kind":"ridge","e":2780321,"n":1162009,"alt":2071,"prio":20},
+{"id":"A82DBFA3-03CB","name":"Lai Alv","kind":"lake","e":2780100,"n":1160234,"alt":2455,"prio":50},
+{"id":"390927FE-3A68","name":"Lajets digl Crap Alv","kind":"lake","e":2781408,"n":1160461,"alt":2291,"prio":50},
+{"id":"AFFDC2D4-18B2","name":"Lajet digls Saglients","kind":"lake","e":2781932,"n":1164854,"alt":2392,"prio":50},
+{"id":"C9668372-7BCC","name":"Albulasee","kind":"lake","e":2784589,"n":1162011,"alt":2294,"prio":50}
+]

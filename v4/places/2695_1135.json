@@ -1,0 +1,17 @@
+[
+{"id":"F84DF03E-89B2","name":"Bocchetta della Campala","kind":"pass","e":2699561,"n":1138998,"alt":2322,"prio":60},
+{"id":"936F18E3-7EE2","name":"Sasso di Larecc","kind":"summit","e":2698198,"n":1138877,"alt":2323,"prio":60},
+{"id":"33032028-C2F1","name":"Bocchetta di Larecc","kind":"pass","e":2699709,"n":1137188,"alt":2503,"prio":60},
+{"id":"86718257-4D08","name":"Madàs","kind":"summit","e":2699504,"n":1137880,"alt":2739,"prio":90},
+{"id":"CDA433DE-85DF","name":"Triangolino","kind":"summit","e":2697979,"n":1135002,"alt":2591,"prio":90},
+{"id":"5FEC359F-9E29","name":"Corona di Redòrta","kind":"summit","e":2699524,"n":1136832,"alt":2804,"prio":90},
+{"id":"F5AD3CBB-7040","name":"Passo di Redòrta","kind":"pass","e":2698998,"n":1135842,"alt":2179,"prio":60},
+{"id":"00DC7FCC-A964","name":"Bassa di Partús","kind":"pass","e":2696935,"n":1135713,"alt":2156,"prio":60},
+{"id":"CF8CC767-B222","name":"Larasedo","kind":"summit","e":2695747,"n":1135320,"alt":2043,"prio":60},
+{"id":"EAA7734B-FC3D","name":"Pizzo Campala","kind":"summit","e":2699457,"n":1138415,"alt":2645,"prio":90},
+{"id":"8A44EF6C-AD6B","name":"Motto Rotondo","kind":"summit","e":2695008,"n":1135867,"alt":1611,"prio":60},
+{"id":"830E391D-8694","name":"Pradé","kind":"village","e":2696412,"n":1138552,"alt":1048,"prio":5},
+{"id":"E12502AD-39F7","name":"Capanna Tomeo","kind":"inn","e":2696203,"n":1135736,"alt":1741,"prio":50},
+{"id":"49494484-C45F","name":"Crestone","kind":"ridge","e":2697197,"n":1135403,"alt":2255,"prio":20},
+{"id":"22A56C62-EF17","name":"Lago di Tomé","kind":"lake","e":2696290,"n":1135379,"alt":1693,"prio":50}
+]

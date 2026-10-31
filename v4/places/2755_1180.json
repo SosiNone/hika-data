@@ -1,0 +1,23 @@
+[
+{"id":"3BCFA5F3-508B","name":"Heidbüel","kind":"lift","e":2759862,"n":1181401,"alt":1935,"prio":40},
+{"id":"C53D7889-A04A","name":"Alp Pradaschier","kind":"lift","e":2758955,"n":1183435,"alt":1727,"prio":40},
+{"id":"BD1471AB-E126","name":"Churwalden, Lax","kind":"stop","e":2759799,"n":1184757,"alt":1175,"prio":25},
+{"id":"95EFB0DE-3C25","name":"Stätzerhorn","kind":"lift","e":2758724,"n":1180205,"alt":2418,"prio":40},
+{"id":"7F6A0A4B-DAA7","name":"Stätzertäli","kind":"lift","e":2759158,"n":1181038,"alt":2100,"prio":40},
+{"id":"87CA16F7-8A69","name":"Fulhorn","kind":"summit","e":2756970,"n":1182344,"alt":2528,"prio":90},
+{"id":"88F55F60-70E8","name":"Fulbergegg","kind":"summit","e":2756763,"n":1182655,"alt":2448,"prio":60},
+{"id":"CDA342F7-2B18","name":"Tgom'Aulta","kind":"summit","e":2755417,"n":1184998,"alt":2085,"prio":60},
+{"id":"B34CB045-8E43","name":"Fulaberg","kind":"summit","e":2758081,"n":1181219,"alt":2574,"prio":90},
+{"id":"752EC999-429F","name":"Piz Raschil","kind":"summit","e":2758420,"n":1180394,"alt":2574,"prio":90},
+{"id":"752EC999-429F","name":"Stätzerhorn","kind":"summit","e":2758420,"n":1180394,"alt":2574,"prio":90},
+{"id":"5D6E6F41-A5FA","name":"Grüenabüel","kind":"summit","e":2758154,"n":1184121,"alt":2051,"prio":60},
+{"id":"B9977FDB-7F38","name":"Heidbüel","kind":"summit","e":2759784,"n":1181635,"alt":1936,"prio":60},
+{"id":"5D55E696-1EBB","name":"Lax","kind":"village","e":2759918,"n":1184708,"alt":1144,"prio":5},
+{"id":"644D499D-F0DC","name":"Alpbeizli Alp dil Plaun","kind":"inn","e":2755726,"n":1184407,"alt":1968,"prio":50},
+{"id":"80CE59D5-1966","name":"Bergrestaurant Pradaschier","kind":"inn","e":2758897,"n":1183422,"alt":1735,"prio":50},
+{"id":"FB806783-8B4F","name":"Wanggrat","kind":"ridge","e":2758663,"n":1181418,"alt":2289,"prio":20},
+{"id":"7584373C-E4BE","name":"Geissrügg","kind":"ridge","e":2758469,"n":1182818,"alt":1853,"prio":20},
+{"id":"97630AFD-3E47","name":"Fulaberggrat","kind":"ridge","e":2758218,"n":1180962,"alt":2534,"prio":20},
+{"id":"5FCD3D3C-7613","name":"Crestas","kind":"ridge","e":2755891,"n":1180481,"alt":1628,"prio":20},
+{"id":"0438BFFA-5A51","name":"Windegga","kind":"ridge","e":2757547,"n":1183350,"alt":2261,"prio":20}
+]

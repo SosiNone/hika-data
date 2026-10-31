@@ -1,0 +1,22 @@
+[
+{"id":"23C51DFE-1360","name":"Neues Weisstor","kind":"pass","e":2635815,"n":1093012,"alt":3484,"prio":60},
+{"id":"E1FB3F60-122E","name":"Schwarzberg Weisstor","kind":"pass","e":2636343,"n":1094193,"alt":3562,"prio":60},
+{"id":"71129988-5F70","name":"Corno Nero","kind":"summit","e":2636415,"n":1094051,"alt":3610,"prio":90},
+{"id":"71129988-5F70","name":"Schwarzberghorn","kind":"summit","e":2636415,"n":1094051,"alt":3610,"prio":90},
+{"id":"7BCDD93A-9634","name":"Corno Rosso","kind":"summit","e":2639707,"n":1094086,"alt":3230,"prio":90},
+{"id":"7BCDD93A-9634","name":"Rothorn","kind":"summit","e":2639707,"n":1094086,"alt":3230,"prio":90},
+{"id":"1B4354F7-F5B9","name":"Bocchetta di Seewjinen","kind":"pass","e":2639971,"n":1094082,"alt":3108,"prio":60},
+{"id":"1B4354F7-F5B9","name":"Seewjinenlücke","kind":"pass","e":2639971,"n":1094082,"alt":3108,"prio":60},
+{"id":"23A0A29D-1C9D","name":"Steinchalchhorn","kind":"summit","e":2638273,"n":1093945,"alt":3345,"prio":90},
+{"id":"23A0A29D-1C9D","name":"Cresta di Stenigalchi","kind":"summit","e":2638273,"n":1093945,"alt":3345,"prio":90},
+{"id":"441748A7-DB30","name":"Neue Weisstorspitze","kind":"summit","e":2636024,"n":1093123,"alt":3639,"prio":90},
+{"id":"441748A7-DB30","name":"Punta del Nuovo Weisstor","kind":"summit","e":2636024,"n":1093123,"alt":3639,"prio":90},
+{"id":"BF3D6B59-BD92","name":"Cima di Jazzi","kind":"summit","e":2635330,"n":1092251,"alt":3789,"prio":90},
+{"id":"A4479BEE-3659","name":"Rothornpass","kind":"pass","e":2639432,"n":1094123,"alt":3167,"prio":60},
+{"id":"A4479BEE-3659","name":"Bocchetta del Corno Rosso","kind":"pass","e":2639432,"n":1094123,"alt":3167,"prio":60},
+{"id":"AB014885-8F75","name":"Steinchalchlücke","kind":"pass","e":2638047,"n":1094049,"alt":3367,"prio":60},
+{"id":"AB014885-8F75","name":"Bocchetta di Stenigalchi","kind":"pass","e":2638047,"n":1094049,"alt":3367,"prio":60},
+{"id":"CE93CAAE-804F","name":"Roffelpass","kind":"pass","e":2637642,"n":1094077,"alt":3441,"prio":60},
+{"id":"01EBEB53-E5DC","name":"Bivacco Città di Luino CAI","kind":"inn","e":2636509,"n":1094024,"alt":3572,"prio":45},
+{"id":"C89E4E81-9E15","name":"Roffelhörner","kind":"ridge","e":2638113,"n":1094055,"alt":3335,"prio":20}
+]

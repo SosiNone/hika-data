@@ -1,0 +1,14 @@
+[
+{"id":"C4D6657D-F923","name":"Bot digl Uors","kind":"summit","e":2770841,"n":1168415,"alt":2229,"prio":60},
+{"id":"A87422B7-FAE6","name":"Piz Spadlatscha","kind":"summit","e":2773493,"n":1165225,"alt":2871,"prio":90},
+{"id":"BBF3C14A-79EA","name":"Chavagl Pitschen","kind":"summit","e":2772621,"n":1168436,"alt":2229,"prio":60},
+{"id":"BBF3C14A-79EA","name":"Kli Ross","kind":"summit","e":2772621,"n":1168436,"alt":2229,"prio":60},
+{"id":"F177CA0C-0C05","name":"Chavagl Grond","kind":"summit","e":2773148,"n":1167691,"alt":2443,"prio":60},
+{"id":"F177CA0C-0C05","name":"Gross Ross","kind":"summit","e":2773148,"n":1167691,"alt":2443,"prio":60},
+{"id":"5C58C604-3D51","name":"Chantota","kind":"summit","e":2770824,"n":1166955,"alt":2542,"prio":60},
+{"id":"6B97BDAB-D7FF","name":"Piz Cuelmet","kind":"summit","e":2770922,"n":1165992,"alt":2817,"prio":90},
+{"id":"14EA818C-55DE","name":"Piz Crap","kind":"summit","e":2770846,"n":1165577,"alt":2821,"prio":90},
+{"id":"A0942EA3-E99D","name":"Fuorcla da Gravaratschas","kind":"pass","e":2770819,"n":1165251,"alt":2759,"prio":60},
+{"id":"76B0CC96-0783","name":"Chamona d'Ela CAS","kind":"inn","e":2772569,"n":1165534,"alt":2252,"prio":45},
+{"id":"071E9238-68A0","name":"Fil da Stidier","kind":"ridge","e":2771497,"n":1165251,"alt":2797,"prio":20}
+]

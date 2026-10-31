@@ -1,0 +1,11 @@
+[
+{"id":"A8B38347-FE32","name":"Hienderstock","kind":"summit","e":2659749,"n":1159769,"alt":3307,"prio":90},
+{"id":"8267A700-A5BC","name":"Hubelhoren","kind":"summit","e":2658839,"n":1159669,"alt":3244,"prio":90},
+{"id":"DFE718FF-33A2","name":"Rothoren","kind":"summit","e":2659865,"n":1158646,"alt":3004,"prio":90},
+{"id":"1F1DF743-6CAB","name":"Abschwunghorn","kind":"summit","e":2655714,"n":1157435,"alt":3134,"prio":90},
+{"id":"85A88885-CBD3","name":"Escherhorn","kind":"summit","e":2658150,"n":1156540,"alt":3078,"prio":90},
+{"id":"757CB620-B18F","name":"Scheuchzerhorn","kind":"summit","e":2657669,"n":1155010,"alt":3455,"prio":90},
+{"id":"8C609411-F860","name":"Scheuchzerjoch","kind":"pass","e":2658551,"n":1155180,"alt":3072,"prio":60},
+{"id":"C39CF1DE-9C5A","name":"Hinder Tierberg","kind":"summit","e":2659403,"n":1155398,"alt":3204,"prio":90},
+{"id":"E7928D62-BF4D","name":"Hubellücke","kind":"pass","e":2659067,"n":1159741,"alt":3167,"prio":60}
+]

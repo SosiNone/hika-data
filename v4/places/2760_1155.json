@@ -1,0 +1,15 @@
+[
+{"id":"C43DA9F9-4590","name":"Piz Arlos","kind":"summit","e":2764476,"n":1158644,"alt":2696,"prio":90},
+{"id":"D8CDFE08-3724","name":"Crest'Ota","kind":"summit","e":2760046,"n":1158933,"alt":2495,"prio":60},
+{"id":"47CFB6B7-2F7F","name":"Piz Arblatsch","kind":"summit","e":2764048,"n":1156029,"alt":3200,"prio":90},
+{"id":"FD09512E-1F7F","name":"Piz Mez","kind":"summit","e":2760560,"n":1155751,"alt":2717,"prio":90},
+{"id":"CF484360-7E4F","name":"Davos Mots","kind":"summit","e":2764537,"n":1157393,"alt":2453,"prio":60},
+{"id":"15961A53-9BB2","name":"Radons","kind":"village","e":2762192,"n":1158753,"alt":1867,"prio":5},
+{"id":"16BC62DD-88BE","name":"Bergrestaurant Steil'Alva","kind":"inn","e":2761874,"n":1158612,"alt":1899,"prio":50},
+{"id":"A1B28985-B673","name":"Bergrestaurant Muntanela","kind":"inn","e":2761937,"n":1158574,"alt":1895,"prio":50},
+{"id":"8F5D8F98-FA82","name":"Ski und Wanderhütte Tigia","kind":"inn","e":2762363,"n":1159078,"alt":1847,"prio":50},
+{"id":"7C4FD484-7753","name":"Berghuus Radons","kind":"inn","e":2762107,"n":1158833,"alt":1884,"prio":50},
+{"id":"968AEC48-314D","name":"Pizzet","kind":"ridge","e":2764519,"n":1156801,"alt":2681,"prio":20},
+{"id":"70963C04-4261","name":"Laiets","kind":"lake","e":2762066,"n":1156090,"alt":2136,"prio":50},
+{"id":"5B3BD899-91D3","name":"Lais da Tgeps","kind":"lake","e":2760669,"n":1159719,"alt":2279,"prio":50}
+]

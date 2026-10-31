@@ -1,0 +1,10 @@
+[
+{"id":"2FAE80A3-9196","name":"Cima de Val Loga","kind":"summit","e":2741109,"n":1148696,"alt":3005,"prio":90},
+{"id":"F8CCC24D-6573","name":"Piz di Pian","kind":"summit","e":2740857,"n":1146507,"alt":3157,"prio":90},
+{"id":"35AEBB9E-A580","name":"Piz di Ross","kind":"summit","e":2740205,"n":1145977,"alt":3017,"prio":90},
+{"id":"CC18B476-CD20","name":"Sella dei Piani","kind":"pass","e":2741204,"n":1147121,"alt":2969,"prio":60},
+{"id":"50E5CE1F-1B07","name":"Sella del Ferrè","kind":"pass","e":2740944,"n":1147784,"alt":2921,"prio":60},
+{"id":"47934A35-620A","name":"Pass de Val Loga","kind":"pass","e":2741155,"n":1149018,"alt":2919,"prio":60},
+{"id":"BD1800FC-55C1","name":"Passo Zoccone","kind":"pass","e":2741023,"n":1149373,"alt":2935,"prio":60},
+{"id":"EA28C694-8B24","name":"Pizzo Ferrè","kind":"summit","e":2741441,"n":1147247,"alt":3103,"prio":90}
+]

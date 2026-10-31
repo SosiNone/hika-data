@@ -1,0 +1,16 @@
+[
+{"id":"AADDAF1C-A089","name":"Eggstock","kind":"summit","e":2674987,"n":1167239,"alt":3555,"prio":90},
+{"id":"A226138F-4115","name":"Maasplangstock","kind":"summit","e":2673608,"n":1169465,"alt":3402,"prio":90},
+{"id":"2ED8D8D1-F3A9","name":"Wysse Nollen","kind":"summit","e":2673620,"n":1167415,"alt":3419,"prio":90},
+{"id":"7E5F0EA5-91E0","name":"Obri Triftlimi","kind":"pass","e":2673401,"n":1166886,"alt":3271,"prio":60},
+{"id":"B59A21F3-55BA","name":"Triftsteckli","kind":"summit","e":2670699,"n":1168313,"alt":3035,"prio":90},
+{"id":"EA5D5F2C-87CC","name":"Diechterhoren","kind":"summit","e":2670548,"n":1166733,"alt":3388,"prio":90},
+{"id":"3F137A69-B083","name":"Diechterlimi","kind":"pass","e":2670766,"n":1166248,"alt":3214,"prio":60},
+{"id":"2E427FBD-FDC6","name":"Limistock","kind":"summit","e":2672590,"n":1165863,"alt":3183,"prio":90},
+{"id":"24FF3934-71F8","name":"Undri Triftlimi","kind":"pass","e":2672309,"n":1165666,"alt":3074,"prio":60},
+{"id":"9DD7709D-04F9","name":"Tieralplistock","kind":"summit","e":2671700,"n":1165078,"alt":3383,"prio":90},
+{"id":"F60C87E4-600F","name":"Nördliches Maasplangjoch","kind":"pass","e":2673400,"n":1169743,"alt":3299,"prio":60},
+{"id":"131E45A9-AF1B","name":"Südliches Maasplangjoch","kind":"pass","e":2673735,"n":1169072,"alt":3283,"prio":60},
+{"id":"2447406B-6706","name":"Trifthütte SAC","kind":"inn","e":2671355,"n":1169623,"alt":2416,"prio":50},
+{"id":"0105BF72-6083","name":"Triftgrat","kind":"ridge","e":2674271,"n":1168344,"alt":3345,"prio":20}
+]

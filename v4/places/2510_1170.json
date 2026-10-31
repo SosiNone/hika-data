@@ -1,0 +1,7 @@
+[
+{"id":"5F36AB23-EF58","name":"Crêt Cantin","kind":"summit","e":2513863,"n":1172038,"alt":1176,"prio":30},
+{"id":"2ECF8C15-2CDA","name":"Hauts Crêts","kind":"summit","e":2514175,"n":1173013,"alt":1137,"prio":30},
+{"id":"E184A551-212F","name":"Crêt à Chatron","kind":"summit","e":2512441,"n":1171100,"alt":1221,"prio":30},
+{"id":"29EF756F-830B","name":"Entonnoir Cave à la Metsire","kind":"cave","e":2514981,"n":1170305,"alt":1008,"prio":25},
+{"id":"3A66385B-8F8B","name":"Entonnoir Bon Port","kind":"cave","e":2514594,"n":1170051,"alt":992,"prio":25}
+]

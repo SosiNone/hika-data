@@ -1,0 +1,23 @@
+[
+{"id":"2361FAF3-2D6A","name":"Mühlebach (Goms), Dorf","kind":"stop","e":2655110,"n":1139940,"alt":1212,"prio":25},
+{"id":"21D39D45-72CA","name":"Binn, Giesse","kind":"stop","e":2658552,"n":1135511,"alt":1459,"prio":25},
+{"id":"9AD0473B-EE20","name":"Binn, Campingplatz","kind":"stop","e":2658774,"n":1135636,"alt":1473,"prio":25},
+{"id":"955D738F-EBED","name":"Binn, Fäld","kind":"stop","e":2659597,"n":1135563,"alt":1519,"prio":25},
+{"id":"C434A213-B8D5","name":"Mühlebach (Goms), Brücke","kind":"stop","e":2655047,"n":1139722,"alt":1198,"prio":25},
+{"id":"0A2A0EBA-85E2","name":"Grosses Fülhorn","kind":"summit","e":2659437,"n":1137741,"alt":2677,"prio":90},
+{"id":"2EB4FFE5-C95B","name":"Eggerhorn","kind":"summit","e":2657305,"n":1137157,"alt":2503,"prio":90},
+{"id":"03AA5498-B4DB","name":"Chlis Fülhorn","kind":"summit","e":2658486,"n":1137366,"alt":2543,"prio":90},
+{"id":"5AB318C1-9BF0","name":"Mühlebach (Goms)","kind":"village","e":2655286,"n":1139896,"alt":1244,"prio":15},
+{"id":"3E23C597-7B7D","name":"Binn","kind":"village","e":2657451,"n":1135043,"alt":1406,"prio":15},
+{"id":"F999CE7B-497B","name":"Fäld","kind":"village","e":2659538,"n":1135698,"alt":1542,"prio":5},
+{"id":"9DB165BD-ED1F","name":"Lusse","kind":"village","e":2657770,"n":1135274,"alt":1430,"prio":5},
+{"id":"CFF68F85-A9E7","name":"Holzerhiischere","kind":"village","e":2658496,"n":1135570,"alt":1472,"prio":5},
+{"id":"DDEBAB79-F9CF","name":"Heiwmeder","kind":"village","e":2659997,"n":1135818,"alt":1689,"prio":5},
+{"id":"4A702C59-2E6E","name":"Berghotel Chäserstatt","kind":"inn","e":2656484,"n":1139878,"alt":1771,"prio":50},
+{"id":"D26DAEAA-B30B","name":"Restaurant Imfeld","kind":"inn","e":2659606,"n":1135570,"alt":1519,"prio":50},
+{"id":"6308EC80-F1C0","name":"Restaurant Bärgkristall","kind":"inn","e":2659540,"n":1135731,"alt":1547,"prio":50},
+{"id":"BB6C0F10-6D3B","name":"Schweifegrat","kind":"ridge","e":2658780,"n":1137546,"alt":2527,"prio":20},
+{"id":"70479DA1-55CD","name":"Lärchegga","kind":"ridge","e":2659326,"n":1136707,"alt":2008,"prio":20},
+{"id":"557B2400-6C82","name":"Putz","kind":"lake","e":2658232,"n":1139654,"alt":2313,"prio":50},
+{"id":"DE62DFE3-BD53","name":"Engiputz","kind":"lake","e":2658565,"n":1139745,"alt":2348,"prio":50}
+]

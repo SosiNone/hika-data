@@ -1,0 +1,12 @@
+[
+{"id":"F1A53D42-197D","name":"Sassa Nera","kind":"summit","e":2805361,"n":1135680,"alt":2857,"prio":90},
+{"id":"F1A53D42-197D","name":"Cima di Rosso","kind":"summit","e":2805361,"n":1135680,"alt":2857,"prio":90},
+{"id":"40064024-6F43","name":"Forcola di Rosso","kind":"pass","e":2805308,"n":1135369,"alt":2671,"prio":60},
+{"id":"68B2302A-4CBD","name":"Piz Sena","kind":"summit","e":2805583,"n":1137028,"alt":3075,"prio":90},
+{"id":"68B2302A-4CBD","name":"Vetta Sperella","kind":"summit","e":2805583,"n":1137028,"alt":3075,"prio":90},
+{"id":"2EAC97E9-18EE","name":"Piz dal Teo","kind":"summit","e":2806754,"n":1138916,"alt":3047,"prio":90},
+{"id":"B0EB6D17-0F8D","name":"Bocchetta da Cantonascia","kind":"pass","e":2806836,"n":1139264,"alt":2836,"prio":60},
+{"id":"C184C46B-7864","name":"Motta Rossa","kind":"summit","e":2805866,"n":1139520,"alt":2428,"prio":60},
+{"id":"6C28CE22-6CA0","name":"Cresta della Sperella","kind":"ridge","e":2806290,"n":1137578,"alt":2848,"prio":20},
+{"id":"A292F854-C3BD","name":"I Lagh dal Teo","kind":"lake","e":2805695,"n":1138264,"alt":2351,"prio":50}
+]

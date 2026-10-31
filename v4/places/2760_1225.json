@@ -1,0 +1,18 @@
+[
+{"id":"005AC639-B2AB","name":"Gafleispitz","kind":"summit","e":2760465,"n":1225272,"alt":1982,"prio":60},
+{"id":"7872B7EA-D8E5","name":"Kuegrat","kind":"summit","e":2760890,"n":1226128,"alt":2123,"prio":90},
+{"id":"ABA4EF0D-4F70","name":"Garsellikopf","kind":"summit","e":2761163,"n":1226550,"alt":2105,"prio":60},
+{"id":"3AEDAE32-665F","name":"Ober Band","kind":"summit","e":2762257,"n":1226667,"alt":1848,"prio":60},
+{"id":"65F1BEC6-1218","name":"Drei Schwestern","kind":"summit","e":2761772,"n":1227155,"alt":2052,"prio":60},
+{"id":"A30B1C5B-EC8F","name":"Sarojasattel","kind":"pass","e":2761811,"n":1228000,"alt":1627,"prio":60},
+{"id":"15EF42CE-CDC2","name":"Sattelköpfle","kind":"summit","e":2761792,"n":1228220,"alt":1689,"prio":60},
+{"id":"79523A5E-F7FA","name":"Saroja","kind":"summit","e":2761702,"n":1228847,"alt":1659,"prio":60},
+{"id":"01A257FB-FC56","name":"Frastanzersand","kind":"summit","e":2762078,"n":1229209,"alt":1646,"prio":60},
+{"id":"472BD3E4-1726","name":"Garsellitörm","kind":"summit","e":2761550,"n":1226529,"alt":2050,"prio":60},
+{"id":"399DD62B-F2DD","name":"Gafadurahütte LAV","kind":"inn","e":2761403,"n":1228321,"alt":1429,"prio":50},
+{"id":"DBB0CEDB-AFE7","name":"Bleikagrat","kind":"ridge","e":2760766,"n":1227090,"alt":1662,"prio":20},
+{"id":"E756AA4A-E0F0","name":"Hochwaldegg","kind":"ridge","e":2760979,"n":1227450,"alt":1417,"prio":20},
+{"id":"E66200CD-62C4","name":"Kolegg","kind":"ridge","e":2761376,"n":1227444,"alt":1602,"prio":20},
+{"id":"369017D8-40DE","name":"Geisegg","kind":"ridge","e":2760780,"n":1227861,"alt":1138,"prio":20},
+{"id":"2CD4D5E0-171E","name":"Dachsegg","kind":"ridge","e":2760318,"n":1228664,"alt":890,"prio":20}
+]

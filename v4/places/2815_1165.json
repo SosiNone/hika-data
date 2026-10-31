@@ -1,0 +1,16 @@
+[
+{"id":"280C46BC-4E23","name":"Süsom Givè (Passhöhe)","kind":"stop","e":2818462,"n":1169356,"alt":2149,"prio":25},
+{"id":"ED780A62-8F3F","name":"Tschierv, spv. Minschuns","kind":"stop","e":2819673,"n":1168937,"alt":1973,"prio":25},
+{"id":"AA704C15-E43F","name":"Il Jalet","kind":"summit","e":2817919,"n":1168884,"alt":2390,"prio":60},
+{"id":"40CD4D1A-5CFA","name":"Piz Dora","kind":"summit","e":2819650,"n":1165544,"alt":2950,"prio":90},
+{"id":"F3DEDEF9-7F14","name":"Fuorcla dal Gal","kind":"pass","e":2815738,"n":1166560,"alt":2278,"prio":60},
+{"id":"7AB797D2-E65D","name":"Piz Daint","kind":"summit","e":2818429,"n":1167024,"alt":2968,"prio":90},
+{"id":"14F55EAD-44F2","name":"Pass dal Fuorn","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
+{"id":"14F55EAD-44F2","name":"Ofenpass","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
+{"id":"14F55EAD-44F2","name":"Passo del Forno","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
+{"id":"BDC8029B-2A24","name":"Döss da las Plattas","kind":"summit","e":2816587,"n":1167934,"alt":2297,"prio":60},
+{"id":"CC4F54A5-8E2C","name":"Döss dal Termel","kind":"summit","e":2816630,"n":1166910,"alt":2349,"prio":60},
+{"id":"2DC47AA7-AA71","name":"Munt Buffalora","kind":"summit","e":2815281,"n":1167854,"alt":2630,"prio":90},
+{"id":"A4E12F47-24DE","name":"Minieras da Fier","kind":"cave","e":2815470,"n":1169020,"alt":2293,"prio":25},
+{"id":"EAD95840-A37B","name":"Hotel Süsom Givè","kind":"inn","e":2818462,"n":1169336,"alt":2149,"prio":50}
+]

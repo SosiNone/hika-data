@@ -1,0 +1,7 @@
+[
+{"id":"568C2425-138D","name":"Crans VD, Port","kind":"stop","e":2505864,"n":1134901,"alt":380,"prio":25},
+{"id":"89FBB153-0DC9","name":"Crans VD, village","kind":"stop","e":2505094,"n":1134892,"alt":424,"prio":25},
+{"id":"3153126B-2F8D","name":"Crans VD, La Versoix","kind":"stop","e":2505255,"n":1134954,"alt":421,"prio":25},
+{"id":"AA43DA93-8546","name":"Crans VD","kind":"village","e":2505106,"n":1134640,"alt":426,"prio":55},
+{"id":"36A0FE47-3492","name":"Becquet","kind":"village","e":2505304,"n":1134407,"alt":389,"prio":5}
+]

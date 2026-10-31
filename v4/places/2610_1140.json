@@ -1,0 +1,20 @@
+[
+{"id":"2DF295D1-3A66","name":"Ortelehore","kind":"summit","e":2612538,"n":1143946,"alt":2562,"prio":60},
+{"id":"4104CC6B-609C","name":"Tschingellochtighore","kind":"summit","e":2611857,"n":1143813,"alt":2734,"prio":90},
+{"id":"0EDFABAC-E167","name":"Bündihore","kind":"summit","e":2610416,"n":1144927,"alt":2039,"prio":60},
+{"id":"03ACB0D4-00AA","name":"Wyssi Flue","kind":"summit","e":2614066,"n":1143108,"alt":2471,"prio":60},
+{"id":"2165FBFE-2A5D","name":"Chindbettihore","kind":"summit","e":2611790,"n":1142428,"alt":2692,"prio":90},
+{"id":"CC58D69C-9AF5","name":"Stäghore","kind":"summit","e":2611185,"n":1140607,"alt":3147,"prio":90},
+{"id":"3068CCFA-D299","name":"Rote Totz","kind":"summit","e":2612386,"n":1140470,"alt":2847,"prio":90},
+{"id":"296B950A-109C","name":"Felshore","kind":"summit","e":2613165,"n":1142013,"alt":2785,"prio":90},
+{"id":"30B307FD-08DF","name":"Chindbettipass","kind":"pass","e":2611733,"n":1142224,"alt":2623,"prio":60},
+{"id":"FE75729D-E30A","name":"Tierihöri","kind":"summit","e":2611613,"n":1141657,"alt":2894,"prio":90},
+{"id":"242081D5-18AE","name":"Schwarzgrätli","kind":"pass","e":2613451,"n":1142918,"alt":2381,"prio":60},
+{"id":"E30C6D0E-9618","name":"Berghotel Schwarenbach","kind":"inn","e":2614318,"n":1142319,"alt":2060,"prio":50},
+{"id":"3B97E3F7-A79A","name":"Entschligegrat","kind":"ridge","e":2611871,"n":1142481,"alt":2636,"prio":20},
+{"id":"3CDEEB43-479B","name":"Ärtelegrat","kind":"ridge","e":2610401,"n":1144213,"alt":2150,"prio":20},
+{"id":"8BB9CD8C-F9FF","name":"Schedelsgrätli","kind":"ridge","e":2612095,"n":1144490,"alt":2489,"prio":20},
+{"id":"9EF7DCC6-5AAB","name":"Strubelegga","kind":"ridge","e":2610323,"n":1140468,"alt":2892,"prio":20},
+{"id":"761238E8-7ABF","name":"Daubensee","kind":"lake","e":2613834,"n":1140083,"alt":2207,"prio":50},
+{"id":"0EB667BE-B4B1","name":"Tälliseewli","kind":"lake","e":2612246,"n":1142415,"alt":2399,"prio":50}
+]

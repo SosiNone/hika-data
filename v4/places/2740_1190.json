@@ -1,0 +1,11 @@
+[
+{"id":"C08C408F-4505","name":"Fidaz, Bargis","kind":"stop","e":2743973,"n":1190946,"alt":1550,"prio":25},
+{"id":"0E3F5654-A0BB","name":"Piz Aulta","kind":"summit","e":2741431,"n":1190421,"alt":1967,"prio":60},
+{"id":"5684891F-F5F5","name":"Tschepp Sura","kind":"summit","e":2744891,"n":1193611,"alt":2838,"prio":90},
+{"id":"E3D9A35B-637E","name":"Piz Mirutta","kind":"summit","e":2743433,"n":1194032,"alt":2605,"prio":90},
+{"id":"9A807C74-A2FB","name":"Mutta Bella","kind":"summit","e":2741462,"n":1192527,"alt":2406,"prio":60},
+{"id":"20F24871-FAD8","name":"Bargis","kind":"village","e":2743205,"n":1191501,"alt":1563,"prio":5},
+{"id":"9507CC4C-EADC","name":"Berghaus Bargis","kind":"inn","e":2743958,"n":1190933,"alt":1551,"prio":50},
+{"id":"3F558A30-3EEC","name":"Fil da Mirutta","kind":"ridge","e":2743562,"n":1194983,"alt":2688,"prio":20},
+{"id":"4C515339-FB02","name":"Ils Lags","kind":"lake","e":2740199,"n":1192573,"alt":2348,"prio":50}
+]

@@ -1,0 +1,21 @@
+[
+{"id":"93084E6D-5ED0","name":"Pizzo d'Orsirora","kind":"summit","e":2683270,"n":1159091,"alt":2602,"prio":90},
+{"id":"7E07271E-3E71","name":"Pizzo dell'Uomo","kind":"summit","e":2682982,"n":1157865,"alt":2686,"prio":90},
+{"id":"26B850D4-CBEA","name":"Sunnsbiel","kind":"summit","e":2681237,"n":1157339,"alt":2079,"prio":30},
+{"id":"0ED900A8-8EBA","name":"Siwerbenhorn","kind":"summit","e":2682435,"n":1157036,"alt":2765,"prio":90},
+{"id":"746FE0C7-2BC9","name":"Stägenhorn","kind":"summit","e":2682599,"n":1155816,"alt":2822,"prio":90},
+{"id":"5488851C-3C7B","name":"Passo d'Orsino","kind":"pass","e":2683255,"n":1159174,"alt":2563,"prio":60},
+{"id":"F87DC122-9192","name":"Passo d'Orsirora","kind":"pass","e":2682933,"n":1158343,"alt":2528,"prio":60},
+{"id":"F87DC122-9192","name":"Gatscholalücke","kind":"pass","e":2682933,"n":1158343,"alt":2528,"prio":60},
+{"id":"09427A4E-143E","name":"Höhenbiel","kind":"summit","e":2680893,"n":1158359,"alt":1986,"prio":60},
+{"id":"F58F6A54-F4BF","name":"Pizzo della Valletta","kind":"summit","e":2684356,"n":1155736,"alt":2726,"prio":90},
+{"id":"F0D76E00-539D","name":"Rotondohütte SAC","kind":"inn","e":2680204,"n":1155380,"alt":2573,"prio":50},
+{"id":"BD632D38-E4A4","name":"Tälligrat","kind":"ridge","e":2680459,"n":1155988,"alt":2624,"prio":20},
+{"id":"EA166C33-D62F","name":"Höhegg","kind":"ridge","e":2681362,"n":1158652,"alt":2020,"prio":20},
+{"id":"5BD311A3-BAE9","name":"Lago d'Orsino","kind":"lake","e":2684417,"n":1158887,"alt":2284,"prio":50},
+{"id":"71F0AEF6-E9E6","name":"Lago di Lucendro","kind":"lake","e":2684479,"n":1157282,"alt":2131,"prio":50},
+{"id":"419DE5FC-F1D5","name":"Laghi della Valletta","kind":"lake","e":2683621,"n":1158067,"alt":2431,"prio":50},
+{"id":"796A6E95-F172","name":"Laghi della Valletta","kind":"lake","e":2683227,"n":1158207,"alt":2467,"prio":50},
+{"id":"8944F47F-CC58","name":"Laghi d'Orsirora","kind":"lake","e":2683496,"n":1158597,"alt":2442,"prio":50},
+{"id":"80F299D4-415A","name":"Laghi d'Orsirora","kind":"lake","e":2683984,"n":1158408,"alt":2324,"prio":50}
+]

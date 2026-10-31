@@ -1,0 +1,7 @@
+[
+{"id":"3CBD4844-9EBD","name":"Mont Sâla","kind":"summit","e":2501579,"n":1150966,"alt":1511,"prio":30},
+{"id":"42F038EF-54D3","name":"Mont Pelé","kind":"summit","e":2500508,"n":1150128,"alt":1534,"prio":30},
+{"id":"DA916817-6246","name":"Crêt de Grison","kind":"summit","e":2503545,"n":1150784,"alt":1324,"prio":30},
+{"id":"238D0306-3306","name":"Vue de Genève","kind":"summit","e":2503798,"n":1154293,"alt":1495,"prio":30},
+{"id":"E729A8C7-5C73","name":"Chalet des Pralets","kind":"inn","e":2502452,"n":1150442,"alt":1271,"prio":50}
+]

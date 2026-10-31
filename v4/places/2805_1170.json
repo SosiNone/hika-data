@@ -1,0 +1,15 @@
+[
+{"id":"AC183C84-40EF","name":"Champlönch P1","kind":"stop","e":2808676,"n":1173467,"alt":1835,"prio":25},
+{"id":"695678D3-9EDC","name":"Laschadura","kind":"stop","e":2806141,"n":1174707,"alt":1712,"prio":25},
+{"id":"B580FCC0-EAF7","name":"Ova Spin","kind":"stop","e":2808207,"n":1173342,"alt":1883,"prio":25},
+{"id":"47CDB2D5-C44B","name":"Vallun Chafuol P3","kind":"stop","e":2809057,"n":1171588,"alt":1768,"prio":25},
+{"id":"EF94F8D3-DEA0","name":"Piz Terza","kind":"summit","e":2806224,"n":1172194,"alt":2685,"prio":90},
+{"id":"819D48CE-5D2C","name":"Muottas Champsech","kind":"summit","e":2807856,"n":1173363,"alt":1977,"prio":60},
+{"id":"2E2E0906-155A","name":"Fuorcla Murter","kind":"pass","e":2806325,"n":1171227,"alt":2545,"prio":60},
+{"id":"5709ED04-F3FD","name":"Muottas Champlönch","kind":"summit","e":2809952,"n":1172182,"alt":2164,"prio":60},
+{"id":"A69A1900-0126","name":"Piz la Schera","kind":"summit","e":2809510,"n":1170169,"alt":1897,"prio":60},
+{"id":"1A3CB875-CCF5","name":"Spi da Murter","kind":"ridge","e":2806654,"n":1170198,"alt":2696,"prio":20},
+{"id":"3D7916B5-BC47","name":"Spi da Terza","kind":"ridge","e":2805873,"n":1172557,"alt":2537,"prio":20},
+{"id":"395AF401-C354","name":"Lai da l'Ova Spin","kind":"lake","e":2808129,"n":1172280,"alt":1630,"prio":50},
+{"id":"7E7C713D-44F2","name":"Lai da l'Ova Spin","kind":"lake","e":2808713,"n":1170891,"alt":1631,"prio":50}
+]

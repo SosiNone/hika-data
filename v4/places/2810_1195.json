@@ -1,0 +1,21 @@
+[
+{"id":"DA5FA584-AD36","name":"Zahnturm","kind":"summit","e":2813032,"n":1196232,"alt":3074,"prio":20},
+{"id":"DA5FA584-AD36","name":"Paulcketurm","kind":"summit","e":2813032,"n":1196232,"alt":3074,"prio":20},
+{"id":"40FE2023-F0EE","name":"Zahnspitze","kind":"summit","e":2813070,"n":1196397,"alt":3099,"prio":90},
+{"id":"71451212-B45D","name":"Zahnjoch","kind":"pass","e":2812926,"n":1196620,"alt":2946,"prio":60},
+{"id":"F9677095-ECEA","name":"Piz Fenga","kind":"summit","e":2812439,"n":1197335,"alt":3397,"prio":100},
+{"id":"F9677095-ECEA","name":"Fluchthorn","kind":"summit","e":2812439,"n":1197335,"alt":3397,"prio":100},
+{"id":"4EC68C2A-1A42","name":"Larainfernerjoch","kind":"pass","e":2812867,"n":1198244,"alt":2852,"prio":60},
+{"id":"4F03CF38-DF8C","name":"Larainfernerspitze","kind":"summit","e":2812939,"n":1198708,"alt":3009,"prio":90},
+{"id":"4F03CF38-DF8C","name":"Piz Larain","kind":"summit","e":2812939,"n":1198708,"alt":3009,"prio":90},
+{"id":"4E5533AC-D8C4","name":"Murtiratsch","kind":"summit","e":2814004,"n":1199056,"alt":2535,"prio":20},
+{"id":"6F7FFC74-E44A","name":"Heidelberger Scharte","kind":"pass","e":2813011,"n":1199171,"alt":2818,"prio":60},
+{"id":"601160F2-CAFE","name":"Motta Lada","kind":"summit","e":2813749,"n":1199619,"alt":2658,"prio":60},
+{"id":"78603FB1-67B7","name":"Heidelberger Spitze","kind":"summit","e":2813085,"n":1199539,"alt":2965,"prio":90},
+{"id":"78603FB1-67B7","name":"Ritzenspitz","kind":"summit","e":2813085,"n":1199539,"alt":2965,"prio":90},
+{"id":"D69ACFDC-C6CF","name":"Krone","kind":"summit","e":2812901,"n":1195404,"alt":3188,"prio":90},
+{"id":"50E74F69-E471","name":"Mot Murter","kind":"summit","e":2813989,"n":1199327,"alt":2540,"prio":60},
+{"id":"C4EC00F9-454F","name":"Val Fenga","kind":"village","e":2814863,"n":1199261,"alt":2265,"prio":5},
+{"id":"56A766C4-CB6F","name":"Heidelberger Hütte DAV","kind":"inn","e":2814867,"n":1199264,"alt":2265,"prio":50},
+{"id":"C385C7D2-95C2","name":"Döss Lung","kind":"ridge","e":2814289,"n":1197515,"alt":2592,"prio":20}
+]

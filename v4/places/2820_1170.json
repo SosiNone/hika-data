@@ -1,0 +1,11 @@
+[
+{"id":"74249F6E-BFBC","name":"Minschuns","kind":"summit","e":2821912,"n":1170125,"alt":2520,"prio":90},
+{"id":"3B745553-B994","name":"Pass da Costainas","kind":"pass","e":2824194,"n":1170307,"alt":2250,"prio":60},
+{"id":"5F9F4C71-60DE","name":"Fuorcla Funtana da S-charl","kind":"pass","e":2821412,"n":1170566,"alt":2392,"prio":60},
+{"id":"410D978F-0CEE","name":"Mot Radond","kind":"summit","e":2823155,"n":1171140,"alt":2491,"prio":60},
+{"id":"AA6AA425-3274","name":"Fuorcla d'Astras","kind":"pass","e":2820313,"n":1173309,"alt":2874,"prio":60},
+{"id":"0EC730B0-1D37","name":"Piz d'Astras","kind":"summit","e":2820984,"n":1173437,"alt":2980,"prio":90},
+{"id":"0AA89F69-AB3B","name":"Piz Mezdi","kind":"summit","e":2821284,"n":1174675,"alt":2883,"prio":90},
+{"id":"3DA0E845-6245","name":"Mot Falain","kind":"summit","e":2824647,"n":1174685,"alt":2573,"prio":90},
+{"id":"3D0E8ACD-DEFD","name":"Alp Astras Tamangur","kind":"inn","e":2822840,"n":1172307,"alt":2136,"prio":50}
+]

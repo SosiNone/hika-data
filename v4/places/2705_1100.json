@@ -1,0 +1,9 @@
+[
+{"id":"C749F4AE-E180","name":"Pòla","kind":"summit","e":2709643,"n":1103634,"alt":1742,"prio":60},
+{"id":"1F1563AC-4EDE","name":"Forcola d'Arasio","kind":"pass","e":2708271,"n":1100084,"alt":1482,"prio":60},
+{"id":"6F9EC3BA-2015","name":"Poncione di Breno","kind":"summit","e":2709046,"n":1100640,"alt":1654,"prio":60},
+{"id":"A0F6F247-8697","name":"Monte Magino","kind":"summit","e":2709697,"n":1101951,"alt":1589,"prio":30},
+{"id":"50B6CA6E-2476","name":"Sasso della Gallina","kind":"summit","e":2708996,"n":1103669,"alt":1630,"prio":60},
+{"id":"C4E65017-6E14","name":"Passo d'Agario","kind":"pass","e":2709952,"n":1102810,"alt":1551,"prio":60},
+{"id":"BD6541BF-81D5","name":"Zottone","kind":"summit","e":2709605,"n":1101308,"alt":1568,"prio":30}
+]

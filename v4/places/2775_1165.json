@@ -1,0 +1,23 @@
+[
+{"id":"FAD3811B-F1E3","name":"Bergün/Bravuogn","kind":"stop","e":2776711,"n":1167081,"alt":1372,"prio":45},
+{"id":"55DAE10D-3B69","name":"Bergün/Bravuogn Sagliaz","kind":"lift","e":2777092,"n":1166071,"alt":1390,"prio":40},
+{"id":"7F7AD2EC-214E","name":"Pros da Darlux","kind":"lift","e":2778582,"n":1166204,"alt":1979,"prio":40},
+{"id":"A2DA2677-5148","name":"Alp Darlux","kind":"lift","e":2779286,"n":1166367,"alt":2287,"prio":40},
+{"id":"DBF1886D-F8D4","name":"Bergün/Bravuogn, posta","kind":"stop","e":2776696,"n":1166728,"alt":1366,"prio":25},
+{"id":"0A5DD1B1-62B3","name":"Bergün/Bravuogn, staziun","kind":"stop","e":2776696,"n":1167059,"alt":1372,"prio":25},
+{"id":"37F637FB-64E1","name":"Latsch","kind":"stop","e":2777124,"n":1167344,"alt":1590,"prio":25},
+{"id":"C9E0D9A2-9A1F","name":"Stugl/Stuls, Dorf","kind":"stop","e":2775479,"n":1169201,"alt":1541,"prio":25},
+{"id":"89672CFC-C8B3","name":"Piz Prosonch","kind":"summit","e":2779596,"n":1169588,"alt":2684,"prio":90},
+{"id":"81278A8D-E829","name":"Cuelm da Latsch","kind":"summit","e":2777287,"n":1169178,"alt":2295,"prio":60},
+{"id":"BCD2B6F0-22EC","name":"Cresta Val S-chigra","kind":"summit","e":2776975,"n":1165787,"alt":1441,"prio":30},
+{"id":"9596315C-8BD4","name":"Cresta Gronda","kind":"summit","e":2776317,"n":1167321,"alt":1381,"prio":30},
+{"id":"232EF8BE-5BB5","name":"Bergün/Bravuogn","kind":"village","e":2776792,"n":1166697,"alt":1370,"prio":30},
+{"id":"2179CC93-EDF7","name":"Zinols","kind":"village","e":2775834,"n":1166755,"alt":1511,"prio":5},
+{"id":"45EBAAE0-5B2D","name":"Latsch","kind":"village","e":2777158,"n":1167335,"alt":1586,"prio":15},
+{"id":"530758F9-10E7","name":"Stugl/Stuls","kind":"village","e":2775488,"n":1169182,"alt":1544,"prio":5},
+{"id":"AF9A8EB4-CB28","name":"Bergrestaurant La Diala","kind":"inn","e":2778606,"n":1166174,"alt":1975,"prio":50},
+{"id":"6A40A627-4CAC","name":"Crestas da Buel","kind":"ridge","e":2775500,"n":1167395,"alt":1518,"prio":20},
+{"id":"ED14102A-4B61","name":"Crestas d'God","kind":"ridge","e":2777462,"n":1165881,"alt":1543,"prio":20},
+{"id":"759BB0D6-4D8F","name":"Cresta","kind":"ridge","e":2777352,"n":1167521,"alt":1611,"prio":20},
+{"id":"5194DBC8-15BE","name":"Igls Lajets","kind":"lake","e":2779454,"n":1167946,"alt":1578,"prio":50}
+]

@@ -1,0 +1,22 @@
+[
+{"id":"8BD12FE6-4617","name":"Lukmanier Passhöhe","kind":"stop","e":2704470,"n":1157828,"alt":1918,"prio":25},
+{"id":"6472605A-3F95","name":"Passo dell'Uomo","kind":"pass","e":2701499,"n":1156582,"alt":2212,"prio":60},
+{"id":"58207631-048B","name":"Schenadüi","kind":"summit","e":2700463,"n":1156524,"alt":2746,"prio":100},
+{"id":"939DF31D-337C","name":"Pass Lucmagn","kind":"pass","e":2704427,"n":1157807,"alt":1917,"prio":60},
+{"id":"939DF31D-337C","name":"Passo del Lucomagno","kind":"pass","e":2704427,"n":1157807,"alt":1917,"prio":60},
+{"id":"939DF31D-337C","name":"Lukmanierpass","kind":"pass","e":2704427,"n":1157807,"alt":1917,"prio":60},
+{"id":"7A406A7E-F0FC","name":"Pizzo dell'Uomo","kind":"summit","e":2702663,"n":1155683,"alt":2663,"prio":90},
+{"id":"991197A7-FCC9","name":"Pass di Colómb","kind":"pass","e":2702544,"n":1155066,"alt":2381,"prio":60},
+{"id":"A2E55602-B8B1","name":"Fuorcla Rondadura","kind":"pass","e":2700614,"n":1159818,"alt":2706,"prio":60},
+{"id":"6F1D5D06-BD9D","name":"Piz Rondadura","kind":"summit","e":2700579,"n":1159167,"alt":3016,"prio":100},
+{"id":"6C8CD1E2-D68E","name":"Piz Scai","kind":"summit","e":2701495,"n":1158986,"alt":2740,"prio":90},
+{"id":"F115747F-0974","name":"Bocchetta della Rondadura","kind":"pass","e":2701310,"n":1158896,"alt":2714,"prio":60},
+{"id":"159B7413-19A6","name":"Pass Lucmagn","kind":"pass","e":2704448,"n":1159021,"alt":1972,"prio":50},
+{"id":"159B7413-19A6","name":"Passo del Lucomagno","kind":"pass","e":2704448,"n":1159021,"alt":1972,"prio":50},
+{"id":"159B7413-19A6","name":"Lukmanierpass","kind":"pass","e":2704448,"n":1159021,"alt":1972,"prio":50},
+{"id":"A5DF70A2-72D1","name":"Hospezi Santa Maria","kind":"inn","e":2704444,"n":1157845,"alt":1917,"prio":50},
+{"id":"FC356DC7-4E70","name":"Lèi di Campanítt","kind":"lake","e":2702504,"n":1155109,"alt":2378,"prio":50},
+{"id":"A9FB2048-495B","name":"Laghetto di Scai","kind":"lake","e":2702166,"n":1156545,"alt":2300,"prio":50},
+{"id":"5175647E-DE32","name":"Lagozza della Segna","kind":"lake","e":2701303,"n":1155677,"alt":2190,"prio":50},
+{"id":"DE2E7E6E-7BCD","name":"Lai da Sontga Maria","kind":"lake","e":2703858,"n":1159053,"alt":1905,"prio":50}
+]

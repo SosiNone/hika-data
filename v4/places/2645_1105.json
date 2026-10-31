@@ -1,0 +1,22 @@
+[
+{"id":"C77B896B-8207","name":"Passo Alto","kind":"pass","e":2648495,"n":1106140,"alt":2566,"prio":60},
+{"id":"457C64AE-8817","name":"Tossenhorn","kind":"summit","e":2647100,"n":1108390,"alt":3225,"prio":90},
+{"id":"A6E5B94A-73B8","name":"Tossenjoch","kind":"pass","e":2647659,"n":1108240,"alt":2920,"prio":60},
+{"id":"355834D3-5B04","name":"Tällijoch","kind":"pass","e":2646892,"n":1108301,"alt":3178,"prio":60},
+{"id":"FC9D27C5-9913","name":"Muttetosse","kind":"summit","e":2647670,"n":1109635,"alt":2590,"prio":60},
+{"id":"4D316F3D-E3C4","name":"Galgilicka","kind":"pass","e":2648477,"n":1108624,"alt":2826,"prio":60},
+{"id":"D67F3E43-7966","name":"Zibelenfluehorn","kind":"summit","e":2648048,"n":1108262,"alt":2985,"prio":90},
+{"id":"AE0838D7-1ADB","name":"Balmahorn","kind":"summit","e":2649246,"n":1109796,"alt":2869,"prio":90},
+{"id":"86FD510E-6CFE","name":"Balmalücke","kind":"pass","e":2649204,"n":1109621,"alt":2773,"prio":60},
+{"id":"A43AC825-84DD","name":"Schijenhorn","kind":"summit","e":2648742,"n":1108744,"alt":2980,"prio":90},
+{"id":"39EAB06C-EBD4","name":"Zwischbergenpass","kind":"pass","e":2645106,"n":1107038,"alt":3242,"prio":60},
+{"id":"1E3B5D32-D50F","name":"Portjenhorn","kind":"summit","e":2645611,"n":1106244,"alt":3565,"prio":90},
+{"id":"9A4F1F06-EE4A","name":"Tällihorn","kind":"summit","e":2646304,"n":1108188,"alt":3447,"prio":90},
+{"id":"5EA6A936-7326","name":"Cima Dora","kind":"summit","e":2649513,"n":1106254,"alt":2454,"prio":60},
+{"id":"8381A473-9104","name":"Passo d'Andolla","kind":"pass","e":2649278,"n":1106271,"alt":2410,"prio":60},
+{"id":"D6175477-2DA4","name":"Pizzo d'Andolla","kind":"summit","e":2646098,"n":1105648,"alt":3656,"prio":100},
+{"id":"7E7C58C6-C34F","name":"Weissmiessattel","kind":"pass","e":2645536,"n":1107834,"alt":3406,"prio":60},
+{"id":"7FE5EFD7-1167","name":"Passo della Pezza","kind":"pass","e":2647728,"n":1105763,"alt":2803,"prio":60},
+{"id":"62749627-C42A","name":"Portjengrat","kind":"ridge","e":2645860,"n":1105983,"alt":3557,"prio":20},
+{"id":"8EF81F3D-B446","name":"Balmahornsee","kind":"lake","e":2648736,"n":1109747,"alt":2623,"prio":50}
+]

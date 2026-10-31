@@ -1,0 +1,16 @@
+[
+{"id":"2B8A109C-51B8","name":"Liddes","kind":"stop","e":2580267,"n":1093521,"alt":1320,"prio":25},
+{"id":"6C133B27-9643","name":"Liddes, Chapelle","kind":"stop","e":2580678,"n":1092839,"alt":1376,"prio":25},
+{"id":"F802DAD3-E7C5","name":"Pointe de Boveire","kind":"summit","e":2584597,"n":1093684,"alt":3212,"prio":90},
+{"id":"5300C255-DC2B","name":"Pointe du Parc","kind":"summit","e":2583994,"n":1094072,"alt":2989,"prio":90},
+{"id":"4F8A2F30-75AA","name":"Grand Laget","kind":"summit","e":2584345,"n":1094727,"alt":3133,"prio":90},
+{"id":"A8E35281-EC0A","name":"La Vouardette","kind":"summit","e":2582332,"n":1094074,"alt":2463,"prio":60},
+{"id":"41ED371A-6864","name":"Pointe du Six Rodze","kind":"summit","e":2583495,"n":1093913,"alt":2765,"prio":90},
+{"id":"4E20F4DD-CEAB","name":"Bonhomme du Tsapi","kind":"summit","e":2584114,"n":1090212,"alt":2803,"prio":90},
+{"id":"23A5192D-9F05","name":"Pointe de Toules","kind":"summit","e":2583590,"n":1092639,"alt":2727,"prio":90},
+{"id":"66820A0F-72F3","name":"Oujets de Bagnes","kind":"pass","e":2584467,"n":1094077,"alt":3064,"prio":60},
+{"id":"83114E35-743F","name":"Liddes","kind":"village","e":2580406,"n":1093474,"alt":1339,"prio":30},
+{"id":"3CACA18D-25B5","name":"Dranse (Liddes)","kind":"village","e":2580033,"n":1093157,"alt":1255,"prio":15},
+{"id":"1052087C-72D0","name":"Combe","kind":"village","e":2581643,"n":1091935,"alt":1566,"prio":5},
+{"id":"EF67DF33-AA32","name":"Palasuit (Liddes)","kind":"village","e":2580962,"n":1092404,"alt":1385,"prio":5}
+]

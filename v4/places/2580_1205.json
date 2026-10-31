@@ -1,0 +1,22 @@
+[
+{"id":"668D93DC-D5F8","name":"Fräschels","kind":"stop","e":2582302,"n":1205368,"alt":440,"prio":45},
+{"id":"538A2BE7-04E1","name":"Kallnach","kind":"stop","e":2584534,"n":1208307,"alt":445,"prio":45},
+{"id":"EE952C10-D25D","name":"Siselen-Finsterhennen","kind":"stop","e":2580375,"n":1208942,"alt":440,"prio":45},
+{"id":"3920DE9C-5035","name":"Kallnach, Bahnhof","kind":"stop","e":2584493,"n":1208262,"alt":445,"prio":25},
+{"id":"16985F0E-5569","name":"Kallnach, Sternen","kind":"stop","e":2584604,"n":1207850,"alt":458,"prio":25},
+{"id":"D151B4F8-0ACD","name":"Kallnach, Mitteldorf","kind":"stop","e":2584544,"n":1207661,"alt":461,"prio":25},
+{"id":"FE77BCC6-5DD3","name":"Fräschels, Dorf","kind":"stop","e":2582469,"n":1205209,"alt":458,"prio":25},
+{"id":"137F4FDB-8E1D","name":"Siselen-Finsterhennen, Bahnhof","kind":"stop","e":2580433,"n":1208982,"alt":440,"prio":25},
+{"id":"6421715C-A663","name":"Ägertehubel","kind":"summit","e":2584130,"n":1205481,"alt":516,"prio":10},
+{"id":"4AABF6FF-1A68","name":"Siselen BE","kind":"village","e":2581112,"n":1209164,"alt":462,"prio":30},
+{"id":"8F3A9F62-D8A6","name":"Finsterhennen","kind":"village","e":2580217,"n":1208439,"alt":445,"prio":30},
+{"id":"252D1D93-3914","name":"Aspi","kind":"village","e":2584164,"n":1209379,"alt":444,"prio":5},
+{"id":"F22E11E7-1A89","name":"Bühlmoos","kind":"village","e":2581714,"n":1206932,"alt":438,"prio":5},
+{"id":"03A9C33C-4BF3","name":"Walperswilmoos","kind":"village","e":2580173,"n":1205654,"alt":435,"prio":5},
+{"id":"BCAF8CBF-5C39","name":"Epsachmoos","kind":"village","e":2581357,"n":1206753,"alt":438,"prio":5},
+{"id":"818C6A5C-CB0C","name":"Niederriedmoos","kind":"village","e":2581981,"n":1206605,"alt":439,"prio":5},
+{"id":"2FA12706-313E","name":"Landhof","kind":"village","e":2581716,"n":1205131,"alt":436,"prio":5},
+{"id":"BCEE8238-ED4E","name":"Weidmoos","kind":"village","e":2582241,"n":1207023,"alt":439,"prio":5},
+{"id":"FD6E02E7-4BBC","name":"Kallnach","kind":"village","e":2584606,"n":1208026,"alt":456,"prio":45},
+{"id":"490F7ADA-05C6","name":"Fräschels","kind":"village","e":2582474,"n":1205237,"alt":457,"prio":30}
+]

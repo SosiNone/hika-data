@@ -1,0 +1,22 @@
+[
+{"id":"E576D4D0-65D5","name":"Menzonio, Sentiero","kind":"stop","e":2692007,"n":1134405,"alt":585,"prio":25},
+{"id":"E0C2FC85-8ECD","name":"Brontallo, Bivio","kind":"stop","e":2691470,"n":1134217,"alt":588,"prio":25},
+{"id":"A9F6BC9D-6330","name":"Cavergno, Vingera","kind":"stop","e":2690211,"n":1133170,"alt":458,"prio":25},
+{"id":"7AE8A4E1-CD49","name":"Brontallo, Paese","kind":"stop","e":2691430,"n":1134422,"alt":696,"prio":25},
+{"id":"07CAEC77-BAE6","name":"Menzonio, Mulini","kind":"stop","e":2692906,"n":1134939,"alt":618,"prio":25},
+{"id":"CFE811BD-B638","name":"Bocchetta del Sasso Bello","kind":"pass","e":2694964,"n":1131062,"alt":2150,"prio":60},
+{"id":"AC9878A6-710B","name":"Bocchetta di Spluga","kind":"pass","e":2694503,"n":1130883,"alt":2152,"prio":60},
+{"id":"FC6D7E6B-90B5","name":"Punta di Spluga","kind":"summit","e":2694363,"n":1130678,"alt":2251,"prio":60},
+{"id":"723FD971-DA1B","name":"Sasso Bello","kind":"summit","e":2694348,"n":1131109,"alt":2295,"prio":60},
+{"id":"AED3129F-E781","name":"Pizzo Castello","kind":"summit","e":2692916,"n":1130555,"alt":2109,"prio":60},
+{"id":"FD0DD49C-9C4C","name":"Cascata Grande","kind":"water","e":2690431,"n":1132290,"alt":531,"prio":25},
+{"id":"007EB096-00D1","name":"Bignasco","kind":"village","e":2690070,"n":1132432,"alt":438,"prio":30},
+{"id":"796C1F5E-66CA","name":"Brontallo","kind":"village","e":2691474,"n":1134452,"alt":715,"prio":15},
+{"id":"9E97E410-3C70","name":"Valaa","kind":"village","e":2690457,"n":1132830,"alt":541,"prio":5},
+{"id":"4701597A-C8A7","name":"Cantone","kind":"village","e":2690461,"n":1132568,"alt":597,"prio":5},
+{"id":"1C694A09-EF77","name":"Löi","kind":"village","e":2690741,"n":1133435,"alt":583,"prio":5},
+{"id":"81575174-9927","name":"Besso","kind":"village","e":2690539,"n":1133267,"alt":521,"prio":5},
+{"id":"474E5FD1-6F14","name":"Costa dei Russi","kind":"ridge","e":2694534,"n":1130132,"alt":2068,"prio":20},
+{"id":"BC132B5D-B79E","name":"Costone","kind":"ridge","e":2694872,"n":1132427,"alt":1997,"prio":20},
+{"id":"E2861779-BE45","name":"Lago di Chignolasc","kind":"lake","e":2694023,"n":1130912,"alt":1976,"prio":50}
+]
