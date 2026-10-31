@@ -1,0 +1,10 @@
+[
+{"id":"3AE164FF-2F27","name":"Umbrail, Schweizer Zoll","kind":"stop","e":2829650,"n":1158990,"alt":2497,"prio":25},
+{"id":"17760638-17D4","name":"Pass Umbrail","kind":"pass","e":2829705,"n":1158741,"alt":2498,"prio":60},
+{"id":"17760638-17D4","name":"Giogo di Santa Maria","kind":"pass","e":2829705,"n":1158741,"alt":2498,"prio":60},
+{"id":"17760638-17D4","name":"Wormser Joch","kind":"pass","e":2829705,"n":1158741,"alt":2498,"prio":60},
+{"id":"EC06DAD0-DB08","name":"Bocchetta del Lago","kind":"pass","e":2825660,"n":1159625,"alt":2772,"prio":60},
+{"id":"5AC8DCCB-493C","name":"Punta da Rims","kind":"summit","e":2826800,"n":1159036,"alt":2946,"prio":90},
+{"id":"06061A2D-341A","name":"Piz Umbrail","kind":"summit","e":2828162,"n":1159844,"alt":3033,"prio":90},
+{"id":"B221B903-35D3","name":"Spi da Rims","kind":"ridge","e":2826222,"n":1159377,"alt":2834,"prio":20}
+]

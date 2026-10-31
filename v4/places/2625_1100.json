@@ -1,0 +1,15 @@
+[
+{"id":"F7A20B44-E4FA","name":"Täsch","kind":"stop","e":2625995,"n":1101806,"alt":1438,"prio":45},
+{"id":"BB23621D-A00B","name":"Täsch, Bahnhof","kind":"stop","e":2626049,"n":1101851,"alt":1438,"prio":25},
+{"id":"F83F8E61-F310","name":"Täsch, Monte Rosa","kind":"stop","e":2626241,"n":1102579,"alt":1429,"prio":25},
+{"id":"6146B76F-979C","name":"Täsch Monte Rosa","kind":"stop","e":2626001,"n":1102612,"alt":1431,"prio":45},
+{"id":"F387E412-19DE","name":"Grabenhorn","kind":"summit","e":2629524,"n":1104745,"alt":3371,"prio":90},
+{"id":"C52A8907-3B04","name":"Horn","kind":"summit","e":2628962,"n":1102503,"alt":3213,"prio":90},
+{"id":"74C0C255-9776","name":"Leiterspitzen","kind":"summit","e":2629551,"n":1102490,"alt":3409,"prio":90},
+{"id":"D7E8F388-2C29","name":"Ober Sattla","kind":"pass","e":2627888,"n":1100345,"alt":2686,"prio":60},
+{"id":"7A6346AD-6882","name":"Attermenzen","kind":"village","e":2626540,"n":1103827,"alt":1424,"prio":5},
+{"id":"B7439786-319E","name":"Täsch","kind":"village","e":2626258,"n":1101774,"alt":1450,"prio":45},
+{"id":"6FB2413E-9779","name":"Kinhütte","kind":"inn","e":2628496,"n":1104179,"alt":2583,"prio":50},
+{"id":"07FD43A1-37C5","name":"Restaurant Hole in one","kind":"inn","e":2626499,"n":1103825,"alt":1422,"prio":50},
+{"id":"A32184A3-22D3","name":"Restaurant & Lodge Täschalp","kind":"inn","e":2628751,"n":1100913,"alt":2173,"prio":50}
+]

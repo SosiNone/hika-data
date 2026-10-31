@@ -1,0 +1,19 @@
+[
+{"id":"33236020-7473","name":"Engeloch VS","kind":"stop","e":2644856,"n":1119395,"alt":1792,"prio":25},
+{"id":"CAADE918-38D9","name":"Magelicke","kind":"pass","e":2641771,"n":1119983,"alt":2441,"prio":60},
+{"id":"DACBFEB1-C249","name":"Galehorn","kind":"summit","e":2641995,"n":1119125,"alt":2797,"prio":90},
+{"id":"B55460F5-F004","name":"Wyssbodehorn","kind":"summit","e":2643983,"n":1118021,"alt":2623,"prio":90},
+{"id":"272026C1-1C2B","name":"Simpeler Weizstadel","kind":"summit","e":2642136,"n":1117773,"alt":2847,"prio":90},
+{"id":"272026C1-1C2B","name":"Sirwoltuhorn","kind":"summit","e":2642136,"n":1117773,"alt":2847,"prio":90},
+{"id":"D78F0329-F758","name":"Schilthorn","kind":"summit","e":2643791,"n":1117575,"alt":2795,"prio":90},
+{"id":"AA4321EC-A546","name":"Griessernuhorn","kind":"summit","e":2643435,"n":1116965,"alt":2970,"prio":90},
+{"id":"29AC2F6A-923D","name":"Rauthorn","kind":"summit","e":2642782,"n":1116538,"alt":3269,"prio":90},
+{"id":"29AC2F6A-923D","name":"Böshorn","kind":"summit","e":2642782,"n":1116538,"alt":3269,"prio":90},
+{"id":"49BF81B3-B4A8","name":"Simelipass","kind":"pass","e":2640296,"n":1116047,"alt":3023,"prio":60},
+{"id":"5EAD9560-A122","name":"Rossbodepass","kind":"pass","e":2642682,"n":1115875,"alt":3147,"prio":60},
+{"id":"44EF4079-E03C","name":"Sirwoltusattel","kind":"pass","e":2642021,"n":1118575,"alt":2620,"prio":60},
+{"id":"1D2B8779-99B8","name":"Fletschhornhütte","kind":"inn","e":2641576,"n":1115757,"alt":3041,"prio":45},
+{"id":"DA615A7E-54E7","name":"Gäli Egga","kind":"ridge","e":2644686,"n":1115786,"alt":2229,"prio":20},
+{"id":"A2D1182E-531F","name":"Sirwoltusee","kind":"lake","e":2643122,"n":1117841,"alt":2411,"prio":50},
+{"id":"B3BF312E-9F2B","name":"Sirwoltu Weiher","kind":"lake","e":2642819,"n":1117977,"alt":2436,"prio":50}
+]

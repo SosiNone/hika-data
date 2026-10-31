@@ -1,0 +1,19 @@
+[
+{"id":"7BA115A8-29C2","name":"Pass da Schmorras","kind":"pass","e":2757990,"n":1157934,"alt":2563,"prio":60},
+{"id":"69226ADC-0004","name":"Piz Cartas","kind":"summit","e":2759115,"n":1159645,"alt":2712,"prio":90},
+{"id":"1048E262-DDA6","name":"Nolla","kind":"summit","e":2756449,"n":1159175,"alt":2639,"prio":90},
+{"id":"83EA51FF-4968","name":"Furcletta digl Gurschus","kind":"pass","e":2757850,"n":1158630,"alt":2708,"prio":60},
+{"id":"74A35A60-1AA3","name":"Furcletta dil Capeder","kind":"pass","e":2758012,"n":1158643,"alt":2703,"prio":60},
+{"id":"DB886237-B4BD","name":"Piz Grisch","kind":"summit","e":2756052,"n":1155347,"alt":3059,"prio":100},
+{"id":"9D7F48D3-F750","name":"Furcla Cotschna","kind":"pass","e":2758063,"n":1155925,"alt":2515,"prio":60},
+{"id":"1029AFD5-2594","name":"Piz Settember","kind":"summit","e":2758025,"n":1157306,"alt":2728,"prio":90},
+{"id":"B1D6E457-C89A","name":"Piz da Schmorras","kind":"summit","e":2758003,"n":1155416,"alt":2690,"prio":90},
+{"id":"FFCFFC2D-66B9","name":"Piz Surcarungas","kind":"summit","e":2758161,"n":1159057,"alt":2829,"prio":90},
+{"id":"F42CD608-563B","name":"Tschanghel Ner","kind":"ridge","e":2758049,"n":1156409,"alt":2550,"prio":20},
+{"id":"9DA28CD4-7214","name":"Surcarungas","kind":"ridge","e":2758132,"n":1159190,"alt":2772,"prio":20},
+{"id":"9DA28CD4-7214","name":"Surcrunas","kind":"ridge","e":2758132,"n":1159190,"alt":2772,"prio":20},
+{"id":"3E751E27-9E36","name":"Piz digl Gurschus","kind":"ridge","e":2756392,"n":1158501,"alt":2621,"prio":20},
+{"id":"EE6710B7-01A1","name":"Laiets","kind":"lake","e":2756777,"n":1155576,"alt":2586,"prio":50},
+{"id":"A956674F-FA2A","name":"Lai dallas Bleis","kind":"lake","e":2759149,"n":1158055,"alt":2519,"prio":50},
+{"id":"47D97DEA-7AE1","name":"Lai da Schmorras","kind":"lake","e":2759002,"n":1156270,"alt":2291,"prio":50}
+]

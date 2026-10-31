@@ -1,0 +1,12 @@
+[
+{"id":"6B68E05B-92B2","name":"Salaniva","kind":"lift","e":2816530,"n":1191505,"alt":2707,"prio":40},
+{"id":"370AFE5F-FC09","name":"Piz Champatsch","kind":"summit","e":2816050,"n":1191637,"alt":2919,"prio":90},
+{"id":"73834F03-6A51","name":"Piz Soèr","kind":"summit","e":2816782,"n":1191902,"alt":2916,"prio":90},
+{"id":"E149930B-D168","name":"Fuorcla Soèr","kind":"pass","e":2816206,"n":1191914,"alt":2780,"prio":60},
+{"id":"718C95BC-F1B9","name":"Fuorcla Champatsch","kind":"pass","e":2815268,"n":1192228,"alt":2730,"prio":60},
+{"id":"0A9AAB3C-EFD9","name":"Fuorcla Spadla","kind":"pass","e":2816783,"n":1192470,"alt":2725,"prio":60},
+{"id":"454D1B29-9D9B","name":"Piz Spadla","kind":"summit","e":2818150,"n":1192898,"alt":2912,"prio":90},
+{"id":"0A28169C-0C45","name":"Mots Patschai","kind":"summit","e":2819243,"n":1193856,"alt":2394,"prio":60},
+{"id":"4401813C-C0B4","name":"Mot","kind":"summit","e":2816037,"n":1194253,"alt":2706,"prio":90},
+{"id":"AAB50162-C126","name":"Fil Spadla","kind":"ridge","e":2817677,"n":1192848,"alt":2918,"prio":20}
+]

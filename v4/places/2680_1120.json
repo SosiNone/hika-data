@@ -1,0 +1,20 @@
+[
+{"id":"FBA2CE5F-023D","name":"Passo Pianaccio","kind":"pass","e":2682144,"n":1123399,"alt":2181,"prio":60},
+{"id":"9CC5CB3C-BD75","name":"La Cáta dala Quarantèria","kind":"pass","e":2683520,"n":1123610,"alt":2403,"prio":60},
+{"id":"2A1DDFC1-3C25","name":"La Scíma da Cregnéll","kind":"summit","e":2683236,"n":1123579,"alt":2527,"prio":90},
+{"id":"FB9F5C32-C0F2","name":"Pianca","kind":"summit","e":2681792,"n":1122917,"alt":2377,"prio":60},
+{"id":"8E1E3D4F-1563","name":"Al Pass dala Cavégna","kind":"pass","e":2680746,"n":1122456,"alt":1977,"prio":60},
+{"id":"BB599A56-08F6","name":"Om Cupign","kind":"summit","e":2681821,"n":1124996,"alt":2219,"prio":60},
+{"id":"29266C3C-7597","name":"Rossa","kind":"summit","e":2684038,"n":1124279,"alt":2284,"prio":60},
+{"id":"07019A5A-FF77","name":"Al Róss da Ríbia","kind":"summit","e":2684113,"n":1123881,"alt":2541,"prio":90},
+{"id":"07019A5A-FF77","name":"Rosso di Ribia","kind":"summit","e":2684113,"n":1123881,"alt":2541,"prio":90},
+{"id":"0136EB77-CF90","name":"Bocchetta di Medaro","kind":"pass","e":2681118,"n":1120301,"alt":2214,"prio":60},
+{"id":"C9944995-5778","name":"La Scaláda da Madèi","kind":"summit","e":2681671,"n":1120111,"alt":2271,"prio":60},
+{"id":"C9944995-5778","name":"Goletta di Medaro","kind":"summit","e":2681671,"n":1120111,"alt":2271,"prio":60},
+{"id":"7AE380AC-9262","name":"Cima del Lago","kind":"summit","e":2681903,"n":1124435,"alt":2172,"prio":60},
+{"id":"2C8D3988-E4C3","name":"Grotto Fondovalle","kind":"inn","e":2684507,"n":1121287,"alt":1116,"prio":50},
+{"id":"3D447714-2F13","name":"Capanna Alpe Arena","kind":"inn","e":2683006,"n":1120688,"alt":1689,"prio":45},
+{"id":"0B1D7187-1474","name":"Lago di Sfii","kind":"lake","e":2681521,"n":1124196,"alt":1909,"prio":50},
+{"id":"C8689856-B501","name":"Lago del Pèzz","kind":"lake","e":2682684,"n":1124276,"alt":1978,"prio":50},
+{"id":"6E3CF693-B8CF","name":"Lago della Cavegna","kind":"lake","e":2680636,"n":1122522,"alt":1957,"prio":50}
+]

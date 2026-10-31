@@ -1,0 +1,13 @@
+[
+{"id":"55E49A5B-47B6","name":"Piz Fier","kind":"summit","e":2803717,"n":1164164,"alt":3058,"prio":90},
+{"id":"8D3CFB80-B562","name":"Fuorcla Val Mela","kind":"pass","e":2803930,"n":1164448,"alt":2920,"prio":60},
+{"id":"D3D8143A-79EE","name":"Cima dei Buoi","kind":"summit","e":2803905,"n":1164638,"alt":2976,"prio":90},
+{"id":"B99A95A1-CFC9","name":"Punta Casana","kind":"summit","e":2802874,"n":1160709,"alt":3006,"prio":90},
+{"id":"5800217C-8B11","name":"Piz Chaschauna","kind":"summit","e":2802344,"n":1161611,"alt":3070,"prio":90},
+{"id":"3E74D966-FC0F","name":"Piz Trupchun","kind":"summit","e":2803632,"n":1161899,"alt":2941,"prio":90},
+{"id":"3E74D966-FC0F","name":"Punta Tropione","kind":"summit","e":2803632,"n":1161899,"alt":2941,"prio":90},
+{"id":"5FBB3F8F-591C","name":"Fuorcla Trupchun","kind":"pass","e":2803771,"n":1162293,"alt":2780,"prio":60},
+{"id":"5FBB3F8F-591C","name":"Passo Tropione","kind":"pass","e":2803771,"n":1162293,"alt":2780,"prio":60},
+{"id":"CD42FF96-6730","name":"Piz dals Buochs","kind":"summit","e":2801030,"n":1162701,"alt":2908,"prio":90},
+{"id":"8BB96001-6BD7","name":"Piz Saliente","kind":"summit","e":2804151,"n":1162772,"alt":3048,"prio":90}
+]

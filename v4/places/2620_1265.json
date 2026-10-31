@@ -1,0 +1,13 @@
+[
+{"id":"EE1842ED-628C","name":"Kaiseraugst","kind":"stop","e":2621486,"n":1265358,"alt":274,"prio":45},
+{"id":"510095E6-5BBC","name":"Rheinfelden Augarten","kind":"stop","e":2624785,"n":1266167,"alt":285,"prio":45},
+{"id":"8A3BB3D3-A9F9","name":"Kaiseraugst, Sagerweg","kind":"stop","e":2622483,"n":1265112,"alt":294,"prio":25},
+{"id":"53DCEDBC-09FE","name":"Kaiseraugst, Bahnhof","kind":"stop","e":2621472,"n":1265318,"alt":274,"prio":25},
+{"id":"47592339-DD31","name":"Kaiseraugst, Liebrüti","kind":"stop","e":2622013,"n":1265029,"alt":294,"prio":25},
+{"id":"9E5EF79B-3936","name":"Kaiseraugst, Hoffmann-La Roche","kind":"stop","e":2622739,"n":1265330,"alt":295,"prio":25},
+{"id":"585D9C0B-EEC7","name":"Rheinfelden, Augarten Zentrum","kind":"stop","e":2624770,"n":1266379,"alt":279,"prio":25},
+{"id":"39163983-8068","name":"Augst BL, Langgass","kind":"stop","e":2621150,"n":1265032,"alt":266,"prio":25},
+{"id":"65362B7E-1DE7","name":"Bloseberg","kind":"summit","e":2624993,"n":1265164,"alt":391,"prio":10},
+{"id":"D72A6E39-E080","name":"Hardhof","kind":"village","e":2624398,"n":1265878,"alt":292,"prio":5},
+{"id":"363A96A1-2B08","name":"Kaiseraugst","kind":"village","e":2621540,"n":1265587,"alt":268,"prio":55}
+]

@@ -1,0 +1,13 @@
+[
+{"id":"EB170D32-8554","name":"S-chanf","kind":"stop","e":2794803,"n":1165467,"alt":1669,"prio":45},
+{"id":"15B5406E-074C","name":"S-chanf, Chesa cumünela","kind":"stop","e":2794914,"n":1165431,"alt":1663,"prio":25},
+{"id":"6B95EBE4-5BB9","name":"S-chanf, Somvih","kind":"stop","e":2794506,"n":1165271,"alt":1666,"prio":25},
+{"id":"3BDADF96-7C75","name":"Muntatsch","kind":"lift","e":2791108,"n":1165193,"alt":2454,"prio":40},
+{"id":"46D2B901-2FD3","name":"Albanas","kind":"lift","e":2792061,"n":1165778,"alt":2382,"prio":40},
+{"id":"A0399444-EA18","name":"S-chanf, staziun","kind":"stop","e":2794838,"n":1165462,"alt":1669,"prio":25},
+{"id":"0AAF8E06-A99D","name":"Pizzet","kind":"summit","e":2790539,"n":1166273,"alt":2910,"prio":90},
+{"id":"FDD2377B-5F0F","name":"Botta Cuolm","kind":"summit","e":2791245,"n":1166397,"alt":2858,"prio":90},
+{"id":"5BEDD819-572B","name":"Botta Bruonza","kind":"summit","e":2790503,"n":1166957,"alt":2746,"prio":90},
+{"id":"9A7AEC66-0799","name":"Piz Griatschouls","kind":"summit","e":2791821,"n":1167172,"alt":2971,"prio":90},
+{"id":"DB99BD31-0A72","name":"S-chanf","kind":"village","e":2794999,"n":1165478,"alt":1662,"prio":30}
+]

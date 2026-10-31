@@ -1,0 +1,18 @@
+[
+{"id":"FD123243-FACB","name":"Chipfestock","kind":"summit","e":2658569,"n":1164325,"alt":2702,"prio":90},
+{"id":"C075891D-9EF1","name":"Ewigschneehoren","kind":"summit","e":2655931,"n":1160913,"alt":3330,"prio":90},
+{"id":"D5598F67-D338","name":"Gouwlipass","kind":"pass","e":2656185,"n":1160625,"alt":3190,"prio":60},
+{"id":"D5598F67-D338","name":"Gaulipass","kind":"pass","e":2656185,"n":1160625,"alt":3190,"prio":60},
+{"id":"DAD55B19-8255","name":"Trifthoren","kind":"summit","e":2656667,"n":1160333,"alt":3229,"prio":90},
+{"id":"B701E2C7-1F64","name":"Ränfenhorn","kind":"summit","e":2655502,"n":1164948,"alt":3255,"prio":90},
+{"id":"61B81C8A-0723","name":"Hangendgletscherhorn","kind":"summit","e":2656969,"n":1164507,"alt":3294,"prio":90},
+{"id":"88255649-EDF1","name":"Alter Gouwlipass","kind":"pass","e":2656434,"n":1160425,"alt":3099,"prio":60},
+{"id":"2F2488BD-03D3","name":"Gwächte","kind":"summit","e":2659547,"n":1164868,"alt":2511,"prio":90},
+{"id":"D81E6C49-D3FD","name":"Saagezend","kind":"summit","e":2658609,"n":1164678,"alt":2718,"prio":20},
+{"id":"EB5320DB-92B6","name":"Östliche Ankenbällilücke","kind":"pass","e":2655160,"n":1161577,"alt":3267,"prio":60},
+{"id":"1B9AEA7F-7EAF","name":"Gaulihütte SAC","kind":"inn","e":2659587,"n":1163909,"alt":2203,"prio":50},
+{"id":"4C69C432-CA5D","name":"Chammligrat","kind":"ridge","e":2657897,"n":1163420,"alt":2823,"prio":20},
+{"id":"16EEE30F-6E79","name":"Tälligrat","kind":"ridge","e":2659574,"n":1164886,"alt":2495,"prio":20},
+{"id":"A89DCCBD-82CC","name":"Grienbärgligrat","kind":"ridge","e":2656809,"n":1161511,"alt":2923,"prio":20},
+{"id":"11E9880F-AD19","name":"Gouwlisee","kind":"lake","e":2658924,"n":1162388,"alt":2140,"prio":50}
+]

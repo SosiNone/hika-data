@@ -1,0 +1,20 @@
+[
+{"id":"961C9ADA-96A5","name":"Sädelhorn","kind":"summit","e":2666252,"n":1144308,"alt":2780,"prio":90},
+{"id":"773C39A2-691D","name":"Blinnenhorn","kind":"summit","e":2666804,"n":1141984,"alt":3374,"prio":100},
+{"id":"773C39A2-691D","name":"Corno Cieco","kind":"summit","e":2666804,"n":1141984,"alt":3374,"prio":100},
+{"id":"C770FE40-E51E","name":"Klein Blinnenhorn","kind":"summit","e":2666620,"n":1142288,"alt":3315,"prio":90},
+{"id":"8F47982D-D137","name":"Rote Schije","kind":"summit","e":2666207,"n":1143357,"alt":2983,"prio":20},
+{"id":"E5FB1F08-DA46","name":"Blinnenjoch","kind":"pass","e":2665600,"n":1140199,"alt":3016,"prio":60},
+{"id":"27D59573-4896","name":"Griesgletscherpass","kind":"pass","e":2666962,"n":1143332,"alt":3086,"prio":60},
+{"id":"40178E33-456D","name":"Merezebachschije","kind":"summit","e":2666900,"n":1143476,"alt":3181,"prio":90},
+{"id":"537C8BA2-4FF9","name":"Ritzfurgge","kind":"pass","e":2667779,"n":1144947,"alt":2752,"prio":60},
+{"id":"3FCF8BA7-BE47","name":"Rothornpass","kind":"pass","e":2667739,"n":1141881,"alt":3081,"prio":60},
+{"id":"3FCF8BA7-BE47","name":"Gran Sella del Gries","kind":"pass","e":2667739,"n":1141881,"alt":3081,"prio":60},
+{"id":"81DB16DB-A9DA","name":"Corno Rosso","kind":"summit","e":2668370,"n":1142263,"alt":3288,"prio":90},
+{"id":"81DB16DB-A9DA","name":"Rothorn","kind":"summit","e":2668370,"n":1142263,"alt":3288,"prio":90},
+{"id":"BC351B3E-1FBB","name":"Ritzhörner","kind":"summit","e":2667997,"n":1144454,"alt":3107,"prio":90},
+{"id":"0796F398-7ACD","name":"Holöüwibiel","kind":"summit","e":2665571,"n":1143540,"alt":2513,"prio":60},
+{"id":"B030A387-D481","name":"Schwarzegge","kind":"ridge","e":2665435,"n":1143039,"alt":2540,"prio":20},
+{"id":"267DF892-E740","name":"Seewe","kind":"lake","e":2665101,"n":1144755,"alt":2455,"prio":50},
+{"id":"474AA826-5602","name":"Teifschlüechtsee","kind":"lake","e":2665649,"n":1144751,"alt":2412,"prio":50}
+]

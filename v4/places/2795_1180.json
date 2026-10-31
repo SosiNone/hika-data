@@ -1,0 +1,6 @@
+[
+{"id":"D57A9548-243F","name":"Susch, Röven","kind":"stop","e":2797595,"n":1181434,"alt":1844,"prio":25},
+{"id":"9168A562-1800","name":"Piz Murtera","kind":"summit","e":2798668,"n":1183754,"alt":3043,"prio":90},
+{"id":"CACB374E-1E85","name":"Piz Valtorta","kind":"summit","e":2797138,"n":1184582,"alt":2974,"prio":90},
+{"id":"D6A0C44B-B4AF","name":"Röven","kind":"village","e":2797848,"n":1181414,"alt":1819,"prio":5}
+]

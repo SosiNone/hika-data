@@ -1,0 +1,10 @@
+[
+{"id":"0AE74E2E-3909","name":"Les Bioux, école","kind":"stop","e":2510608,"n":1164020,"alt":1026,"prio":25},
+{"id":"021DBCF0-8EC2","name":"Les Bioux, Les Tâches","kind":"stop","e":2510203,"n":1163706,"alt":1018,"prio":25},
+{"id":"6DCEACA5-1BF2","name":"Vers-Chez-Grosjean","kind":"stop","e":2511460,"n":1164685,"alt":1024,"prio":25},
+{"id":"036D720B-6506","name":"Mont Tendre","kind":"summit","e":2513518,"n":1161029,"alt":1679,"prio":60},
+{"id":"BF28D62C-1D71","name":"Crêt à Pétaud","kind":"summit","e":2514210,"n":1164875,"alt":1359,"prio":30},
+{"id":"5AC62EB7-39C7","name":"Les Bioux","kind":"village","e":2510746,"n":1164083,"alt":1027,"prio":30},
+{"id":"4BFD6291-49F6","name":"Bioux-Dessus","kind":"village","e":2510564,"n":1163228,"alt":1140,"prio":5},
+{"id":"F4FB6F5B-3492","name":"Buvette du Mont Tendre","kind":"inn","e":2514141,"n":1161482,"alt":1616,"prio":50}
+]

@@ -1,0 +1,7 @@
+[
+{"id":"23AF44EB-33A0","name":"Cortaillod, Bas-de-Sachet","kind":"stop","e":2555334,"n":1199778,"alt":441,"prio":25},
+{"id":"87925151-FA10","name":"Cortaillod, Câbles","kind":"stop","e":2555898,"n":1199579,"alt":434,"prio":25},
+{"id":"653BD720-375F","name":"Cortaillod, Graviers","kind":"stop","e":2555593,"n":1199564,"alt":435,"prio":25},
+{"id":"D247DB79-4ED2","name":"Cortaillod, Buffet d'un Tram","kind":"stop","e":2555436,"n":1199758,"alt":437,"prio":25},
+{"id":"0854929D-B6CB","name":"Café Restaurant Plage de Boudry","kind":"inn","e":2556766,"n":1199916,"alt":431,"prio":50}
+]

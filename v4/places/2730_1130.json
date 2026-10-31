@@ -1,0 +1,18 @@
+[
+{"id":"7D955375-EA3A","name":"Pass de Buffalora","kind":"pass","e":2732227,"n":1134352,"alt":2261,"prio":60},
+{"id":"8303061D-0450","name":"Mota de Riveu","kind":"summit","e":2734828,"n":1133461,"alt":1927,"prio":60},
+{"id":"CB7CEC26-70FD","name":"Piz de Groven","kind":"summit","e":2732505,"n":1131109,"alt":2694,"prio":90},
+{"id":"141D6EA8-BD59","name":"Cima d'Aion","kind":"summit","e":2732693,"n":1133251,"alt":2534,"prio":90},
+{"id":"649F5824-42EF","name":"Pizzet","kind":"summit","e":2734101,"n":1133078,"alt":2177,"prio":60},
+{"id":"C5984A19-2105","name":"Bocheta de Groven","kind":"pass","e":2732647,"n":1132984,"alt":2397,"prio":60},
+{"id":"9DEB5706-F6C5","name":"Cima de Nomnom","kind":"summit","e":2732339,"n":1133538,"alt":2633,"prio":90},
+{"id":"20965B41-3AA7","name":"Piz dela Molera","kind":"summit","e":2731724,"n":1130289,"alt":2603,"prio":90},
+{"id":"8A396BF3-3533","name":"Motta del Perdül","kind":"summit","e":2731081,"n":1131939,"alt":2003,"prio":60},
+{"id":"0FE238CA-73FC","name":"Mottone","kind":"summit","e":2730931,"n":1130182,"alt":2100,"prio":60},
+{"id":"6D4D21A6-7443","name":"I Corn de Golin","kind":"summit","e":2732857,"n":1134953,"alt":2376,"prio":60},
+{"id":"184E9502-7894","name":"Capanna Buffalora","kind":"inn","e":2731602,"n":1134724,"alt":2077,"prio":50},
+{"id":"42D5CE64-B851","name":"Rifugio Groven","kind":"inn","e":2733480,"n":1132002,"alt":1773,"prio":45},
+{"id":"9C4D4FF3-8D21","name":"Fil de Nomnom","kind":"ridge","e":2730482,"n":1133464,"alt":1802,"prio":20},
+{"id":"516D6F6D-04F3","name":"Fil dela Molera","kind":"ridge","e":2731855,"n":1130589,"alt":2541,"prio":20},
+{"id":"289E3C1A-E749","name":"Laghet","kind":"lake","e":2731416,"n":1134684,"alt":2035,"prio":50}
+]

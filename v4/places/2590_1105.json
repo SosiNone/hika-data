@@ -1,0 +1,20 @@
+[
+{"id":"6AD79240-D542","name":"Siviez (station aval)","kind":"lift","e":2590503,"n":1109302,"alt":1737,"prio":40},
+{"id":"AB75063D-9F67","name":"Combatzeline","kind":"lift","e":2591870,"n":1109858,"alt":2244,"prio":40},
+{"id":"7A095F62-C93D","name":"Siviez (Super-Nendaz)","kind":"stop","e":2590537,"n":1109481,"alt":1730,"prio":25},
+{"id":"145B1A40-9BFC","name":"Les Clochers de Novelly","kind":"summit","e":2592221,"n":1107801,"alt":2696,"prio":60},
+{"id":"D28D3DA6-1F08","name":"Col d'Orchère","kind":"pass","e":2593674,"n":1106682,"alt":2992,"prio":60},
+{"id":"B6F7DB72-BE06","name":"Le Perron","kind":"summit","e":2592330,"n":1106834,"alt":2886,"prio":60},
+{"id":"CD91A63B-44FA","name":"Les Louèrettes","kind":"summit","e":2593575,"n":1107106,"alt":3069,"prio":90},
+{"id":"C88474C0-2910","name":"Pointes de la Rosette","kind":"summit","e":2593374,"n":1107786,"alt":2964,"prio":90},
+{"id":"F05B4060-E3FB","name":"Le Métailler","kind":"summit","e":2593948,"n":1105836,"alt":3213,"prio":90},
+{"id":"9C9ADB7E-2D71","name":"L'Arpette","kind":"summit","e":2590226,"n":1106691,"alt":2398,"prio":60},
+{"id":"7022CC1D-5F34","name":"Bec de la Montau","kind":"summit","e":2592961,"n":1108604,"alt":2922,"prio":90},
+{"id":"055A0824-EEDE","name":"Siviez (Nendaz)","kind":"village","e":2590579,"n":1109217,"alt":1736,"prio":10},
+{"id":"259C7335-843D","name":"Restaurant Combatseline","kind":"inn","e":2591856,"n":1109821,"alt":2237,"prio":50},
+{"id":"13151365-25FF","name":"Cabane Saint-Laurent","kind":"inn","e":2591782,"n":1105182,"alt":2485,"prio":50},
+{"id":"A03E3A0C-5EA9","name":"Cafe-Restaurant Chez Caroline","kind":"inn","e":2590586,"n":1109220,"alt":1735,"prio":50},
+{"id":"3BAD9930-CCCC","name":"L'Arête des Rodzets","kind":"ridge","e":2593875,"n":1105621,"alt":3134,"prio":20},
+{"id":"7A6CF7A1-7E55","name":"Sés des Madeleines","kind":"ridge","e":2594529,"n":1105610,"alt":2901,"prio":20},
+{"id":"DE7E7302-F13B","name":"Lac de Cleuson","kind":"lake","e":2591208,"n":1106338,"alt":2179,"prio":50}
+]

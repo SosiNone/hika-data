@@ -1,0 +1,9 @@
+[
+{"id":"05863081-98B3","name":"Barzheim, Dorf","kind":"stop","e":2696038,"n":1290707,"alt":521,"prio":25},
+{"id":"25A7148A-B0EC","name":"Barzheim, Junkholz","kind":"stop","e":2695808,"n":1290396,"alt":515,"prio":25},
+{"id":"23F1AADA-3B3A","name":"Scheeri","kind":"summit","e":2696192,"n":1290330,"alt":544,"prio":10},
+{"id":"A683463D-15A4","name":"Barzheim","kind":"village","e":2696145,"n":1290745,"alt":517,"prio":30},
+{"id":"A34DFA4A-DF63","name":"Im Russler","kind":"village","e":2695618,"n":1290647,"alt":520,"prio":5},
+{"id":"90BC1742-6BC1","name":"Barzingersee","kind":"village","e":2696421,"n":1290128,"alt":530,"prio":5},
+{"id":"24BB3409-4942","name":"Bruedersee","kind":"lake","e":2695075,"n":1290920,"alt":511,"prio":50}
+]

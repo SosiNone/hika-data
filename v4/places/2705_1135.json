@@ -1,0 +1,22 @@
+[
+{"id":"40A874EF-966C","name":"Poncione la Fòpa","kind":"summit","e":2706080,"n":1139269,"alt":2466,"prio":60},
+{"id":"05E84CC7-BE19","name":"Poncione Croara","kind":"summit","e":2705857,"n":1138955,"alt":2574,"prio":90},
+{"id":"1B697D68-92C4","name":"Filo d'Áfata","kind":"summit","e":2708966,"n":1138542,"alt":1972,"prio":60},
+{"id":"D50EA65E-E8C5","name":"Forcarella d'Áfata","kind":"pass","e":2708103,"n":1138522,"alt":2005,"prio":60},
+{"id":"C2AB6515-E915","name":"Cima Bianca","kind":"summit","e":2705667,"n":1138310,"alt":2612,"prio":90},
+{"id":"3590A080-F7D0","name":"Om Piategn","kind":"summit","e":2708414,"n":1137967,"alt":2310,"prio":60},
+{"id":"F378236F-4580","name":"Cima di Partüs","kind":"summit","e":2709170,"n":1135832,"alt":2460,"prio":60},
+{"id":"B5ED8187-21A5","name":"Pízz Cramosín","kind":"summit","e":2708092,"n":1135612,"alt":2718,"prio":90},
+{"id":"7B8B0CC7-E3C1","name":"Madom Gröss","kind":"summit","e":2707163,"n":1135988,"alt":2741,"prio":90},
+{"id":"9348AB8D-9A59","name":"La Bochéta det Cramosín","kind":"pass","e":2707067,"n":1136856,"alt":2550,"prio":60},
+{"id":"6768CA03-BF05","name":"Cima di Piategn","kind":"summit","e":2708014,"n":1137891,"alt":2476,"prio":60},
+{"id":"CACCDD8D-711E","name":"Bassa della Cògnora","kind":"pass","e":2706499,"n":1137494,"alt":2373,"prio":60},
+{"id":"D6DF1731-0EC6","name":"Pizzo di Mezzodì","kind":"summit","e":2706998,"n":1137288,"alt":2708,"prio":90},
+{"id":"4C6335A2-16A3","name":"Motta di Pizzo","kind":"summit","e":2705983,"n":1139835,"alt":2048,"prio":60},
+{"id":"99857099-10D4","name":"Lagasca","kind":"summit","e":2707881,"n":1137818,"alt":2489,"prio":60},
+{"id":"E8AE4814-7422","name":"Bassa di Partüs","kind":"pass","e":2708570,"n":1135688,"alt":2410,"prio":60},
+{"id":"B686E930-A7FA","name":"Bassa del Mottone","kind":"pass","e":2709308,"n":1135973,"alt":2354,"prio":60},
+{"id":"D1615A72-89A5","name":"Sasso Marcio","kind":"summit","e":2708107,"n":1138604,"alt":2042,"prio":60},
+{"id":"1B4F66C3-5263","name":"Capanna Cognora","kind":"inn","e":2705751,"n":1137050,"alt":1938,"prio":45},
+{"id":"75462B25-10AF","name":"Capanna Alpe Afata","kind":"inn","e":2709420,"n":1138670,"alt":1674,"prio":45}
+]

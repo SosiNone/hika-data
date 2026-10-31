@@ -1,0 +1,18 @@
+[
+{"id":"411D74A2-824E","name":"La Chaire","kind":"summit","e":2556070,"n":1109964,"alt":2168,"prio":60},
+{"id":"6B9DFF2C-1331","name":"Col de Sageroux","kind":"pass","e":2555286,"n":1108430,"alt":2394,"prio":60},
+{"id":"5A7CFBA9-F21C","name":"Col du Ruan","kind":"pass","e":2557850,"n":1107108,"alt":2782,"prio":60},
+{"id":"B0F2E970-6C8F","name":"Mur des Rosses","kind":"summit","e":2557976,"n":1106440,"alt":2932,"prio":90},
+{"id":"B0F2E970-6C8F","name":"Tour de Prazon","kind":"summit","e":2557976,"n":1106440,"alt":2932,"prio":90},
+{"id":"92A7B405-1979","name":"Col de la Tour Salière","kind":"pass","e":2559315,"n":1108500,"alt":2800,"prio":60},
+{"id":"C55564BE-2BD9","name":"Tête des Chaux Derrière","kind":"summit","e":2559578,"n":1106908,"alt":2395,"prio":60},
+{"id":"AB86FBB0-2657","name":"Tête des Rosses","kind":"summit","e":2557586,"n":1105760,"alt":2934,"prio":90},
+{"id":"7F75A0CE-1B85","name":"Pointe des Rosses","kind":"summit","e":2557258,"n":1105241,"alt":2966,"prio":90},
+{"id":"543BC998-BB90","name":"Mont Ruan","kind":"summit","e":2558594,"n":1108230,"alt":3057,"prio":90},
+{"id":"543BC998-BB90","name":"Grand Ruan","kind":"summit","e":2558594,"n":1108230,"alt":3057,"prio":90},
+{"id":"5001BACA-999E","name":"Tête des Ottans","kind":"summit","e":2556309,"n":1108431,"alt":2548,"prio":90},
+{"id":"563372A8-FBFA","name":"Col des Ottans","kind":"pass","e":2556672,"n":1108325,"alt":2496,"prio":60},
+{"id":"1EA3DA15-C3AC","name":"Petit Ruan","kind":"summit","e":2557741,"n":1108352,"alt":2847,"prio":90},
+{"id":"10E30EB0-EF75","name":"L'Aiguillette","kind":"summit","e":2557699,"n":1105907,"alt":2869,"prio":90},
+{"id":"2C1547FD-58DC","name":"Cabane de Susanfe CAS","kind":"inn","e":2558230,"n":1109915,"alt":2101,"prio":50}
+]

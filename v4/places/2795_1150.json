@@ -1,0 +1,16 @@
+[
+{"id":"77FCB826-4C70","name":"Fuorcla Prünella","kind":"pass","e":2796431,"n":1150522,"alt":2826,"prio":60},
+{"id":"69892617-7D50","name":"Fuorcla Chamuera","kind":"pass","e":2798758,"n":1150600,"alt":2790,"prio":60},
+{"id":"F2B11DEC-F191","name":"Piz Chatscheders","kind":"summit","e":2797942,"n":1150660,"alt":2985,"prio":90},
+{"id":"AFE8D1B0-7DF1","name":"Chantun","kind":"summit","e":2797420,"n":1150831,"alt":2974,"prio":90},
+{"id":"13894A66-B0E6","name":"Piz Sagliaint","kind":"summit","e":2796695,"n":1150283,"alt":2945,"prio":90},
+{"id":"3770FDAE-DF21","name":"Fuorcla Sagliaint","kind":"pass","e":2796841,"n":1150400,"alt":2867,"prio":60},
+{"id":"3C285924-2A7B","name":"Piz Pischa","kind":"summit","e":2795426,"n":1150492,"alt":3137,"prio":90},
+{"id":"FE1CB347-F3E1","name":"Fuorcletta","kind":"pass","e":2799994,"n":1151216,"alt":2892,"prio":60},
+{"id":"44560B8A-6853","name":"Piz Prüna","kind":"summit","e":2795662,"n":1151610,"alt":3152,"prio":90},
+{"id":"A97B7183-3D8D","name":"Piz Prünella","kind":"summit","e":2797543,"n":1151888,"alt":2990,"prio":90},
+{"id":"787CB821-8F61","name":"Fuorcla Federia","kind":"pass","e":2799944,"n":1153609,"alt":2899,"prio":60},
+{"id":"A11B9233-1BB9","name":"Munt Cotschen","kind":"summit","e":2799829,"n":1154300,"alt":3104,"prio":90},
+{"id":"DD915C11-7C64","name":"Puoz Chatscheders","kind":"lake","e":2797141,"n":1150307,"alt":2806,"prio":50},
+{"id":"9DC6FDA2-D967","name":"Lej Tschüffer","kind":"lake","e":2796338,"n":1150188,"alt":2752,"prio":50}
+]

@@ -1,0 +1,16 @@
+[
+{"id":"F7E4443B-0BDB","name":"Älwe Rigg","kind":"summit","e":2632411,"n":1139391,"alt":3381,"prio":90},
+{"id":"25547BEF-2100","name":"Baltschiederjoch","kind":"pass","e":2632152,"n":1139193,"alt":3156,"prio":60},
+{"id":"7F7E7387-7035","name":"Jägihorn","kind":"summit","e":2634262,"n":1138926,"alt":3407,"prio":90},
+{"id":"2D111DA0-C12A","name":"Kleines Nesthorn","kind":"summit","e":2631039,"n":1138420,"alt":3337,"prio":90},
+{"id":"5A215923-3AE0","name":"Bietschhorn","kind":"summit","e":2631701,"n":1137882,"alt":3934,"prio":100},
+{"id":"1CEE6B9D-0ED6","name":"Schafbärg","kind":"summit","e":2630083,"n":1137782,"alt":3240,"prio":90},
+{"id":"A3899BE7-7E07","name":"Stockhorn","kind":"summit","e":2633727,"n":1136868,"alt":3212,"prio":90},
+{"id":"44FB9DE6-4469","name":"Tiereggpass","kind":"pass","e":2632244,"n":1136554,"alt":3049,"prio":60},
+{"id":"FC2F3F92-9210","name":"Tieregghorn","kind":"summit","e":2632374,"n":1135840,"alt":3072,"prio":90},
+{"id":"9AF90D0E-E4BB","name":"Dübihorn","kind":"summit","e":2632176,"n":1135215,"alt":2983,"prio":90},
+{"id":"62E5DC42-B877","name":"Alpjahorn","kind":"summit","e":2632264,"n":1135674,"alt":2986,"prio":90},
+{"id":"33EDF1B7-3947","name":"Stockhornbiwak SAC","kind":"inn","e":2634039,"n":1136322,"alt":2597,"prio":45},
+{"id":"5795B034-05D4","name":"Baltschiederklause SAC","kind":"inn","e":2634701,"n":1138280,"alt":2783,"prio":50},
+{"id":"5B07DC01-001F","name":"Jägigrat","kind":"ridge","e":2634225,"n":1139324,"alt":3342,"prio":20}
+]

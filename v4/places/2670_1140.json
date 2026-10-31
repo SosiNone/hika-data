@@ -1,0 +1,11 @@
+[
+{"id":"3E610A60-15C0","name":"Kleines Grieshorn","kind":"summit","e":2672691,"n":1144991,"alt":2928,"prio":90},
+{"id":"3E610A60-15C0","name":"Piccolo Corno Gries","kind":"summit","e":2672691,"n":1144991,"alt":2928,"prio":90},
+{"id":"7DA46A85-012F","name":"Bättelmatthorn","kind":"summit","e":2670119,"n":1143760,"alt":3043,"prio":90},
+{"id":"7DA46A85-012F","name":"Punta dei Camosci","kind":"summit","e":2670119,"n":1143760,"alt":3043,"prio":90},
+{"id":"D4442839-EEA1","name":"Bättelmattpass","kind":"pass","e":2670682,"n":1144508,"alt":2605,"prio":60},
+{"id":"AA4C4C15-DC19","name":"Corno Gries","kind":"summit","e":2673323,"n":1144917,"alt":2967,"prio":90},
+{"id":"AA4C4C15-DC19","name":"Grieshorn","kind":"summit","e":2673323,"n":1144917,"alt":2967,"prio":90},
+{"id":"02733029-C003","name":"Griespass","kind":"pass","e":2671646,"n":1144943,"alt":2452,"prio":60},
+{"id":"02733029-C003","name":"Passo del Gries","kind":"pass","e":2671646,"n":1144943,"alt":2452,"prio":60}
+]

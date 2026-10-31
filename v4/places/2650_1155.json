@@ -1,0 +1,18 @@
+[
+{"id":"8D17437E-6A62","name":"Schrecksattel","kind":"pass","e":2652410,"n":1159965,"alt":3914,"prio":60},
+{"id":"743925FE-2645","name":"Lauteraarhorn","kind":"summit","e":2652865,"n":1159343,"alt":4042,"prio":100},
+{"id":"B1CF0707-7092","name":"Kleines Lauteraarhorn","kind":"summit","e":2653701,"n":1158875,"alt":3738,"prio":90},
+{"id":"1A0CAFB2-A40D","name":"Strahleggpass","kind":"pass","e":2652111,"n":1158700,"alt":3333,"prio":60},
+{"id":"B926FA45-636B","name":"Strahlegghorn","kind":"summit","e":2652081,"n":1158472,"alt":3461,"prio":90},
+{"id":"44B88EA0-4E94","name":"Hugihorn","kind":"summit","e":2654294,"n":1158205,"alt":3647,"prio":90},
+{"id":"3C1008A2-AD7C","name":"Alt Strahlegg","kind":"pass","e":2652409,"n":1157293,"alt":3315,"prio":60},
+{"id":"F0BDDE1B-D9A2","name":"Agassizhorn","kind":"summit","e":2651831,"n":1155257,"alt":3947,"prio":90},
+{"id":"B6F8BAE8-C0B1","name":"Nass Strahlegg","kind":"summit","e":2653124,"n":1156122,"alt":3482,"prio":90},
+{"id":"425C74D6-0BA7","name":"Finsteraarjoch","kind":"pass","e":2652407,"n":1155644,"alt":3279,"prio":60},
+{"id":"292212A1-73C0","name":"Lauteraarrothörner","kind":"summit","e":2654825,"n":1157585,"alt":3477,"prio":90},
+{"id":"7369D95C-E274","name":"Aarbiwak SAC","kind":"inn","e":2654722,"n":1156277,"alt":2739,"prio":45},
+{"id":"A426D7EC-CA6A","name":"Schreckhornhütte SAC","kind":"inn","e":2650592,"n":1159168,"alt":2529,"prio":50},
+{"id":"57D10CBA-8DF8","name":"Schwarzegg","kind":"ridge","e":2650817,"n":1159851,"alt":2878,"prio":20},
+{"id":"11FDD90F-6307","name":"Strahlegg","kind":"ridge","e":2651701,"n":1158079,"alt":3157,"prio":20},
+{"id":"63819CC7-D507","name":"Fieschergrat","kind":"ridge","e":2650396,"n":1155593,"alt":3599,"prio":20}
+]

@@ -1,0 +1,5 @@
+[
+{"id":"FF8BAA09-5B09","name":"Castasegna, Vecchia Dogana","kind":"stop","e":2759784,"n":1133439,"alt":689,"prio":25},
+{"id":"B015F5E6-BB10","name":"Castasegna, Dogana nuova","kind":"stop","e":2759843,"n":1133401,"alt":675,"prio":25},
+{"id":"654C3759-69DA","name":"Castasegna","kind":"village","e":2759971,"n":1133589,"alt":722,"prio":30}
+]

@@ -1,0 +1,18 @@
+[
+{"id":"69AD3776-93DD","name":"Piz Titschal","kind":"summit","e":2721697,"n":1174224,"alt":2549,"prio":90},
+{"id":"32F942CE-843B","name":"Piz Lad","kind":"summit","e":2721600,"n":1173539,"alt":2665,"prio":90},
+{"id":"957279C3-CF45","name":"Piz Val Gronda","kind":"summit","e":2721466,"n":1172641,"alt":2819,"prio":90},
+{"id":"60A9C838-A5B6","name":"Sattel","kind":"pass","e":2722665,"n":1172718,"alt":2509,"prio":60},
+{"id":"7C2B8700-A896","name":"Schafchopf","kind":"summit","e":2722086,"n":1172467,"alt":2765,"prio":90},
+{"id":"AD11C38B-4A48","name":"Piz Zavragia","kind":"summit","e":2720225,"n":1171389,"alt":2815,"prio":90},
+{"id":"ACF490C9-40BF","name":"Piz Gren","kind":"summit","e":2721196,"n":1170814,"alt":2890,"prio":90},
+{"id":"ACF490C9-40BF","name":"Schwarzhorn","kind":"summit","e":2721196,"n":1170814,"alt":2890,"prio":90},
+{"id":"B9BDEA23-88FF","name":"Hireli","kind":"summit","e":2720801,"n":1170711,"alt":2849,"prio":90},
+{"id":"9BC9540F-86BD","name":"Schiarls","kind":"summit","e":2724895,"n":1171719,"alt":2466,"prio":60},
+{"id":"293E2A2B-88EA","name":"Talchepf","kind":"summit","e":2722728,"n":1174079,"alt":2328,"prio":60},
+{"id":"799096A9-2EF2","name":"Chrizbial","kind":"summit","e":2723690,"n":1174479,"alt":2085,"prio":60},
+{"id":"79753D0B-DB44","name":"Il Bass","kind":"pass","e":2724001,"n":1171225,"alt":2357,"prio":60},
+{"id":"82724F00-92F5","name":"Grenerbärg","kind":"ridge","e":2724998,"n":1173701,"alt":2295,"prio":20},
+{"id":"0B9FB8CF-1839","name":"Blausee","kind":"lake","e":2722533,"n":1173049,"alt":2374,"prio":50},
+{"id":"FAD52B7E-F745","name":"Schwarzsee","kind":"lake","e":2722501,"n":1174429,"alt":2329,"prio":50}
+]

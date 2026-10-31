@@ -1,0 +1,15 @@
+[
+{"id":"DE08168E-EA05","name":"Vättis, Dorf","kind":"stop","e":2752474,"n":1197277,"alt":944,"prio":25},
+{"id":"826958AF-5A3A","name":"Mittelberg","kind":"summit","e":2753451,"n":1195678,"alt":2015,"prio":60},
+{"id":"A97E96CB-38D0","name":"Haldensteiner Calanda","kind":"summit","e":2754562,"n":1196307,"alt":2805,"prio":100},
+{"id":"C89B3857-0C8A","name":"Drachenberg","kind":"summit","e":2750264,"n":1199350,"alt":2604,"prio":90},
+{"id":"E3D3379C-F773","name":"Vättnerchopf","kind":"summit","e":2750991,"n":1199745,"alt":2617,"prio":90},
+{"id":"2B3BB783-16B8","name":"Lugga","kind":"pass","e":2754916,"n":1196698,"alt":2609,"prio":60},
+{"id":"091122C8-339A","name":"Büel","kind":"summit","e":2752435,"n":1197165,"alt":973,"prio":30},
+{"id":"4BCC4978-E2B4","name":"Drachenloch","kind":"cave","e":2750444,"n":1199071,"alt":2423,"prio":25},
+{"id":"D8C52988-0DFA","name":"Vättis","kind":"village","e":2752486,"n":1197317,"alt":944,"prio":30},
+{"id":"1C3550C7-DC62","name":"Auen","kind":"village","e":2753315,"n":1198179,"alt":923,"prio":5},
+{"id":"1248803D-E7C6","name":"Seilerhütta Vättnerberg","kind":"inn","e":2753667,"n":1199594,"alt":1584,"prio":50},
+{"id":"32FD80AB-247B","name":"Grossenegg","kind":"ridge","e":2750448,"n":1195587,"alt":1648,"prio":20},
+{"id":"1D6DBDC4-E7EE","name":"Silberegg","kind":"ridge","e":2750995,"n":1195103,"alt":1165,"prio":20}
+]

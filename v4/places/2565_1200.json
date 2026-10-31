@@ -1,0 +1,10 @@
+[
+{"id":"3629A629-AA3B","name":"Cudrefin, camping","kind":"stop","e":2568748,"n":1201072,"alt":433,"prio":25},
+{"id":"E07C601D-0C47","name":"Cudrefin, place de la Tour","kind":"stop","e":2568106,"n":1200521,"alt":434,"prio":25},
+{"id":"47A3DB14-B4FB","name":"Cudrefin, Vers-chez-Jacot","kind":"stop","e":2568433,"n":1200235,"alt":439,"prio":25},
+{"id":"52930AD6-4789","name":"Cudrefin, Le Moulin","kind":"stop","e":2568166,"n":1200121,"alt":444,"prio":25},
+{"id":"760F8FF2-B385","name":"Cudrefin, mini-golf","kind":"stop","e":2568332,"n":1200265,"alt":437,"prio":25},
+{"id":"1CB2487E-607E","name":"Cudrefin","kind":"village","e":2568211,"n":1200389,"alt":435,"prio":45},
+{"id":"492D7020-3257","name":"La Praz","kind":"village","e":2569442,"n":1200579,"alt":444,"prio":5},
+{"id":"CDE13252-BCB0","name":"Sur la Praz","kind":"village","e":2569200,"n":1200490,"alt":455,"prio":5}
+]

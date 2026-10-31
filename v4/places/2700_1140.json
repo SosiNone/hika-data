@@ -1,0 +1,19 @@
+[
+{"id":"B4F1CF39-3C0D","name":"Motte Alte","kind":"summit","e":2704924,"n":1143258,"alt":2024,"prio":60},
+{"id":"D2C3C31A-BBBC","name":"La Motta","kind":"summit","e":2703823,"n":1144767,"alt":2234,"prio":60},
+{"id":"B1CA54A5-8BA2","name":"Pizzo dei Merli","kind":"summit","e":2704213,"n":1143439,"alt":2517,"prio":90},
+{"id":"7FB41E77-FC77","name":"Pizzo Forno","kind":"summit","e":2702863,"n":1143289,"alt":2907,"prio":90},
+{"id":"D1FA043B-28FD","name":"Passo di Ghiacciaione","kind":"pass","e":2702275,"n":1143078,"alt":2716,"prio":60},
+{"id":"CCF1C756-3A5D","name":"Pizzo Barone","kind":"summit","e":2700223,"n":1140207,"alt":2864,"prio":90},
+{"id":"053A438C-4A7B","name":"Pizzo dei Piodisc","kind":"summit","e":2700167,"n":1140718,"alt":2849,"prio":90},
+{"id":"D04F4B8D-72FF","name":"Bassa del Barone","kind":"pass","e":2701189,"n":1140076,"alt":2538,"prio":60},
+{"id":"6D780472-DE3A","name":"Poncione del Laghetto","kind":"summit","e":2701528,"n":1142953,"alt":2769,"prio":90},
+{"id":"474DCB8F-9609","name":"Bocchetta di Staletto","kind":"pass","e":2700788,"n":1142815,"alt":2653,"prio":60},
+{"id":"C187631A-6EF6","name":"Pizzo di Sovèltra","kind":"summit","e":2700032,"n":1141604,"alt":2856,"prio":90},
+{"id":"14FFCFFF-EBE3","name":"Motta delle Fontane","kind":"summit","e":2702473,"n":1142694,"alt":2559,"prio":60},
+{"id":"728FFF71-782E","name":"Uomo di Moncucco","kind":"summit","e":2703989,"n":1142345,"alt":2305,"prio":60},
+{"id":"EC2B13D7-A0D8","name":"Passo delle Rosse","kind":"pass","e":2703824,"n":1144639,"alt":2226,"prio":60},
+{"id":"8826CDB5-6F4A","name":"Rifugio Alpe Sponda","kind":"inn","e":2703581,"n":1141568,"alt":1997,"prio":50},
+{"id":"BA0AC77C-5856","name":"Bola Rossa","kind":"lake","e":2700978,"n":1141827,"alt":2395,"prio":50},
+{"id":"B8613EB0-5F1E","name":"Laghetto Gardiscio","kind":"lake","e":2701280,"n":1142682,"alt":2580,"prio":50}
+]

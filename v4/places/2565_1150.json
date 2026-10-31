@@ -1,0 +1,16 @@
+[
+{"id":"FA3CB8A2-076F","name":"Entre deux Dents","kind":"summit","e":2569814,"n":1153992,"alt":1618,"prio":60},
+{"id":"62A19350-73DC","name":"Teysachaux","kind":"summit","e":2566068,"n":1153736,"alt":1909,"prio":60},
+{"id":"2156AB72-AEC5","name":"Vanil Blanc","kind":"summit","e":2567710,"n":1151914,"alt":1828,"prio":60},
+{"id":"6A8E95C2-AC0B","name":"Grand Sex","kind":"summit","e":2567307,"n":1151239,"alt":1907,"prio":60},
+{"id":"B993D458-45FB","name":"Dent de Lys","kind":"summit","e":2566563,"n":1150804,"alt":2014,"prio":90},
+{"id":"769E5868-50C1","name":"Col de Lys","kind":"pass","e":2565692,"n":1150166,"alt":1779,"prio":60},
+{"id":"76C9FE07-9227","name":"Vanil de l'Arche","kind":"summit","e":2568600,"n":1152449,"alt":1581,"prio":30},
+{"id":"B29F6481-4DB1","name":"Lys Derrey","kind":"summit","e":2565999,"n":1150388,"alt":1864,"prio":60},
+{"id":"079C2508-0CA0","name":"Buvette la Challa","kind":"inn","e":2568362,"n":1154202,"alt":1444,"prio":50},
+{"id":"12724634-340C","name":"Buvette de Saletta","kind":"inn","e":2566080,"n":1151660,"alt":1496,"prio":50},
+{"id":"FD232551-E265","name":"Buvette le Vuipay","kind":"inn","e":2565672,"n":1152950,"alt":1474,"prio":50},
+{"id":"4EFF5C54-3E78","name":"Buvette d'alpage Incrota","kind":"inn","e":2565326,"n":1154062,"alt":1396,"prio":50},
+{"id":"F85069E8-E5CA","name":"Buvette d'alpage les Moilles","kind":"inn","e":2566921,"n":1153031,"alt":1357,"prio":50},
+{"id":"46C957DD-D0A6","name":"Crête du Moléson","kind":"ridge","e":2566963,"n":1154893,"alt":1911,"prio":20}
+]

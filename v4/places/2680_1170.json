@@ -1,0 +1,22 @@
+[
+{"id":"572A6F62-E978","name":"Gross Griessenhorn","kind":"summit","e":2680142,"n":1174882,"alt":3201,"prio":90},
+{"id":"CFC388C7-E677","name":"Stucklistock","kind":"summit","e":2680173,"n":1174531,"alt":3313,"prio":90},
+{"id":"9B690126-BE55","name":"Fedistock","kind":"summit","e":2682517,"n":1174393,"alt":2839,"prio":90},
+{"id":"44642365-B00D","name":"Schwarzstock","kind":"summit","e":2684912,"n":1172997,"alt":2635,"prio":90},
+{"id":"8F451B0A-28BB","name":"Spitzli","kind":"summit","e":2683524,"n":1172355,"alt":3019,"prio":90},
+{"id":"04266F24-0AB3","name":"Rothorn","kind":"summit","e":2682733,"n":1171692,"alt":3193,"prio":90},
+{"id":"39701DE7-3EA7","name":"Rohrspitzli","kind":"summit","e":2682911,"n":1171606,"alt":3220,"prio":90},
+{"id":"6C811266-74A2","name":"Salbitschijen","kind":"summit","e":2683426,"n":1170496,"alt":2986,"prio":90},
+{"id":"D3FB5D5D-EA46","name":"Litzigstock","kind":"summit","e":2682969,"n":1174857,"alt":2532,"prio":90},
+{"id":"B693344D-DB8B","name":"Fleckistock","kind":"summit","e":2680974,"n":1173459,"alt":3417,"prio":90},
+{"id":"B693344D-DB8B","name":"Rot Stock","kind":"summit","e":2680974,"n":1173459,"alt":3417,"prio":90},
+{"id":"F1D342A7-D0B0","name":"Nördliche Flüelücke","kind":"pass","e":2681269,"n":1172844,"alt":2969,"prio":60},
+{"id":"DB7751E0-A330","name":"Südliche Flüelücke","kind":"pass","e":2681466,"n":1172660,"alt":2987,"prio":60},
+{"id":"FFF036A3-D159","name":"Chüeplanggenstock","kind":"summit","e":2681880,"n":1172164,"alt":3209,"prio":90},
+{"id":"FFF036A3-D159","name":"Winterberg","kind":"summit","e":2681880,"n":1172164,"alt":3209,"prio":90},
+{"id":"BFFAD65A-B6C6","name":"Gemschiplanggenstock","kind":"summit","e":2683924,"n":1170784,"alt":2753,"prio":90},
+{"id":"5DADEE0D-8973","name":"Nollen","kind":"summit","e":2683285,"n":1170146,"alt":2547,"prio":60},
+{"id":"EC98DF79-7906","name":"Salbitschijenbiwak SAC","kind":"inn","e":2683021,"n":1170010,"alt":2402,"prio":45},
+{"id":"19606317-85B9","name":"Voralphütte SAC","kind":"inn","e":2680247,"n":1171573,"alt":2126,"prio":50},
+{"id":"3A965354-8129","name":"Meiggelengrat","kind":"ridge","e":2684844,"n":1170654,"alt":2466,"prio":20}
+]

@@ -1,0 +1,23 @@
+[
+{"id":"EE41240F-E93C","name":"Rosenlaui, Hotel","kind":"stop","e":2654714,"n":1170146,"alt":1327,"prio":25},
+{"id":"38EC1249-914F","name":"Stock","kind":"summit","e":2651525,"n":1174007,"alt":2031,"prio":20},
+{"id":"851F912B-6B8E","name":"Wandelhoren","kind":"summit","e":2651561,"n":1173683,"alt":2304,"prio":60},
+{"id":"B03EC3A6-1005","name":"Tschingel","kind":"summit","e":2653676,"n":1172736,"alt":2326,"prio":60},
+{"id":"7D5240AC-C55E","name":"Garzen","kind":"summit","e":2650513,"n":1172466,"alt":2711,"prio":90},
+{"id":"D864069D-7612","name":"Cheerhubel","kind":"summit","e":2651339,"n":1170317,"alt":2213,"prio":60},
+{"id":"3ABD6C2E-0F09","name":"Rufenenhubel","kind":"summit","e":2654798,"n":1170782,"alt":1436,"prio":30},
+{"id":"684D4101-6E0D","name":"Bandspitz","kind":"summit","e":2650186,"n":1170548,"alt":2401,"prio":60},
+{"id":"DD320387-388E","name":"Rosenlaui","kind":"village","e":2654781,"n":1170120,"alt":1327,"prio":5},
+{"id":"B883290D-DA64","name":"Röift","kind":"village","e":2654754,"n":1174677,"alt":1094,"prio":5},
+{"id":"F49AAC3B-CAA3","name":"Brochhütte","kind":"inn","e":2653579,"n":1170164,"alt":1502,"prio":50},
+{"id":"09EC4E99-7165","name":"Hotel Rosenlaui","kind":"inn","e":2654674,"n":1170123,"alt":1330,"prio":50},
+{"id":"8233CC33-178A","name":"Fleigenegg","kind":"ridge","e":2651340,"n":1174204,"alt":1730,"prio":20},
+{"id":"EE1FB325-E96A","name":"Wandelgrat","kind":"ridge","e":2651216,"n":1173275,"alt":2255,"prio":20},
+{"id":"29A3DC30-DD9A","name":"Grindelgrat","kind":"ridge","e":2652990,"n":1172309,"alt":2373,"prio":20},
+{"id":"3A8F1A72-24B8","name":"Nästfüötergrätli","kind":"ridge","e":2652360,"n":1171507,"alt":2269,"prio":20},
+{"id":"D4635ACF-DF9E","name":"Uf der Egg","kind":"ridge","e":2651754,"n":1170968,"alt":2024,"prio":20},
+{"id":"53F4B8B1-63E1","name":"Blattiegg","kind":"ridge","e":2651301,"n":1174602,"alt":1529,"prio":20},
+{"id":"987B35DC-55D1","name":"Bäregg","kind":"ridge","e":2651177,"n":1174428,"alt":1606,"prio":20},
+{"id":"78283291-7D26","name":"Hagelseewli","kind":"lake","e":2653068,"n":1172180,"alt":2315,"prio":50},
+{"id":"63CE465A-8FAA","name":"Hornseewli","kind":"lake","e":2650961,"n":1170238,"alt":2146,"prio":50}
+]

@@ -1,0 +1,11 @@
+[
+{"id":"33C60F71-81A1","name":"Schleitheim, Mattenhof","kind":"stop","e":2679984,"n":1290903,"alt":506,"prio":25},
+{"id":"6B8C1138-3369","name":"Stauffebärg","kind":"summit","e":2678452,"n":1290237,"alt":606,"prio":10},
+{"id":"9940983D-90EE","name":"Güggilibuck","kind":"summit","e":2679518,"n":1291164,"alt":578,"prio":10},
+{"id":"A82F493E-0052","name":"Füürchübelbuck","kind":"summit","e":2678939,"n":1290830,"alt":599,"prio":10},
+{"id":"D6727A19-7006","name":"Groofedelbuck","kind":"summit","e":2678888,"n":1290370,"alt":550,"prio":10},
+{"id":"666AE1E5-2129","name":"Mittelbuck","kind":"summit","e":2678117,"n":1290833,"alt":542,"prio":10},
+{"id":"B1688A3F-8318","name":"Mattenhof","kind":"village","e":2679954,"n":1290931,"alt":509,"prio":5},
+{"id":"CA866364-D867","name":"Rütistelmüli","kind":"village","e":2679953,"n":1290749,"alt":501,"prio":5},
+{"id":"8AF16E14-200C","name":"Rietbuck","kind":"ridge","e":2679443,"n":1290879,"alt":540,"prio":20}
+]

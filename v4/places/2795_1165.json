@@ -1,0 +1,23 @@
+[
+{"id":"12C198D7-804C","name":"Cinuos-chel-Brail","kind":"stop","e":2797759,"n":1168431,"alt":1628,"prio":45},
+{"id":"F42073DC-C8FE","name":"Chapella, La Resgia","kind":"stop","e":2796756,"n":1167844,"alt":1636,"prio":25},
+{"id":"34938100-3EBC","name":"Cinuos-chel-Brail, staziun","kind":"stop","e":2797741,"n":1168453,"alt":1628,"prio":25},
+{"id":"D0744CE5-F85C","name":"Cinuos-chel, Suot il Chaunt","kind":"stop","e":2797765,"n":1168721,"alt":1622,"prio":25},
+{"id":"D1354115-4D70","name":"S-chanf, Parc Naziunal","kind":"stop","e":2796902,"n":1166197,"alt":1692,"prio":25},
+{"id":"83120984-78F7","name":"S-chanf, Pradels","kind":"stop","e":2795304,"n":1165782,"alt":1664,"prio":25},
+{"id":"DED02BD3-FE82","name":"S-chanf, Punt da Crap","kind":"stop","e":2795411,"n":1165543,"alt":1657,"prio":25},
+{"id":"C7BC0A3C-D11F","name":"S-chanf, Punt da Scrigns","kind":"stop","e":2798232,"n":1165318,"alt":1736,"prio":25},
+{"id":"1C3F0977-6CC4","name":"S-chanf, Varusch","kind":"stop","e":2798557,"n":1165157,"alt":1755,"prio":25},
+{"id":"FE291299-CA4D","name":"S-chanf, Zielgelände ESM","kind":"stop","e":2795993,"n":1166214,"alt":1656,"prio":25},
+{"id":"DBAAA65C-5F5F","name":"S-chanf Marathon","kind":"stop","e":2795921,"n":1166359,"alt":1668,"prio":45},
+{"id":"9D4B97B0-8893","name":"Munt Blais","kind":"summit","e":2798809,"n":1166415,"alt":2455,"prio":60},
+{"id":"1E8F98B9-FEEB","name":"Munt Arduond","kind":"summit","e":2799777,"n":1167781,"alt":2564,"prio":90},
+{"id":"A16A3B01-4FA7","name":"Cinuos-chel","kind":"village","e":2797805,"n":1168756,"alt":1614,"prio":15},
+{"id":"B924AB7A-8367","name":"Varusch","kind":"village","e":2797310,"n":1166009,"alt":1727,"prio":5},
+{"id":"E050CA8D-2C82","name":"Chapella","kind":"village","e":2796719,"n":1167903,"alt":1641,"prio":30},
+{"id":"4782F85A-AEDE","name":"Susauna","kind":"village","e":2795308,"n":1168232,"alt":1685,"prio":5},
+{"id":"3E03D9E4-1903","name":"Salvuns","kind":"village","e":2796017,"n":1165953,"alt":1660,"prio":5},
+{"id":"87B8E79B-C0DA","name":"Flin","kind":"village","e":2797292,"n":1166957,"alt":1653,"prio":5},
+{"id":"78BBB955-78F4","name":"Parkhütte Varusch","kind":"inn","e":2798630,"n":1165187,"alt":1771,"prio":50},
+{"id":"242B6CF6-5C0C","name":"Restorant Prasüras","kind":"inn","e":2796949,"n":1166180,"alt":1693,"prio":50}
+]

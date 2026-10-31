@@ -1,0 +1,22 @@
+[
+{"id":"1E792CBE-7301","name":"Urnäsch, Hüsli","kind":"stop","e":2739273,"n":1238879,"alt":905,"prio":25},
+{"id":"C98ABB5F-D355","name":"Urnäsch, Rossfall","kind":"stop","e":2739269,"n":1238148,"alt":944,"prio":25},
+{"id":"9D3984C6-A0A8","name":"Urnäsch, Dürrenbach","kind":"stop","e":2738644,"n":1239996,"alt":857,"prio":25},
+{"id":"C12DCD62-44F2","name":"Hinderfallenchopf","kind":"summit","e":2736708,"n":1235660,"alt":1531,"prio":30},
+{"id":"1C3A9CB5-8938","name":"Spicher","kind":"summit","e":2738976,"n":1236607,"alt":1520,"prio":30},
+{"id":"3340288D-B8C6","name":"Hochalp","kind":"summit","e":2737350,"n":1237631,"alt":1530,"prio":30},
+{"id":"E42C8744-7266","name":"Glücksberg","kind":"summit","e":2739786,"n":1236926,"alt":1204,"prio":30},
+{"id":"C8327481-7851","name":"Ofenloch","kind":"cave","e":2738552,"n":1235735,"alt":1111,"prio":25},
+{"id":"06BC897A-237F","name":"Gross-Rossfall","kind":"village","e":2739366,"n":1239058,"alt":917,"prio":5},
+{"id":"01D83785-2BDF","name":"Aplis","kind":"village","e":2738501,"n":1239620,"alt":869,"prio":5},
+{"id":"96D4FBD0-C206","name":"Mittler-Rossfall","kind":"village","e":2739287,"n":1238846,"alt":910,"prio":5},
+{"id":"A1E2AF3E-54D6","name":"Böheli","kind":"village","e":2738679,"n":1239381,"alt":877,"prio":5},
+{"id":"6B75051C-828A","name":"Untere Fischegg","kind":"village","e":2738523,"n":1238957,"alt":928,"prio":5},
+{"id":"8D38EEE1-A208","name":"Rossfall","kind":"village","e":2739166,"n":1238327,"alt":949,"prio":5},
+{"id":"95D285BC-7FBA","name":"Schwizeren","kind":"village","e":2739154,"n":1239403,"alt":896,"prio":5},
+{"id":"D82CEC86-6A0E","name":"Hinteres Wideli","kind":"village","e":2738723,"n":1239788,"alt":856,"prio":5},
+{"id":"07849FD0-E655","name":"Sulzmoos","kind":"village","e":2738791,"n":1239891,"alt":862,"prio":5},
+{"id":"C326D748-CBB9","name":"Steinaueli","kind":"village","e":2738383,"n":1239883,"alt":857,"prio":5},
+{"id":"EED715A4-479A","name":"Berggasthaus Hochalp","kind":"inn","e":2736884,"n":1237602,"alt":1519,"prio":50},
+{"id":"58260F16-B523","name":"Lillybeizli","kind":"inn","e":2738815,"n":1238676,"alt":940,"prio":50}
+]

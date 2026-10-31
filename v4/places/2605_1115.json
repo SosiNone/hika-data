@@ -1,0 +1,20 @@
+[
+{"id":"39321E18-ABD2","name":"Crêt du Midi (station amont)","kind":"lift","e":2607023,"n":1119786,"alt":2330,"prio":40},
+{"id":"CCADD46B-CFF7","name":"Grimentz Grand Plan","kind":"lift","e":2608772,"n":1115328,"alt":2441,"prio":40},
+{"id":"131668EB-4BF0","name":"Grimentz Vijevy","kind":"lift","e":2608354,"n":1115048,"alt":2366,"prio":40},
+{"id":"A2A8736B-EADF","name":"Vissoie, Pinsec-Teinda","kind":"stop","e":2609696,"n":1119716,"alt":1383,"prio":25},
+{"id":"FD995C7C-9A6E","name":"Tracui d'en Bas - Mont Major Station amont","kind":"lift","e":2607207,"n":1119245,"alt":2365,"prio":40},
+{"id":"6144B30B-C046","name":"Mont Major","kind":"summit","e":2607198,"n":1119284,"alt":2374,"prio":60},
+{"id":"4981ED77-87BC","name":"La Brinta","kind":"summit","e":2607188,"n":1118255,"alt":2659,"prio":90},
+{"id":"3E166D10-4613","name":"Col de la Brinta","kind":"pass","e":2607124,"n":1117908,"alt":2600,"prio":60},
+{"id":"29DD6534-A063","name":"Roc d'Orzival","kind":"summit","e":2607664,"n":1115977,"alt":2854,"prio":90},
+{"id":"FABFB779-512A","name":"Col du Tsan","kind":"pass","e":2607208,"n":1115715,"alt":2748,"prio":60},
+{"id":"9D2302D2-F14D","name":"Roc de la Tsa","kind":"summit","e":2606621,"n":1115208,"alt":2911,"prio":90},
+{"id":"D14B2623-B48F","name":"Le Crêt du Midi","kind":"summit","e":2606984,"n":1119802,"alt":2333,"prio":60},
+{"id":"6F6C3E0D-87CC","name":"Sex de la Brinta","kind":"summit","e":2606974,"n":1116994,"alt":2693,"prio":90},
+{"id":"AAFF0E47-8843","name":"Crêt-du-Midi","kind":"view","e":2606985,"n":1119800,"alt":2332,"prio":55},
+{"id":"53BE16CB-9BF0","name":"Simboué","kind":"village","e":2605870,"n":1119753,"alt":1738,"prio":5},
+{"id":"280A2A66-8E2D","name":"Buvette de la Lé","kind":"inn","e":2605549,"n":1118379,"alt":1664,"prio":50},
+{"id":"39BBD8E9-8381","name":"Buvette de Tsartsey","kind":"inn","e":2606190,"n":1117401,"alt":2230,"prio":50},
+{"id":"69FE5EA9-EF61","name":"Restaurant du Crêt-du-Midi","kind":"inn","e":2606979,"n":1119772,"alt":2327,"prio":50}
+]

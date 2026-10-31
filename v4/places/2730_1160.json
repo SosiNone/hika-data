@@ -1,0 +1,21 @@
+[
+{"id":"B6E1F33A-BC3A","name":"Gadastatt","kind":"lift","e":2731229,"n":1163076,"alt":1820,"prio":40},
+{"id":"897A20E7-81F6","name":"Vals (Talstation)","kind":"lift","e":2732890,"n":1163466,"alt":1287,"prio":40},
+{"id":"B80C1296-667D","name":"Vals, Post","kind":"stop","e":2733406,"n":1164558,"alt":1250,"prio":25},
+{"id":"8E0AD165-0471","name":"Vals, Vallé","kind":"stop","e":2733110,"n":1163764,"alt":1264,"prio":25},
+{"id":"8B09FE10-7463","name":"Vals, Parkplatz Bergbahnen","kind":"stop","e":2732996,"n":1163455,"alt":1289,"prio":25},
+{"id":"488479C7-D1B3","name":"Vals, Peilerrank","kind":"stop","e":2732606,"n":1163027,"alt":1401,"prio":25},
+{"id":"497FADC1-625B","name":"Vals, Ronastäg","kind":"stop","e":2730852,"n":1161531,"alt":1615,"prio":25},
+{"id":"ACB39092-F8DD","name":"Vals, Therme","kind":"stop","e":2733559,"n":1164994,"alt":1247,"prio":25},
+{"id":"6F453623-02C0","name":"Hohbüel","kind":"summit","e":2732784,"n":1160437,"alt":2462,"prio":60},
+{"id":"A333F144-46C5","name":"Chrüzgütsch","kind":"summit","e":2731583,"n":1160724,"alt":2224,"prio":60},
+{"id":"9D6BE288-46EB","name":"Vals","kind":"village","e":2733389,"n":1164240,"alt":1257,"prio":30},
+{"id":"1E4F76DE-47A5","name":"Under Büni","kind":"village","e":2732031,"n":1163392,"alt":1565,"prio":5},
+{"id":"4CBB7569-80B3","name":"Leis","kind":"village","e":2732244,"n":1163427,"alt":1527,"prio":5},
+{"id":"6205030C-3158","name":"Ober Büni","kind":"village","e":2731956,"n":1163385,"alt":1578,"prio":5},
+{"id":"B33C7CA3-B68D","name":"Kiosk Peil","kind":"inn","e":2734981,"n":1160738,"alt":1666,"prio":50},
+{"id":"2EBA225C-F680","name":"Bergrestaurant Gadastatt","kind":"inn","e":2731201,"n":1163050,"alt":1815,"prio":50},
+{"id":"57199BB8-BC8C","name":"Bergwirtschaft Hängelahütte","kind":"inn","e":2732368,"n":1164819,"alt":1818,"prio":50},
+{"id":"DE2FC9D4-3612","name":"Restaurant Ganni","kind":"inn","e":2732268,"n":1163424,"alt":1524,"prio":50},
+{"id":"AB5AFA62-6E27","name":"Selvasee","kind":"lake","e":2732199,"n":1160693,"alt":2297,"prio":50}
+]

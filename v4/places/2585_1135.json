@@ -1,0 +1,22 @@
+[
+{"id":"60BADE86-9DCB","name":"Innergsteig","kind":"lift","e":2587824,"n":1136109,"alt":1216,"prio":40},
+{"id":"42640087-49AF","name":"Gsteig b. Gstaad, Saali","kind":"stop","e":2586883,"n":1139060,"alt":1140,"prio":25},
+{"id":"60E2630F-3880","name":"Gsteig b. Gstaad, Heitibrücke","kind":"stop","e":2586498,"n":1136834,"alt":1219,"prio":25},
+{"id":"F63A8791-DA2E","name":"Feutersoey, Bühl","kind":"stop","e":2586934,"n":1139744,"alt":1131,"prio":25},
+{"id":"B5696EC1-43A5","name":"Gsteig b. Gstaad, Gründ","kind":"stop","e":2586120,"n":1136479,"alt":1261,"prio":25},
+{"id":"1B003D76-1D19","name":"Gsteig b. Gstaad, Höhe","kind":"stop","e":2585263,"n":1135923,"alt":1328,"prio":25},
+{"id":"2706D697-0648","name":"Gsteig b. Gstaad, Post","kind":"stop","e":2586832,"n":1137267,"alt":1179,"prio":25},
+{"id":"DCCAA9BB-AD07","name":"Gsteig b. Gstaad, Schönenboden","kind":"stop","e":2585663,"n":1136338,"alt":1297,"prio":25},
+{"id":"AE2CD048-84CF","name":"Chrine","kind":"pass","e":2589428,"n":1139235,"alt":1660,"prio":60},
+{"id":"5A834377-753B","name":"Walliser Wispile","kind":"summit","e":2589642,"n":1137437,"alt":1982,"prio":60},
+{"id":"D60EE968-D184","name":"Burgfälle","kind":"water","e":2588009,"n":1136556,"alt":1280,"prio":25},
+{"id":"C660EED3-BF03","name":"Sanetschfall","kind":"water","e":2588301,"n":1135622,"alt":1546,"prio":25},
+{"id":"4C674F71-E51F","name":"Gsteig b. Gstaad","kind":"village","e":2586821,"n":1137112,"alt":1184,"prio":30},
+{"id":"6FF9A6EE-93F0","name":"Innergsteig","kind":"village","e":2587211,"n":1136775,"alt":1181,"prio":5},
+{"id":"BBE53565-9A76","name":"Schmidsfang","kind":"village","e":2587742,"n":1139817,"alt":1328,"prio":5},
+{"id":"094EFBC8-634A","name":"Gschwänd","kind":"village","e":2588004,"n":1139226,"alt":1388,"prio":5},
+{"id":"B1410F7A-FBFE","name":"Chlussli","kind":"village","e":2586862,"n":1138012,"alt":1173,"prio":5},
+{"id":"734932FD-14DE","name":"Hasenegg","kind":"ridge","e":2585218,"n":1138459,"alt":1915,"prio":20},
+{"id":"334264F3-7962","name":"Wysstannegg","kind":"ridge","e":2588502,"n":1138213,"alt":1476,"prio":20},
+{"id":"EF102ECD-0362","name":"Egg","kind":"ridge","e":2586561,"n":1137437,"alt":1259,"prio":20}
+]

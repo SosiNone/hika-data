@@ -1,0 +1,22 @@
+[
+{"id":"458EBF49-62A3","name":"Broglio, Paese","kind":"stop","e":2693971,"n":1136876,"alt":703,"prio":25},
+{"id":"BE6C4844-AA78","name":"Broglio, Somprei","kind":"stop","e":2694064,"n":1137206,"alt":696,"prio":25},
+{"id":"3E382F6E-76B1","name":"Menzonio, Bivio","kind":"stop","e":2693202,"n":1135234,"alt":633,"prio":25},
+{"id":"2D1931B8-2CCD","name":"Menzonio, Paese","kind":"stop","e":2692452,"n":1135036,"alt":720,"prio":25},
+{"id":"B5E4278B-E000","name":"Prato, Ponte","kind":"stop","e":2693576,"n":1138909,"alt":743,"prio":25},
+{"id":"F136FF6D-9527","name":"Sornico, S. Martino","kind":"stop","e":2693453,"n":1139234,"alt":752,"prio":25},
+{"id":"E3C11A5E-BA14","name":"Pizzo della Vena Nuova","kind":"summit","e":2690200,"n":1138693,"alt":2245,"prio":60},
+{"id":"F882BDCE-21CE","name":"Pizzo di Brünèsc","kind":"summit","e":2690689,"n":1137114,"alt":2429,"prio":60},
+{"id":"890BFBFD-ED83","name":"Bocchetta di Fiorasca","kind":"pass","e":2690230,"n":1137621,"alt":2298,"prio":60},
+{"id":"BFC0E05A-723E","name":"Pizzo Paràula","kind":"summit","e":2690054,"n":1135912,"alt":2282,"prio":60},
+{"id":"1FC6075F-701F","name":"Pizzo Fiorasca","kind":"summit","e":2690329,"n":1137569,"alt":2362,"prio":60},
+{"id":"51C69C83-91DE","name":"Prato-Sornico","kind":"village","e":2693490,"n":1139057,"alt":747,"prio":15},
+{"id":"4EC5C916-1E3E","name":"Broglio","kind":"village","e":2694049,"n":1136965,"alt":694,"prio":15},
+{"id":"36108F7C-1797","name":"Pianezza","kind":"village","e":2692950,"n":1135203,"alt":754,"prio":5},
+{"id":"F4B09AD9-2E5D","name":"Vedlà","kind":"village","e":2694458,"n":1138034,"alt":730,"prio":5},
+{"id":"334C8F93-5023","name":"Vedlà da Fora","kind":"village","e":2693965,"n":1136225,"alt":663,"prio":5},
+{"id":"91E6A4BE-F4B3","name":"La Sponda","kind":"village","e":2692785,"n":1135245,"alt":760,"prio":5},
+{"id":"60182880-F7C3","name":"Menzonio","kind":"village","e":2692543,"n":1135086,"alt":713,"prio":15},
+{"id":"C305E382-6561","name":"Rima","kind":"village","e":2693541,"n":1137859,"alt":1050,"prio":5},
+{"id":"13D9627D-CCCB","name":"Pianted","kind":"village","e":2692489,"n":1135349,"alt":844,"prio":5}
+]

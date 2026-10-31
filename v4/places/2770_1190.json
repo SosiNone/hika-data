@@ -1,0 +1,21 @@
+[
+{"id":"F464660F-667D","name":"Fideris, Heuberg Arflina","kind":"stop","e":2774348,"n":1193135,"alt":2000,"prio":25},
+{"id":"683A1F7F-CD94","name":"Blakter Flua","kind":"summit","e":2774514,"n":1190337,"alt":2318,"prio":60},
+{"id":"10F4F67F-45B3","name":"Spitzabüel","kind":"summit","e":2773670,"n":1190983,"alt":2249,"prio":60},
+{"id":"0551F15C-1053","name":"Mattjisch Horn","kind":"summit","e":2774246,"n":1191426,"alt":2461,"prio":90},
+{"id":"A3076BFD-04B3","name":"Horn","kind":"summit","e":2774048,"n":1192137,"alt":2272,"prio":60},
+{"id":"C664BB50-7D6E","name":"Astser Höreli","kind":"summit","e":2773507,"n":1192168,"alt":2262,"prio":60},
+{"id":"B2BAB88B-9A1C","name":"Arflinafurgga","kind":"pass","e":2772616,"n":1192464,"alt":2247,"prio":60},
+{"id":"9ACFCEBD-7D71","name":"Faninpass","kind":"pass","e":2772193,"n":1192614,"alt":2209,"prio":60},
+{"id":"A7D908C5-AA6A","name":"Cunggel","kind":"summit","e":2770260,"n":1192942,"alt":2413,"prio":60},
+{"id":"11A25D76-FB05","name":"Mittagspitz","kind":"summit","e":2771242,"n":1193336,"alt":2381,"prio":60},
+{"id":"CC56D8F0-C64E","name":"Hinder Egg","kind":"summit","e":2773278,"n":1193798,"alt":2396,"prio":60},
+{"id":"3E0A91A5-9740","name":"Glattwang","kind":"summit","e":2773439,"n":1194701,"alt":2376,"prio":60},
+{"id":"2DACA56C-A8AF","name":"Schönbüel","kind":"summit","e":2771485,"n":1193754,"alt":2273,"prio":30},
+{"id":"C6C2FBDA-B05A","name":"Schönbüel","kind":"summit","e":2774911,"n":1191964,"alt":2305,"prio":60},
+{"id":"29CDD81F-0D8C","name":"Wit Furgga","kind":"pass","e":2774405,"n":1190835,"alt":2321,"prio":60},
+{"id":"3A8E44DD-C4DA","name":"Berghaus Arflina","kind":"inn","e":2774342,"n":1193162,"alt":1999,"prio":50},
+{"id":"996588B5-8AD8","name":"Unter Clunersee","kind":"lake","e":2774319,"n":1192485,"alt":2062,"prio":50},
+{"id":"2FD4987E-DCD4","name":"Schottensee","kind":"lake","e":2774989,"n":1191809,"alt":2230,"prio":50},
+{"id":"F32E1E78-15F9","name":"Ober Clunersee","kind":"lake","e":2773701,"n":1192390,"alt":2102,"prio":50}
+]

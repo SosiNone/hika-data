@@ -1,0 +1,15 @@
+[
+{"id":"12018CA8-2284","name":"Col du Brenay","kind":"pass","e":2600606,"n":1092841,"alt":3631,"prio":60},
+{"id":"8BF2A4F8-3C5A","name":"Serre de Vouibé","kind":"summit","e":2603242,"n":1093608,"alt":3086,"prio":90},
+{"id":"A1DF39BD-A19D","name":"Col de Charmotane","kind":"pass","e":2602783,"n":1092000,"alt":2999,"prio":60},
+{"id":"BF62A495-8E80","name":"L'Evêque","kind":"summit","e":2604970,"n":1090315,"alt":3716,"prio":100},
+{"id":"5B81401F-57FC","name":"Petit Mont Collon","kind":"summit","e":2603280,"n":1090682,"alt":3556,"prio":90},
+{"id":"8577C035-20CC","name":"Pointe des Vignettes","kind":"summit","e":2602934,"n":1093207,"alt":3194,"prio":90},
+{"id":"1672A661-4C3D","name":"Pigne d'Arolla","kind":"summit","e":2601285,"n":1093314,"alt":3779,"prio":100},
+{"id":"B8958B62-4263","name":"Col de Tsijiore Nouve","kind":"pass","e":2600204,"n":1093897,"alt":3415,"prio":60},
+{"id":"652D89D4-B6F1","name":"Col des Vignettes","kind":"pass","e":2602818,"n":1093135,"alt":3153,"prio":60},
+{"id":"94570157-7D90","name":"Pointe Sud du Brenay","kind":"summit","e":2600481,"n":1090970,"alt":3672,"prio":90},
+{"id":"8C05885A-D272","name":"Cabane des Vignettes CAS","kind":"inn","e":2602872,"n":1093137,"alt":3160,"prio":50},
+{"id":"19104D60-42A0","name":"Pointes du Brenay","kind":"ridge","e":2600558,"n":1091190,"alt":3622,"prio":20},
+{"id":"6F7A4CF4-4269","name":"Louettes Econdouè","kind":"ridge","e":2601820,"n":1094437,"alt":2989,"prio":20}
+]

@@ -1,0 +1,19 @@
+[
+{"id":"665A8B15-E8BC","name":"Bendolla","kind":"lift","e":2609247,"n":1114344,"alt":2128,"prio":40},
+{"id":"D5A83385-2F16","name":"Grimentz, Morette","kind":"stop","e":2609903,"n":1111502,"alt":1981,"prio":25},
+{"id":"D6229BE6-8FEA","name":"Grimentz Tsarva","kind":"lift","e":2606692,"n":1114497,"alt":2728,"prio":40},
+{"id":"9D521D06-2698","name":"Becs de Bosson","kind":"summit","e":2606204,"n":1112961,"alt":3149,"prio":90},
+{"id":"7F160CD6-FD50","name":"Pointe de Lona","kind":"summit","e":2607682,"n":1112551,"alt":2931,"prio":60},
+{"id":"AEB034AA-3A2C","name":"Col du Louché","kind":"pass","e":2606295,"n":1113405,"alt":2893,"prio":60},
+{"id":"5C64E33C-0FBE","name":"Col des Becs de Bosson","kind":"pass","e":2606534,"n":1112769,"alt":2959,"prio":60},
+{"id":"C8D480A5-5473","name":"Col de la Tsevalire","kind":"pass","e":2605688,"n":1112487,"alt":2947,"prio":60},
+{"id":"BA7962B0-AE09","name":"Ché de Mareinda","kind":"summit","e":2608717,"n":1110921,"alt":2903,"prio":90},
+{"id":"BA7962B0-AE09","name":"Sex de Marinda","kind":"summit","e":2608717,"n":1110921,"alt":2903,"prio":90},
+{"id":"B3C6B8ED-2D84","name":"Basset de Lona","kind":"pass","e":2608431,"n":1110744,"alt":2791,"prio":60},
+{"id":"ED33477C-45C9","name":"Pas de Lona","kind":"pass","e":2606279,"n":1111587,"alt":2788,"prio":60},
+{"id":"5058EE81-8AC5","name":"Pointe de la Tsevalire","kind":"summit","e":2605408,"n":1112326,"alt":3025,"prio":90},
+{"id":"C60A7283-27B8","name":"Cabane des Becs de Bosson","kind":"inn","e":2606001,"n":1112528,"alt":2983,"prio":50},
+{"id":"11F0B64C-8F64","name":"Restaurant de l'Étable du Marais","kind":"inn","e":2609293,"n":1114868,"alt":2217,"prio":50},
+{"id":"0F6F293A-E21B","name":"Restaurant de Bendolla","kind":"inn","e":2609211,"n":1114304,"alt":2130,"prio":50},
+{"id":"C6A7C30B-8897","name":"Lac de Lona","kind":"lake","e":2606976,"n":1111202,"alt":2635,"prio":50}
+]

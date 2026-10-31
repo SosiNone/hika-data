@@ -1,0 +1,15 @@
+[
+{"id":"5C65C04C-A582","name":"Col de Lire Rose","kind":"pass","e":2595949,"n":1090390,"alt":3064,"prio":60},
+{"id":"F022A314-A24B","name":"Col du Mont Rouge","kind":"pass","e":2596123,"n":1091605,"alt":3325,"prio":60},
+{"id":"1B34392F-B60D","name":"Mont Blanc de Cheilon","kind":"summit","e":2598345,"n":1093508,"alt":3870,"prio":100},
+{"id":"55354ACA-0E44","name":"Col de la Serpentine","kind":"pass","e":2599370,"n":1093302,"alt":3538,"prio":60},
+{"id":"475BBB1F-9A19","name":"Clocher de Cheilon","kind":"summit","e":2598217,"n":1094289,"alt":3225,"prio":90},
+{"id":"AC51E6D8-335B","name":"Col de Cheilon","kind":"pass","e":2597055,"n":1093670,"alt":3236,"prio":60},
+{"id":"1790CC65-5516","name":"La Ruinette","kind":"summit","e":2597040,"n":1091952,"alt":3875,"prio":100},
+{"id":"AFA2B001-FDCD","name":"Col Nord des Portons","kind":"pass","e":2599843,"n":1090353,"alt":3366,"prio":60},
+{"id":"4A058F31-6EBD","name":"Porton Nord","kind":"summit","e":2599380,"n":1090188,"alt":3502,"prio":90},
+{"id":"499873A6-3D91","name":"La Serpentine","kind":"summit","e":2599109,"n":1091737,"alt":3713,"prio":90},
+{"id":"40848756-7DED","name":"Pointes de Tsenâ Réfien","kind":"ridge","e":2599978,"n":1094965,"alt":3250,"prio":20},
+{"id":"58633AC5-4F38","name":"Arêtes de Lire Rose","kind":"ridge","e":2595662,"n":1090413,"alt":3022,"prio":20},
+{"id":"B0D78166-7743","name":"Mont Rouge du Giétro","kind":"ridge","e":2595435,"n":1093267,"alt":3273,"prio":20}
+]

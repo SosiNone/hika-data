@@ -1,0 +1,16 @@
+[
+{"id":"D926F9D6-62E4","name":"Aven, Courtenaz","kind":"stop","e":2584946,"n":1124185,"alt":1179,"prio":25},
+{"id":"6900FFE7-E8A2","name":"Aven, Motélon","kind":"stop","e":2584305,"n":1124908,"alt":1253,"prio":25},
+{"id":"C170F867-BE6A","name":"Tête à Pegnat","kind":"summit","e":2580753,"n":1124503,"alt":2588,"prio":90},
+{"id":"ADB12EB6-13CE","name":"Tête à Grosjean","kind":"summit","e":2580049,"n":1124457,"alt":2607,"prio":90},
+{"id":"8BBA6D12-1E2D","name":"Col Pegnat","kind":"pass","e":2580144,"n":1124155,"alt":2517,"prio":60},
+{"id":"4E4E6ADB-A85D","name":"Mont à Cavouère","kind":"summit","e":2582732,"n":1123055,"alt":2612,"prio":90},
+{"id":"6402B637-2D6F","name":"La Forcla","kind":"pass","e":2583191,"n":1122134,"alt":2100,"prio":60},
+{"id":"E942916A-69D2","name":"Mont à Perron","kind":"summit","e":2581975,"n":1122104,"alt":2667,"prio":90},
+{"id":"62EF66CA-DEE9","name":"Haut de Cry","kind":"summit","e":2581210,"n":1121010,"alt":2970,"prio":90},
+{"id":"028F4DDC-7DA7","name":"Le Cheval","kind":"summit","e":2582982,"n":1120987,"alt":2491,"prio":60},
+{"id":"C3F678DC-CCC8","name":"Tête de Vertsan","kind":"summit","e":2582594,"n":1120294,"alt":2563,"prio":90},
+{"id":"15D8258A-B787","name":"Petit Renard","kind":"pass","e":2582528,"n":1120811,"alt":2579,"prio":60},
+{"id":"1110DEB9-0B76","name":"Le Coeur","kind":"summit","e":2583478,"n":1122166,"alt":2075,"prio":60},
+{"id":"4500B3DD-B888","name":"Gîte de l'alpage de Dorbon","kind":"inn","e":2580864,"n":1123113,"alt":1958,"prio":50}
+]

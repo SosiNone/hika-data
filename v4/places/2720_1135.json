@@ -1,0 +1,12 @@
+[
+{"id":"E07DEB35-E092","name":"Bocchetta di Bòrsgen","kind":"pass","e":2724401,"n":1139490,"alt":2222,"prio":60},
+{"id":"07007C2F-46FE","name":"Pizzo Muncréch","kind":"summit","e":2721524,"n":1139971,"alt":2251,"prio":60},
+{"id":"4FE91DEA-D0AF","name":"Cima di Biasagn","kind":"summit","e":2722390,"n":1139984,"alt":2417,"prio":60},
+{"id":"AE987EB0-2C2C","name":"Pizzo Magn","kind":"summit","e":2720831,"n":1135645,"alt":2329,"prio":60},
+{"id":"78D0E57D-2BDF","name":"Mottone di Cava","kind":"summit","e":2721212,"n":1135445,"alt":2374,"prio":60},
+{"id":"32658D67-519F","name":"Mottone","kind":"summit","e":2721776,"n":1135178,"alt":2371,"prio":60},
+{"id":"846869DB-9974","name":"Forcarella di Cava","kind":"pass","e":2722370,"n":1135570,"alt":2090,"prio":60},
+{"id":"065ED3CD-1DED","name":"Rifugio Biasagn","kind":"inn","e":2722930,"n":1139250,"alt":2019,"prio":45},
+{"id":"69F57BF7-07E3","name":"Capanna Cava","kind":"inn","e":2722497,"n":1135257,"alt":2067,"prio":50},
+{"id":"AF947558-6AF5","name":"Grotto Al Morign","kind":"inn","e":2721958,"n":1137993,"alt":863,"prio":50}
+]

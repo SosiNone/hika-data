@@ -1,0 +1,23 @@
+[
+{"id":"8746989B-41ED","name":"Court","kind":"stop","e":2592697,"n":1232188,"alt":665,"prio":45},
+{"id":"1ED7C157-83CE","name":"Court, gare","kind":"stop","e":2592680,"n":1232206,"alt":666,"prio":25},
+{"id":"45BCDC08-AA33","name":"Court, église","kind":"stop","e":2591956,"n":1232071,"alt":670,"prio":25},
+{"id":"6DEB2717-9B55","name":"Mont Girod","kind":"summit","e":2592329,"n":1233885,"alt":1045,"prio":30},
+{"id":"2E090FA7-8429","name":"Haut du Crêt","kind":"summit","e":2590330,"n":1232383,"alt":781,"prio":10},
+{"id":"E2BECF14-E934","name":"La Bluai","kind":"village","e":2594406,"n":1230231,"alt":1261,"prio":5},
+{"id":"C4D3680A-9A5E","name":"La Joux","kind":"village","e":2592011,"n":1233656,"alt":1010,"prio":5},
+{"id":"DA948425-D39B","name":"Les Chaufours","kind":"village","e":2590301,"n":1232774,"alt":714,"prio":5},
+{"id":"27232CA7-CA6E","name":"Champ Chalmé","kind":"village","e":2591405,"n":1232663,"alt":737,"prio":5},
+{"id":"9C18A126-0F23","name":"Sur Sargé","kind":"village","e":2594690,"n":1232228,"alt":707,"prio":5},
+{"id":"AC109AE4-B5CA","name":"Droit de Mévilier","kind":"village","e":2591073,"n":1232601,"alt":705,"prio":5},
+{"id":"DFC73886-BCDD","name":"Sur Frête","kind":"village","e":2591650,"n":1231551,"alt":738,"prio":5},
+{"id":"86CA53C3-F942","name":"Haut de la Fin","kind":"village","e":2591876,"n":1232649,"alt":744,"prio":5},
+{"id":"8A566A45-2C25","name":"Le Petit-Pré","kind":"village","e":2592548,"n":1231579,"alt":714,"prio":5},
+{"id":"9F57E222-E361","name":"Mont-Girod","kind":"village","e":2590244,"n":1233449,"alt":913,"prio":5},
+{"id":"3609CDE1-4CE6","name":"Pré-Richard","kind":"village","e":2593691,"n":1230318,"alt":1248,"prio":5},
+{"id":"8831C2D8-DD1B","name":"Le Gros Pré","kind":"village","e":2593961,"n":1232144,"alt":723,"prio":5},
+{"id":"10D3AFCA-727E","name":"Court","kind":"village","e":2592469,"n":1232120,"alt":666,"prio":45},
+{"id":"9FF16E54-2299","name":"Restaurant Tiefmatt La Bluai","kind":"inn","e":2594411,"n":1230238,"alt":1262,"prio":50},
+{"id":"A6E1680C-7405","name":"Restaurant Harzer","kind":"inn","e":2593705,"n":1230315,"alt":1247,"prio":50},
+{"id":"F07BEC2D-C250","name":"Lac Vert","kind":"lake","e":2591137,"n":1233151,"alt":838,"prio":50}
+]

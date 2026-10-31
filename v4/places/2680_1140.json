@@ -1,0 +1,21 @@
+[
+{"id":"93ED988A-DA6C","name":"Robiei","kind":"lift","e":2682511,"n":1144101,"alt":1906,"prio":40},
+{"id":"33D7A0C2-34E7","name":"S. Carlo (Bavona) Funivia","kind":"lift","e":2683896,"n":1140443,"alt":1054,"prio":40},
+{"id":"520141A8-44CE","name":"S. Carlo (Bavona), Funivia","kind":"stop","e":2683884,"n":1140465,"alt":1041,"prio":25},
+{"id":"171EBB94-6232","name":"S. Carlo (Bavona), Ponte","kind":"stop","e":2683621,"n":1140256,"alt":939,"prio":25},
+{"id":"3DAEAA36-3F8C","name":"Bocchetta della Froda","kind":"pass","e":2684983,"n":1143583,"alt":2692,"prio":60},
+{"id":"6B57A258-729D","name":"Pizzo dell'Arzo","kind":"summit","e":2681014,"n":1144416,"alt":2754,"prio":90},
+{"id":"82DE9023-F7EC","name":"Poncione di Braga","kind":"summit","e":2684878,"n":1143160,"alt":2864,"prio":90},
+{"id":"DE785323-31F0","name":"Pizzo Pecora","kind":"summit","e":2682169,"n":1142081,"alt":2316,"prio":60},
+{"id":"161DDB0F-5E7A","name":"Lu Mött la Crusg","kind":"summit","e":2682489,"n":1142295,"alt":2133,"prio":60},
+{"id":"EB375BA9-23A9","name":"S. Carlo (Val Bavona)","kind":"village","e":2683753,"n":1140261,"alt":954,"prio":5},
+{"id":"117888F3-1E98","name":"Albergo Robiei","kind":"inn","e":2682595,"n":1144200,"alt":1911,"prio":50},
+{"id":"679343CA-8503","name":"Capanna Basòdino (Robiei) CAS","kind":"inn","e":2682646,"n":1143702,"alt":1856,"prio":50},
+{"id":"FCC30937-C64C","name":"Ristorante Basodino","kind":"inn","e":2683623,"n":1140286,"alt":941,"prio":50},
+{"id":"49702A10-E073","name":"La Crèsta dal Arz","kind":"ridge","e":2681590,"n":1144766,"alt":2527,"prio":20},
+{"id":"CB38F693-174A","name":"Lago del Zött","kind":"lake","e":2681802,"n":1142994,"alt":1931,"prio":50},
+{"id":"B6EB4369-3FDA","name":"Acqua Fredda","kind":"lake","e":2684983,"n":1142377,"alt":2377,"prio":50},
+{"id":"72ACC283-3C26","name":"Lago di Robièi","kind":"lake","e":2682785,"n":1144386,"alt":1937,"prio":50},
+{"id":"F6348A20-6F6E","name":"Lago dei Matörgn","kind":"lake","e":2680113,"n":1143822,"alt":2450,"prio":50},
+{"id":"62B135C6-20A0","name":"Lago Nero","kind":"lake","e":2684585,"n":1144814,"alt":2388,"prio":50}
+]

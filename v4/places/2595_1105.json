@@ -1,0 +1,21 @@
+[
+{"id":"7842FFCD-7DD1","name":"Pralong, (Val d'Hérémence)","kind":"stop","e":2596777,"n":1106800,"alt":1605,"prio":25},
+{"id":"39F4DF42-24F3","name":"Léteygeon","kind":"stop","e":2596537,"n":1107500,"alt":1574,"prio":25},
+{"id":"57D255B3-34B5","name":"Méribé","kind":"stop","e":2597058,"n":1105100,"alt":1730,"prio":25},
+{"id":"9AA502B4-8627","name":"Prapperot","kind":"stop","e":2596185,"n":1108444,"alt":1537,"prio":25},
+{"id":"6A8F01A1-0992","name":"Pointe de Mandelon","kind":"summit","e":2599056,"n":1109339,"alt":2559,"prio":90},
+{"id":"4A619572-A352","name":"Mont Rouge","kind":"summit","e":2599031,"n":1107310,"alt":2979,"prio":90},
+{"id":"6970560A-F155","name":"Pic d'Artsinol","kind":"summit","e":2599098,"n":1107080,"alt":2997,"prio":90},
+{"id":"8ABE244B-FD2C","name":"Col de la Meina","kind":"pass","e":2599226,"n":1105658,"alt":2702,"prio":60},
+{"id":"8ABE244B-FD2C","name":"Col de Méribé","kind":"pass","e":2599226,"n":1105658,"alt":2702,"prio":60},
+{"id":"2595643D-B88B","name":"Le Touenno","kind":"summit","e":2595196,"n":1106817,"alt":2617,"prio":60},
+{"id":"A30825BD-A921","name":"Rionde de Vendes","kind":"summit","e":2599189,"n":1108584,"alt":2742,"prio":90},
+{"id":"E6F08446-CCFA","name":"Léteygeon","kind":"village","e":2596652,"n":1107612,"alt":1583,"prio":5},
+{"id":"C9853582-EC74","name":"La Coûte","kind":"village","e":2596062,"n":1108590,"alt":1611,"prio":5},
+{"id":"9E59A7F8-BA1E","name":"Prarion","kind":"village","e":2596391,"n":1107901,"alt":1560,"prio":5},
+{"id":"82F2C668-E0B6","name":"Mayens des Plans","kind":"village","e":2596379,"n":1108560,"alt":1565,"prio":5},
+{"id":"1D5EEDF9-EFF0","name":"Pralong","kind":"village","e":2596807,"n":1106771,"alt":1607,"prio":5},
+{"id":"E43E264A-BCBC","name":"Hôtel-Restaurant Val des Dix","kind":"inn","e":2596791,"n":1106790,"alt":1607,"prio":50},
+{"id":"63400EFA-3F14","name":"Buvette et Gîte de Mandelon","kind":"inn","e":2597896,"n":1108912,"alt":2068,"prio":50},
+{"id":"79785EE0-9D97","name":"Crètha Bourlâye","kind":"ridge","e":2595042,"n":1109736,"alt":2159,"prio":20}
+]

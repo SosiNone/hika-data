@@ -1,0 +1,21 @@
+[
+{"id":"749F4D29-0A59","name":"Morteratsch","kind":"stop","e":2792177,"n":1147434,"alt":1896,"prio":45},
+{"id":"9582FC16-8DF6","name":"Bernina Suot","kind":"stop","e":2794421,"n":1146880,"alt":2046,"prio":45},
+{"id":"C9A7CC7F-CD46","name":"Morteratsch, Abzweigung","kind":"stop","e":2791716,"n":1148832,"alt":1878,"prio":25},
+{"id":"CB8E27B6-58B4","name":"Bernina Suot, Bahnhof","kind":"stop","e":2794472,"n":1146884,"alt":2046,"prio":25},
+{"id":"29D7500A-7324","name":"Piz Albris","kind":"summit","e":2793926,"n":1148965,"alt":3165,"prio":90},
+{"id":"36CACCD7-3EB5","name":"Paun da Zücher","kind":"summit","e":2793205,"n":1149306,"alt":2998,"prio":20},
+{"id":"FEFC082C-6F44","name":"Fuorcla Pischa","kind":"pass","e":2794225,"n":1149736,"alt":2848,"prio":60},
+{"id":"0C9E9642-7DD9","name":"Fuorcla S-chüdella","kind":"pass","e":2794890,"n":1149373,"alt":2794,"prio":60},
+{"id":"9BDFDD4A-C143","name":"Cascata da Bernina","kind":"water","e":2792394,"n":1147630,"alt":1930,"prio":25},
+{"id":"7E87A83A-A65C","name":"Bernina Suot","kind":"village","e":2794544,"n":1146906,"alt":2047,"prio":5},
+{"id":"D387B7AA-0E84","name":"Gasthaus & Hotel Berninahaus","kind":"inn","e":2794549,"n":1146916,"alt":2047,"prio":50},
+{"id":"C128E439-9DFE","name":"Hotel-Restaurant Morteratsch","kind":"inn","e":2792222,"n":1147475,"alt":1897,"prio":50},
+{"id":"E1DFCCF3-D2C9","name":"Crasta d'Albris","kind":"ridge","e":2794411,"n":1148508,"alt":3014,"prio":20},
+{"id":"97C2E2CB-889A","name":"Lej da las Collinas","kind":"lake","e":2794357,"n":1145147,"alt":2589,"prio":50},
+{"id":"4B2A1572-682C","name":"Puoz Bass","kind":"lake","e":2790302,"n":1146161,"alt":2625,"prio":50},
+{"id":"F1195122-0A76","name":"Lej Pers","kind":"lake","e":2793522,"n":1146109,"alt":2531,"prio":50},
+{"id":"A7DC6A7B-3846","name":"Lejs d'Albris","kind":"lake","e":2793509,"n":1149665,"alt":2799,"prio":50},
+{"id":"B1837106-550E","name":"Lejs d'Albris","kind":"lake","e":2793695,"n":1149989,"alt":2762,"prio":50},
+{"id":"F429E1ED-09B6","name":"Lejs d'Albris","kind":"lake","e":2793858,"n":1149885,"alt":2800,"prio":50}
+]

@@ -1,0 +1,12 @@
+[
+{"id":"18EAB5CE-F7E5","name":"Triboltingen","kind":"stop","e":2725449,"n":1280482,"alt":401,"prio":45},
+{"id":"6A652F9D-C292","name":"Tägerwilen-Gottlieben","kind":"stop","e":2727275,"n":1280159,"alt":403,"prio":45},
+{"id":"2BBA6FE3-C55C","name":"Triboltingen, Dorf","kind":"stop","e":2725507,"n":1280306,"alt":412,"prio":25},
+{"id":"45FBEA14-3A10","name":"Tägerwilen-Gottlieben, Bahnhof","kind":"stop","e":2727264,"n":1280124,"alt":404,"prio":25},
+{"id":"2D8A4FDB-2935","name":"Tägerwilen, Industrie","kind":"stop","e":2727974,"n":1280214,"alt":400,"prio":25},
+{"id":"4468608A-63D2","name":"Tägerwilen, Ochsengarten","kind":"stop","e":2727583,"n":1280186,"alt":401,"prio":25},
+{"id":"EC55328E-0A2A","name":"Triboltingen","kind":"village","e":2725581,"n":1280233,"alt":416,"prio":30},
+{"id":"3E88F879-BEF8","name":"Gottlieben","kind":"village","e":2727313,"n":1280635,"alt":397,"prio":30},
+{"id":"86416ACF-F281","name":"Ziegelhof","kind":"village","e":2729050,"n":1280755,"alt":398,"prio":5},
+{"id":"56881EB5-AAC1","name":"Restaurant Kuhhorn","kind":"inn","e":2728403,"n":1280850,"alt":397,"prio":50}
+]

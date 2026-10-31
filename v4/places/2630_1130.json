@@ -1,0 +1,16 @@
+[
+{"id":"74171184-A467","name":"Chrütighorn","kind":"summit","e":2631912,"n":1134174,"alt":3020,"prio":90},
+{"id":"A246B053-7D02","name":"Wiwannijoch","kind":"pass","e":2632003,"n":1133922,"alt":2851,"prio":60},
+{"id":"252D4A28-AEC8","name":"Rots Stockji","kind":"summit","e":2634740,"n":1133872,"alt":2291,"prio":60},
+{"id":"F74276DE-50F2","name":"Wiwannihorn","kind":"summit","e":2632138,"n":1133820,"alt":3000,"prio":90},
+{"id":"BFC2E4EB-2934","name":"Chlys Öugstchummuhorn","kind":"summit","e":2631785,"n":1133116,"alt":2881,"prio":90},
+{"id":"141EEDDB-8F14","name":"Roti Chüe","kind":"summit","e":2632638,"n":1132626,"alt":2475,"prio":60},
+{"id":"63804931-61A3","name":"Gross Öugstchummuhorn","kind":"summit","e":2631754,"n":1133297,"alt":2923,"prio":90},
+{"id":"A0DDB237-A4FB","name":"Nasulecher","kind":"cave","e":2630264,"n":1131312,"alt":1549,"prio":25},
+{"id":"C6597E57-641E","name":"Raaft","kind":"village","e":2633261,"n":1130494,"alt":1552,"prio":5},
+{"id":"FC7223A2-7EA5","name":"Bietschihütte","kind":"inn","e":2630321,"n":1131920,"alt":1459,"prio":45},
+{"id":"46C32182-CDE9","name":"Wiwannihütte","kind":"inn","e":2632580,"n":1132679,"alt":2461,"prio":50},
+{"id":"5C71A40E-F7BC","name":"Brandeggi","kind":"ridge","e":2630729,"n":1132018,"alt":1883,"prio":20},
+{"id":"92661072-ED5F","name":"Tennbiel","kind":"ridge","e":2630945,"n":1130162,"alt":1408,"prio":20},
+{"id":"BD928BD6-8145","name":"Dübigrat","kind":"ridge","e":2632061,"n":1134699,"alt":2897,"prio":20}
+]

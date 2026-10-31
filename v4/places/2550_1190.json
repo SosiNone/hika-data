@@ -1,0 +1,8 @@
+[
+{"id":"7DFB5B3E-4FB7","name":"Chez-le-Bart, poste","kind":"stop","e":2550278,"n":1194684,"alt":438,"prio":25},
+{"id":"391A0D77-8227","name":"Chez-le-Bart","kind":"village","e":2550242,"n":1194671,"alt":439,"prio":30},
+{"id":"0C3846CB-BA8A","name":"Lac de Neuchâtel","kind":"lake","e":2554533,"n":1193837,"alt":429,"prio":50},
+{"id":"0C3846CB-BA8A","name":"Neuenburgersee","kind":"lake","e":2554533,"n":1193837,"alt":429,"prio":50},
+{"id":"0C3846CB-BA8A","name":"Lago di Neuchâtel","kind":"lake","e":2554533,"n":1193837,"alt":429,"prio":50},
+{"id":"0C3846CB-BA8A","name":"Lai da Neuchâtel","kind":"lake","e":2554533,"n":1193837,"alt":429,"prio":50}
+]

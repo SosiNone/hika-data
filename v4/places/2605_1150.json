@@ -1,0 +1,15 @@
+[
+{"id":"42BBF236-4943","name":"Weng (Tschenten)","kind":"lift","e":2608476,"n":1150658,"alt":1630,"prio":40},
+{"id":"1AE101E6-65D4","name":"Gsür","kind":"summit","e":2606227,"n":1151049,"alt":2710,"prio":90},
+{"id":"E535D377-5BA3","name":"Bodezehore","kind":"summit","e":2607693,"n":1152827,"alt":2354,"prio":60},
+{"id":"508B6F6F-EDCB","name":"Türmlihore","kind":"summit","e":2605716,"n":1151843,"alt":2491,"prio":60},
+{"id":"B9C07071-80D0","name":"Landvogtehore","kind":"summit","e":2606616,"n":1151473,"alt":2616,"prio":90},
+{"id":"81509024-8430","name":"Wyssi Flue","kind":"summit","e":2607960,"n":1153721,"alt":2435,"prio":60},
+{"id":"5C20AAA2-D257","name":"Undere Wannespitz","kind":"summit","e":2606910,"n":1153383,"alt":2208,"prio":60},
+{"id":"2556D61B-2CC2","name":"Drümännler","kind":"summit","e":2607670,"n":1153317,"alt":2437,"prio":60},
+{"id":"7BEF9D53-0675","name":"Erbithore","kind":"summit","e":2608438,"n":1154683,"alt":2508,"prio":90},
+{"id":"92B83CF6-8D0D","name":"Otterepass","kind":"pass","e":2608149,"n":1154197,"alt":2278,"prio":60},
+{"id":"E59D43E8-56DC","name":"Härdigs Höreli","kind":"summit","e":2606784,"n":1150639,"alt":2369,"prio":20},
+{"id":"53646368-5DBB","name":"Uf de Pörtlene","kind":"village","e":2609737,"n":1151465,"alt":1361,"prio":5},
+{"id":"A18863CE-C8CF","name":"Tschentenegge","kind":"ridge","e":2608754,"n":1150040,"alt":1847,"prio":20}
+]

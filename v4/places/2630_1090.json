@@ -1,0 +1,11 @@
+[
+{"id":"5DD3A780-57F0","name":"Stockhorn","kind":"summit","e":2630937,"n":1092752,"alt":3532,"prio":100},
+{"id":"95781B88-F927","name":"Stockhornpass","kind":"pass","e":2632410,"n":1092568,"alt":3373,"prio":60},
+{"id":"4F59F1AF-8732","name":"Cima Brioschi","kind":"summit","e":2634226,"n":1090947,"alt":3619,"prio":90},
+{"id":"E94E5A4F-EB8B","name":"Stockchnubel","kind":"summit","e":2630477,"n":1092055,"alt":3047,"prio":60},
+{"id":"576FBCB5-6EDD","name":"Altes Weisstor","kind":"pass","e":2634288,"n":1090728,"alt":3546,"prio":60},
+{"id":"C66B9BDC-A9BC","name":"Torre di Castelfranco","kind":"summit","e":2634169,"n":1091347,"alt":3629,"prio":90},
+{"id":"36CB2966-CBB9","name":"Grosses Fillarhorn","kind":"summit","e":2634297,"n":1090277,"alt":3664,"prio":90},
+{"id":"36CB2966-CBB9","name":"Gran Fillar","kind":"summit","e":2634297,"n":1090277,"alt":3664,"prio":90},
+{"id":"7C330E6B-4E6F","name":"Weissgrat","kind":"ridge","e":2634910,"n":1091848,"alt":3624,"prio":20}
+]

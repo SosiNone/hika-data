@@ -1,0 +1,19 @@
+[
+{"id":"DC83B1D8-3FF0","name":"Gondo, Kirche","kind":"stop","e":2654193,"n":1116282,"alt":854,"prio":25},
+{"id":"2DFAE297-554B","name":"Gondo, Ramserna","kind":"stop","e":2653071,"n":1116506,"alt":952,"prio":25},
+{"id":"86CD4A5B-72FE","name":"Simplon Dorf, Alte Kaserne","kind":"stop","e":2650427,"n":1115175,"alt":1160,"prio":25},
+{"id":"55418A7D-7EA1","name":"Zwischbergen, Hof","kind":"stop","e":2654149,"n":1115505,"alt":1054,"prio":25},
+{"id":"B8C8D6D8-9B2B","name":"Rothorn","kind":"summit","e":2650450,"n":1116997,"alt":2514,"prio":60},
+{"id":"F5A8BE4F-9F53","name":"Chastelbergpass","kind":"pass","e":2650548,"n":1116547,"alt":2190,"prio":60},
+{"id":"C288407B-1B50","name":"Passo Carnera","kind":"pass","e":2653170,"n":1119869,"alt":2748,"prio":60},
+{"id":"51A5F194-1E16","name":"Punta Valgrande","kind":"summit","e":2654023,"n":1119651,"alt":2856,"prio":90},
+{"id":"C18CE73E-EBBF","name":"Ehemalige Goldmine Gondo","kind":"cave","e":2654571,"n":1115271,"alt":1239,"prio":25},
+{"id":"86B5069D-F39E","name":"Hof","kind":"village","e":2654162,"n":1115526,"alt":1053,"prio":5},
+{"id":"F1332063-0C0A","name":"Biel","kind":"village","e":2654343,"n":1115721,"alt":1042,"prio":5},
+{"id":"CA6017E0-29A7","name":"Gondo","kind":"village","e":2654123,"n":1116262,"alt":849,"prio":15},
+{"id":"004531F2-B689","name":"Wammischhörner","kind":"ridge","e":2650050,"n":1117879,"alt":2853,"prio":20},
+{"id":"911236DF-8974","name":"Tannegga","kind":"ridge","e":2654849,"n":1115860,"alt":1297,"prio":20},
+{"id":"32749B21-8104","name":"Erschte See","kind":"lake","e":2651972,"n":1119802,"alt":2484,"prio":50},
+{"id":"F8F922DF-0557","name":"Gletschersee","kind":"lake","e":2650680,"n":1119880,"alt":2611,"prio":50},
+{"id":"E5BFF8C4-EB05","name":"Zweite See","kind":"lake","e":2652394,"n":1119790,"alt":2551,"prio":50}
+]

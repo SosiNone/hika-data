@@ -1,0 +1,23 @@
+[
+{"id":"DFF249BA-A8C1","name":"Torrentalp","kind":"lift","e":2615119,"n":1134497,"alt":1942,"prio":40},
+{"id":"A6042B84-5EA1","name":"Guttet, Dorf","kind":"stop","e":2617348,"n":1130402,"alt":1312,"prio":25},
+{"id":"B300175F-45D5","name":"Albinen, Tschäss","kind":"stop","e":2615410,"n":1131504,"alt":1308,"prio":25},
+{"id":"A05D8627-00DD","name":"Albinen, Dorf","kind":"stop","e":2615155,"n":1132105,"alt":1293,"prio":25},
+{"id":"AF1492D7-CA48","name":"Albinen, Rhodania","kind":"stop","e":2615210,"n":1131750,"alt":1307,"prio":25},
+{"id":"037FCE17-11A9","name":"Erschmatt, Dorf","kind":"stop","e":2619458,"n":1130033,"alt":1218,"prio":25},
+{"id":"B53AE1A2-ACCB","name":"Feschel, Dorf","kind":"stop","e":2618521,"n":1130967,"alt":1280,"prio":25},
+{"id":"D6041AAD-864D","name":"Guttet, Abzw. Umfahrung","kind":"stop","e":2617709,"n":1130354,"alt":1284,"prio":25},
+{"id":"C4E5FCC9-E3C4","name":"Leuk, Thel","kind":"stop","e":2616678,"n":1130034,"alt":1095,"prio":25},
+{"id":"B31EE38B-AD21","name":"Leuk, Feriendorf Thel","kind":"stop","e":2616132,"n":1130422,"alt":1154,"prio":25},
+{"id":"578E2D3A-FFA6","name":"Guttet-Feschel, Wiler","kind":"stop","e":2618101,"n":1130213,"alt":1254,"prio":25},
+{"id":"A1C9FDB3-24B8","name":"Leuk, Hewald","kind":"stop","e":2615375,"n":1130847,"alt":1270,"prio":25},
+{"id":"BEA5A62A-C799","name":"Horlini","kind":"summit","e":2617720,"n":1133435,"alt":2458,"prio":60},
+{"id":"E625AB77-8815","name":"Obere Guggerhubel","kind":"summit","e":2617377,"n":1132446,"alt":2146,"prio":30},
+{"id":"D544A8CB-44C9","name":"Undere Guggerhubel","kind":"summit","e":2616230,"n":1131738,"alt":1736,"prio":30},
+{"id":"0895CF27-87DA","name":"Schnydi","kind":"pass","e":2617823,"n":1133953,"alt":2386,"prio":60},
+{"id":"C43A45C6-211E","name":"Erschmatt","kind":"village","e":2619486,"n":1130044,"alt":1222,"prio":30},
+{"id":"ED1FF264-4B1A","name":"Thel","kind":"village","e":2616439,"n":1130404,"alt":1165,"prio":10},
+{"id":"E36C478C-1FF0","name":"Feschel","kind":"village","e":2618534,"n":1130976,"alt":1281,"prio":10},
+{"id":"D0CEEB96-2F28","name":"Restaurant Briand","kind":"inn","e":2615168,"n":1134467,"alt":1936,"prio":50},
+{"id":"D4D47DAC-33FF","name":"Agrotourismus zum Chüäschtall","kind":"inn","e":2618359,"n":1132776,"alt":2136,"prio":50}
+]

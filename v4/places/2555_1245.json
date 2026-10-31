@@ -1,0 +1,8 @@
+[
+{"id":"1D95B535-E66F","name":"Damvant, église","kind":"stop","e":2559112,"n":1246986,"alt":609,"prio":25},
+{"id":"7A2495F0-E79A","name":"Damvant","kind":"village","e":2558959,"n":1246986,"alt":608,"prio":15},
+{"id":"326EEEF3-9416","name":"Sous les Broches","kind":"village","e":2558482,"n":1246732,"alt":609,"prio":5},
+{"id":"F1DBD45D-86C6","name":"Essert Choix","kind":"village","e":2558869,"n":1246304,"alt":651,"prio":5},
+{"id":"D5DBDAEE-F7C7","name":"Lomont","kind":"village","e":2558648,"n":1246137,"alt":675,"prio":5},
+{"id":"FB3AE047-9840","name":"Les Bornes","kind":"village","e":2558124,"n":1246961,"alt":609,"prio":5}
+]

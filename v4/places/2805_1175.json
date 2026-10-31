@@ -1,0 +1,21 @@
+[
+{"id":"5A8871E7-C293","name":"Fuorcletta da Barcli","kind":"pass","e":2805971,"n":1177478,"alt":2849,"prio":60},
+{"id":"62B3337B-412E","name":"Fuorcla Stragliavita","kind":"pass","e":2808249,"n":1177637,"alt":2687,"prio":60},
+{"id":"D4921A88-A8B6","name":"Piz Nuna","kind":"summit","e":2807584,"n":1178268,"alt":3124,"prio":90},
+{"id":"54CC898A-443B","name":"Piz Ivraina","kind":"summit","e":2808756,"n":1175871,"alt":2886,"prio":90},
+{"id":"19FD3BAC-99A2","name":"Fuorcla Laschadurella","kind":"pass","e":2809886,"n":1176718,"alt":2587,"prio":60},
+{"id":"E3E1EE09-7D0A","name":"Munt Baselgia","kind":"summit","e":2805304,"n":1176978,"alt":2682,"prio":90},
+{"id":"80C24DFA-F3DF","name":"Piz Macun","kind":"summit","e":2806617,"n":1179445,"alt":2889,"prio":90},
+{"id":"718EBB8D-0CF2","name":"Piz Sursass","kind":"summit","e":2809222,"n":1179470,"alt":2911,"prio":90},
+{"id":"1970C9FE-77B8","name":"Clucher da Nuna","kind":"summit","e":2807620,"n":1178371,"alt":3080,"prio":90},
+{"id":"A902D7A9-CF07","name":"Ils Cuogns","kind":"summit","e":2809512,"n":1177409,"alt":2896,"prio":90},
+{"id":"D2144419-7B86","name":"Pass d'Ivraina","kind":"pass","e":2806881,"n":1177594,"alt":2934,"prio":60},
+{"id":"6738B1BB-3A3F","name":"Spi da Baselgia","kind":"ridge","e":2805535,"n":1177571,"alt":2915,"prio":20},
+{"id":"CD76B5BC-88A3","name":"Spi da Laschadura","kind":"ridge","e":2806679,"n":1177412,"alt":2971,"prio":20},
+{"id":"463E2993-ED8F","name":"Spi da Val da Barcli","kind":"ridge","e":2805366,"n":1176968,"alt":2655,"prio":20},
+{"id":"401AF8AE-84A3","name":"Lai dal Dragun","kind":"lake","e":2805660,"n":1179079,"alt":2628,"prio":50},
+{"id":"45311E0A-1D44","name":"Lai Grond","kind":"lake","e":2805331,"n":1178856,"alt":2634,"prio":50},
+{"id":"8BC3656A-0171","name":"Lai da la Mezza Glüna","kind":"lake","e":2805650,"n":1178871,"alt":2620,"prio":50},
+{"id":"D9538811-B39C","name":"Lai d'Immez","kind":"lake","e":2805996,"n":1178697,"alt":2613,"prio":50},
+{"id":"122298CD-8A55","name":"Lai Sura","kind":"lake","e":2805793,"n":1178435,"alt":2627,"prio":50}
+]

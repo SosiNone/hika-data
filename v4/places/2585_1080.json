@@ -1,0 +1,21 @@
+[
+{"id":"781E1CEA-FA20","name":"Le Râteau","kind":"summit","e":2587837,"n":1084253,"alt":3274,"prio":90},
+{"id":"2165E7F1-826D","name":"Le Mont de la Gouille","kind":"summit","e":2586097,"n":1083942,"alt":3212,"prio":90},
+{"id":"015F8B36-F5DD","name":"Col de la Gouille","kind":"pass","e":2586215,"n":1083610,"alt":3148,"prio":60},
+{"id":"A77AC9BB-EE45","name":"Brèche des Moleires","kind":"pass","e":2587473,"n":1083354,"alt":3190,"prio":60},
+{"id":"41DF135D-5CF4","name":"Col des Chamois","kind":"pass","e":2586647,"n":1082787,"alt":3255,"prio":60},
+{"id":"A3017898-66BF","name":"Mont Percé","kind":"summit","e":2588050,"n":1084646,"alt":3352,"prio":90},
+{"id":"52CCD8FB-1976","name":"Grand Carré","kind":"summit","e":2587969,"n":1084507,"alt":3334,"prio":90},
+{"id":"14E791E0-3041","name":"Mont Vélan","kind":"summit","e":2585407,"n":1082349,"alt":3720,"prio":100},
+{"id":"775156C5-571F","name":"Dents du Vélan","kind":"summit","e":2585884,"n":1081857,"alt":3620,"prio":90},
+{"id":"ACB02378-AB24","name":"Col du Capucin","kind":"pass","e":2586385,"n":1082434,"alt":3355,"prio":60},
+{"id":"0F212883-4D03","name":"Pointe du Capucin","kind":"summit","e":2586503,"n":1082466,"alt":3395,"prio":90},
+{"id":"0AF06315-522F","name":"Mont Cordine","kind":"summit","e":2586790,"n":1082863,"alt":3329,"prio":90},
+{"id":"11719614-29F8","name":"Col du Valsorey","kind":"pass","e":2587190,"n":1083187,"alt":3105,"prio":60},
+{"id":"A6AC45E3-EADA","name":"Les Trois Frères","kind":"summit","e":2587431,"n":1083239,"alt":3259,"prio":90},
+{"id":"070300C6-23BF","name":"Les Luisettes","kind":"summit","e":2588138,"n":1084934,"alt":3443,"prio":90},
+{"id":"EB4232A0-178A","name":"Tête de Riondet","kind":"summit","e":2586256,"n":1082136,"alt":3484,"prio":90},
+{"id":"B6B51CB5-6240","name":"Arête de la Gouille","kind":"ridge","e":2586059,"n":1083330,"alt":3252,"prio":20},
+{"id":"4794A15A-4BFA","name":"Les Aiguilles du Valsorey","kind":"ridge","e":2588073,"n":1084925,"alt":3396,"prio":20},
+{"id":"2D0E4075-13DC","name":"Les Moleires du Valsorey","kind":"ridge","e":2587610,"n":1083800,"alt":3199,"prio":20}
+]

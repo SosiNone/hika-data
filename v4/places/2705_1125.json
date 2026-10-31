@@ -1,0 +1,14 @@
+[
+{"id":"A3A45F05-D4CD","name":"Brione (Verzasca), Motta","kind":"stop","e":2705718,"n":1125687,"alt":622,"prio":25},
+{"id":"AA195D29-F4DB","name":"Brione (Verzasca), Chiossetto","kind":"stop","e":2705238,"n":1126459,"alt":649,"prio":25},
+{"id":"25F648D9-539C","name":"Agazzòi","kind":"summit","e":2706007,"n":1127530,"alt":1875,"prio":60},
+{"id":"06B7BC61-25E2","name":"Bocchetta di Cremenzè","kind":"pass","e":2707011,"n":1128229,"alt":2143,"prio":60},
+{"id":"D2BA8B51-E5CC","name":"Pizzi del Rabbioso","kind":"summit","e":2707073,"n":1129104,"alt":2267,"prio":60},
+{"id":"CC42CCA7-A037","name":"Poncione d'Alnasca","kind":"summit","e":2706727,"n":1127690,"alt":2301,"prio":60},
+{"id":"382A5E9A-82B1","name":"Tòr","kind":"summit","e":2709570,"n":1127104,"alt":1920,"prio":60},
+{"id":"3DE01D36-16A4","name":"Pizzo del Motto","kind":"summit","e":2707712,"n":1129990,"alt":2373,"prio":60},
+{"id":"6331D9B4-0D49","name":"Föpia","kind":"summit","e":2707436,"n":1126433,"alt":2128,"prio":60},
+{"id":"CC977F42-FCCC","name":"Motta","kind":"village","e":2705709,"n":1125835,"alt":637,"prio":5},
+{"id":"B5B0F364-F1A7","name":"Chiossetto","kind":"village","e":2705185,"n":1126489,"alt":646,"prio":5},
+{"id":"35A932A6-F511","name":"Cresta della Föpia","kind":"ridge","e":2707229,"n":1127008,"alt":2022,"prio":20}
+]

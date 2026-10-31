@@ -1,0 +1,21 @@
+[
+{"id":"31065B14-E935","name":"Fontanellata (Bavona)","kind":"stop","e":2684872,"n":1137756,"alt":755,"prio":25},
+{"id":"DA3464AC-06AA","name":"Sonlerto, Bolla (Bavona)","kind":"stop","e":2684742,"n":1138229,"alt":762,"prio":25},
+{"id":"6ED30466-BEB5","name":"Roseto (Bavona)","kind":"stop","e":2684999,"n":1137083,"alt":742,"prio":25},
+{"id":"696E02C8-B9E5","name":"Sonlerto (Bavona)","kind":"stop","e":2684516,"n":1138757,"alt":804,"prio":25},
+{"id":"167FA4C2-DF24","name":"Bocchetta della Cròsa","kind":"pass","e":2680321,"n":1137360,"alt":2465,"prio":60},
+{"id":"C53BD871-9662","name":"Pizzo Solögna","kind":"summit","e":2681337,"n":1137069,"alt":2697,"prio":90},
+{"id":"FBD192B3-DF80","name":"Madone di Formazzöö","kind":"summit","e":2680424,"n":1135289,"alt":2510,"prio":90},
+{"id":"593D6102-C5A4","name":"Pizzo Piènsgia","kind":"summit","e":2681717,"n":1136715,"alt":2569,"prio":90},
+{"id":"8502E15C-2AB2","name":"Bocchetta di Nássa","kind":"pass","e":2681926,"n":1136365,"alt":2302,"prio":60},
+{"id":"388C68AE-C609","name":"Bocchetta Fornasèl","kind":"pass","e":2682089,"n":1138465,"alt":2292,"prio":60},
+{"id":"B295A80C-9FE7","name":"Pizzi di Valerì","kind":"summit","e":2682384,"n":1136094,"alt":2447,"prio":60},
+{"id":"DA922BA5-5A02","name":"Sonlerto","kind":"village","e":2684526,"n":1138702,"alt":809,"prio":5},
+{"id":"171DAD11-EC8F","name":"Capanna Piano delle Creste","kind":"inn","e":2680634,"n":1138282,"alt":2109,"prio":50},
+{"id":"E7C72349-CF90","name":"Laghetti d'Antabia","kind":"lake","e":2681006,"n":1137698,"alt":2188,"prio":50},
+{"id":"FBDB6423-78D0","name":"Laghetti d'Antabia","kind":"lake","e":2680716,"n":1138029,"alt":2126,"prio":50},
+{"id":"C5B7C33C-BC63","name":"Laghetti d'Antabia","kind":"lake","e":2680447,"n":1137949,"alt":2149,"prio":50},
+{"id":"4D0C9314-E9A5","name":"Laghetti d'Antabia","kind":"lake","e":2681000,"n":1137936,"alt":2185,"prio":50},
+{"id":"E2C21B2C-76BD","name":"Laghi della Cròsa","kind":"lake","e":2680345,"n":1136043,"alt":2153,"prio":50},
+{"id":"20F81F96-579B","name":"Laghi della Cròsa","kind":"lake","e":2681081,"n":1136395,"alt":2116,"prio":50}
+]

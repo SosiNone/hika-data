@@ -1,0 +1,17 @@
+[
+{"id":"CBF47679-F853","name":"Brudelhorn","kind":"summit","e":2667023,"n":1146631,"alt":2791,"prio":90},
+{"id":"D1716988-B50C","name":"Stockji","kind":"summit","e":2665516,"n":1145373,"alt":2604,"prio":90},
+{"id":"915430DF-E5DE","name":"Vordri Sulzlicke","kind":"pass","e":2669591,"n":1145181,"alt":2721,"prio":60},
+{"id":"9757D11C-E7D0","name":"Teltschehorn","kind":"summit","e":2668345,"n":1147319,"alt":2744,"prio":90},
+{"id":"C58E453B-66E9","name":"Murmetebärge","kind":"summit","e":2669251,"n":1148825,"alt":2347,"prio":60},
+{"id":"FBA2F5C6-B99C","name":"Chietalstock","kind":"summit","e":2668059,"n":1148608,"alt":2328,"prio":60},
+{"id":"5F5BA082-29CF","name":"Chietalnolle","kind":"summit","e":2669321,"n":1148274,"alt":2467,"prio":60},
+{"id":"8C48EEF8-F858","name":"Mossmattestock","kind":"summit","e":2667528,"n":1148097,"alt":2475,"prio":60},
+{"id":"ACEDC2F7-7B94","name":"Ritzberge","kind":"summit","e":2667633,"n":1145203,"alt":2861,"prio":90},
+{"id":"7D8C88C1-4415","name":"Hinneri Sulzlicke","kind":"pass","e":2669170,"n":1145034,"alt":2796,"prio":60},
+{"id":"FAB6881B-EAAD","name":"Unnerchietalnolle","kind":"summit","e":2669106,"n":1149104,"alt":2262,"prio":60},
+{"id":"6DCFC25D-2726","name":"Distelgrat","kind":"ridge","e":2667780,"n":1146817,"alt":2648,"prio":20},
+{"id":"FDD10718-C9CE","name":"Schitertelltigrat","kind":"ridge","e":2668280,"n":1148318,"alt":2441,"prio":20},
+{"id":"C70965B2-977C","name":"Sulzgrat","kind":"ridge","e":2669863,"n":1145345,"alt":2768,"prio":20},
+{"id":"9A15A64E-2C3C","name":"Distelsee","kind":"lake","e":2667949,"n":1146141,"alt":2587,"prio":50}
+]

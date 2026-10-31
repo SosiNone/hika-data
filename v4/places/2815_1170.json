@@ -1,0 +1,10 @@
+[
+{"id":"DB1D4EA7-BA35","name":"Buffalora P10","kind":"stop","e":2816461,"n":1170232,"alt":1968,"prio":25},
+{"id":"1B5AAA2D-4529","name":"Piz Nair","kind":"summit","e":2816791,"n":1172338,"alt":3010,"prio":90},
+{"id":"E8C15B99-4E07","name":"Piz Vallatscha","kind":"summit","e":2819975,"n":1172631,"alt":3020,"prio":90},
+{"id":"6FB8D276-5BC8","name":"Fuorcla Val Nüglia","kind":"pass","e":2819309,"n":1173377,"alt":2846,"prio":60},
+{"id":"0CFFEEE0-B4A8","name":"Piz Tavrü","kind":"summit","e":2818572,"n":1173751,"alt":3167,"prio":90},
+{"id":"82996567-64E8","name":"Piz Stabelchod","kind":"summit","e":2816197,"n":1174229,"alt":2942,"prio":90},
+{"id":"BEA5032D-1EE4","name":"Piz Nüglia","kind":"summit","e":2817530,"n":1174297,"alt":2994,"prio":90},
+{"id":"51BFA940-CD91","name":"Piz Foraz","kind":"summit","e":2817052,"n":1174966,"alt":3092,"prio":90}
+]

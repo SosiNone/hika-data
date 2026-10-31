@@ -1,0 +1,18 @@
+[
+{"id":"FF17A9B6-2198","name":"Piz Alpetta","kind":"summit","e":2709455,"n":1178376,"alt":2764,"prio":90},
+{"id":"BD634DD5-DDCB","name":"Siala d'Alpetta","kind":"pass","e":2709604,"n":1177818,"alt":2451,"prio":60},
+{"id":"D143EB27-272B","name":"Fuorcla Brit","kind":"pass","e":2706381,"n":1177610,"alt":2751,"prio":60},
+{"id":"DA201B18-3C85","name":"Piz Run","kind":"summit","e":2706229,"n":1177422,"alt":2914,"prio":90},
+{"id":"15D6FD20-CC5E","name":"Brichlig","kind":"summit","e":2705035,"n":1177155,"alt":2964,"prio":90},
+{"id":"8EB43372-13CF","name":"Piz Cavardiras","kind":"summit","e":2705160,"n":1177086,"alt":2959,"prio":90},
+{"id":"F3836FCB-367F","name":"Muota dil Tir","kind":"summit","e":2705714,"n":1175522,"alt":2338,"prio":60},
+{"id":"76A07502-064D","name":"Piz Lumpegna","kind":"summit","e":2707944,"n":1178144,"alt":2819,"prio":90},
+{"id":"FB3BF885-23A3","name":"Piz Brit","kind":"summit","e":2707665,"n":1177903,"alt":2801,"prio":90},
+{"id":"930AA759-9FD1","name":"Siala da Lumpegna","kind":"pass","e":2707958,"n":1177289,"alt":2506,"prio":60},
+{"id":"7778DE65-F94B","name":"Camona da Cavardiras CAS","kind":"inn","e":2705123,"n":1177730,"alt":2649,"prio":50},
+{"id":"19976344-199E","name":"Hinter Stotzig Grat","kind":"ridge","e":2705266,"n":1179390,"alt":2826,"prio":20},
+{"id":"43501310-D1B5","name":"Con","kind":"ridge","e":2709912,"n":1177335,"alt":2331,"prio":20},
+{"id":"65F597C2-8112","name":"Lag Crest Ault","kind":"lake","e":2706644,"n":1175940,"alt":2267,"prio":50},
+{"id":"3F4C51F0-8F0A","name":"Lag Brit","kind":"lake","e":2707459,"n":1177038,"alt":2361,"prio":50},
+{"id":"FD739F34-1FE9","name":"Lag Serein","kind":"lake","e":2705006,"n":1175109,"alt":2060,"prio":50}
+]

@@ -1,0 +1,16 @@
+[
+{"id":"4274C010-5ACE","name":"Brail","kind":"stop","e":2798684,"n":1170494,"alt":1636,"prio":25},
+{"id":"C59B6148-AF0D","name":"Prazet","kind":"stop","e":2799797,"n":1171973,"alt":1594,"prio":25},
+{"id":"38088A09-C1B7","name":"Piz Sarsuret","kind":"summit","e":2796493,"n":1174186,"alt":3126,"prio":90},
+{"id":"3E585A97-1A8E","name":"Fuorcla Barlas-ch","kind":"pass","e":2795039,"n":1174213,"alt":3014,"prio":60},
+{"id":"C297A9E3-8BC0","name":"Piz Sarsura","kind":"summit","e":2795474,"n":1174290,"alt":3176,"prio":90},
+{"id":"4A9A602C-0C2A","name":"Botta Gian Maria","kind":"summit","e":2798089,"n":1170172,"alt":1745,"prio":60},
+{"id":"E00A8A43-3A5C","name":"Piz Barlas-ch","kind":"summit","e":2795813,"n":1172247,"alt":2854,"prio":90},
+{"id":"8706F3FF-E14D","name":"Brail","kind":"village","e":2798541,"n":1170371,"alt":1651,"prio":30},
+{"id":"7FA69438-45D8","name":"Prazet","kind":"village","e":2799894,"n":1172134,"alt":1595,"prio":5},
+{"id":"40E22EB1-B387","name":"Spi da Punt Ota","kind":"ridge","e":2795949,"n":1172163,"alt":2818,"prio":20},
+{"id":"90EC003B-45D9","name":"Spi da Sarsura","kind":"ridge","e":2795651,"n":1174860,"alt":3020,"prio":20},
+{"id":"B721A564-13D7","name":"Lais dal Fourun","kind":"lake","e":2797398,"n":1173930,"alt":2778,"prio":50},
+{"id":"B4E30EFA-3E58","name":"Lais dal Fourun","kind":"lake","e":2796731,"n":1173787,"alt":2861,"prio":50},
+{"id":"5C36A5FE-1D42","name":"Lais dal Fourun","kind":"lake","e":2797138,"n":1173764,"alt":2819,"prio":50}
+]

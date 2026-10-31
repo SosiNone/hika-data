@@ -1,0 +1,22 @@
+[
+{"id":"0D2858E6-FC47","name":"Carena","kind":"stop","e":2727249,"n":1114328,"alt":956,"prio":25},
+{"id":"7079CB69-55C4","name":"Melera","kind":"stop","e":2726793,"n":1114562,"alt":944,"prio":25},
+{"id":"CF506C15-DE6D","name":"S. Antonio (Morob.), Bolla","kind":"stop","e":2725384,"n":1114487,"alt":861,"prio":25},
+{"id":"2E554A03-403F","name":"S. Antonio (Morob.), Melirolo","kind":"stop","e":2726146,"n":1114743,"alt":924,"prio":25},
+{"id":"CF7E4854-DB10","name":"S. Antonio (Val Morobbia)","kind":"stop","e":2725340,"n":1114403,"alt":824,"prio":25},
+{"id":"71A82F91-8901","name":"Motta Grande","kind":"summit","e":2726897,"n":1112881,"alt":1565,"prio":30},
+{"id":"221E4EFB-9514","name":"Scrigno di Poltrinone","kind":"summit","e":2728448,"n":1112304,"alt":1957,"prio":60},
+{"id":"92E487B5-68FB","name":"Camoghè","kind":"summit","e":2725618,"n":1110568,"alt":2228,"prio":90},
+{"id":"8456787E-9407","name":"Bocchetta di Stabiello","kind":"pass","e":2728577,"n":1110062,"alt":2043,"prio":60},
+{"id":"1333C4BC-011B","name":"Bocchetta di Poltrinone","kind":"pass","e":2728845,"n":1111256,"alt":1849,"prio":60},
+{"id":"BE41BAA7-18C5","name":"Motto di Leveno","kind":"summit","e":2728655,"n":1110862,"alt":2022,"prio":60},
+{"id":"4BB7227C-9C3A","name":"Cima della Valletta","kind":"summit","e":2728801,"n":1110309,"alt":2130,"prio":60},
+{"id":"4BB7227C-9C3A","name":"Mottone della Tappa","kind":"summit","e":2728801,"n":1110309,"alt":2130,"prio":60},
+{"id":"3F958291-CBD6","name":"S. Antonio (Val Morobbia)","kind":"village","e":2725114,"n":1114371,"alt":793,"prio":30},
+{"id":"1B696CA2-53F7","name":"Carena","kind":"village","e":2727257,"n":1114346,"alt":962,"prio":15},
+{"id":"7DA300AF-2C28","name":"Melera","kind":"village","e":2726835,"n":1114561,"alt":955,"prio":10},
+{"id":"CC0BE0DA-E9E5","name":"Melirolo","kind":"village","e":2726263,"n":1114809,"alt":992,"prio":5},
+{"id":"6E98F1A0-6617","name":"Cresta delle Fregere","kind":"ridge","e":2728702,"n":1110434,"alt":2039,"prio":20},
+{"id":"8DAE3925-F294","name":"Dosso di Carena","kind":"ridge","e":2727535,"n":1114959,"alt":1337,"prio":20},
+{"id":"6E19B328-9143","name":"Dosso di Prada","kind":"ridge","e":2728473,"n":1114941,"alt":1418,"prio":20}
+]

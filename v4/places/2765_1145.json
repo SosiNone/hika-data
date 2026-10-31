@@ -1,0 +1,20 @@
+[
+{"id":"068D7E34-FB00","name":"Bivio, posta","kind":"stop","e":2769818,"n":1148919,"alt":1767,"prio":25},
+{"id":"38C0EAC9-4379","name":"Piz Scalotta","kind":"summit","e":2765581,"n":1149089,"alt":2991,"prio":90},
+{"id":"ED38EAE7-4B36","name":"Motta da Cuolmens","kind":"summit","e":2768036,"n":1149668,"alt":2146,"prio":60},
+{"id":"716D66AD-DCE7","name":"Stallerberg","kind":"pass","e":2765964,"n":1146382,"alt":2580,"prio":60},
+{"id":"59B751D2-3FF6","name":"Crap da Radons","kind":"summit","e":2768590,"n":1148634,"alt":2366,"prio":60},
+{"id":"50002219-FBEB","name":"Piz Surpare","kind":"summit","e":2765643,"n":1148261,"alt":3078,"prio":90},
+{"id":"EA7CC7A3-2302","name":"Fallerfurgga","kind":"pass","e":2765194,"n":1147983,"alt":2837,"prio":60},
+{"id":"EA7CC7A3-2302","name":"Fuorcla da Faller","kind":"pass","e":2765194,"n":1147983,"alt":2837,"prio":60},
+{"id":"7EDED608-548D","name":"Uf da Flüe","kind":"summit","e":2766394,"n":1145137,"alt":2775,"prio":90},
+{"id":"99A70CFE-0D2D","name":"Mot Scalotta","kind":"summit","e":2769341,"n":1145348,"alt":2443,"prio":60},
+{"id":"B1011D15-FA83","name":"Motta Balotta","kind":"summit","e":2769873,"n":1148419,"alt":1865,"prio":60},
+{"id":"EFD872E7-FC59","name":"Motta la Cresta","kind":"summit","e":2769717,"n":1149112,"alt":1827,"prio":60},
+{"id":"7D823031-F57D","name":"Beiva","kind":"village","e":2769823,"n":1148776,"alt":1768,"prio":30},
+{"id":"7D823031-F57D","name":"Bivio","kind":"village","e":2769823,"n":1148776,"alt":1768,"prio":30},
+{"id":"4DBDCD85-786B","name":"Val Beiva","kind":"village","e":2769113,"n":1148029,"alt":1927,"prio":5},
+{"id":"A3B3B816-81B0","name":"Leg Saragn","kind":"lake","e":2766433,"n":1149898,"alt":2527,"prio":50},
+{"id":"304E4D77-264F","name":"Flüeseen","kind":"lake","e":2765325,"n":1147019,"alt":2682,"prio":50},
+{"id":"55CA789B-8D05","name":"Flüeseen","kind":"lake","e":2765783,"n":1146893,"alt":2680,"prio":50}
+]

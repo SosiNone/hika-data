@@ -1,0 +1,22 @@
+[
+{"id":"823C772A-6BDD","name":"Les Brenets","kind":"stop","e":2544456,"n":1213167,"alt":873,"prio":45},
+{"id":"E5D38923-D903","name":"Les Brenets, centre sportif","kind":"stop","e":2544112,"n":1212988,"alt":816,"prio":25},
+{"id":"7AA2CB4B-FF73","name":"Les Brenets, gare","kind":"stop","e":2544432,"n":1213165,"alt":872,"prio":25},
+{"id":"BCA04F49-26CC","name":"Les Brenets, centre village","kind":"stop","e":2544279,"n":1213302,"alt":844,"prio":25},
+{"id":"A90C30C3-31D7","name":"Les Brenets, Grande Rue 27","kind":"stop","e":2544189,"n":1213014,"alt":828,"prio":25},
+{"id":"10B8B9BD-09E5","name":"Le Prévoux, Bas Du Prévoux","kind":"stop","e":2544179,"n":1210107,"alt":1050,"prio":25},
+{"id":"3238520F-BE2A","name":"Le Prévoux, Les Combes","kind":"stop","e":2544768,"n":1210324,"alt":1005,"prio":25},
+{"id":"CFCD3826-F5C0","name":"Les Brenets, camping","kind":"stop","e":2543871,"n":1213046,"alt":789,"prio":25},
+{"id":"62378E17-6252","name":"Les Brenets, Les Pâquerettes","kind":"stop","e":2544520,"n":1213329,"alt":889,"prio":25},
+{"id":"051C8ED0-42AF","name":"Les Brenets, Parc des Pargots","kind":"stop","e":2543562,"n":1213013,"alt":768,"prio":25},
+{"id":"DA708AD9-5E7D","name":"Grotte de la Toffière","kind":"cave","e":2544434,"n":1213919,"alt":750,"prio":25},
+{"id":"4D13BD5B-54C3","name":"Les Combes","kind":"village","e":2544664,"n":1210172,"alt":1006,"prio":10},
+{"id":"1BF3B9DE-CB65","name":"Le Bas-des-Frêtes","kind":"village","e":2544922,"n":1212177,"alt":931,"prio":5},
+{"id":"B9DFFF42-A8AD","name":"Le Chauffaud","kind":"village","e":2544562,"n":1210512,"alt":1056,"prio":5},
+{"id":"884C72FF-A7B1","name":"La Caroline","kind":"village","e":2544503,"n":1212373,"alt":892,"prio":5},
+{"id":"FA26953B-C351","name":"Le Saignolat","kind":"village","e":2544964,"n":1210397,"alt":989,"prio":5},
+{"id":"728A1A6E-F5A0","name":"L'Essert","kind":"village","e":2544976,"n":1213266,"alt":1009,"prio":5},
+{"id":"5FC596D2-2EA7","name":"Vauladray","kind":"village","e":2544985,"n":1214167,"alt":958,"prio":10},
+{"id":"4EB9B7E4-65F3","name":"Les Brenets","kind":"village","e":2544165,"n":1213100,"alt":833,"prio":30},
+{"id":"439EC88E-844F","name":"Lac des Brenets","kind":"lake","e":2544230,"n":1213866,"alt":739,"prio":50}
+]

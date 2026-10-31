@@ -1,0 +1,16 @@
+[
+{"id":"2E678BA1-DCED","name":"Croix de Fer","kind":"summit","e":2564195,"n":1098414,"alt":2343,"prio":60},
+{"id":"F1D042CD-D922","name":"Col de Balme","kind":"pass","e":2563680,"n":1097469,"alt":2190,"prio":60},
+{"id":"8DAE4336-E652","name":"Tête de Balme","kind":"summit","e":2563448,"n":1097845,"alt":2321,"prio":60},
+{"id":"AEF17E8D-1E56","name":"Pas des Moutons","kind":"pass","e":2564283,"n":1099907,"alt":1996,"prio":60},
+{"id":"B8988516-448E","name":"Pointe du Van","kind":"summit","e":2564191,"n":1098868,"alt":2278,"prio":60},
+{"id":"E3C75A5E-3C8A","name":"Les Grandes Otanes","kind":"summit","e":2564579,"n":1096545,"alt":2680,"prio":90},
+{"id":"E3C75A5E-3C8A","name":"Les Grandes Autannes","kind":"summit","e":2564579,"n":1096545,"alt":2680,"prio":90},
+{"id":"2DB42C44-D3BD","name":"Arolette","kind":"summit","e":2563696,"n":1098138,"alt":2330,"prio":60},
+{"id":"8A0B281F-EA4C","name":"Pointe des Berons","kind":"summit","e":2564808,"n":1095025,"alt":2954,"prio":90},
+{"id":"8A0B281F-EA4C","name":"Pointe de Bron","kind":"summit","e":2564808,"n":1095025,"alt":2954,"prio":90},
+{"id":"FBAC2EA7-E9A3","name":"Carraye","kind":"summit","e":2564145,"n":1099526,"alt":2132,"prio":60},
+{"id":"B79EDCC4-F396","name":"Col des Autannes","kind":"pass","e":2564735,"n":1095619,"alt":2764,"prio":60},
+{"id":"D2CD69DC-5284","name":"Refuge du Col de Balme","kind":"inn","e":2563715,"n":1097347,"alt":2205,"prio":50},
+{"id":"FB7D7EA3-9F40","name":"Lac de Catogne","kind":"lake","e":2563414,"n":1098071,"alt":2206,"prio":50}
+]

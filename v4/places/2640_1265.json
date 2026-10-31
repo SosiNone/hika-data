@@ -1,0 +1,13 @@
+[
+{"id":"B1704E88-0597","name":"Sisseln AG, DSM","kind":"stop","e":2640718,"n":1266928,"alt":305,"prio":25},
+{"id":"54C986CE-49FB","name":"Kaisten, Ritanne","kind":"stop","e":2644687,"n":1266685,"alt":310,"prio":25},
+{"id":"2E4386B0-E644","name":"Eiken, Industriezone Rütti","kind":"stop","e":2641739,"n":1265955,"alt":308,"prio":25},
+{"id":"D8C0A876-B8D4","name":"Eiken, West","kind":"stop","e":2640940,"n":1265096,"alt":332,"prio":25},
+{"id":"D3BCB675-2424","name":"Sisseln AG, Breitenacher","kind":"stop","e":2641780,"n":1267086,"alt":306,"prio":25},
+{"id":"2E6D1A02-2DBB","name":"Sisseln AG, Unterdorf","kind":"stop","e":2641318,"n":1267023,"alt":293,"prio":25},
+{"id":"8898F825-E328","name":"Chinz","kind":"summit","e":2642491,"n":1265209,"alt":444,"prio":10},
+{"id":"7E85CB3F-539F","name":"Lümberg","kind":"summit","e":2644880,"n":1265362,"alt":421,"prio":10},
+{"id":"D93A92BC-7730","name":"Sisseln AG","kind":"village","e":2641588,"n":1267081,"alt":305,"prio":45},
+{"id":"C8BA1C2E-95EC","name":"Warthof","kind":"village","e":2643697,"n":1265316,"alt":418,"prio":5},
+{"id":"3A711FB0-690B","name":"Im Bustel","kind":"village","e":2640130,"n":1265129,"alt":346,"prio":5}
+]
