@@ -1,7 +1,0 @@
-[
-{"id":"234D042C-4FCE","name":"Drusator","kind":"pass","e":2781436,"n":1210206,"alt":2341,"prio":60},
-{"id":"DA3EDD3B-5040","name":"Grüen Fürggli","kind":"pass","e":2784555,"n":1210694,"alt":2318,"prio":60},
-{"id":"C28508FD-B0D5","name":"Abgrundhöli","kind":"cave","e":2784215,"n":1210593,"alt":2289,"prio":25},
-{"id":"A5039C9A-E448","name":"Chilchhöli","kind":"cave","e":2784089,"n":1210446,"alt":2297,"prio":25},
-{"id":"F8F05176-F1DD","name":"Seehöli","kind":"cave","e":2784092,"n":1210346,"alt":2236,"prio":25}
-]

@@ -1,9 +1,0 @@
-[
-{"id":"2716F483-B09B","name":"Punta Rasica","kind":"summit","e":2772800,"n":1129773,"alt":3305,"prio":90},
-{"id":"4616D1F0-AD06","name":"Passo di Zocca","kind":"pass","e":2770856,"n":1129346,"alt":2748,"prio":60},
-{"id":"242A6B93-0FD8","name":"Pizzo di Zocca","kind":"summit","e":2770381,"n":1128885,"alt":3173,"prio":90},
-{"id":"24E21751-617D","name":"Punta Allievi","kind":"summit","e":2771871,"n":1129656,"alt":3121,"prio":90},
-{"id":"94762D68-A1D8","name":"Torrone Occidentale","kind":"summit","e":2773256,"n":1129434,"alt":3349,"prio":90},
-{"id":"1F1EF400-7FBF","name":"Torrone Centrale","kind":"summit","e":2773935,"n":1129363,"alt":3289,"prio":90},
-{"id":"0514FCF8-B991","name":"Torrone Orientale","kind":"summit","e":2774372,"n":1129120,"alt":3332,"prio":90}
-]

@@ -1,9 +1,0 @@
-[
-{"id":"AD9E6389-E31B","name":"Galgenfels","kind":"summit","e":2598968,"n":1255336,"alt":768,"prio":20},
-{"id":"7B049749-CA88","name":"Hübel","kind":"summit","e":2599833,"n":1256385,"alt":535,"prio":10},
-{"id":"72A42AD0-B76D","name":"Im Steinacker","kind":"village","e":2599507,"n":1256396,"alt":543,"prio":5},
-{"id":"D7583E71-6FB5","name":"Helgenmatten","kind":"village","e":2599511,"n":1259371,"alt":389,"prio":5},
-{"id":"52F2FE5D-22A7","name":"In der Klus","kind":"village","e":2599878,"n":1255907,"alt":540,"prio":5},
-{"id":"B5C73931-13D3","name":"Rittimatte","kind":"village","e":2599384,"n":1256050,"alt":621,"prio":5},
-{"id":"632E7464-258A","name":"Buurestübli Sonnenhof","kind":"inn","e":2599500,"n":1259370,"alt":389,"prio":50}
-]

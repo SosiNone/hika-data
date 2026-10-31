@@ -1,8 +1,0 @@
-[
-{"id":"C782CABB-FFE2","name":"Schwaderloch, Bahnhof","kind":"stop","e":2653126,"n":1270841,"alt":311,"prio":25},
-{"id":"11DDF58A-D4CF","name":"Schwaderloch","kind":"village","e":2653106,"n":1270842,"alt":311,"prio":30},
-{"id":"7D6B3E83-BE8D","name":"Rhyblick","kind":"village","e":2653147,"n":1271584,"alt":307,"prio":5},
-{"id":"EA8B2D24-BC71","name":"Zoll","kind":"village","e":2650558,"n":1270144,"alt":325,"prio":5},
-{"id":"A3BC3A99-8138","name":"Hintere Brüehhalde","kind":"village","e":2654873,"n":1270513,"alt":503,"prio":5},
-{"id":"8805DC25-FEA5","name":"Weidhof","kind":"village","e":2651954,"n":1270270,"alt":348,"prio":5}
-]
