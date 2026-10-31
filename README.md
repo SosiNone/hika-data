@@ -35,7 +35,7 @@ hikes, not for navigation: check the signposts, the conditions and any closures 
 
 ```
 v4/
-  manifest.json      format, tile grid, the tiles present, sources, build time
+  manifest.json      format, tile grid, the tiles present, the reliefs' cell, sources, build time
   catalogue.json     every route: meta, stats, bbox, sparkline, the areas that list it
   regions.json       the 10 mountain ranges and their areas, with facts and shared border arcs
   locator.json       national border and cantons; switzerland.u16 is the coarse relief,
@@ -44,6 +44,8 @@ v4/
   trails/<E>_<N>.bin    the signposted trails, each line whole in the tile of its centre
   places/<E>_<N>.json   swissNAMES3D places
   routes/<id>.bin       one whole route each
+  relief/<id>.bin       each area whole at 100 m (its extent plus 4 km), averaged from the
+                        terrain tiles, for the 3D view around a route's window
 ```
 
 A new format goes into a new directory (`v5/`) next to the current one, until the app release
