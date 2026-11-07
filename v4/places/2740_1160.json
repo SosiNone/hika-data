@@ -14,7 +14,6 @@
 {"id":"BD103DA4-92D3","name":"Steilerlücke","kind":"pass","e":2743505,"n":1161013,"alt":2762,"prio":60},
 {"id":"BC4BBDC5-1797","name":"Höchegga","kind":"ridge","e":2741619,"n":1163925,"alt":1966,"prio":20},
 {"id":"9C51AE46-A86A","name":"Pizzas d'Anarosa","kind":"ridge","e":2744092,"n":1162479,"alt":2867,"prio":20},
-{"id":"9C51AE46-A86A","name":"Grauhörner","kind":"ridge","e":2744092,"n":1162479,"alt":2867,"prio":20},
 {"id":"CB9FA1F9-55A3","name":"Muttolta","kind":"ridge","e":2744057,"n":1164141,"alt":2695,"prio":20},
 {"id":"6B9B8C09-DE3C","name":"Gletscherseeli","kind":"lake","e":2741376,"n":1161146,"alt":2481,"prio":50},
 {"id":"65E74931-1529","name":"Lai Grand","kind":"lake","e":2744864,"n":1163522,"alt":2385,"prio":50}

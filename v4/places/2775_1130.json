@@ -1,7 +1,6 @@
 [
 {"id":"D9814D55-85D1","name":"Monte dell'Oro","kind":"summit","e":2778877,"n":1134645,"alt":3154,"prio":90},
 {"id":"076E2487-64FB","name":"Furcela da Fedoz","kind":"pass","e":2779329,"n":1134342,"alt":3082,"prio":60},
-{"id":"076E2487-64FB","name":"Passo dell'Oro","kind":"pass","e":2779329,"n":1134342,"alt":3082,"prio":60},
 {"id":"581088DD-D204","name":"Monte del Forno","kind":"summit","e":2775991,"n":1134436,"alt":3213,"prio":90},
 {"id":"4989A1F5-CF3E","name":"Monte Rosso","kind":"summit","e":2775516,"n":1132727,"alt":3088,"prio":90},
 {"id":"5D94F7D4-D9F0","name":"Cima di Val Bona","kind":"summit","e":2776142,"n":1132376,"alt":3033,"prio":90},

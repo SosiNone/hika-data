@@ -11,7 +11,6 @@
 {"id":"FC22022C-0D46","name":"Schwarz Stöckli","kind":"summit","e":2698763,"n":1186013,"alt":2568,"prio":90},
 {"id":"7571AF74-89E7","name":"Stäfelstock","kind":"summit","e":2699361,"n":1185333,"alt":2917,"prio":90},
 {"id":"CC6110D2-B96C","name":"Hölenstock","kind":"summit","e":2699841,"n":1185032,"alt":2901,"prio":90},
-{"id":"CC6110D2-B96C","name":"Wiss Stöckli","kind":"summit","e":2699841,"n":1185032,"alt":2901,"prio":90},
 {"id":"FC4FFF47-5CF3","name":"Wiss Stöckli","kind":"summit","e":2699483,"n":1185987,"alt":2405,"prio":60},
 {"id":"7799F172-EB13","name":"Furggeli","kind":"pass","e":2699276,"n":1186000,"alt":2271,"prio":60},
 {"id":"7A1BA053-5CD9","name":"Zinggen","kind":"pass","e":2699127,"n":1185774,"alt":2335,"prio":60},

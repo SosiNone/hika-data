@@ -38,7 +38,6 @@
 {"id":"A4B43284-0B44","name":"Muotta","kind":"summit","e":2737242,"n":1184661,"alt":1257,"prio":30},
 {"id":"B6F3B9C2-3286","name":"Goldriedbüel","kind":"summit","e":2739623,"n":1181372,"alt":1590,"prio":30},
 {"id":"A0D27FAB-215D","name":"Falera","kind":"village","e":2736719,"n":1184811,"alt":1220,"prio":30},
-{"id":"A0D27FAB-215D","name":"Fellers","kind":"village","e":2736719,"n":1184811,"alt":1220,"prio":30},
 {"id":"9622753B-7940","name":"Sagogn","kind":"village","e":2738785,"n":1184075,"alt":782,"prio":30},
 {"id":"BAE6722D-440A","name":"Castrisch","kind":"village","e":2736919,"n":1182126,"alt":726,"prio":30},
 {"id":"96F613A2-A9E7","name":"Sevgein","kind":"village","e":2736121,"n":1180920,"alt":847,"prio":30},

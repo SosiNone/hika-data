@@ -22,7 +22,6 @@
 {"id":"9DDD32CC-1EFC","name":"Hotel-Restaurant Rhodannenberg","kind":"inn","e":2719051,"n":1210662,"alt":854,"prio":50},
 {"id":"8E5C43BF-8C9C","name":"Rotegg","kind":"ridge","e":2715205,"n":1211794,"alt":1833,"prio":20},
 {"id":"8B344F97-9314","name":"Lachengrat","kind":"ridge","e":2715605,"n":1211788,"alt":1807,"prio":20},
-{"id":"8B344F97-9314","name":"Längenegg-Grat","kind":"ridge","e":2715605,"n":1211788,"alt":1807,"prio":20},
 {"id":"91C0CD1C-B6E1","name":"Wiss-Chamm","kind":"ridge","e":2716184,"n":1211861,"alt":1879,"prio":20},
 {"id":"4E391E8D-8D93","name":"Schnätzegg","kind":"ridge","e":2718768,"n":1211863,"alt":1416,"prio":20},
 {"id":"FA7FF66C-3FD7","name":"Breitchamm","kind":"ridge","e":2717238,"n":1212419,"alt":2059,"prio":20},

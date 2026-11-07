@@ -3,7 +3,6 @@
 {"id":"AEC9AE36-1AAF","name":"Cormoret, Cour à Moret","kind":"stop","e":2570975,"n":1224927,"alt":706,"prio":25},
 {"id":"7F33D506-4EEC","name":"Petit Chasseral","kind":"summit","e":2571145,"n":1220757,"alt":1571,"prio":30},
 {"id":"BC731EEB-4F84","name":"Chasseral","kind":"summit","e":2571227,"n":1220302,"alt":1607,"prio":90},
-{"id":"BC731EEB-4F84","name":"Gestler","kind":"summit","e":2571227,"n":1220302,"alt":1607,"prio":90},
 {"id":"F1740129-309C","name":"Chasseral","kind":"view","e":2571343,"n":1220337,"alt":1603,"prio":55},
 {"id":"86BDDD32-2BAE","name":"Bellevue","kind":"village","e":2572208,"n":1224441,"alt":787,"prio":5},
 {"id":"43EED3FD-627F","name":"La Blanche","kind":"village","e":2572426,"n":1223423,"alt":1159,"prio":5},

@@ -10,7 +10,6 @@
 {"id":"52F1281B-6EC2","name":"Fuorcla da Cambrialas","kind":"pass","e":2707521,"n":1183830,"alt":2895,"prio":60},
 {"id":"2A766384-CFD9","name":"Fuorcla da Cavrein","kind":"pass","e":2706703,"n":1183625,"alt":2843,"prio":60},
 {"id":"6E9271C4-F50F","name":"Gross Düssi","kind":"summit","e":2706051,"n":1183212,"alt":3256,"prio":100},
-{"id":"6E9271C4-F50F","name":"Piz Git","kind":"summit","e":2706051,"n":1183212,"alt":3256,"prio":100},
 {"id":"677FC21F-7BA2","name":"Chli Düssi","kind":"summit","e":2705949,"n":1182846,"alt":3125,"prio":90},
 {"id":"3D9DBCF4-1964","name":"Hagstäcken","kind":"summit","e":2706180,"n":1182125,"alt":2917,"prio":90},
 {"id":"EF89623D-4120","name":"Hagstäcken Lücke","kind":"pass","e":2706090,"n":1181893,"alt":2820,"prio":60},

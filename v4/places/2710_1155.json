@@ -1,7 +1,6 @@
 [
 {"id":"4FF67DB3-A10E","name":"Cantonill","kind":"pass","e":2713016,"n":1156223,"alt":1936,"prio":60},
 {"id":"07330D4F-66CF","name":"Pizzo Rossetto","kind":"summit","e":2713584,"n":1155846,"alt":2097,"prio":60},
-{"id":"07330D4F-66CF","name":"Cima di Töira","kind":"summit","e":2713584,"n":1155846,"alt":2097,"prio":60},
 {"id":"2A8FCB5F-125F","name":"Pass Cristallina","kind":"pass","e":2711192,"n":1159680,"alt":2399,"prio":60},
 {"id":"3024F277-ABC2","name":"Campo (Blenio)","kind":"village","e":2714872,"n":1157258,"alt":1218,"prio":15},
 {"id":"223603F5-3B3B","name":"Buttino","kind":"village","e":2714965,"n":1158779,"alt":1293,"prio":5},

@@ -15,7 +15,6 @@
 {"id":"C74EC777-3D50","name":"Under Empächli","kind":"lift","e":2730947,"n":1198207,"alt":1442,"prio":40},
 {"id":"92369079-F690","name":"Elm, Feuerwehr","kind":"stop","e":2731835,"n":1197812,"alt":984,"prio":25},
 {"id":"255DEA0E-E048","name":"Chli Mittaghorn","kind":"summit","e":2731468,"n":1195014,"alt":2369,"prio":60},
-{"id":"255DEA0E-E048","name":"Mittentaghöreli","kind":"summit","e":2731468,"n":1195014,"alt":2369,"prio":60},
 {"id":"289FAD99-F023","name":"Mittagshoren","kind":"summit","e":2732350,"n":1195390,"alt":2415,"prio":60},
 {"id":"2E50AE67-6640","name":"Tritthöreli","kind":"summit","e":2734037,"n":1195808,"alt":2017,"prio":60},
 {"id":"EAFAAD9A-A10D","name":"Gandstock","kind":"summit","e":2732573,"n":1195969,"alt":2098,"prio":60},

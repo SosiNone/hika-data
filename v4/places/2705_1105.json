@@ -19,7 +19,6 @@
 {"id":"512E4A21-8748","name":"Monte Gambarogno","kind":"summit","e":2707613,"n":1107695,"alt":1734,"prio":60},
 {"id":"6157AD30-DC40","name":"Alpe di Neggia","kind":"pass","e":2708757,"n":1107541,"alt":1394,"prio":50},
 {"id":"5C40182F-9E4E","name":"U Paión","kind":"summit","e":2705747,"n":1106478,"alt":1554,"prio":30},
-{"id":"5C40182F-9E4E","name":"Monte Paglione","kind":"summit","e":2705747,"n":1106478,"alt":1554,"prio":30},
 {"id":"04F44674-951A","name":"Cavalletto","kind":"summit","e":2706830,"n":1107933,"alt":1462,"prio":30},
 {"id":"64046F95-2DCE","name":"Tamaretto","kind":"summit","e":2709228,"n":1107281,"alt":1604,"prio":60},
 {"id":"A568A872-ACE8","name":"Sasso di Crée","kind":"summit","e":2706719,"n":1108927,"alt":934,"prio":30},

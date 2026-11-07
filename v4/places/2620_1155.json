@@ -13,7 +13,6 @@
 {"id":"666CCF20-AAA9","name":"Höchst","kind":"summit","e":2623448,"n":1159761,"alt":2100,"prio":60},
 {"id":"AC9BC9C6-4653","name":"Golderehore","kind":"summit","e":2623809,"n":1157558,"alt":1917,"prio":60},
 {"id":"CE7E990F-868D","name":"Aabeberg","kind":"summit","e":2624184,"n":1157110,"alt":1964,"prio":60},
-{"id":"CE7E990F-868D","name":"Abendberg","kind":"summit","e":2624184,"n":1157110,"alt":1964,"prio":60},
 {"id":"8826C0B8-3B35","name":"Chanzel","kind":"summit","e":2624833,"n":1156781,"alt":1911,"prio":20},
 {"id":"97F7AC59-B3DC","name":"Silberbüel","kind":"summit","e":2624990,"n":1155176,"alt":1505,"prio":30},
 {"id":"24576891-D1EE","name":"Ärmigchnubel","kind":"summit","e":2620458,"n":1155320,"alt":2412,"prio":60},

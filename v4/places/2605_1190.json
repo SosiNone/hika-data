@@ -97,7 +97,6 @@
 {"id":"4BC7DA91-3F63","name":"Weidli","kind":"village","e":2606066,"n":1190440,"alt":806,"prio":5},
 {"id":"E68A0B07-80A0","name":"Tägermatt","kind":"village","e":2608460,"n":1192595,"alt":525,"prio":5},
 {"id":"9B1E64B6-04B6","name":"Münsingen","kind":"village","e":2609376,"n":1191506,"alt":539,"prio":70},
-{"id":"9B1E64B6-04B6","name":"Munisenges","kind":"village","e":2609376,"n":1191506,"alt":539,"prio":70},
 {"id":"194A649F-70C4","name":"Rubigen","kind":"village","e":2608079,"n":1194096,"alt":546,"prio":55},
 {"id":"D738CC5C-F4CE","name":"Restaurant Campagna","kind":"inn","e":2607483,"n":1193113,"alt":519,"prio":50},
 {"id":"F74CD016-9F56","name":"Egg","kind":"ridge","e":2606091,"n":1191882,"alt":825,"prio":20},

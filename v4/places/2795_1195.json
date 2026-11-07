@@ -18,7 +18,6 @@
 {"id":"F39143EC-345F","name":"Westlicher Plattenspitz","kind":"summit","e":2795955,"n":1197590,"alt":2881,"prio":90},
 {"id":"1DF13BB2-0A17","name":"Chessichopf","kind":"summit","e":2795037,"n":1197632,"alt":2765,"prio":90},
 {"id":"71891AE5-9613","name":"Plattenturm","kind":"summit","e":2796495,"n":1197780,"alt":2853,"prio":90},
-{"id":"71891AE5-9613","name":"Östlicher Plattenspitz","kind":"summit","e":2796495,"n":1197780,"alt":2853,"prio":90},
 {"id":"5B5F309C-7BE4","name":"Plattenspitzen","kind":"ridge","e":2795774,"n":1197483,"alt":2782,"prio":20},
 {"id":"26A6D40A-18C3","name":"Seenadlen","kind":"ridge","e":2795319,"n":1196974,"alt":2671,"prio":20},
 {"id":"91E3FFB4-5BC2","name":"Augstbergseeli","kind":"lake","e":2797420,"n":1195322,"alt":2430,"prio":50},

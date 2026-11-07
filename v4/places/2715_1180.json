@@ -12,9 +12,7 @@
 {"id":"3A6FD943-55D7","name":"Piz Tumpiv","kind":"summit","e":2718234,"n":1182865,"alt":3100,"prio":90},
 {"id":"2851AE3A-EBDC","name":"Cavistrau Pign","kind":"summit","e":2717831,"n":1182669,"alt":3219,"prio":90},
 {"id":"D480BE02-80BB","name":"Bündner Tödi","kind":"summit","e":2715167,"n":1184560,"alt":3123,"prio":90},
-{"id":"D480BE02-80BB","name":"Tödi Grischun","kind":"summit","e":2715167,"n":1184560,"alt":3123,"prio":90},
 {"id":"2A2D9705-F4AF","name":"Piz Durschin","kind":"summit","e":2715934,"n":1184792,"alt":3418,"prio":100},
-{"id":"2A2D9705-F4AF","name":"Bifertenstock","kind":"summit","e":2715934,"n":1184792,"alt":3418,"prio":100},
 {"id":"416FC8B9-BBD4","name":"Metahorns","kind":"summit","e":2715626,"n":1180324,"alt":2425,"prio":60},
 {"id":"AB9050F8-74BC","name":"Camona da Punteglias CAS","kind":"inn","e":2715884,"n":1181793,"alt":2310,"prio":50},
 {"id":"0B71DC48-468D","name":"Fuortga","kind":"ridge","e":2718879,"n":1182083,"alt":2547,"prio":20}

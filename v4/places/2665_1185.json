@@ -3,7 +3,6 @@
 {"id":"633F3D05-C287","name":"Melchtal, gedeckte Brücke","kind":"stop","e":2665470,"n":1188799,"alt":808,"prio":25},
 {"id":"482FA0DE-F4C4","name":"St. Niklausen OW, Eistlibach","kind":"stop","e":2665438,"n":1189331,"alt":797,"prio":25},
 {"id":"8EB65FE6-AF66","name":"Lachenhörnli","kind":"summit","e":2667824,"n":1188798,"alt":1872,"prio":60},
-{"id":"8EB65FE6-AF66","name":"Storegghorn","kind":"summit","e":2667824,"n":1188798,"alt":1872,"prio":60},
 {"id":"03C54597-15EE","name":"Storeggpass","kind":"pass","e":2667872,"n":1188562,"alt":1741,"prio":60},
 {"id":"C06E86BA-50CF","name":"Salistock","kind":"summit","e":2669900,"n":1188081,"alt":1896,"prio":60},
 {"id":"604FEA4A-FF6D","name":"Chrüzegg","kind":"summit","e":2669293,"n":1188001,"alt":1757,"prio":60},

@@ -4,7 +4,6 @@
 {"id":"0E8F25B1-85A6","name":"Praz (Vully), village","kind":"stop","e":2574198,"n":1200408,"alt":433,"prio":25},
 {"id":"F1CFEBAB-A782","name":"Ins, Witzwil","kind":"stop","e":2571241,"n":1204197,"alt":433,"prio":25},
 {"id":"E315F8BF-BCCF","name":"Lugnorre, Les Grottes","kind":"stop","e":2573166,"n":1200636,"alt":581,"prio":25},
-{"id":"2465C1E0-456D","name":"Wistenlacher Berg","kind":"summit","e":2573763,"n":1201496,"alt":653,"prio":10},
 {"id":"2465C1E0-456D","name":"Mont Vully","kind":"summit","e":2573763,"n":1201496,"alt":653,"prio":10},
 {"id":"DC7942C3-A1F2","name":"Grottes des Roches Grises","kind":"cave","e":2573190,"n":1200362,"alt":523,"prio":25},
 {"id":"9D5F024A-F353","name":"Lugnorre","kind":"village","e":2572247,"n":1200035,"alt":527,"prio":30},

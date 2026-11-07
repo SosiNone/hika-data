@@ -10,7 +10,6 @@
 {"id":"C3AB2A1F-E179","name":"Moléson-sur-Gruyères","kind":"village","e":2569179,"n":1157110,"alt":1126,"prio":30},
 {"id":"6D2E764B-5288","name":"Cabane des Clés","kind":"inn","e":2568275,"n":1157470,"alt":1349,"prio":50},
 {"id":"5EB0D79C-E60B","name":"Observatoire astronomique de Moléson","kind":"inn","e":2567741,"n":1155185,"alt":1975,"prio":50},
-{"id":"5EB0D79C-E60B","name":"Restaurant Le Sommet","kind":"inn","e":2567741,"n":1155185,"alt":1975,"prio":50},
 {"id":"71A08799-118A","name":"Restaurant-Hôtel Plan-Francey","kind":"inn","e":2568209,"n":1156238,"alt":1529,"prio":50},
 {"id":"C5AB9467-A95B","name":"Chalet du Gros Plané","kind":"inn","e":2566579,"n":1155825,"alt":1476,"prio":50}
 ]

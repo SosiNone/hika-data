@@ -100,7 +100,6 @@
 {"id":"BA570B3A-EB60","name":"Scarpapè","kind":"village","e":2722683,"n":1115414,"alt":464,"prio":5},
 {"id":"74F9937F-246A","name":"Sirt","kind":"village","e":2721699,"n":1119920,"alt":673,"prio":5},
 {"id":"EB6FDAA7-3FDF","name":"Bellinzona","kind":"village","e":2722412,"n":1117217,"alt":226,"prio":70},
-{"id":"EB6FDAA7-3FDF","name":"Bellinzone","kind":"village","e":2722412,"n":1117217,"alt":226,"prio":70},
 {"id":"C22930FD-6778","name":"Grotto dei Pacifici","kind":"inn","e":2723121,"n":1116412,"alt":451,"prio":50},
 {"id":"C0F1D649-FB62","name":"Agriturismo Alpe Monda","kind":"inn","e":2720122,"n":1118899,"alt":1246,"prio":50},
 {"id":"42C707A5-EF98","name":"Grotto Rosetta","kind":"inn","e":2724359,"n":1115831,"alt":970,"prio":50}

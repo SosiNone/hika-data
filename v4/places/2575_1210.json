@@ -10,12 +10,7 @@
 {"id":"3F8E6945-D0AB","name":"Lüscherz","kind":"village","e":2578056,"n":1210547,"alt":443,"prio":30},
 {"id":"A795D2BF-A41D","name":"La Côte","kind":"village","e":2575714,"n":1214966,"alt":815,"prio":15},
 {"id":"59BB5254-15AD","name":"St. Petersinsel","kind":"village","e":2577510,"n":1213246,"alt":436,"prio":5},
-{"id":"59BB5254-15AD","name":"Ile St-Pierre","kind":"village","e":2577510,"n":1213246,"alt":436,"prio":5},
 {"id":"33132872-3B66","name":"Ligerz","kind":"village","e":2576936,"n":1214814,"alt":433,"prio":30},
-{"id":"33132872-3B66","name":"Gléresse","kind":"village","e":2576936,"n":1214814,"alt":433,"prio":30},
 {"id":"1A23176D-35C0","name":"Restaurant St. Petersinsel","kind":"inn","e":2577518,"n":1213247,"alt":436,"prio":50},
-{"id":"9A61BC9D-FFC7","name":"Bielersee","kind":"lake","e":2578418,"n":1213219,"alt":429,"prio":50},
-{"id":"9A61BC9D-FFC7","name":"Lac de Bienne","kind":"lake","e":2578418,"n":1213219,"alt":429,"prio":50},
-{"id":"9A61BC9D-FFC7","name":"Lago di Bienne","kind":"lake","e":2578418,"n":1213219,"alt":429,"prio":50},
-{"id":"9A61BC9D-FFC7","name":"Lai da Bienna","kind":"lake","e":2578418,"n":1213219,"alt":429,"prio":50}
+{"id":"9A61BC9D-FFC7","name":"Bielersee","kind":"lake","e":2578418,"n":1213219,"alt":429,"prio":50}
 ]

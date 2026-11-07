@@ -25,7 +25,6 @@
 {"id":"594285AA-9493","name":"Banco, Cruséta","kind":"stop","e":2709059,"n":1096090,"alt":574,"prio":25},
 {"id":"7ABEF3BA-07D8","name":"Sessa, Lanera","kind":"stop","e":2707489,"n":1095234,"alt":433,"prio":25},
 {"id":"5DE32A85-4302","name":"Passo di Monte Faëta","kind":"pass","e":2707174,"n":1097932,"alt":1118,"prio":60},
-{"id":"5DE32A85-4302","name":"Forcola","kind":"pass","e":2707174,"n":1097932,"alt":1118,"prio":60},
 {"id":"39F44523-8732","name":"Motto Croce","kind":"summit","e":2707031,"n":1097730,"alt":1184,"prio":30},
 {"id":"AD25EAC5-610D","name":"Monte Lema","kind":"summit","e":2707917,"n":1099736,"alt":1620,"prio":60},
 {"id":"0C80B0BA-D51E","name":"Scima Culeta","kind":"summit","e":2709355,"n":1099283,"alt":1152,"prio":30},

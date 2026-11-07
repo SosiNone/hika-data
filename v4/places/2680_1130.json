@@ -14,8 +14,6 @@
 {"id":"B15C0E2A-5EFA","name":"Creste d'Orsalía","kind":"ridge","e":2681842,"n":1132513,"alt":2546,"prio":20},
 {"id":"EFD4303F-D8AB","name":"Laghi di Formazzöö","kind":"lake","e":2680094,"n":1133412,"alt":2251,"prio":50},
 {"id":"347C5FD2-716D","name":"Üssera See","kind":"lake","e":2682656,"n":1132269,"alt":2394,"prio":50},
-{"id":"347C5FD2-716D","name":"Lago Pero","kind":"lake","e":2682656,"n":1132269,"alt":2394,"prio":50},
 {"id":"BA241169-31DE","name":"Schwarzsee","kind":"lake","e":2681962,"n":1132195,"alt":2316,"prio":50},
-{"id":"BA241169-31DE","name":"Lago Melo","kind":"lake","e":2681962,"n":1132195,"alt":2316,"prio":50},
 {"id":"EB2876AA-1DAC","name":"Lago d'Orsalìa","kind":"lake","e":2683520,"n":1132598,"alt":2146,"prio":50}
 ]

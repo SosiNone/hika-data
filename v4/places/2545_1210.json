@@ -63,7 +63,6 @@
 {"id":"25699738-E4F2","name":"Le Locle, Verger Sud","kind":"stop","e":2548898,"n":1212993,"alt":946,"prio":25},
 {"id":"51698679-6E06","name":"Le Locle, Verger Est","kind":"stop","e":2548967,"n":1213011,"alt":946,"prio":25},
 {"id":"51249BDE-5386","name":"Col des Roches","kind":"pass","e":2545409,"n":1211340,"alt":960,"prio":60},
-{"id":"51249BDE-5386","name":"Col France","kind":"pass","e":2545409,"n":1211340,"alt":960,"prio":60},
 {"id":"AE1E101F-C664","name":"La Jaluse","kind":"summit","e":2547381,"n":1211251,"alt":997,"prio":30},
 {"id":"BCEDF713-90A0","name":"Haut des Roches","kind":"summit","e":2545007,"n":1214828,"alt":949,"prio":30},
 {"id":"7BB3B902-C275","name":"Les Replattes","kind":"village","e":2547368,"n":1210453,"alt":1022,"prio":10},

@@ -1,7 +1,6 @@
 [
 {"id":"8B49AFAF-3ED3","name":"Pizzo Cassinello","kind":"summit","e":2721536,"n":1155306,"alt":3102,"prio":90},
 {"id":"DB28C417-52FE","name":"Passo Soreda","kind":"pass","e":2721220,"n":1156333,"alt":2759,"prio":60},
-{"id":"DB28C417-52FE","name":"Soredapass","kind":"pass","e":2721220,"n":1156333,"alt":2759,"prio":60},
 {"id":"5A270AEF-7960","name":"Zervreilahorn","kind":"summit","e":2724443,"n":1156772,"alt":2898,"prio":90},
 {"id":"D42F52C7-EAFF","name":"Garenstock","kind":"summit","e":2721975,"n":1157351,"alt":2953,"prio":90},
 {"id":"46905476-5B74","name":"Furggelti","kind":"pass","e":2724515,"n":1156055,"alt":2712,"prio":60},

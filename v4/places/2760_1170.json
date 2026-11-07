@@ -25,7 +25,6 @@
 {"id":"87102BFB-36BF","name":"Vazerol","kind":"village","e":2763882,"n":1171051,"alt":1148,"prio":10},
 {"id":"C582EC67-723C","name":"Furtga","kind":"village","e":2762165,"n":1174089,"alt":1430,"prio":5},
 {"id":"83D16EC4-8963","name":"Alvaschein","kind":"village","e":2761589,"n":1171480,"alt":1003,"prio":15},
-{"id":"83D16EC4-8963","name":"Alvaschagn","kind":"village","e":2761589,"n":1171480,"alt":1003,"prio":15},
 {"id":"637456CA-AE8D","name":"Prada","kind":"village","e":2762744,"n":1170530,"alt":875,"prio":5},
 {"id":"2AA72C25-D6E8","name":"Mistail","kind":"village","e":2762383,"n":1170608,"alt":903,"prio":5},
 {"id":"4F9F37A6-758D","name":"Valmala","kind":"village","e":2762594,"n":1171494,"alt":1081,"prio":5},
@@ -35,7 +34,6 @@
 {"id":"07DDEB99-944E","name":"Sozas","kind":"village","e":2763054,"n":1171489,"alt":1208,"prio":5},
 {"id":"57D2CF02-A31C","name":"Son Tgaschang","kind":"village","e":2762134,"n":1173791,"alt":1414,"prio":5},
 {"id":"322F4B5E-57B8","name":"Tiefencastel","kind":"village","e":2763587,"n":1170013,"alt":869,"prio":30},
-{"id":"322F4B5E-57B8","name":"Casti","kind":"village","e":2763587,"n":1170013,"alt":869,"prio":30},
 {"id":"F3F40B3C-A615","name":"Restaurant Solisbrücke","kind":"inn","e":2760107,"n":1171911,"alt":843,"prio":50},
 {"id":"4801E659-9CA4","name":"Cresta","kind":"ridge","e":2761419,"n":1171459,"alt":1021,"prio":20},
 {"id":"AD97D3A8-77EE","name":"Lai da Solas","kind":"lake","e":2761617,"n":1171082,"alt":823,"prio":50}

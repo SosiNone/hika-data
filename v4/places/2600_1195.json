@@ -115,8 +115,6 @@
 {"id":"05B68DB3-6E93","name":"Augut","kind":"village","e":2604604,"n":1196192,"alt":510,"prio":5},
 {"id":"07257D53-C47E","name":"Rütibühl","kind":"village","e":2604219,"n":1199168,"alt":568,"prio":5},
 {"id":"AF934AF1-492F","name":"Bern","kind":"village","e":2600227,"n":1199675,"alt":542,"prio":90},
-{"id":"AF934AF1-492F","name":"Berna","kind":"village","e":2600227,"n":1199675,"alt":542,"prio":90},
-{"id":"AF934AF1-492F","name":"Berne","kind":"village","e":2600227,"n":1199675,"alt":542,"prio":90},
 {"id":"B8899F34-E0AD","name":"Wabern","kind":"village","e":2600678,"n":1197620,"alt":554,"prio":55},
 {"id":"BAEBFDE7-A4EB","name":"Muri b. Bern","kind":"village","e":2603715,"n":1197673,"alt":556,"prio":55},
 {"id":"58C2494F-9C08","name":"Kehrsatz","kind":"village","e":2602451,"n":1195401,"alt":570,"prio":55},

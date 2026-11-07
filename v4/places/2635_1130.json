@@ -6,9 +6,7 @@
 {"id":"A72624E9-7584","name":"Gärsthorn","kind":"summit","e":2636802,"n":1132616,"alt":2927,"prio":90},
 {"id":"EE3A0590-2659","name":"Zienshischinu","kind":"village","e":2638534,"n":1130168,"alt":1472,"prio":5},
 {"id":"C5D76066-B1B2","name":"Innre Mattgrat","kind":"ridge","e":2639456,"n":1133048,"alt":2418,"prio":20},
-{"id":"C5D76066-B1B2","name":"Trogugrat","kind":"ridge","e":2639456,"n":1133048,"alt":2418,"prio":20},
 {"id":"F77F7E83-4A10","name":"Bälgrat","kind":"ridge","e":2638977,"n":1134814,"alt":2587,"prio":20},
 {"id":"D2CC28C8-6815","name":"Mälchgrat","kind":"ridge","e":2636155,"n":1132616,"alt":2599,"prio":20},
-{"id":"2F4B720B-5653","name":"Birgischgrat","kind":"ridge","e":2639585,"n":1132093,"alt":2354,"prio":20},
-{"id":"2F4B720B-5653","name":"Wannugrat","kind":"ridge","e":2639585,"n":1132093,"alt":2354,"prio":20}
+{"id":"2F4B720B-5653","name":"Birgischgrat","kind":"ridge","e":2639585,"n":1132093,"alt":2354,"prio":20}
 ]

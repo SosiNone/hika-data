@@ -6,7 +6,6 @@
 {"id":"5114BBB6-1B2F","name":"Realp, Bahnhof","kind":"stop","e":2681625,"n":1161451,"alt":1538,"prio":25},
 {"id":"95941B55-8CB0","name":"Hochstock","kind":"summit","e":2683923,"n":1160880,"alt":2262,"prio":60},
 {"id":"F9A9D40A-490D","name":"Winterhorn","kind":"summit","e":2684344,"n":1160086,"alt":2662,"prio":90},
-{"id":"F9A9D40A-490D","name":"Pizzo d'Orsino","kind":"summit","e":2684344,"n":1160086,"alt":2662,"prio":90},
 {"id":"75633E0D-8631","name":"Rinbortsberg","kind":"summit","e":2681748,"n":1163800,"alt":2757,"prio":90},
 {"id":"A3636794-2996","name":"Vorder Feldschijen","kind":"summit","e":2681261,"n":1164798,"alt":2961,"prio":90},
 {"id":"19AFAC4E-BF1B","name":"Hinter Feldschijen","kind":"summit","e":2681288,"n":1164618,"alt":3020,"prio":90},

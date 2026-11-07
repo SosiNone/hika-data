@@ -94,6 +94,5 @@
 {"id":"52975787-E646","name":"Geimmatte","kind":"village","e":2641982,"n":1132837,"alt":1072,"prio":5},
 {"id":"F407880D-9B72","name":"Gstepf","kind":"village","e":2642016,"n":1132323,"alt":1033,"prio":5},
 {"id":"1B8CD709-086B","name":"Hasul","kind":"village","e":2641332,"n":1134319,"alt":1469,"prio":5},
-{"id":"1714FAE9-4995","name":"Massegga","kind":"ridge","e":2643589,"n":1131295,"alt":827,"prio":20},
-{"id":"1714FAE9-4995","name":"Äbinegga","kind":"ridge","e":2643589,"n":1131295,"alt":827,"prio":20}
+{"id":"1714FAE9-4995","name":"Massegga","kind":"ridge","e":2643589,"n":1131295,"alt":827,"prio":20}
 ]

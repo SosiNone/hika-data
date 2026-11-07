@@ -26,7 +26,6 @@
 {"id":"4D17A99F-257E","name":"Hüenerchnubel","kind":"summit","e":2621414,"n":1096689,"alt":2808,"prio":60},
 {"id":"9ACA2186-EEC4","name":"Zmutt","kind":"village","e":2621571,"n":1095020,"alt":1935,"prio":5},
 {"id":"CB41AF3B-659F","name":"Zermatt","kind":"village","e":2623908,"n":1096776,"alt":1609,"prio":55},
-{"id":"CB41AF3B-659F","name":"Praborgne","kind":"village","e":2623908,"n":1096776,"alt":1609,"prio":55},
 {"id":"7CA12326-BE9D","name":"Restaurant Edelweiss","kind":"inn","e":2623192,"n":1096789,"alt":1960,"prio":50},
 {"id":"E9BCB081-1559","name":"Restaurant Z'Mutt","kind":"inn","e":2621581,"n":1095035,"alt":1936,"prio":50},
 {"id":"6FD206B3-240C","name":"Restaurant zum See","kind":"inn","e":2622719,"n":1095042,"alt":1769,"prio":50},

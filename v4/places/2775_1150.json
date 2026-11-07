@@ -4,7 +4,6 @@
 {"id":"1E215B30-67BB","name":"Piz Albana","kind":"summit","e":2779281,"n":1150421,"alt":3099,"prio":90},
 {"id":"F3D0BF21-1A52","name":"Fuorcla Albana","kind":"pass","e":2779184,"n":1150908,"alt":2869,"prio":60},
 {"id":"67477ADE-1078","name":"Piz Güglia","kind":"summit","e":2778197,"n":1151490,"alt":3380,"prio":100},
-{"id":"67477ADE-1078","name":"Piz Julier","kind":"summit","e":2778197,"n":1151490,"alt":3380,"prio":100},
 {"id":"5C7FF3E9-A65C","name":"Piz Gügliet","kind":"summit","e":2778235,"n":1151901,"alt":3159,"prio":90},
 {"id":"20E20D54-F494","name":"Fuorcla Güglia","kind":"pass","e":2777852,"n":1152233,"alt":2890,"prio":60},
 {"id":"1BBB702D-7D02","name":"Corn Chamuotsch","kind":"summit","e":2777704,"n":1152429,"alt":3016,"prio":90},

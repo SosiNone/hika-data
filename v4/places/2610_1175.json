@@ -100,6 +100,5 @@
 {"id":"481DE099-0FE3","name":"Pfandern","kind":"village","e":2612544,"n":1176278,"alt":570,"prio":5},
 {"id":"B0DC4401-4C34","name":"Rain","kind":"village","e":2612089,"n":1176170,"alt":594,"prio":5},
 {"id":"2BE8C16A-04A3","name":"Mülimatt","kind":"village","e":2610615,"n":1177327,"alt":579,"prio":5},
-{"id":"D216D4A1-1820","name":"Thun","kind":"village","e":2614491,"n":1178759,"alt":558,"prio":70},
-{"id":"D216D4A1-1820","name":"Thoune","kind":"village","e":2614491,"n":1178759,"alt":558,"prio":70}
+{"id":"D216D4A1-1820","name":"Thun","kind":"village","e":2614491,"n":1178759,"alt":558,"prio":70}
 ]

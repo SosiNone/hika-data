@@ -44,7 +44,6 @@
 {"id":"F23BD3E8-9B79","name":"Acla","kind":"village","e":2787478,"n":1154243,"alt":1751,"prio":5},
 {"id":"0F13C084-962B","name":"Celerina/Schlarigna","kind":"village","e":2785823,"n":1154185,"alt":1720,"prio":45},
 {"id":"EFE23758-F2A5","name":"Pontresina","kind":"village","e":2789111,"n":1152119,"alt":1804,"prio":55},
-{"id":"EFE23758-F2A5","name":"Puntraschigna","kind":"village","e":2789111,"n":1152119,"alt":1804,"prio":55},
 {"id":"EF77517B-4847","name":"Chamanna Segantini","kind":"inn","e":2789944,"n":1153527,"alt":2733,"prio":50},
 {"id":"43B29DCD-CD05","name":"Restaurant Unterer Schafberg","kind":"inn","e":2789431,"n":1152882,"alt":2223,"prio":50},
 {"id":"CFE592ED-131C","name":"Hotel Restaurant Lej da Staz","kind":"inn","e":2786724,"n":1152436,"alt":1814,"prio":50},

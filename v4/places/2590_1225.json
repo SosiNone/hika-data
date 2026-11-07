@@ -34,7 +34,6 @@
 {"id":"B79F62AC-7198","name":"Métairie de Sorvilier","kind":"village","e":2591071,"n":1229562,"alt":1212,"prio":5},
 {"id":"24199F1A-D3D1","name":"Prés du Creux","kind":"village","e":2590073,"n":1227457,"alt":1082,"prio":5},
 {"id":"9DFFD7BD-4DA0","name":"Lengnau BE","kind":"village","e":2594506,"n":1225682,"alt":440,"prio":55},
-{"id":"9DFFD7BD-4DA0","name":"Longeau","kind":"village","e":2594506,"n":1225682,"alt":440,"prio":55},
 {"id":"8BD3253B-282A","name":"Métairie de Montoz","kind":"village","e":2591878,"n":1229495,"alt":1186,"prio":5},
 {"id":"69B43E20-5B43","name":"Les Ronds Prés","kind":"village","e":2590620,"n":1227855,"alt":1096,"prio":5},
 {"id":"DAF16894-7A3C","name":"Restaurant Romontberg","kind":"inn","e":2591574,"n":1227909,"alt":1122,"prio":50},

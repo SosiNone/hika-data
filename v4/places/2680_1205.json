@@ -25,7 +25,6 @@
 {"id":"A14DD75F-750A","name":"Gätterlipass","kind":"pass","e":2684592,"n":1208085,"alt":1190,"prio":60},
 {"id":"193472D0-7F35","name":"Fälmisegg","kind":"pass","e":2681603,"n":1207066,"alt":1177,"prio":60},
 {"id":"E3D2E51E-B7C2","name":"Vitznauerstock","kind":"summit","e":2681403,"n":1206493,"alt":1452,"prio":30},
-{"id":"E3D2E51E-B7C2","name":"Gersauerstock","kind":"summit","e":2681403,"n":1206493,"alt":1452,"prio":30},
 {"id":"F4C62804-E3EE","name":"Scheidegg","kind":"summit","e":2682202,"n":1209057,"alt":1659,"prio":60},
 {"id":"3F386C33-CA4D","name":"Höcheli","kind":"summit","e":2683651,"n":1208656,"alt":1438,"prio":30},
 {"id":"B7447C53-DE7D","name":"Chli Dosse","kind":"summit","e":2680462,"n":1209138,"alt":1670,"prio":60},

@@ -8,7 +8,6 @@
 {"id":"ACB47F90-C6CB","name":"Charmey (Gruyère), Invuettes","kind":"stop","e":2581833,"n":1160819,"alt":898,"prio":25},
 {"id":"B9751C58-252A","name":"Mont Chupiaô","kind":"summit","e":2580629,"n":1162523,"alt":1238,"prio":30},
 {"id":"D5C28D25-8B67","name":"Maischüpfenspitz","kind":"summit","e":2584849,"n":1162951,"alt":2085,"prio":60},
-{"id":"D5C28D25-8B67","name":"Vanil d'Arpille","kind":"summit","e":2584849,"n":1162951,"alt":2085,"prio":60},
 {"id":"296EA4E5-D741","name":"Laubspitz","kind":"summit","e":2583641,"n":1161947,"alt":1803,"prio":60},
 {"id":"7B634A49-23D8","name":"Dent de Vounetse","kind":"summit","e":2582519,"n":1163221,"alt":1813,"prio":60},
 {"id":"F2ADF085-A52C","name":"Brenloz","kind":"summit","e":2581170,"n":1162666,"alt":1462,"prio":30},

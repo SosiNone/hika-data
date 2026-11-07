@@ -1,7 +1,6 @@
 [
 {"id":"53BA2528-9235","name":"La G'üia","kind":"summit","e":2692125,"n":1123473,"alt":2189,"prio":60},
 {"id":"22FE1EEF-2F9C","name":"Al Pizz Cramalína","kind":"summit","e":2691391,"n":1123342,"alt":2322,"prio":90},
-{"id":"22FE1EEF-2F9C","name":"Pizzo Cramalina","kind":"summit","e":2691391,"n":1123342,"alt":2322,"prio":90},
 {"id":"624C798B-6E68","name":"Madonnetto","kind":"summit","e":2692872,"n":1124004,"alt":1846,"prio":60},
 {"id":"BB3645AB-EC61","name":"Zucchero","kind":"summit","e":2693304,"n":1124704,"alt":1648,"prio":60},
 {"id":"4E530BA7-40E0","name":"Puncio","kind":"summit","e":2694707,"n":1121389,"alt":1854,"prio":60},

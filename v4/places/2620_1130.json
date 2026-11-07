@@ -6,7 +6,6 @@
 {"id":"260F379B-B23F","name":"Faldumrothorn","kind":"summit","e":2620679,"n":1134967,"alt":2831,"prio":90},
 {"id":"8CDD3F7A-0F7A","name":"Niwenpass","kind":"pass","e":2620892,"n":1134682,"alt":2604,"prio":60},
 {"id":"353DB131-5146","name":"Niwen","kind":"summit","e":2621074,"n":1134455,"alt":2769,"prio":90},
-{"id":"353DB131-5146","name":"Einigs Alichji","kind":"summit","e":2621074,"n":1134455,"alt":2769,"prio":90},
 {"id":"7274D59C-F49E","name":"Schwarzhorn","kind":"summit","e":2622201,"n":1133876,"alt":2510,"prio":60},
 {"id":"CF755FC8-144A","name":"Heruhubel","kind":"summit","e":2622314,"n":1133009,"alt":2293,"prio":30},
 {"id":"2B4F8924-790A","name":"Z'Opmisch Hubil","kind":"summit","e":2621566,"n":1131529,"alt":1762,"prio":30},

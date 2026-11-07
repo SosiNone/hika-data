@@ -2,7 +2,6 @@
 {"id":"099D43B6-D0B8","name":"Chalberhöni","kind":"lift","e":2584917,"n":1144718,"alt":1351,"prio":40},
 {"id":"E22A2BAB-0F45","name":"Muttehubel","kind":"summit","e":2584775,"n":1143732,"alt":1754,"prio":60},
 {"id":"97F94D03-AEA6","name":"Tête de l'Ane","kind":"summit","e":2583413,"n":1143432,"alt":1901,"prio":60},
-{"id":"97F94D03-AEA6","name":"Gummesel","kind":"summit","e":2583413,"n":1143432,"alt":1901,"prio":60},
 {"id":"1D94A359-C451","name":"Col de Jable","kind":"pass","e":2581661,"n":1141783,"alt":1883,"prio":60},
 {"id":"4C34D552-81BE","name":"Toggeliflue","kind":"summit","e":2584395,"n":1141641,"alt":2185,"prio":60},
 {"id":"FB11DB60-8DAC","name":"Hirzeflue","kind":"summit","e":2582403,"n":1141425,"alt":2211,"prio":60},

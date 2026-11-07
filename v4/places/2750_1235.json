@@ -15,7 +15,6 @@
 {"id":"286F3918-45E1","name":"Hoher Kasten","kind":"summit","e":2754802,"n":1238996,"alt":1794,"prio":90},
 {"id":"81C54E2B-5884","name":"Kastensattel","kind":"pass","e":2754900,"n":1239258,"alt":1678,"prio":60},
 {"id":"4379A304-2474","name":"Kamor","kind":"summit","e":2754911,"n":1239669,"alt":1751,"prio":60},
-{"id":"4379A304-2474","name":"Trestenkopf","kind":"summit","e":2754911,"n":1239669,"alt":1751,"prio":60},
 {"id":"17FC1A10-E96E","name":"Turm","kind":"summit","e":2752193,"n":1235808,"alt":1784,"prio":20},
 {"id":"C1FF9CFB-93CC","name":"Sattel","kind":"pass","e":2751436,"n":1235443,"alt":1816,"prio":60},
 {"id":"29B60408-A6E5","name":"Hüser","kind":"summit","e":2752037,"n":1235909,"alt":1953,"prio":60},

@@ -1,7 +1,6 @@
 [
 {"id":"9A09BA2B-6C04","name":"Kapberg","kind":"summit","e":2583967,"n":1171193,"alt":1442,"prio":30},
 {"id":"A546AAC2-8873","name":"Le Cousimbert","kind":"summit","e":2580655,"n":1171224,"alt":1632,"prio":60},
-{"id":"A546AAC2-8873","name":"Käsenberg","kind":"summit","e":2580655,"n":1171224,"alt":1632,"prio":60},
 {"id":"1DD41638-714D","name":"Chrüzflue","kind":"summit","e":2583062,"n":1174037,"alt":1266,"prio":30},
 {"id":"73222C0B-438E","name":"La Feyla","kind":"summit","e":2581411,"n":1174789,"alt":1087,"prio":30},
 {"id":"34AE2E58-705A","name":"Kapitelberg","kind":"summit","e":2581530,"n":1172612,"alt":1497,"prio":30},

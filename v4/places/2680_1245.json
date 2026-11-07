@@ -190,8 +190,5 @@
 {"id":"A20677FB-B4D4","name":"Zürich, Kantonsschule Enge","kind":"stop","e":2682252,"n":1246501,"alt":423,"prio":25},
 {"id":"580D52D0-D2B1","name":"Zürich, Hertersteg","kind":"stop","e":2681905,"n":1246880,"alt":414,"prio":25},
 {"id":"20BCC310-53C7","name":"Zürich Brunau, Bahnhof","kind":"stop","e":2682153,"n":1245106,"alt":422,"prio":25},
-{"id":"3A749D3A-D55D","name":"Zürich","kind":"village","e":2683500,"n":1247184,"alt":418,"prio":90},
-{"id":"3A749D3A-D55D","name":"Turitg","kind":"village","e":2683500,"n":1247184,"alt":418,"prio":90},
-{"id":"3A749D3A-D55D","name":"Zurich","kind":"village","e":2683500,"n":1247184,"alt":418,"prio":90},
-{"id":"3A749D3A-D55D","name":"Zurigo","kind":"village","e":2683500,"n":1247184,"alt":418,"prio":90}
+{"id":"3A749D3A-D55D","name":"Zürich","kind":"village","e":2683500,"n":1247184,"alt":418,"prio":90}
 ]

@@ -10,7 +10,6 @@
 {"id":"9D59B0C7-1D82","name":"Bündnerbergjoch","kind":"pass","e":2732992,"n":1193549,"alt":2610,"prio":60},
 {"id":"FB7C9410-4F78","name":"Glarner Vorab","kind":"summit","e":2730664,"n":1193511,"alt":3017,"prio":100},
 {"id":"D92FB478-EA8B","name":"Piz Grisch","kind":"summit","e":2734559,"n":1193955,"alt":2899,"prio":90},
-{"id":"D92FB478-EA8B","name":"Laaxer Stöckli","kind":"summit","e":2734559,"n":1193955,"alt":2899,"prio":90},
 {"id":"DEBF3F1A-1174","name":"Grischsattel","kind":"pass","e":2734685,"n":1194288,"alt":2760,"prio":60},
 {"id":"D66912E8-E62C","name":"Gletscherhorn","kind":"summit","e":2731897,"n":1194347,"alt":2804,"prio":90},
 {"id":"95FF040E-1B66","name":"Zwölfihoren","kind":"summit","e":2731913,"n":1194647,"alt":2748,"prio":90},

@@ -8,7 +8,6 @@
 {"id":"BCA66DA6-E26D","name":"Pürder Lücka","kind":"pass","e":2759290,"n":1144557,"alt":2759,"prio":60},
 {"id":"1CB28AFE-E462","name":"Cima di Pian Secco","kind":"summit","e":2755047,"n":1143710,"alt":2768,"prio":90},
 {"id":"98AE05A7-39EB","name":"Bleiserlücka","kind":"pass","e":2755744,"n":1141345,"alt":2788,"prio":60},
-{"id":"98AE05A7-39EB","name":"Pass da la Bles","kind":"pass","e":2755744,"n":1141345,"alt":2788,"prio":60},
 {"id":"EBB3B4E2-1F3E","name":"Under Schwarzsee","kind":"lake","e":2755796,"n":1143041,"alt":2521,"prio":50},
 {"id":"49D481BF-A440","name":"Ober Schwarzsee","kind":"lake","e":2755750,"n":1142770,"alt":2554,"prio":50}
 ]

@@ -18,7 +18,6 @@
 {"id":"DBF1658B-3AD9","name":"Aiguille du Déjeuner","kind":"summit","e":2584647,"n":1082084,"alt":3345,"prio":20},
 {"id":"FCEDDAB6-53A1","name":"Col de Moline","kind":"pass","e":2582964,"n":1081978,"alt":2907,"prio":60},
 {"id":"068997DB-04A7","name":"La Pointe des Rayons de la Madeleine","kind":"summit","e":2582692,"n":1081383,"alt":3051,"prio":90},
-{"id":"068997DB-04A7","name":"Mont de Menouve","kind":"summit","e":2582692,"n":1081383,"alt":3051,"prio":90},
 {"id":"AE045571-BB82","name":"La Pointe de Moline","kind":"summit","e":2583261,"n":1082100,"alt":3020,"prio":90},
 {"id":"1AE8A5A2-DE2B","name":"Mont Tunnel","kind":"summit","e":2583480,"n":1082040,"alt":3033,"prio":90},
 {"id":"D4847A65-0390","name":"Cabane du Plan du Jeu","kind":"inn","e":2581910,"n":1083460,"alt":2067,"prio":50},

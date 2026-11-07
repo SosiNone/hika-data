@@ -136,8 +136,6 @@
 {"id":"E3C80800-6AB5","name":"Florina","kind":"village","e":2669572,"n":1210027,"alt":436,"prio":5},
 {"id":"1E16F255-6DF7","name":"Lamperdingen","kind":"village","e":2667651,"n":1213173,"alt":549,"prio":5},
 {"id":"C3929727-84FC","name":"Luzern","kind":"village","e":2665966,"n":1211624,"alt":437,"prio":80},
-{"id":"C3929727-84FC","name":"Lucerna","kind":"village","e":2665966,"n":1211624,"alt":437,"prio":80},
-{"id":"C3929727-84FC","name":"Lucerne","kind":"village","e":2665966,"n":1211624,"alt":437,"prio":80},
 {"id":"A2A7D1FA-1985","name":"Ebikon","kind":"village","e":2668770,"n":1214990,"alt":423,"prio":70},
 {"id":"8F6707F1-538E","name":"Stubenweid","kind":"village","e":2669676,"n":1214511,"alt":599,"prio":5},
 {"id":"E6438283-4921","name":"Rotsee","kind":"lake","e":2666503,"n":1213557,"alt":419,"prio":50}

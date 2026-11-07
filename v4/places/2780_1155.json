@@ -29,7 +29,6 @@
 {"id":"3C7DEFEB-0136","name":"Gasthaus Spinas","kind":"inn","e":2784458,"n":1159266,"alt":1818,"prio":50},
 {"id":"269A2A4F-9738","name":"Crasta Spinas","kind":"ridge","e":2782870,"n":1157690,"alt":2825,"prio":20},
 {"id":"68B50E69-65BD","name":"Crasta Barat","kind":"ridge","e":2783374,"n":1157326,"alt":2712,"prio":20},
-{"id":"68B50E69-65BD","name":"Set Rösas","kind":"ridge","e":2783374,"n":1157326,"alt":2712,"prio":20},
 {"id":"620BA30E-2DA1","name":"Las Trais Fluors","kind":"ridge","e":2783008,"n":1156191,"alt":2767,"prio":20},
 {"id":"0405963B-6FD6","name":"Ils Chejels","kind":"ridge","e":2781665,"n":1156296,"alt":2920,"prio":20},
 {"id":"77C0F6D9-6D22","name":"Lej Saluver","kind":"lake","e":2781494,"n":1155235,"alt":2625,"prio":50},

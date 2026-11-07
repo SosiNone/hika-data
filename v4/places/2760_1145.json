@@ -8,7 +8,6 @@
 {"id":"04D947CF-EEAD","name":"Inner Wissberg","kind":"summit","e":2760884,"n":1149848,"alt":2948,"prio":90},
 {"id":"B3969E8B-106F","name":"Tälihorn","kind":"summit","e":2763003,"n":1149661,"alt":3164,"prio":90},
 {"id":"DFAD84C5-9C02","name":"Fuorcla Bercla","kind":"pass","e":2763108,"n":1149110,"alt":2916,"prio":60},
-{"id":"DFAD84C5-9C02","name":"Bärgglafurgga","kind":"pass","e":2763108,"n":1149110,"alt":2916,"prio":60},
 {"id":"33E3D926-CA0B","name":"Foppaspitz","kind":"summit","e":2764593,"n":1147044,"alt":2696,"prio":60},
 {"id":"357EC428-71A9","name":"Mazzaspitz","kind":"summit","e":2764013,"n":1148213,"alt":3164,"prio":90},
 {"id":"458C7375-0467","name":"Westliche Fallerfurgga","kind":"pass","e":2764681,"n":1148063,"alt":2839,"prio":60},

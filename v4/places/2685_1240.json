@@ -82,7 +82,6 @@
 {"id":"962E14E7-0B0E","name":"Zollikerberg","kind":"village","e":2687970,"n":1244575,"alt":606,"prio":55},
 {"id":"E214F346-5108","name":"Zumikon","kind":"village","e":2689587,"n":1242987,"alt":655,"prio":55},
 {"id":"C631729F-ED05","name":"Restaurant Schützenstube","kind":"inn","e":2688059,"n":1240876,"alt":541,"prio":50},
-{"id":"C631729F-ED05","name":"Küsnacht Im Holletsmoos 300/50/25m","kind":"inn","e":2688059,"n":1240876,"alt":541,"prio":50},
 {"id":"A0414108-B4D1","name":"Rumensee","kind":"lake","e":2687188,"n":1242577,"alt":546,"prio":50},
 {"id":"9DBFDB56-E6D7","name":"Schübelweiher","kind":"lake","e":2687373,"n":1242031,"alt":521,"prio":50}
 ]

@@ -23,7 +23,6 @@
 {"id":"D2FF224B-98D6","name":"Wallegg-Stube","kind":"inn","e":2598955,"n":1144863,"alt":1329,"prio":50},
 {"id":"58BFF286-8334","name":"Wallegg","kind":"ridge","e":2598356,"n":1144200,"alt":1526,"prio":20},
 {"id":"B25C059E-83E3","name":"Wallritzgrat","kind":"ridge","e":2596827,"n":1144819,"alt":2072,"prio":20},
-{"id":"B25C059E-83E3","name":"Zigerritzgrat","kind":"ridge","e":2596827,"n":1144819,"alt":2072,"prio":20},
 {"id":"351064C2-6A12","name":"Frischewärtgrat","kind":"ridge","e":2595722,"n":1142994,"alt":2134,"prio":20},
 {"id":"2B2C5F5C-BADB","name":"Ritzgrat","kind":"ridge","e":2595945,"n":1143607,"alt":2209,"prio":20},
 {"id":"B529C8EF-BD69","name":"Chanzelegg","kind":"ridge","e":2596459,"n":1144284,"alt":2111,"prio":20},

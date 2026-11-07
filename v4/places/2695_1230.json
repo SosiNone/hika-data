@@ -51,8 +51,5 @@
 {"id":"744901E8-9DA0","name":"Restaurant Sunshine Hill","kind":"inn","e":2697099,"n":1234537,"alt":563,"prio":50},
 {"id":"76015F70-F849","name":"Spiisbeiz Aberen","kind":"inn","e":2698107,"n":1233682,"alt":527,"prio":50},
 {"id":"10457B2E-32A0","name":"Zürichsee","kind":"lake","e":2698596,"n":1230913,"alt":406,"prio":50},
-{"id":"10457B2E-32A0","name":"Lac de Zurich","kind":"lake","e":2698596,"n":1230913,"alt":406,"prio":50},
-{"id":"10457B2E-32A0","name":"Lago di Zurigo","kind":"lake","e":2698596,"n":1230913,"alt":406,"prio":50},
-{"id":"10457B2E-32A0","name":"Lai da Turitg","kind":"lake","e":2698596,"n":1230913,"alt":406,"prio":50},
 {"id":"9A65BBDC-BFB3","name":"Seeweidsee","kind":"lake","e":2698954,"n":1234817,"alt":550,"prio":50}
 ]

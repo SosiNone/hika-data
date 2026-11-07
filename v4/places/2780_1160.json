@@ -7,7 +7,6 @@
 {"id":"0110CB75-641E","name":"Piz da las Blais","kind":"summit","e":2783564,"n":1160703,"alt":2929,"prio":90},
 {"id":"A20ACCA9-BC3F","name":"Piz Mez","kind":"summit","e":2784765,"n":1160707,"alt":2899,"prio":90},
 {"id":"AE249211-1EC1","name":"Pass d'Alvra","kind":"pass","e":2783857,"n":1161820,"alt":2311,"prio":60},
-{"id":"AE249211-1EC1","name":"Albulapass","kind":"pass","e":2783857,"n":1161820,"alt":2311,"prio":60},
 {"id":"6A2CB1D7-2F6A","name":"Igl Compass","kind":"summit","e":2782716,"n":1162555,"alt":3015,"prio":90},
 {"id":"427615A4-1768","name":"Fuorcla Zavretta","kind":"pass","e":2783119,"n":1162923,"alt":2888,"prio":60},
 {"id":"AA8AD08A-32B3","name":"Piz Üertsch","kind":"summit","e":2783710,"n":1163378,"alt":3267,"prio":100},

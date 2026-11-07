@@ -56,6 +56,5 @@
 {"id":"6826A536-000B","name":"Pensier","kind":"village","e":2576926,"n":1187993,"alt":555,"prio":30},
 {"id":"C9F25FA8-B626","name":"Auberge aux 4 Vents","kind":"inn","e":2578932,"n":1185570,"alt":604,"prio":50},
 {"id":"1F31B144-3FC8","name":"Café de Grandfey","kind":"inn","e":2579245,"n":1185932,"alt":590,"prio":50},
-{"id":"6A8F14FB-E08E","name":"Schiffenensee","kind":"lake","e":2578060,"n":1188682,"alt":531,"prio":50},
-{"id":"6A8F14FB-E08E","name":"Lac de Schiffenen","kind":"lake","e":2578060,"n":1188682,"alt":531,"prio":50}
+{"id":"6A8F14FB-E08E","name":"Schiffenensee","kind":"lake","e":2578060,"n":1188682,"alt":531,"prio":50}
 ]

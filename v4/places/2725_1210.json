@@ -9,7 +9,6 @@
 {"id":"C14AF541-0CAE","name":"Schwarzstöckli","kind":"summit","e":2728846,"n":1211272,"alt":2384,"prio":60},
 {"id":"414FA9B7-8211","name":"Schilt","kind":"summit","e":2727176,"n":1211722,"alt":2299,"prio":90},
 {"id":"77A11BEB-12E7","name":"Murgseefurgglen","kind":"pass","e":2729933,"n":1211796,"alt":1985,"prio":60},
-{"id":"77A11BEB-12E7","name":"Mürtschenfurgglen","kind":"pass","e":2729933,"n":1211796,"alt":1985,"prio":60},
 {"id":"6E3E36AB-FFD9","name":"Tristli","kind":"summit","e":2727005,"n":1211809,"alt":2286,"prio":60},
 {"id":"6405DBB7-7FA0","name":"Schlafstein","kind":"summit","e":2726415,"n":1211923,"alt":2058,"prio":60},
 {"id":"04B2D8F3-6F9D","name":"Siwellen","kind":"summit","e":2727610,"n":1212221,"alt":2306,"prio":60},

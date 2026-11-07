@@ -155,8 +155,6 @@
 {"id":"A4820082-382B","name":"Basel, Grosspeteranlage","kind":"stop","e":2612268,"n":1266066,"alt":277,"prio":25},
 {"id":"6057DA6C-E9AF","name":"Muttenz, Hagnau","kind":"stop","e":2613955,"n":1265529,"alt":261,"prio":25},
 {"id":"7C614769-6317","name":"Basel","kind":"village","e":2611212,"n":1267404,"alt":255,"prio":90},
-{"id":"7C614769-6317","name":"Basilea","kind":"village","e":2611212,"n":1267404,"alt":255,"prio":90},
-{"id":"7C614769-6317","name":"Bâle","kind":"village","e":2611212,"n":1267404,"alt":255,"prio":90},
 {"id":"6314D2BD-2CF3","name":"Binningen","kind":"village","e":2610033,"n":1265333,"alt":294,"prio":70},
 {"id":"60A41720-B351","name":"Birsfelden","kind":"village","e":2613818,"n":1267195,"alt":254,"prio":70},
 {"id":"6F462BF9-0352","name":"Restaurant Schliessi","kind":"inn","e":2613937,"n":1269725,"alt":260,"prio":50}

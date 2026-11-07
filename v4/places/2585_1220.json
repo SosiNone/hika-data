@@ -114,8 +114,6 @@
 {"id":"E0CCC64E-4C35","name":"Längholz","kind":"village","e":2588708,"n":1220574,"alt":446,"prio":5},
 {"id":"ABBB2DDC-C0CB","name":"Rondchâtel","kind":"village","e":2585383,"n":1224805,"alt":597,"prio":5},
 {"id":"351EBCE8-1269","name":"Biel/Bienne","kind":"village","e":2585470,"n":1220617,"alt":434,"prio":80},
-{"id":"351EBCE8-1269","name":"Bienna","kind":"village","e":2585470,"n":1220617,"alt":434,"prio":80},
-{"id":"C7ACDD5F-1E73","name":"Friedliswart","kind":"village","e":2586196,"n":1224249,"alt":531,"prio":30},
 {"id":"C7ACDD5F-1E73","name":"Frinvillier","kind":"village","e":2586196,"n":1224249,"alt":531,"prio":30},
 {"id":"D8A7A589-2328","name":"La Millière","kind":"village","e":2585187,"n":1223862,"alt":580,"prio":5},
 {"id":"7DAF6B43-7EA5","name":"Restaurant des Gorges","kind":"inn","e":2586250,"n":1224091,"alt":516,"prio":50},

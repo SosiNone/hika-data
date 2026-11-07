@@ -26,7 +26,6 @@
 {"id":"C56CA6D8-04B7","name":"Villeret, Champs du Clos","kind":"stop","e":2567673,"n":1222604,"alt":769,"prio":25},
 {"id":"E21477A4-025F","name":"Villeret, rue du Brue","kind":"stop","e":2567811,"n":1222971,"alt":768,"prio":25},
 {"id":"5E6A4579-066E","name":"Mont-Soleil","kind":"summit","e":2565936,"n":1223969,"alt":1291,"prio":30},
-{"id":"5E6A4579-066E","name":"Sonnenberg","kind":"summit","e":2565936,"n":1223969,"alt":1291,"prio":30},
 {"id":"67C1EB25-B15F","name":"La Corne","kind":"summit","e":2569253,"n":1220821,"alt":1333,"prio":20},
 {"id":"3C0C9FFC-37BD","name":"L'Egasse","kind":"summit","e":2569345,"n":1220361,"alt":1460,"prio":30},
 {"id":"2B9300FB-B046","name":"La Cornette","kind":"summit","e":2569252,"n":1220012,"alt":1494,"prio":30},

@@ -12,7 +12,6 @@
 {"id":"322D2404-9520","name":"Euschelspass","kind":"pass","e":2588166,"n":1164510,"alt":1567,"prio":60},
 {"id":"C3116A2B-D673","name":"Pointe de Balachaux","kind":"summit","e":2585063,"n":1164584,"alt":1976,"prio":60},
 {"id":"8F950BDE-DA92","name":"Gros Brun","kind":"summit","e":2585607,"n":1163488,"alt":2104,"prio":90},
-{"id":"8F950BDE-DA92","name":"Schopfenspitz","kind":"summit","e":2585607,"n":1163488,"alt":2104,"prio":90},
 {"id":"4B1BFB35-7B71","name":"Türmli","kind":"summit","e":2586785,"n":1164881,"alt":1795,"prio":60},
 {"id":"55DFEAC6-803E","name":"Combiflue","kind":"summit","e":2586103,"n":1163813,"alt":2055,"prio":60},
 {"id":"6D378D74-0B65","name":"Euschelsflue","kind":"summit","e":2588955,"n":1164685,"alt":1953,"prio":60},

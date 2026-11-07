@@ -115,7 +115,6 @@
 {"id":"6AE3AF2B-E8A7","name":"Freihof","kind":"village","e":2698571,"n":1264454,"alt":469,"prio":5},
 {"id":"F5FC7EFD-F341","name":"Fallenstetten","kind":"village","e":2698407,"n":1264680,"alt":457,"prio":5},
 {"id":"FF5D41E4-5830","name":"Winterthur","kind":"village","e":2697124,"n":1261685,"alt":441,"prio":90},
-{"id":"FF5D41E4-5830","name":"Winterthour","kind":"village","e":2697124,"n":1261685,"alt":441,"prio":90},
 {"id":"4D9D13A9-1933","name":"Walcheweiher","kind":"lake","e":2697108,"n":1263293,"alt":461,"prio":50},
 {"id":"9BF82490-9259","name":"Walcheweiher","kind":"lake","e":2697283,"n":1263507,"alt":471,"prio":50},
 {"id":"33E1D9DF-AE26","name":"Walcheweier","kind":"lake","e":2697205,"n":1263424,"alt":468,"prio":50},

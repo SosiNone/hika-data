@@ -6,8 +6,6 @@
 {"id":"F3DEDEF9-7F14","name":"Fuorcla dal Gal","kind":"pass","e":2815738,"n":1166560,"alt":2278,"prio":60},
 {"id":"7AB797D2-E65D","name":"Piz Daint","kind":"summit","e":2818429,"n":1167024,"alt":2968,"prio":90},
 {"id":"14F55EAD-44F2","name":"Pass dal Fuorn","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
-{"id":"14F55EAD-44F2","name":"Ofenpass","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
-{"id":"14F55EAD-44F2","name":"Passo del Forno","kind":"pass","e":2818464,"n":1169354,"alt":2148,"prio":60},
 {"id":"BDC8029B-2A24","name":"Döss da las Plattas","kind":"summit","e":2816587,"n":1167934,"alt":2297,"prio":60},
 {"id":"CC4F54A5-8E2C","name":"Döss dal Termel","kind":"summit","e":2816630,"n":1166910,"alt":2349,"prio":60},
 {"id":"2DC47AA7-AA71","name":"Munt Buffalora","kind":"summit","e":2815281,"n":1167854,"alt":2630,"prio":90},

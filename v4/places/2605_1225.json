@@ -94,9 +94,6 @@
 {"id":"14ACDFF5-947F","name":"Wildmannsguet","kind":"village","e":2606961,"n":1226860,"alt":462,"prio":5},
 {"id":"F2140F12-BD95","name":"Spitalhof","kind":"village","e":2606944,"n":1227127,"alt":457,"prio":5},
 {"id":"C771EC7D-E623","name":"Solothurn","kind":"village","e":2607464,"n":1228555,"alt":435,"prio":70},
-{"id":"C771EC7D-E623","name":"Soleure","kind":"village","e":2607464,"n":1228555,"alt":435,"prio":70},
-{"id":"C771EC7D-E623","name":"Soletta","kind":"village","e":2607464,"n":1228555,"alt":435,"prio":70},
-{"id":"C771EC7D-E623","name":"Soloturn","kind":"village","e":2607464,"n":1228555,"alt":435,"prio":70},
 {"id":"76EBBEBF-5248","name":"Biberist","kind":"village","e":2609033,"n":1225667,"alt":458,"prio":55},
 {"id":"35A3BF92-2A01","name":"Feldbrunnen","kind":"village","e":2608868,"n":1229911,"alt":453,"prio":30},
 {"id":"E40CE7CC-1C38","name":"Chriziweier","kind":"lake","e":2608012,"n":1226693,"alt":480,"prio":50}

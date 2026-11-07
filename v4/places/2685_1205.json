@@ -22,7 +22,6 @@
 {"id":"D0E69974-ACE6","name":"Brunnen, Marina Fallenbach","kind":"stop","e":2687018,"n":1206207,"alt":436,"prio":25},
 {"id":"E379C0EA-D88F","name":"Brunnen, Axenstrasse","kind":"stop","e":2689167,"n":1205030,"alt":458,"prio":25},
 {"id":"AA064F33-955A","name":"Hoflue","kind":"summit","e":2685263,"n":1207184,"alt":1699,"prio":60},
-{"id":"AA064F33-955A","name":"Hochflue","kind":"summit","e":2685263,"n":1207184,"alt":1699,"prio":60},
 {"id":"CC62D0D0-316C","name":"Gottertli","kind":"summit","e":2686651,"n":1207338,"alt":1396,"prio":30},
 {"id":"0FCCBFE1-52E9","name":"Weidstein","kind":"summit","e":2688126,"n":1209118,"alt":672,"prio":10},
 {"id":"A0967BC9-560D","name":"Stockflue","kind":"summit","e":2687827,"n":1207287,"alt":1137,"prio":20},

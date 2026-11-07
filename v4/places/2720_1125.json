@@ -6,7 +6,6 @@
 {"id":"BDEC7794-506C","name":"Cima Cioltro","kind":"summit","e":2721467,"n":1129942,"alt":1846,"prio":60},
 {"id":"45553BBE-1735","name":"Pass de Mem","kind":"pass","e":2724844,"n":1126772,"alt":2192,"prio":60},
 {"id":"2A13B673-D832","name":"Pizzo di Claro","kind":"summit","e":2724589,"n":1128466,"alt":2727,"prio":90},
-{"id":"2A13B673-D832","name":"Visagn","kind":"summit","e":2724589,"n":1128466,"alt":2727,"prio":90},
 {"id":"B3245929-7299","name":"Bocchetta di Simidii","kind":"pass","e":2724926,"n":1128586,"alt":2558,"prio":60},
 {"id":"56C57C8D-9951","name":"Cresciano","kind":"village","e":2720670,"n":1126710,"alt":258,"prio":30},
 {"id":"4FEF74FA-EEAA","name":"Alpe di Mott","kind":"inn","e":2724561,"n":1125792,"alt":1862,"prio":45},

@@ -100,8 +100,6 @@
 {"id":"9BFBCA82-861A","name":"Neuhof","kind":"village","e":2684150,"n":1223897,"alt":760,"prio":5},
 {"id":"2B6999D0-B8AA","name":"Guger","kind":"village","e":2682805,"n":1223804,"alt":694,"prio":5},
 {"id":"6A4BDFDB-728F","name":"Zug","kind":"village","e":2681653,"n":1224673,"alt":420,"prio":70},
-{"id":"6A4BDFDB-728F","name":"Zoug","kind":"village","e":2681653,"n":1224673,"alt":420,"prio":70},
-{"id":"6A4BDFDB-728F","name":"Zugo","kind":"village","e":2681653,"n":1224673,"alt":420,"prio":70},
 {"id":"CD716279-324D","name":"Oberwil b. Zug","kind":"village","e":2680969,"n":1222330,"alt":418,"prio":55},
 {"id":"BF40311A-0D77","name":"Zugerberg","kind":"village","e":2683060,"n":1222051,"alt":931,"prio":30},
 {"id":"81C9D36C-CCB2","name":"Restaurant Hintergeissboden","kind":"inn","e":2683159,"n":1220624,"alt":963,"prio":50},

@@ -30,7 +30,6 @@
 {"id":"7D59C832-34C9","name":"La Forcle","kind":"pass","e":2576263,"n":1116728,"alt":2166,"prio":60},
 {"id":"89F8F617-FAF2","name":"Le Grand Château","kind":"summit","e":2575495,"n":1115465,"alt":2497,"prio":60},
 {"id":"30DEC36B-54ED","name":"Le Basse","kind":"pass","e":2575909,"n":1118025,"alt":2363,"prio":60},
-{"id":"30DEC36B-54ED","name":"Trou de Bougnonne Dessous","kind":"pass","e":2575909,"n":1118025,"alt":2363,"prio":60},
 {"id":"FE7964D0-C000","name":"Trou d'Aufalle","kind":"pass","e":2575252,"n":1118829,"alt":2503,"prio":60},
 {"id":"C332BCA2-7BBD","name":"Le Greppon Blanc","kind":"summit","e":2576052,"n":1116105,"alt":2193,"prio":60},
 {"id":"93131E41-A3EF","name":"Col du Grand Château","kind":"pass","e":2575164,"n":1115345,"alt":2398,"prio":60},

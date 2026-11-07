@@ -218,7 +218,6 @@
 {"id":"19D74D46-4E5E","name":"Le Signal","kind":"summit","e":2538726,"n":1153606,"alt":644,"prio":10},
 {"id":"7935F39B-6C03","name":"Sauvabelin","kind":"village","e":2538609,"n":1154449,"alt":663,"prio":5},
 {"id":"7DFC2474-1DFA","name":"Lausanne","kind":"village","e":2538331,"n":1152456,"alt":489,"prio":90},
-{"id":"7DFC2474-1DFA","name":"Losanna","kind":"village","e":2538331,"n":1152456,"alt":489,"prio":90},
 {"id":"5ABC716E-FFD9","name":"Renens VD","kind":"village","e":2535035,"n":1154225,"alt":440,"prio":70},
 {"id":"D4EEFABD-C4D1","name":"Prilly","kind":"village","e":2536048,"n":1154053,"alt":482,"prio":70},
 {"id":"0D2D50A4-BC56","name":"Pinte du Lac de Sauvabelin","kind":"inn","e":2538654,"n":1154340,"alt":663,"prio":50},

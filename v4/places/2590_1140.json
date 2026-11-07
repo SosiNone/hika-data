@@ -14,7 +14,6 @@
 {"id":"06C753A7-21EB","name":"Stand","kind":"summit","e":2591615,"n":1144246,"alt":2191,"prio":60},
 {"id":"CC9E3134-07EB","name":"Wandeliflue","kind":"summit","e":2591743,"n":1143891,"alt":2203,"prio":60},
 {"id":"B3AAB613-EE8C","name":"Louwenehore","kind":"summit","e":2593532,"n":1143210,"alt":2477,"prio":60},
-{"id":"B3AAB613-EE8C","name":"Lauenehore","kind":"summit","e":2593532,"n":1143210,"alt":2477,"prio":60},
 {"id":"EFA21105-93B2","name":"Türli","kind":"pass","e":2594420,"n":1142115,"alt":1987,"prio":60},
 {"id":"2C64BB8A-FF6A","name":"Lauenen b. Gstaad","kind":"village","e":2590998,"n":1141519,"alt":1245,"prio":30},
 {"id":"A1BEF45A-F3B0","name":"Rohr","kind":"village","e":2591274,"n":1140210,"alt":1241,"prio":5},

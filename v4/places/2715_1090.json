@@ -88,9 +88,5 @@
 {"id":"4D9D3661-AA10","name":"Pazzallo","kind":"village","e":2716592,"n":1093645,"alt":426,"prio":45},
 {"id":"5ECE52F0-9679","name":"Grotto San Rocco","kind":"inn","e":2719444,"n":1093780,"alt":279,"prio":50},
 {"id":"BBCB22F6-B80E","name":"Ristorante Vetta San Salvatore","kind":"inn","e":2716812,"n":1092784,"alt":881,"prio":50},
-{"id":"64B409A7-46CD","name":"Ceresio","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50},
-{"id":"64B409A7-46CD","name":"Lago di Lugano","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50},
-{"id":"64B409A7-46CD","name":"Lac de Lugano","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50},
-{"id":"64B409A7-46CD","name":"Lai da Lugano","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50},
-{"id":"64B409A7-46CD","name":"Luganersee","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50}
+{"id":"64B409A7-46CD","name":"Ceresio","kind":"lake","e":2717919,"n":1092124,"alt":270,"prio":50}
 ]

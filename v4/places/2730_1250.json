@@ -31,7 +31,6 @@
 {"id":"56E289AA-F362","name":"Flawil, Reithalle","kind":"stop","e":2731509,"n":1252431,"alt":623,"prio":25},
 {"id":"7A626FF7-A94A","name":"Flawil","kind":"stop","e":2732122,"n":1253114,"alt":611,"prio":45},
 {"id":"5C190EBA-90A0","name":"Magdenauer Höchi","kind":"summit","e":2731053,"n":1251705,"alt":798,"prio":10},
-{"id":"C372CECE-8AF7","name":"St. Kolumbanshöhle","kind":"cave","e":2734858,"n":1251486,"alt":617,"prio":25},
 {"id":"C372CECE-8AF7","name":"Salpeterhöhle","kind":"cave","e":2734858,"n":1251486,"alt":617,"prio":25},
 {"id":"DAC2F92F-C7C9","name":"Wolfertswil","kind":"village","e":2731659,"n":1250746,"alt":767,"prio":30},
 {"id":"EB814FBE-745B","name":"Magdenau","kind":"village","e":2730820,"n":1251559,"alt":747,"prio":10},

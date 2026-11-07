@@ -26,7 +26,6 @@
 {"id":"1A2EE8A6-2328","name":"Windhubil","kind":"summit","e":2617170,"n":1129888,"alt":1139,"prio":10},
 {"id":"BBB08C98-F8F2","name":"Chriiduhubil","kind":"summit","e":2619715,"n":1126946,"alt":993,"prio":10},
 {"id":"64DE3C80-D929","name":"Agarn","kind":"village","e":2617438,"n":1127183,"alt":626,"prio":30},
-{"id":"5D80B0A5-F43D","name":"Loèche","kind":"village","e":2615037,"n":1129588,"alt":740,"prio":45},
 {"id":"5D80B0A5-F43D","name":"Leuk Stadt","kind":"village","e":2615037,"n":1129588,"alt":740,"prio":45},
 {"id":"DF59B3E5-701A","name":"Guttet","kind":"village","e":2617669,"n":1129968,"alt":1161,"prio":30},
 {"id":"99A0E678-2FF2","name":"Unterems","kind":"village","e":2619865,"n":1126724,"alt":1002,"prio":30},

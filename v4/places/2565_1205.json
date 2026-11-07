@@ -31,7 +31,6 @@
 {"id":"52B67D11-8E17","name":"St-Blaise, Vigner","kind":"stop","e":2565858,"n":1206871,"alt":434,"prio":25},
 {"id":"D8B8EC30-2E87","name":"Thielle","kind":"village","e":2568959,"n":1208009,"alt":432,"prio":30},
 {"id":"855F21E2-26F8","name":"Gals","kind":"village","e":2569891,"n":1208220,"alt":453,"prio":30},
-{"id":"855F21E2-26F8","name":"Chules","kind":"village","e":2569891,"n":1208220,"alt":453,"prio":30},
 {"id":"FED3D052-CEF3","name":"Wavre","kind":"village","e":2568332,"n":1208338,"alt":469,"prio":30},
 {"id":"76E0FD48-C16D","name":"Zihlhof","kind":"village","e":2569305,"n":1208590,"alt":431,"prio":5},
 {"id":"22CB8424-449D","name":"Le Maley","kind":"village","e":2566511,"n":1209948,"alt":615,"prio":10},

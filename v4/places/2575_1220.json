@@ -2,7 +2,6 @@
 {"id":"93C610A2-A6C5","name":"Les Prés-d'Orvin, Le Grillon","kind":"stop","e":2579773,"n":1222241,"alt":1022,"prio":25},
 {"id":"2F14064F-8AC9","name":"Crête des Boveresses","kind":"summit","e":2578117,"n":1224216,"alt":1297,"prio":30},
 {"id":"1A167B48-F204","name":"Mont Sujet","kind":"summit","e":2577711,"n":1220782,"alt":1382,"prio":60},
-{"id":"1A167B48-F204","name":"Spitzberg","kind":"summit","e":2577711,"n":1220782,"alt":1382,"prio":60},
 {"id":"C8DFDCE5-B447","name":"Les Prés-d'Orvin","kind":"village","e":2579860,"n":1222574,"alt":1040,"prio":30},
 {"id":"381962B3-F554","name":"Le Milieu de la Montagne","kind":"village","e":2575566,"n":1224362,"alt":1140,"prio":5},
 {"id":"50CB14C1-C7B8","name":"Le Chalmé","kind":"village","e":2576121,"n":1224724,"alt":1113,"prio":5},

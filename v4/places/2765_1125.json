@@ -4,7 +4,6 @@
 {"id":"87948B0A-C566","name":"Pizzo Cengalo","kind":"summit","e":2766676,"n":1129353,"alt":3369,"prio":100},
 {"id":"59D2340F-97EC","name":"Punta Sertori","kind":"summit","e":2765969,"n":1129183,"alt":3195,"prio":90},
 {"id":"37C2C60E-6142","name":"Piz Badilett","kind":"summit","e":2765234,"n":1129254,"alt":3170,"prio":90},
-{"id":"37C2C60E-6142","name":"Punta Sant'Anna","kind":"summit","e":2765234,"n":1129254,"alt":3170,"prio":90},
 {"id":"FB00095E-D84E","name":"Passo di Bondo","kind":"pass","e":2767916,"n":1128699,"alt":3167,"prio":60},
 {"id":"DA387AA5-B7F7","name":"Passo del Ferro","kind":"pass","e":2768091,"n":1128598,"alt":3200,"prio":60},
 {"id":"459B48C7-DBD5","name":"Cima della Bondasca","kind":"summit","e":2768263,"n":1128605,"alt":3288,"prio":90},

@@ -12,7 +12,6 @@
 {"id":"02AB61CA-87A7","name":"Zeinenfurgglen","kind":"pass","e":2717178,"n":1204666,"alt":2437,"prio":60},
 {"id":"77DAA890-9BB8","name":"Bösbächistock","kind":"summit","e":2717073,"n":1204284,"alt":2659,"prio":90},
 {"id":"0D8A092D-6367","name":"Wissgandstock","kind":"summit","e":2717714,"n":1204451,"alt":2405,"prio":60},
-{"id":"0D8A092D-6367","name":"Vorderchammstock","kind":"summit","e":2717714,"n":1204451,"alt":2405,"prio":60},
 {"id":"AA90621B-BEE0","name":"Rund Eggen","kind":"summit","e":2715543,"n":1200391,"alt":2122,"prio":60},
 {"id":"DBDD0312-1843","name":"Vorder Eggstock","kind":"summit","e":2717315,"n":1202195,"alt":2449,"prio":60},
 {"id":"1AA6AF9E-3ECF","name":"Chilchli","kind":"summit","e":2716058,"n":1200826,"alt":2002,"prio":20},

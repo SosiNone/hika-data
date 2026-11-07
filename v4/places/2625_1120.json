@@ -6,7 +6,6 @@
 {"id":"F176E07A-2DC7","name":"Bürchen Chalte Bode","kind":"lift","e":2629741,"n":1123362,"alt":1872,"prio":40},
 {"id":"DBDB4870-89F8","name":"Bürchen (Moosalpbahn)","kind":"lift","e":2629900,"n":1124477,"alt":1564,"prio":40},
 {"id":"5B9F077F-79BA","name":"March","kind":"summit","e":2627251,"n":1121354,"alt":2876,"prio":90},
-{"id":"5B9F077F-79BA","name":"Violenhorn","kind":"summit","e":2627251,"n":1121354,"alt":2876,"prio":90},
 {"id":"8143A243-670F","name":"Augstbordhorn","kind":"summit","e":2627500,"n":1120473,"alt":2972,"prio":90},
 {"id":"CD1814FE-F5A4","name":"Schwarzhorn","kind":"summit","e":2628646,"n":1120310,"alt":2777,"prio":60},
 {"id":"78727C9D-BC9F","name":"Mällich","kind":"summit","e":2629039,"n":1120395,"alt":2677,"prio":60},

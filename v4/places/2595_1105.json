@@ -7,7 +7,6 @@
 {"id":"4A619572-A352","name":"Mont Rouge","kind":"summit","e":2599031,"n":1107310,"alt":2979,"prio":90},
 {"id":"6970560A-F155","name":"Pic d'Artsinol","kind":"summit","e":2599098,"n":1107080,"alt":2997,"prio":90},
 {"id":"8ABE244B-FD2C","name":"Col de la Meina","kind":"pass","e":2599226,"n":1105658,"alt":2702,"prio":60},
-{"id":"8ABE244B-FD2C","name":"Col de Méribé","kind":"pass","e":2599226,"n":1105658,"alt":2702,"prio":60},
 {"id":"2595643D-B88B","name":"Le Touenno","kind":"summit","e":2595196,"n":1106817,"alt":2617,"prio":60},
 {"id":"A30825BD-A921","name":"Rionde de Vendes","kind":"summit","e":2599189,"n":1108584,"alt":2742,"prio":90},
 {"id":"E6F08446-CCFA","name":"Léteygeon","kind":"village","e":2596652,"n":1107612,"alt":1583,"prio":5},

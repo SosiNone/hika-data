@@ -52,8 +52,5 @@
 {"id":"64D6BD45-2ACD","name":"Alznach","kind":"village","e":2676651,"n":1223806,"alt":432,"prio":5},
 {"id":"E140EB52-7F02","name":"Breitfeld","kind":"village","e":2676345,"n":1220685,"alt":483,"prio":5},
 {"id":"FE40D612-6167","name":"Rotkreuz","kind":"village","e":2675059,"n":1221604,"alt":429,"prio":55},
-{"id":"273EED3E-0375","name":"Zugersee","kind":"lake","e":2679819,"n":1220117,"alt":414,"prio":50},
-{"id":"273EED3E-0375","name":"Lac de Zoug","kind":"lake","e":2679819,"n":1220117,"alt":414,"prio":50},
-{"id":"273EED3E-0375","name":"Lago di Zugo","kind":"lake","e":2679819,"n":1220117,"alt":414,"prio":50},
-{"id":"273EED3E-0375","name":"Lai da Zug","kind":"lake","e":2679819,"n":1220117,"alt":414,"prio":50}
+{"id":"273EED3E-0375","name":"Zugersee","kind":"lake","e":2679819,"n":1220117,"alt":414,"prio":50}
 ]

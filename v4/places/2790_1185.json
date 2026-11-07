@@ -1,7 +1,6 @@
 [
 {"id":"A982B065-C5B6","name":"Pischahorn","kind":"summit","e":2791425,"n":1187716,"alt":2980,"prio":90},
 {"id":"F43C9FD4-D3A4","name":"Gorihorn","kind":"summit","e":2792372,"n":1185768,"alt":2985,"prio":90},
-{"id":"F43C9FD4-D3A4","name":"Isentällispitz","kind":"summit","e":2792372,"n":1185768,"alt":2985,"prio":90},
 {"id":"C36D68D6-A0D9","name":"Isenfürggli","kind":"pass","e":2791476,"n":1186249,"alt":2766,"prio":60},
 {"id":"AB9647F7-D94E","name":"Berghaus Vereina","kind":"inn","e":2794130,"n":1187931,"alt":1943,"prio":50},
 {"id":"2D1E6929-826C","name":"Mittelgrat","kind":"ridge","e":2790088,"n":1186821,"alt":2635,"prio":20},

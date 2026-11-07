@@ -9,7 +9,6 @@
 {"id":"AAC01175-D8F8","name":"Wandfluejoch","kind":"pass","e":2611892,"n":1094283,"alt":3439,"prio":60},
 {"id":"42A7519F-3E6B","name":"Dent d'Hérens","kind":"summit","e":2612896,"n":1090945,"alt":4173,"prio":100},
 {"id":"84B72AED-C90E","name":"Punta Carrel","kind":"summit","e":2613747,"n":1091104,"alt":3841,"prio":90},
-{"id":"84B72AED-C90E","name":"Pointe Carrel","kind":"summit","e":2613747,"n":1091104,"alt":3841,"prio":90},
 {"id":"FE69E870-7B98","name":"Tête Blanche","kind":"summit","e":2610596,"n":1092791,"alt":3711,"prio":90},
 {"id":"93C713B3-6FEB","name":"Schönbielhütte SAC","kind":"inn","e":2614745,"n":1094510,"alt":2696,"prio":50},
 {"id":"4D839E96-132D","name":"Bivacco Giorgio e Renzo Novella","kind":"inn","e":2614117,"n":1091170,"alt":3695,"prio":45},

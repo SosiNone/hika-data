@@ -17,7 +17,6 @@
 {"id":"A710856F-6172","name":"Bachegg","kind":"pass","e":2661620,"n":1183666,"alt":1865,"prio":60},
 {"id":"4C235AFF-3DD7","name":"Haupt","kind":"summit","e":2662177,"n":1182098,"alt":2312,"prio":60},
 {"id":"C50DFB0B-76CE","name":"Murmelchopf","kind":"summit","e":2662024,"n":1181889,"alt":2255,"prio":60},
-{"id":"C50DFB0B-76CE","name":"Chli Haupt","kind":"summit","e":2662024,"n":1181889,"alt":2255,"prio":60},
 {"id":"7CF8B47E-48B6","name":"Seefeldstock","kind":"summit","e":2660304,"n":1181674,"alt":2128,"prio":60},
 {"id":"913889E2-BAEC","name":"Abgschütz","kind":"pass","e":2660873,"n":1181336,"alt":2229,"prio":60},
 {"id":"25B34333-BAFA","name":"Balmhubel","kind":"summit","e":2663076,"n":1181524,"alt":1790,"prio":30},

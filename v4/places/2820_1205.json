@@ -27,7 +27,6 @@
 {"id":"5E18C42A-1E93","name":"Visnitzkopf","kind":"summit","e":2823099,"n":1208577,"alt":2744,"prio":90},
 {"id":"9B736849-2AE9","name":"Spatlaskopf","kind":"summit","e":2824694,"n":1208634,"alt":2713,"prio":90},
 {"id":"EE9D9C41-B207","name":"Cuolm d'Alp Bella","kind":"pass","e":2823782,"n":1209347,"alt":2693,"prio":60},
-{"id":"EE9D9C41-B207","name":"Östliches Visnitzjoch","kind":"pass","e":2823782,"n":1209347,"alt":2693,"prio":60},
 {"id":"E02F0055-2302","name":"Grübelekopf","kind":"summit","e":2824363,"n":1209715,"alt":2893,"prio":90},
 {"id":"1E7CAA1F-AA26","name":"Mot Salatsch","kind":"summit","e":2823800,"n":1205289,"alt":2076,"prio":60},
 {"id":"E1B04865-9281","name":"Panorama Restaurant Sattel","kind":"inn","e":2822803,"n":1206253,"alt":2497,"prio":50},

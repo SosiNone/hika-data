@@ -9,7 +9,6 @@
 {"id":"AAE50346-9F39","name":"Punta Pioda","kind":"summit","e":2768625,"n":1130326,"alt":3237,"prio":90},
 {"id":"3F6A1025-22BF","name":"Ago di Sciora","kind":"summit","e":2768509,"n":1130155,"alt":3204,"prio":90},
 {"id":"29249AD4-618E","name":"Piz Alt","kind":"summit","e":2766884,"n":1132905,"alt":2458,"prio":60},
-{"id":"29249AD4-618E","name":"Piz Grand","kind":"summit","e":2766884,"n":1132905,"alt":2458,"prio":60},
 {"id":"33C8BBE8-00DE","name":"I Mott","kind":"summit","e":2765969,"n":1133059,"alt":2055,"prio":60},
 {"id":"1ECC2C2E-659A","name":"Pass Caciabela Nord","kind":"pass","e":2768777,"n":1131948,"alt":2868,"prio":60},
 {"id":"07243BEC-F298","name":"Pass Caciabela Sud","kind":"pass","e":2768808,"n":1131786,"alt":2895,"prio":60},

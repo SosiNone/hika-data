@@ -14,7 +14,6 @@
 {"id":"6B41E870-7B67","name":"Col Nord des Planards","kind":"pass","e":2576754,"n":1084527,"alt":2820,"prio":60},
 {"id":"BEA7330B-66D4","name":"Souplo","kind":"summit","e":2576098,"n":1084386,"alt":2694,"prio":60},
 {"id":"2FF209D8-70C2","name":"Mont Ferret","kind":"summit","e":2576005,"n":1084918,"alt":2977,"prio":90},
-{"id":"2FF209D8-70C2","name":"La Tsavre","kind":"summit","e":2576005,"n":1084918,"alt":2977,"prio":90},
 {"id":"7F456D7B-4768","name":"Pointe des Planards","kind":"summit","e":2576850,"n":1084341,"alt":2869,"prio":90},
 {"id":"47401C53-3606","name":"Col du Névé de la Rousse","kind":"pass","e":2576392,"n":1084852,"alt":2752,"prio":60},
 {"id":"55D84560-2AAC","name":"Pointe de Tenou","kind":"summit","e":2578737,"n":1083367,"alt":2785,"prio":90},

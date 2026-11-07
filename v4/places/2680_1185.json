@@ -10,7 +10,6 @@
 {"id":"AC2DBC01-BBD6","name":"Schuflen","kind":"summit","e":2681157,"n":1188214,"alt":2822,"prio":90},
 {"id":"77A7AA5E-1150","name":"Leist","kind":"summit","e":2680450,"n":1187903,"alt":2726,"prio":90},
 {"id":"437D6EF2-688C","name":"Surenenpass","kind":"pass","e":2684452,"n":1187850,"alt":2292,"prio":60},
-{"id":"437D6EF2-688C","name":"Eggen","kind":"pass","e":2684452,"n":1187850,"alt":2292,"prio":60},
 {"id":"BBCA8EF5-C7B8","name":"Turm","kind":"summit","e":2683208,"n":1187584,"alt":2368,"prio":60},
 {"id":"6B28B5F8-E40C","name":"Rot Schutz","kind":"summit","e":2681422,"n":1187573,"alt":2351,"prio":60},
 {"id":"F566A2CD-7EFB","name":"Eggenmanndli","kind":"summit","e":2684921,"n":1187353,"alt":2448,"prio":60},

@@ -98,9 +98,6 @@
 {"id":"0C05764B-7D41","name":"Oldis","kind":"village","e":2759640,"n":1194838,"alt":550,"prio":5},
 {"id":"BBEB58DC-76D1","name":"Im Bofel","kind":"village","e":2758032,"n":1192826,"alt":694,"prio":5},
 {"id":"93878346-31AB","name":"Chur","kind":"village","e":2759591,"n":1191142,"alt":589,"prio":70},
-{"id":"93878346-31AB","name":"Coira","kind":"village","e":2759591,"n":1191142,"alt":589,"prio":70},
-{"id":"93878346-31AB","name":"Coire","kind":"village","e":2759591,"n":1191142,"alt":589,"prio":70},
-{"id":"93878346-31AB","name":"Cuira","kind":"village","e":2759591,"n":1191142,"alt":589,"prio":70},
 {"id":"9F0C84A3-28F9","name":"Calandahütte SAC","kind":"inn","e":2755747,"n":1194462,"alt":2074,"prio":50},
 {"id":"29D03B76-CBBE","name":"Mittelegg","kind":"ridge","e":2755385,"n":1192134,"alt":1376,"prio":20},
 {"id":"22F5B378-C2F2","name":"Dürrwaldegg","kind":"ridge","e":2756656,"n":1194931,"alt":1872,"prio":20}

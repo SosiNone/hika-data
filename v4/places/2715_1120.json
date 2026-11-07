@@ -11,7 +11,6 @@
 {"id":"A87D553F-CB0E","name":"Bocchetta d'Albagn","kind":"pass","e":2716996,"n":1120657,"alt":2057,"prio":60},
 {"id":"1451DD38-FC97","name":"Cima d'Erbea","kind":"summit","e":2716012,"n":1120641,"alt":2338,"prio":60},
 {"id":"EC3A38DA-AFA0","name":"Bocchetta d'Erbea","kind":"pass","e":2716173,"n":1120611,"alt":2251,"prio":60},
-{"id":"EC3A38DA-AFA0","name":"Bocchetta dei Frati","kind":"pass","e":2716173,"n":1120611,"alt":2251,"prio":60},
 {"id":"9795C084-DC0E","name":"Passo di Ruscada","kind":"pass","e":2715063,"n":1120997,"alt":2071,"prio":60},
 {"id":"16395A46-FEE2","name":"La Mòto d'Ér","kind":"summit","e":2719631,"n":1120821,"alt":1526,"prio":30},
 {"id":"399D1D3A-4700","name":"Motto Bello","kind":"summit","e":2715715,"n":1123456,"alt":1758,"prio":60},

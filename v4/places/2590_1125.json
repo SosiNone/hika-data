@@ -10,7 +10,6 @@
 {"id":"F6F865D3-C9C4","name":"Savièse, Visse","kind":"stop","e":2592107,"n":1128325,"alt":1671,"prio":25},
 {"id":"61E7EB31-9E55","name":"Savièse, Vouagno","kind":"stop","e":2591401,"n":1127916,"alt":1513,"prio":25},
 {"id":"483BE7DA-6049","name":"Sé Noir","kind":"summit","e":2593734,"n":1129615,"alt":2731,"prio":90},
-{"id":"483BE7DA-6049","name":"Sex Noir","kind":"summit","e":2593734,"n":1129615,"alt":2731,"prio":90},
 {"id":"AFCC5BBA-C0F8","name":"Pointe des Tsermettes","kind":"summit","e":2593547,"n":1128830,"alt":2707,"prio":90},
 {"id":"0134D687-8ACE","name":"Crêta Besse","kind":"summit","e":2593522,"n":1128388,"alt":2702,"prio":90},
 {"id":"7A35391C-3756","name":"Pra Roua","kind":"summit","e":2593204,"n":1127300,"alt":2518,"prio":90},

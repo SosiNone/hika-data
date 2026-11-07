@@ -6,7 +6,6 @@
 {"id":"DE32A0A0-2B66","name":"Steichöpfli","kind":"summit","e":2638821,"n":1187832,"alt":1564,"prio":30},
 {"id":"383BA6CA-49E1","name":"Lütscherligütsch","kind":"summit","e":2635902,"n":1187991,"alt":1352,"prio":30},
 {"id":"17342955-8806","name":"Hängst","kind":"summit","e":2639587,"n":1187121,"alt":2092,"prio":90},
-{"id":"17342955-8806","name":"Hengst","kind":"summit","e":2639587,"n":1187121,"alt":2092,"prio":90},
 {"id":"FF14B7AD-D933","name":"Schübelsmoosegg","kind":"summit","e":2636943,"n":1188984,"alt":1490,"prio":30},
 {"id":"D5637778-E05F","name":"Türstehäuptli","kind":"summit","e":2639030,"n":1185527,"alt":2032,"prio":60},
 {"id":"1F56AA56-C0BD","name":"Sidemoosflue","kind":"summit","e":2635862,"n":1187544,"alt":1441,"prio":30},

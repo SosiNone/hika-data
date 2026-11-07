@@ -11,7 +11,6 @@
 {"id":"1333C4BC-011B","name":"Bocchetta di Poltrinone","kind":"pass","e":2728845,"n":1111256,"alt":1849,"prio":60},
 {"id":"BE41BAA7-18C5","name":"Motto di Leveno","kind":"summit","e":2728655,"n":1110862,"alt":2022,"prio":60},
 {"id":"4BB7227C-9C3A","name":"Cima della Valletta","kind":"summit","e":2728801,"n":1110309,"alt":2130,"prio":60},
-{"id":"4BB7227C-9C3A","name":"Mottone della Tappa","kind":"summit","e":2728801,"n":1110309,"alt":2130,"prio":60},
 {"id":"3F958291-CBD6","name":"S. Antonio (Val Morobbia)","kind":"village","e":2725114,"n":1114371,"alt":793,"prio":30},
 {"id":"1B696CA2-53F7","name":"Carena","kind":"village","e":2727257,"n":1114346,"alt":962,"prio":15},
 {"id":"7DA300AF-2C28","name":"Melera","kind":"village","e":2726835,"n":1114561,"alt":955,"prio":10},

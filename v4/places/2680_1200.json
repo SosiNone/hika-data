@@ -39,8 +39,5 @@
 {"id":"23220194-38CB","name":"Alphütte Tritt","kind":"inn","e":2684111,"n":1200029,"alt":1605,"prio":50},
 {"id":"471C55E5-2E81","name":"Berggasthaus Niederbauen","kind":"inn","e":2683459,"n":1200066,"alt":1570,"prio":50},
 {"id":"49D04EE5-33D0","name":"Mittelegg","kind":"ridge","e":2683813,"n":1200794,"alt":1076,"prio":20},
-{"id":"A0BF4B26-6FE8","name":"Vierwaldstättersee","kind":"lake","e":2680589,"n":1204374,"alt":434,"prio":50},
-{"id":"A0BF4B26-6FE8","name":"Lac des Quatre-Cantons","kind":"lake","e":2680589,"n":1204374,"alt":434,"prio":50},
-{"id":"A0BF4B26-6FE8","name":"Lago dei Quattro Cantoni","kind":"lake","e":2680589,"n":1204374,"alt":434,"prio":50},
-{"id":"A0BF4B26-6FE8","name":"Lai dals Quatter Chantuns","kind":"lake","e":2680589,"n":1204374,"alt":434,"prio":50}
+{"id":"A0BF4B26-6FE8","name":"Vierwaldstättersee","kind":"lake","e":2680589,"n":1204374,"alt":434,"prio":50}
 ]

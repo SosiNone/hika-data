@@ -15,7 +15,6 @@
 {"id":"1B81F864-2FE7","name":"Rovio, Paese","kind":"stop","e":2720101,"n":1088030,"alt":498,"prio":25},
 {"id":"DE76347E-06E6","name":"Scudellate, Paese","kind":"stop","e":2724177,"n":1086814,"alt":907,"prio":25},
 {"id":"5C2EF4F8-9B6F","name":"Monte Generoso","kind":"summit","e":2722658,"n":1087869,"alt":1701,"prio":90},
-{"id":"5C2EF4F8-9B6F","name":"Calvagione","kind":"summit","e":2722658,"n":1087869,"alt":1701,"prio":90},
 {"id":"700E68A9-C1F2","name":"Cima Crocetta","kind":"summit","e":2721963,"n":1089269,"alt":1392,"prio":30},
 {"id":"C7ACDA6D-F06B","name":"Cima dei Torrioni","kind":"summit","e":2722279,"n":1088872,"alt":1489,"prio":30},
 {"id":"88BE1B3E-74EC","name":"I Dòss","kind":"summit","e":2720614,"n":1088595,"alt":779,"prio":10},

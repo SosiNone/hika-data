@@ -91,7 +91,6 @@
 {"id":"F3A5E259-EC8F","name":"Vorderroth","kind":"village","e":2613503,"n":1210115,"alt":628,"prio":5},
 {"id":"D8542842-6FEC","name":"Höchfeld","kind":"village","e":2612483,"n":1214380,"alt":577,"prio":5},
 {"id":"0352BB83-E51E","name":"Burgdorf","kind":"village","e":2614356,"n":1211849,"alt":536,"prio":70},
-{"id":"0352BB83-E51E","name":"Berthoud","kind":"village","e":2614356,"n":1211849,"alt":536,"prio":70},
 {"id":"1A25D5CF-02D3","name":"Alchenflüh","kind":"village","e":2610661,"n":1214774,"alt":508,"prio":45},
 {"id":"E690BB31-2577","name":"Lyssach","kind":"village","e":2610840,"n":1212671,"alt":516,"prio":45}
 ]

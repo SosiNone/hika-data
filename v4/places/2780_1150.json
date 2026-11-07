@@ -68,7 +68,6 @@
 {"id":"9FDB2DFA-CD26","name":"Corviglia","kind":"village","e":2782668,"n":1153511,"alt":2489,"prio":5},
 {"id":"977AC6EB-4378","name":"Alpina","kind":"village","e":2783326,"n":1151785,"alt":1989,"prio":5},
 {"id":"F649E903-AEA4","name":"St. Moritz","kind":"village","e":2784225,"n":1152407,"alt":1827,"prio":55},
-{"id":"F649E903-AEA4","name":"S. Murezzan","kind":"village","e":2784225,"n":1152407,"alt":1827,"prio":55},
 {"id":"2C96C6EC-2AB1","name":"Restaurant Chadafö","kind":"inn","e":2783051,"n":1154483,"alt":2280,"prio":50},
 {"id":"5C681EBE-1208","name":"Restaurant Piz Nair 10000 feet","kind":"inn","e":2780282,"n":1153149,"alt":3020,"prio":50},
 {"id":"84ACD647-D8B1","name":"Quattro BAR","kind":"inn","e":2782693,"n":1153545,"alt":2488,"prio":50},
@@ -79,8 +78,5 @@
 {"id":"E37A3FE8-CDAB","name":"Alpbeizli Laret","kind":"inn","e":2784296,"n":1153702,"alt":2104,"prio":50},
 {"id":"E9142ACF-A911","name":"Crasta Büsauna","kind":"ridge","e":2783902,"n":1151088,"alt":1798,"prio":20},
 {"id":"D8F952AF-23CB","name":"Lej Alv","kind":"lake","e":2781779,"n":1154098,"alt":2527,"prio":50},
-{"id":"B2B0D31C-D1B8","name":"Lej da San Murezzan","kind":"lake","e":2784778,"n":1151944,"alt":1768,"prio":50},
-{"id":"B2B0D31C-D1B8","name":"St. Moritzersee","kind":"lake","e":2784778,"n":1151944,"alt":1768,"prio":50},
-{"id":"B2B0D31C-D1B8","name":"Lac de Saint-Moritz","kind":"lake","e":2784778,"n":1151944,"alt":1768,"prio":50},
-{"id":"B2B0D31C-D1B8","name":"Lago di Sankt Moritz","kind":"lake","e":2784778,"n":1151944,"alt":1768,"prio":50}
+{"id":"B2B0D31C-D1B8","name":"Lej da San Murezzan","kind":"lake","e":2784778,"n":1151944,"alt":1768,"prio":50}
 ]

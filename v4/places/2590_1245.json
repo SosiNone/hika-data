@@ -75,9 +75,6 @@
 {"id":"B64C0FF2-4277","name":"Le Tivila","kind":"village","e":2590472,"n":1245252,"alt":451,"prio":5},
 {"id":"F4681F17-495E","name":"Le Domont","kind":"village","e":2590334,"n":1246443,"alt":538,"prio":5},
 {"id":"8359373C-05BB","name":"Delémont","kind":"village","e":2593292,"n":1245849,"alt":413,"prio":70},
-{"id":"8359373C-05BB","name":"Delsberg","kind":"village","e":2593292,"n":1245849,"alt":413,"prio":70},
-{"id":"8359373C-05BB","name":"Delemonte","kind":"village","e":2593292,"n":1245849,"alt":413,"prio":70},
-{"id":"8359373C-05BB","name":"Delemunt","kind":"village","e":2593292,"n":1245849,"alt":413,"prio":70},
 {"id":"A21BABB1-DF07","name":"Auberge des Viviers","kind":"inn","e":2591557,"n":1245864,"alt":435,"prio":50},
 {"id":"7DF77471-2396","name":"Restaurant du Château de Domont","kind":"inn","e":2590326,"n":1246426,"alt":538,"prio":50},
 {"id":"87411B78-2B9A","name":"Restaurant du Vorbourg","kind":"inn","e":2593666,"n":1247848,"alt":525,"prio":50}

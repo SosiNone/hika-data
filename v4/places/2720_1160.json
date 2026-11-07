@@ -4,7 +4,6 @@
 {"id":"4FFEB1F7-A223","name":"Fuorcla Val Nova","kind":"pass","e":2722541,"n":1160233,"alt":2796,"prio":60},
 {"id":"6CEFF26D-8DDF","name":"Piz Ner","kind":"summit","e":2720516,"n":1162985,"alt":2766,"prio":90},
 {"id":"E0E7755C-E95C","name":"Pizzo di Güida","kind":"summit","e":2720865,"n":1162545,"alt":2844,"prio":90},
-{"id":"E0E7755C-E95C","name":"Piz Güda","kind":"summit","e":2720865,"n":1162545,"alt":2844,"prio":90},
 {"id":"03FA6E94-C324","name":"Piz Canal","kind":"summit","e":2721489,"n":1163468,"alt":2846,"prio":90},
 {"id":"189A6308-4E27","name":"Fuorcla Blengias","kind":"pass","e":2721680,"n":1162906,"alt":2718,"prio":60},
 {"id":"9B5F2953-B0BB","name":"Piz Terri","kind":"summit","e":2722240,"n":1162216,"alt":3149,"prio":100},

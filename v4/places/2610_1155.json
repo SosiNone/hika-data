@@ -8,7 +8,6 @@
 {"id":"1AB22AF2-2510","name":"Frutigen, Rohrbach","kind":"stop","e":2612572,"n":1155407,"alt":953,"prio":25},
 {"id":"5CD25798-183B","name":"Schmelihore","kind":"summit","e":2611696,"n":1159937,"alt":2312,"prio":60},
 {"id":"02F62FFB-0C18","name":"Honiese","kind":"summit","e":2611075,"n":1158469,"alt":2454,"prio":60},
-{"id":"02F62FFB-0C18","name":"Bündihore","kind":"summit","e":2611075,"n":1158469,"alt":2454,"prio":60},
 {"id":"32B13838-5F32","name":"Wyssi Flue","kind":"summit","e":2610669,"n":1157233,"alt":2354,"prio":60},
 {"id":"27A254FB-425A","name":"Linterhore","kind":"summit","e":2610144,"n":1156015,"alt":2325,"prio":60},
 {"id":"66C0C387-EEE8","name":"Chratzchumisattel","kind":"pass","e":2610429,"n":1156720,"alt":2082,"prio":60},

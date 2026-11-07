@@ -11,7 +11,6 @@
 {"id":"970B0CB9-05F3","name":"Hohhoren","kind":"summit","e":2670349,"n":1159793,"alt":2831,"prio":90},
 {"id":"CFA3C9D5-8B29","name":"Furkastock","kind":"summit","e":2674642,"n":1158709,"alt":2664,"prio":90},
 {"id":"57192572-B18B","name":"Furkapass","kind":"pass","e":2674958,"n":1158317,"alt":2424,"prio":60},
-{"id":"57192572-B18B","name":"Pass dal Furca","kind":"pass","e":2674958,"n":1158317,"alt":2424,"prio":60},
 {"id":"24C86624-EE3B","name":"Chli Furkahorn","kind":"summit","e":2674161,"n":1159841,"alt":3026,"prio":90},
 {"id":"7594D07A-B1E3","name":"Sattelegg","kind":"summit","e":2670811,"n":1158123,"alt":2177,"prio":60},
 {"id":"70A54BD3-C5FD","name":"Eisgrotte","kind":"cave","e":2672682,"n":1159216,"alt":2227,"prio":25},

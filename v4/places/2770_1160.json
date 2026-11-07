@@ -3,7 +3,6 @@
 {"id":"BB928C7D-EC9A","name":"Piz Radond","kind":"summit","e":2774013,"n":1164613,"alt":2872,"prio":90},
 {"id":"6CC5151F-9216","name":"Piz digl Barba Peder","kind":"summit","e":2774642,"n":1164355,"alt":2746,"prio":90},
 {"id":"CECB4F79-E5A3","name":"Corn da Tinizong","kind":"summit","e":2771015,"n":1164744,"alt":3173,"prio":90},
-{"id":"CECB4F79-E5A3","name":"Tinzenhorn","kind":"summit","e":2771015,"n":1164744,"alt":3173,"prio":90},
 {"id":"3FDD86C3-A28C","name":"Pass digls Orgels","kind":"pass","e":2771198,"n":1164241,"alt":2693,"prio":60},
 {"id":"415D1E14-1A49","name":"Motta d'Err","kind":"summit","e":2771029,"n":1161735,"alt":1976,"prio":30},
 {"id":"6D30AAE6-08C2","name":"Piz Salteras","kind":"summit","e":2773942,"n":1161433,"alt":3110,"prio":90},

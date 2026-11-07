@@ -1,8 +1,6 @@
 [
 {"id":"D0316CCA-274D","name":"Forcellina","kind":"pass","e":2766929,"n":1143327,"alt":2671,"prio":60},
 {"id":"97B03654-F7F1","name":"Pass da Sett","kind":"pass","e":2768996,"n":1143215,"alt":2310,"prio":60},
-{"id":"97B03654-F7F1","name":"Septimerpass","kind":"pass","e":2768996,"n":1143215,"alt":2310,"prio":60},
-{"id":"97B03654-F7F1","name":"Passo del Settimo","kind":"pass","e":2768996,"n":1143215,"alt":2310,"prio":60},
 {"id":"BBFC4622-E9DA","name":"Piz Forcellina","kind":"summit","e":2767204,"n":1142832,"alt":2939,"prio":90},
 {"id":"CE20F302-83F1","name":"Motta da Sett","kind":"summit","e":2769874,"n":1142611,"alt":2637,"prio":60},
 {"id":"14882AB8-BD03","name":"Piz Turba","kind":"summit","e":2766608,"n":1142185,"alt":3018,"prio":90},

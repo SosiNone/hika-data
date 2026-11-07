@@ -6,7 +6,6 @@
 {"id":"C20AD3C3-107B","name":"Dultschegnas","kind":"lift","e":2748708,"n":1176632,"alt":1701,"prio":40},
 {"id":"6D7DBEBF-E818","name":"Tenna, Pflanzgarten","kind":"stop","e":2745776,"n":1179149,"alt":1465,"prio":25},
 {"id":"40A3C46D-3723","name":"Präzer Höhi","kind":"summit","e":2747874,"n":1178276,"alt":2120,"prio":60},
-{"id":"40A3C46D-3723","name":"Mutta","kind":"summit","e":2747874,"n":1178276,"alt":2120,"prio":60},
 {"id":"6680CD01-1D41","name":"Tguma","kind":"summit","e":2746579,"n":1175966,"alt":2163,"prio":60},
 {"id":"E2B73D04-117B","name":"Stublibüel","kind":"summit","e":2745305,"n":1179416,"alt":1690,"prio":30},
 {"id":"4AF239CA-CE2F","name":"Tenna","kind":"village","e":2745254,"n":1179102,"alt":1649,"prio":30},

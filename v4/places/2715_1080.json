@@ -49,7 +49,6 @@
 {"id":"5F30B6CC-D6A5","name":"Mendrisio, Stand di Tiro","kind":"stop","e":2719471,"n":1081862,"alt":304,"prio":25},
 {"id":"EA329BBB-C71B","name":"Rancate, Piazza S. Stefano","kind":"stop","e":2718727,"n":1081164,"alt":356,"prio":25},
 {"id":"4D00D8BB-6E69","name":"Poncione d'Arzo","kind":"summit","e":2715520,"n":1083348,"alt":1017,"prio":30},
-{"id":"4D00D8BB-6E69","name":"Monte Pravello","kind":"summit","e":2715520,"n":1083348,"alt":1017,"prio":30},
 {"id":"2029C731-9BD0","name":"Riva San Vitale","kind":"village","e":2718862,"n":1084929,"alt":274,"prio":55},
 {"id":"67341F23-46A8","name":"Arzo","kind":"village","e":2716651,"n":1081611,"alt":501,"prio":45},
 {"id":"03CD6828-6600","name":"Rancate","kind":"village","e":2718692,"n":1081093,"alt":356,"prio":45},

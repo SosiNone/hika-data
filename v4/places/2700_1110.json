@@ -82,7 +82,6 @@
 {"id":"F6B918DB-16D6","name":"Porano","kind":"village","e":2700075,"n":1112165,"alt":647,"prio":5},
 {"id":"9E50E186-5BAE","name":"Casa Orelli","kind":"village","e":2704513,"n":1112572,"alt":199,"prio":5},
 {"id":"4BB88C2C-44FF","name":"Locarno","kind":"village","e":2704943,"n":1114040,"alt":197,"prio":70},
-{"id":"4BB88C2C-44FF","name":"Lucarn","kind":"village","e":2704943,"n":1114040,"alt":197,"prio":70},
 {"id":"9EA62D8D-91EE","name":"Solduno","kind":"village","e":2703436,"n":1114051,"alt":225,"prio":55},
 {"id":"5FF3C93D-6074","name":"Orselina","kind":"village","e":2704923,"n":1114924,"alt":401,"prio":30},
 {"id":"5EBDCDA8-991F","name":"Grotto Madonna della Fontana","kind":"inn","e":2702485,"n":1113052,"alt":266,"prio":50},

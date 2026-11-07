@@ -29,7 +29,6 @@
 {"id":"3E81125C-D0F7","name":"Laax GR, Via Nagens","kind":"stop","e":2739394,"n":1187414,"alt":1117,"prio":25},
 {"id":"E0A5272D-080F","name":"Crest la Plugliusa","kind":"summit","e":2737789,"n":1189315,"alt":1643,"prio":60},
 {"id":"51824A55-13AC","name":"Crap Ault","kind":"summit","e":2735821,"n":1187851,"alt":2031,"prio":20},
-{"id":"43C6B2CA-0977","name":"Lags","kind":"village","e":2738757,"n":1185381,"alt":1018,"prio":55},
 {"id":"43C6B2CA-0977","name":"Laax GR","kind":"village","e":2738757,"n":1185381,"alt":1018,"prio":55},
 {"id":"359C10D1-C8CA","name":"Larnags","kind":"village","e":2738732,"n":1187297,"alt":1155,"prio":5},
 {"id":"43E4FA8A-8FCB","name":"Zuneu","kind":"village","e":2738736,"n":1188567,"alt":1324,"prio":5},

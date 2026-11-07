@@ -1,6 +1,5 @@
 [
 {"id":"DE3A4E09-FE01","name":"Riedchopf","kind":"summit","e":2785567,"n":1205541,"alt":2551,"prio":90},
-{"id":"DE3A4E09-FE01","name":"Ronggspitz","kind":"summit","e":2785567,"n":1205541,"alt":2551,"prio":90},
 {"id":"ACA64672-6601","name":"Rotspitz","kind":"summit","e":2785947,"n":1206474,"alt":2517,"prio":90},
 {"id":"49D36406-34ED","name":"Viereggerpass","kind":"pass","e":2786063,"n":1206627,"alt":2404,"prio":60},
 {"id":"FF5D4A60-C9FD","name":"Vieregger","kind":"summit","e":2786105,"n":1206747,"alt":2481,"prio":60},

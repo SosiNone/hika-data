@@ -8,7 +8,6 @@
 {"id":"3916F286-B540","name":"Pizzo Campale","kind":"summit","e":2703406,"n":1138877,"alt":2481,"prio":60},
 {"id":"55C0D827-F10F","name":"Cima di Cagnói","kind":"summit","e":2702138,"n":1136115,"alt":2548,"prio":90},
 {"id":"36269B1E-AB03","name":"Cima dell'Uomo","kind":"summit","e":2702155,"n":1139369,"alt":2572,"prio":60},
-{"id":"36269B1E-AB03","name":"Uomo di Campionigo","kind":"summit","e":2702155,"n":1139369,"alt":2572,"prio":60},
 {"id":"E17D8C0C-37DA","name":"Capanna Barone","kind":"inn","e":2700769,"n":1139107,"alt":2171,"prio":45},
 {"id":"047B5DEE-4B47","name":"Costa del Laghetto","kind":"ridge","e":2704019,"n":1139370,"alt":2209,"prio":20},
 {"id":"17222286-1D9E","name":"Costa di Campale","kind":"ridge","e":2702961,"n":1139687,"alt":2193,"prio":20},

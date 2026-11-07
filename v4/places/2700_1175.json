@@ -13,7 +13,6 @@
 {"id":"2ED4C60D-3AE2","name":"Schwarzstöckli","kind":"summit","e":2701636,"n":1179130,"alt":2572,"prio":90},
 {"id":"22E22BA2-248C","name":"Gemsplanggenstöckli","kind":"summit","e":2701371,"n":1178764,"alt":2809,"prio":90},
 {"id":"AB34CE23-23EB","name":"Piz Tgietschen","kind":"summit","e":2701698,"n":1177698,"alt":3328,"prio":100},
-{"id":"AB34CE23-23EB","name":"Oberalpstock","kind":"summit","e":2701698,"n":1177698,"alt":3328,"prio":100},
 {"id":"1DBC8F76-FA0C","name":"Oberalplücke","kind":"pass","e":2700809,"n":1177552,"alt":2759,"prio":60},
 {"id":"D81E9C9E-F69C","name":"Fuorcla da Strem Sura","kind":"pass","e":2701956,"n":1177379,"alt":3112,"prio":60},
 {"id":"50985925-091C","name":"Stremhörner","kind":"summit","e":2702242,"n":1176724,"alt":2986,"prio":90},

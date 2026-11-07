@@ -2,7 +2,6 @@
 {"id":"7D4E1090-E4E0","name":"Fürflue","kind":"summit","e":2595707,"n":1139455,"alt":2131,"prio":60},
 {"id":"EA750ECF-BF9D","name":"Iffighore","kind":"summit","e":2597227,"n":1137984,"alt":2378,"prio":60},
 {"id":"6F8FA66A-5B32","name":"Stigellegi","kind":"pass","e":2595386,"n":1137922,"alt":2084,"prio":60},
-{"id":"6F8FA66A-5B32","name":"Tungelpass","kind":"pass","e":2595386,"n":1137922,"alt":2084,"prio":60},
 {"id":"804A6EB8-4872","name":"Niesehore","kind":"summit","e":2595012,"n":1136767,"alt":2776,"prio":90},
 {"id":"14DA7F27-0B96","name":"Schnidehore","kind":"summit","e":2596479,"n":1135757,"alt":2937,"prio":90},
 {"id":"0B3A064F-CD32","name":"Chilchli","kind":"summit","e":2595404,"n":1135448,"alt":2785,"prio":90},

@@ -2,7 +2,6 @@
 {"id":"F2291B08-06D9","name":"Lungacqua","kind":"stop","e":2806015,"n":1141922,"alt":1986,"prio":25},
 {"id":"9FE8283F-D044","name":"Alp Camp","kind":"stop","e":2806066,"n":1142415,"alt":2061,"prio":25},
 {"id":"99CE005B-C050","name":"Passo del Corno","kind":"pass","e":2809387,"n":1142743,"alt":2930,"prio":60},
-{"id":"99CE005B-C050","name":"Passo Dosdè","kind":"pass","e":2809387,"n":1142743,"alt":2930,"prio":60},
 {"id":"52338424-1947","name":"Scima da Saoseo","kind":"summit","e":2809153,"n":1140765,"alt":3262,"prio":100},
 {"id":"94DA52F1-7D90","name":"Pass da Sach","kind":"pass","e":2808029,"n":1140773,"alt":2731,"prio":60},
 {"id":"6FC7B234-9AF0","name":"Mota da li Muntaneli","kind":"summit","e":2805579,"n":1140894,"alt":1964,"prio":60},

@@ -38,6 +38,5 @@
 {"id":"AF0629AE-CBD8","name":"Prés Strayat","kind":"village","e":2592586,"n":1251550,"alt":615,"prio":5},
 {"id":"0A26B667-989D","name":"Moulin-Neuf","kind":"village","e":2591571,"n":1254324,"alt":501,"prio":5},
 {"id":"36CF9CF6-2400","name":"Moulin Neuf","kind":"inn","e":2591586,"n":1254333,"alt":501,"prio":50},
-{"id":"36CF9CF6-2400","name":"Restaurant Neumühle","kind":"inn","e":2591586,"n":1254333,"alt":501,"prio":50},
 {"id":"98C1AE7C-923C","name":"Spitzeberg","kind":"ridge","e":2593580,"n":1252138,"alt":738,"prio":20}
 ]

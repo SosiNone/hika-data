@@ -12,7 +12,6 @@
 {"id":"12856F4D-4DE5","name":"Olivone, Petullo","kind":"stop","e":2714011,"n":1154044,"alt":938,"prio":25},
 {"id":"9AB4E9E2-3F79","name":"Olivone, Posta","kind":"stop","e":2714875,"n":1154210,"alt":892,"prio":25},
 {"id":"4DFFFE65-9F67","name":"Cima di Gorda","kind":"summit","e":2711994,"n":1151549,"alt":2195,"prio":60},
-{"id":"4DFFFE65-9F67","name":"Punta di Larescia","kind":"summit","e":2711994,"n":1151549,"alt":2195,"prio":60},
 {"id":"BAB743F3-5383","name":"Passo Bareta","kind":"pass","e":2710192,"n":1151270,"alt":2271,"prio":60},
 {"id":"4EA98FC8-102E","name":"Sommascona","kind":"village","e":2713399,"n":1154098,"alt":1024,"prio":10},
 {"id":"3CE4018C-5D57","name":"Monti di Gana","kind":"village","e":2714792,"n":1152475,"alt":1085,"prio":5},

@@ -7,7 +7,6 @@
 {"id":"54A1CE37-A3E2","name":"Hinder Panärahorn","kind":"summit","e":2746416,"n":1195841,"alt":3106,"prio":90},
 {"id":"48745B9B-2E5F","name":"Vorder Panärahorn","kind":"summit","e":2746999,"n":1195863,"alt":3057,"prio":90},
 {"id":"7D65BAA4-D010","name":"Ringelspitz","kind":"summit","e":2745107,"n":1195890,"alt":3247,"prio":100},
-{"id":"7D65BAA4-D010","name":"Piz Barghis","kind":"summit","e":2745107,"n":1195890,"alt":3247,"prio":100},
 {"id":"4B207D2B-B835","name":"Vorder Ringel","kind":"summit","e":2745278,"n":1195974,"alt":3225,"prio":90},
 {"id":"BE00F346-0772","name":"Orglensattel","kind":"pass","e":2748193,"n":1196081,"alt":2629,"prio":60},
 {"id":"31BC587C-289C","name":"Orglenlücke","kind":"pass","e":2748386,"n":1196323,"alt":2609,"prio":60},

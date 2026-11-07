@@ -11,7 +11,6 @@
 {"id":"3E85D034-F703","name":"Oberhorn","kind":"summit","e":2742286,"n":1177611,"alt":2796,"prio":90},
 {"id":"5DECE20B-4180","name":"Piz Signina","kind":"summit","e":2741073,"n":1176458,"alt":2848,"prio":90},
 {"id":"BF559447-B618","name":"Güner Horn","kind":"summit","e":2741108,"n":1175889,"alt":2851,"prio":90},
-{"id":"BF559447-B618","name":"Piz Gün","kind":"summit","e":2741108,"n":1175889,"alt":2851,"prio":90},
 {"id":"AB16EB7A-3D47","name":"Piz Fess","kind":"summit","e":2741417,"n":1176822,"alt":2880,"prio":100},
 {"id":"1A317956-E9D4","name":"Underhorn","kind":"summit","e":2743012,"n":1177756,"alt":2555,"prio":90},
 {"id":"507A84EB-BA59","name":"Lückli","kind":"pass","e":2742462,"n":1178813,"alt":2326,"prio":60},

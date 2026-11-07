@@ -68,7 +68,6 @@
 {"id":"7D92E3AC-7DC1","name":"Malerne","kind":"village","e":2591934,"n":1122443,"alt":974,"prio":5},
 {"id":"EE806C42-D36F","name":"Lidedin","kind":"village","e":2590368,"n":1123374,"alt":901,"prio":5},
 {"id":"CB09D7D1-74EB","name":"Sion","kind":"village","e":2593980,"n":1120186,"alt":515,"prio":70},
-{"id":"CB09D7D1-74EB","name":"Sitten","kind":"village","e":2593980,"n":1120186,"alt":515,"prio":70},
 {"id":"268072CE-28AB","name":"Chalet Binii","kind":"inn","e":2593023,"n":1122948,"alt":1035,"prio":50},
 {"id":"3C831786-AB40","name":"Buvette des Vouasseurs","kind":"inn","e":2591093,"n":1122969,"alt":1157,"prio":50},
 {"id":"AEF5814C-6816","name":"Guérite Brûlefer","kind":"inn","e":2594903,"n":1121288,"alt":649,"prio":50},

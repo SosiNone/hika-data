@@ -22,7 +22,6 @@
 {"id":"4373BD9A-99F7","name":"Heubüal","kind":"summit","e":2761550,"n":1218370,"alt":1936,"prio":60},
 {"id":"D5F1D46D-A796","name":"Kirchlespitz","kind":"summit","e":2763104,"n":1219346,"alt":1892,"prio":60},
 {"id":"2132497B-EF31","name":"Chrüppel","kind":"summit","e":2761437,"n":1219442,"alt":1707,"prio":60},
-{"id":"2132497B-EF31","name":"Krüppel","kind":"summit","e":2761437,"n":1219442,"alt":1707,"prio":60},
 {"id":"80686A2A-96D6","name":"Girastein","kind":"summit","e":2763215,"n":1219172,"alt":1929,"prio":60},
 {"id":"73589184-0D40","name":"Malbun","kind":"village","e":2764805,"n":1218873,"alt":1615,"prio":10},
 {"id":"1AE37B67-5890","name":"Alp Valüna","kind":"inn","e":2763185,"n":1217117,"alt":1409,"prio":50},

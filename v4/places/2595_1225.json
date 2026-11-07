@@ -100,7 +100,6 @@
 {"id":"7912DCCA-437C","name":"Mattenhof","kind":"village","e":2598716,"n":1226056,"alt":431,"prio":5},
 {"id":"8B8F4132-05CA","name":"Witi","kind":"village","e":2598670,"n":1226463,"alt":435,"prio":5},
 {"id":"3696B2B0-3A77","name":"Grenchen","kind":"village","e":2596814,"n":1226848,"alt":449,"prio":70},
-{"id":"3696B2B0-3A77","name":"Granges","kind":"village","e":2596814,"n":1226848,"alt":449,"prio":70},
 {"id":"80DA79A7-75EB","name":"Bettlach","kind":"village","e":2598820,"n":1228025,"alt":485,"prio":55},
 {"id":"09C3E7FB-1D0F","name":"Restaurant Neue Zelg","kind":"inn","e":2599453,"n":1229247,"alt":610,"prio":50}
 ]

@@ -153,9 +153,6 @@
 {"id":"6887F050-3048","name":"Cologny","kind":"village","e":2503112,"n":1119213,"alt":450,"prio":55},
 {"id":"FA0C8008-46B8","name":"Vandoeuvres","kind":"village","e":2504660,"n":1119165,"alt":444,"prio":55},
 {"id":"C3AEA0B6-B527","name":"Genève","kind":"village","e":2500226,"n":1118241,"alt":376,"prio":90},
-{"id":"C3AEA0B6-B527","name":"Genevra","kind":"village","e":2500226,"n":1118241,"alt":376,"prio":90},
-{"id":"C3AEA0B6-B527","name":"Genf","kind":"village","e":2500226,"n":1118241,"alt":376,"prio":90},
-{"id":"C3AEA0B6-B527","name":"Ginevra","kind":"village","e":2500226,"n":1118241,"alt":376,"prio":90},
 {"id":"FA4F948C-184C","name":"Chêne-Bougeries","kind":"village","e":2503485,"n":1117372,"alt":427,"prio":70},
 {"id":"8ED66AEB-E299","name":"Thônex","kind":"village","e":2504619,"n":1116472,"alt":421,"prio":70},
 {"id":"B301A8BA-A9F4","name":"Chêne-Bourg","kind":"village","e":2504011,"n":1116666,"alt":420,"prio":55}

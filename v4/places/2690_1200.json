@@ -18,7 +18,6 @@
 {"id":"D1967D84-9617","name":"Sisikon, Hauptstrasse","kind":"stop","e":2690086,"n":1200541,"alt":453,"prio":25},
 {"id":"C7956244-7037","name":"Sisikon, Rampe","kind":"stop","e":2690023,"n":1200722,"alt":447,"prio":25},
 {"id":"DBF6F391-7ABA","name":"Chlingenstock","kind":"summit","e":2694076,"n":1201447,"alt":1935,"prio":60},
-{"id":"DBF6F391-7ABA","name":"Klingenstock","kind":"summit","e":2694076,"n":1201447,"alt":1935,"prio":60},
 {"id":"EA180A9B-ED79","name":"Charenstöckli","kind":"summit","e":2691690,"n":1203199,"alt":1811,"prio":30},
 {"id":"E527822C-BD7F","name":"Fronalpstock","kind":"summit","e":2691216,"n":1202600,"alt":1921,"prio":90},
 {"id":"ABDB41A0-479A","name":"Firenstöckli","kind":"summit","e":2693279,"n":1202250,"alt":1715,"prio":60},

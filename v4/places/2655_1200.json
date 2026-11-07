@@ -8,7 +8,6 @@
 {"id":"07181691-E017","name":"First","kind":"summit","e":2655385,"n":1200359,"alt":1682,"prio":60},
 {"id":"83F6217A-713E","name":"Ochs","kind":"summit","e":2657156,"n":1204019,"alt":1594,"prio":30},
 {"id":"CCED4A38-CD1A","name":"Gnepfstein","kind":"summit","e":2656974,"n":1202567,"alt":1917,"prio":60},
-{"id":"CCED4A38-CD1A","name":"Mittaggüpfi","kind":"summit","e":2656974,"n":1202567,"alt":1917,"prio":60},
 {"id":"165F48C8-CA8B","name":"Trochemattsattel","kind":"pass","e":2656657,"n":1203270,"alt":1455,"prio":60},
 {"id":"811CE213-2E36","name":"Rägeflüeli","kind":"summit","e":2658229,"n":1204694,"alt":1582,"prio":30},
 {"id":"3C91B56A-97AA","name":"Rottosse","kind":"summit","e":2658074,"n":1202065,"alt":1777,"prio":60},

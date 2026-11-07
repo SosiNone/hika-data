@@ -15,8 +15,5 @@
 {"id":"F57BF7DD-CC6A","name":"Schonegg","kind":"ridge","e":2642024,"n":1170800,"alt":2207,"prio":20},
 {"id":"BF438EB1-178B","name":"Lägeregg","kind":"ridge","e":2643435,"n":1171858,"alt":1879,"prio":20},
 {"id":"41A47C27-35E5","name":"Hohgrat","kind":"ridge","e":2643584,"n":1174566,"alt":1413,"prio":20},
-{"id":"F427C5A5-469C","name":"Brienzersee","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
-{"id":"F427C5A5-469C","name":"Lac de Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
-{"id":"F427C5A5-469C","name":"Lago di Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50},
-{"id":"F427C5A5-469C","name":"Lai da Brienz","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50}
+{"id":"F427C5A5-469C","name":"Brienzersee","kind":"lake","e":2640240,"n":1174778,"alt":564,"prio":50}
 ]

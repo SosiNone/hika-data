@@ -2,7 +2,6 @@
 {"id":"A12CB32E-FE17","name":"Pizzo Pian Forno","kind":"summit","e":2711372,"n":1134362,"alt":2302,"prio":60},
 {"id":"E6C9116A-4DE5","name":"Pizzo Ricuca","kind":"summit","e":2714050,"n":1131990,"alt":2282,"prio":60},
 {"id":"9A3131C7-9DDE","name":"Cima di Stubiello","kind":"summit","e":2713762,"n":1131511,"alt":2263,"prio":60},
-{"id":"9A3131C7-9DDE","name":"Cima di Piatto","kind":"summit","e":2713762,"n":1131511,"alt":2263,"prio":60},
 {"id":"4AD1FFE0-F908","name":"Bocchetta di Rierna","kind":"pass","e":2710965,"n":1130219,"alt":2294,"prio":60},
 {"id":"D4C3F027-E578","name":"Cima di Rierna","kind":"summit","e":2710371,"n":1130895,"alt":2461,"prio":60},
 {"id":"9340AF7D-3147","name":"Motto dei Ciavéi","kind":"summit","e":2712317,"n":1132262,"alt":1656,"prio":60},

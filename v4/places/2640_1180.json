@@ -9,7 +9,6 @@
 {"id":"9A354927-A051","name":"Chruterepass","kind":"pass","e":2644211,"n":1182034,"alt":2052,"prio":60},
 {"id":"638A65D6-711A","name":"Sitenegg","kind":"summit","e":2641045,"n":1182086,"alt":1531,"prio":30},
 {"id":"6DCC6A15-4C23","name":"Brief","kind":"summit","e":2643230,"n":1181492,"alt":2165,"prio":60},
-{"id":"6DCC6A15-4C23","name":"Briefehörnli","kind":"summit","e":2643230,"n":1181492,"alt":2165,"prio":60},
 {"id":"8AB254C2-DB91","name":"Wannepass","kind":"pass","e":2642484,"n":1181269,"alt":2070,"prio":60},
 {"id":"C301CD71-A84B","name":"Balmi","kind":"summit","e":2642445,"n":1181047,"alt":2141,"prio":60},
 {"id":"9FC0C978-E9DD","name":"Alpenrosenhubel","kind":"summit","e":2642341,"n":1180158,"alt":1849,"prio":60},

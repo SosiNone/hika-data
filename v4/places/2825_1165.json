@@ -10,7 +10,6 @@
 {"id":"2B192D4E-7997","name":"Fuorcla Sassalba","kind":"pass","e":2825820,"n":1169183,"alt":2619,"prio":60},
 {"id":"24EAA974-8122","name":"Muntet","kind":"summit","e":2825305,"n":1169304,"alt":2762,"prio":90},
 {"id":"6F507F23-D9D9","name":"Piz Terza","kind":"summit","e":2826677,"n":1169539,"alt":2908,"prio":90},
-{"id":"6F507F23-D9D9","name":"Urtiolaspitz","kind":"summit","e":2826677,"n":1169539,"alt":2908,"prio":90},
 {"id":"3717BCA8-145D","name":"Sta. Maria Val Müstair","kind":"village","e":2828753,"n":1165521,"alt":1378,"prio":30},
 {"id":"E5F03848-332B","name":"Valchava","kind":"village","e":2827428,"n":1165345,"alt":1410,"prio":30},
 {"id":"B3BDCB44-BADC","name":"Valpaschun","kind":"village","e":2826653,"n":1166336,"alt":1782,"prio":5},

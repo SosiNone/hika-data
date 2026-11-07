@@ -30,8 +30,5 @@
 {"id":"4FA9110D-46AB","name":"Fil da Murtairacc","kind":"ridge","e":2776763,"n":1140531,"alt":2705,"prio":20},
 {"id":"970A043C-2CEE","name":"Crastatscha","kind":"ridge","e":2778307,"n":1143612,"alt":1896,"prio":20},
 {"id":"E12B459B-5DCE","name":"Fil da la Mot'Alta","kind":"ridge","e":2778322,"n":1141269,"alt":2397,"prio":20},
-{"id":"AFBE862F-4F5E","name":"Lej da Segl","kind":"lake","e":2776758,"n":1143606,"alt":1797,"prio":50},
-{"id":"AFBE862F-4F5E","name":"Silsersee","kind":"lake","e":2776758,"n":1143606,"alt":1797,"prio":50},
-{"id":"AFBE862F-4F5E","name":"Lac de Sils","kind":"lake","e":2776758,"n":1143606,"alt":1797,"prio":50},
-{"id":"AFBE862F-4F5E","name":"Lago di Sils","kind":"lake","e":2776758,"n":1143606,"alt":1797,"prio":50}
+{"id":"AFBE862F-4F5E","name":"Lej da Segl","kind":"lake","e":2776758,"n":1143606,"alt":1797,"prio":50}
 ]

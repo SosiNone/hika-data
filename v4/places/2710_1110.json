@@ -29,7 +29,6 @@
 {"id":"552811CB-3149","name":"Riazzino, Via Cantonale","kind":"stop","e":2711640,"n":1114889,"alt":197,"prio":25},
 {"id":"574176EE-B488","name":"Poncino della Croce","kind":"summit","e":2710973,"n":1110143,"alt":1471,"prio":30},
 {"id":"E63F34BB-83DE","name":"Monte Ceneri","kind":"pass","e":2713480,"n":1110787,"alt":556,"prio":60},
-{"id":"E63F34BB-83DE","name":"Munt Schiember","kind":"pass","e":2713480,"n":1110787,"alt":556,"prio":60},
 {"id":"4C867987-D668","name":"Cugnasco","kind":"village","e":2714239,"n":1114803,"alt":225,"prio":55},
 {"id":"F2B93976-8E67","name":"Contone","kind":"village","e":2714986,"n":1112056,"alt":204,"prio":45},
 {"id":"3A758401-193A","name":"Al Ponte","kind":"village","e":2711286,"n":1111957,"alt":198,"prio":10},

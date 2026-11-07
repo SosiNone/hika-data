@@ -6,7 +6,6 @@
 {"id":"79D57BFD-0C3C","name":"Piz Cotschen","kind":"summit","e":2786950,"n":1165533,"alt":3195,"prio":90},
 {"id":"6BE4BB9A-5DDA","name":"Aguoglia digl Kesch","kind":"summit","e":2786964,"n":1166075,"alt":3387,"prio":90},
 {"id":"684DFF27-28F4","name":"Piz Kesch","kind":"summit","e":2786410,"n":1166230,"alt":3417,"prio":100},
-{"id":"684DFF27-28F4","name":"Piz d'Es-cha","kind":"summit","e":2786410,"n":1166230,"alt":3417,"prio":100},
 {"id":"C12BA3E2-2FC1","name":"Piz Viroula","kind":"summit","e":2789255,"n":1166497,"alt":3061,"prio":90},
 {"id":"3E0F60C9-F1FE","name":"Porta d'Es-cha","kind":"pass","e":2787584,"n":1166559,"alt":3008,"prio":60},
 {"id":"4BAFC0CC-9AB9","name":"Piz Val Müra","kind":"summit","e":2788541,"n":1167034,"alt":3164,"prio":90},

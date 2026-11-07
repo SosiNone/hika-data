@@ -24,7 +24,6 @@
 {"id":"7E5090D3-8DE3","name":"Rot Stock","kind":"summit","e":2687090,"n":1182434,"alt":2719,"prio":90},
 {"id":"4E8D2836-3329","name":"Mäntliser","kind":"summit","e":2687762,"n":1182412,"alt":2875,"prio":90},
 {"id":"156EE692-4C0A","name":"Steinchälenfurggi","kind":"pass","e":2687486,"n":1182077,"alt":2657,"prio":60},
-{"id":"156EE692-4C0A","name":"Ruchpass","kind":"pass","e":2687486,"n":1182077,"alt":2657,"prio":60},
 {"id":"AB65BF05-0544","name":"Chli Krönten","kind":"summit","e":2686820,"n":1182049,"alt":2910,"prio":90},
 {"id":"89479831-A31C","name":"Sasspass","kind":"pass","e":2686764,"n":1181006,"alt":2668,"prio":60},
 {"id":"38437CEF-A180","name":"Gwächten","kind":"summit","e":2687491,"n":1182613,"alt":2814,"prio":90},

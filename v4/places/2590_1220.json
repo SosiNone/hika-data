@@ -48,7 +48,6 @@
 {"id":"40C41D92-04FA","name":"Schützenmatt","kind":"village","e":2594810,"n":1224248,"alt":430,"prio":5},
 {"id":"95EC7725-6447","name":"Büren an der Aare","kind":"village","e":2594972,"n":1220988,"alt":435,"prio":55},
 {"id":"896B41F5-7483","name":"Pieterlen","kind":"village","e":2592381,"n":1224909,"alt":441,"prio":55},
-{"id":"896B41F5-7483","name":"Perles","kind":"village","e":2592381,"n":1224909,"alt":441,"prio":55},
 {"id":"AAB273CA-CAC4","name":"Meienried Pintli","kind":"inn","e":2592113,"n":1221168,"alt":431,"prio":50},
 {"id":"92B9DFCE-BFC6","name":"Windegg","kind":"ridge","e":2590277,"n":1221277,"alt":476,"prio":20},
 {"id":"D33183E6-FCCD","name":"Alte Zihl","kind":"lake","e":2591970,"n":1220573,"alt":427,"prio":50},

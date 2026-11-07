@@ -33,6 +33,5 @@
 {"id":"99A966F1-6488","name":"Neuchâtel, Université","kind":"stop","e":2561911,"n":1204877,"alt":434,"prio":25},
 {"id":"C39B7AAD-907C","name":"Neuchâtel, Case à Chocs","kind":"stop","e":2560694,"n":1204354,"alt":433,"prio":25},
 {"id":"72EDAA45-5F45","name":"Neuchâtel, Boine (FUNI)","kind":"stop","e":2561102,"n":1204970,"alt":481,"prio":45},
-{"id":"904B2F3A-7D5E","name":"Neuchâtel","kind":"village","e":2561194,"n":1204634,"alt":437,"prio":70},
-{"id":"904B2F3A-7D5E","name":"Neuenburg","kind":"village","e":2561194,"n":1204634,"alt":437,"prio":70}
+{"id":"904B2F3A-7D5E","name":"Neuchâtel","kind":"village","e":2561194,"n":1204634,"alt":437,"prio":70}
 ]

@@ -6,7 +6,6 @@
 {"id":"4B94A97B-BDFE","name":"Aua dil Mer","kind":"water","e":2727012,"n":1188983,"alt":1864,"prio":25},
 {"id":"F96F3E2E-67B6","name":"Aua da Fluaz","kind":"water","e":2726008,"n":1188592,"alt":1732,"prio":25},
 {"id":"4E5140B4-4698","name":"Pigniu","kind":"village","e":2728012,"n":1185621,"alt":1302,"prio":10},
-{"id":"4E5140B4-4698","name":"Panix","kind":"village","e":2728012,"n":1185621,"alt":1302,"prio":10},
 {"id":"5E5B7902-0ADD","name":"Fil da Rueun","kind":"ridge","e":2729738,"n":1187025,"alt":2317,"prio":20},
 {"id":"DFD1BD7B-7F22","name":"Fil da Ranasca","kind":"ridge","e":2729782,"n":1188220,"alt":2251,"prio":20},
 {"id":"D07D3C8A-4344","name":"Fil dil Fluaz","kind":"ridge","e":2725649,"n":1189843,"alt":2523,"prio":20},

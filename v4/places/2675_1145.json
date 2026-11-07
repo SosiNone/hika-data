@@ -7,7 +7,6 @@
 {"id":"1BF68686-4007","name":"Pizzo San Giacomo","kind":"summit","e":2679070,"n":1145436,"alt":2924,"prio":90},
 {"id":"96A92C35-155E","name":"Poncione di Manió","kind":"summit","e":2676573,"n":1149984,"alt":2925,"prio":90},
 {"id":"E728E958-3274","name":"Punta di Elgio","kind":"summit","e":2675007,"n":1145719,"alt":2837,"prio":90},
-{"id":"E728E958-3274","name":"Helgenhorn","kind":"summit","e":2675007,"n":1145719,"alt":2837,"prio":90},
 {"id":"982626B2-5042","name":"Passo San Giacomo","kind":"pass","e":2677865,"n":1145797,"alt":2307,"prio":60},
 {"id":"936674B4-3AC8","name":"Ristorante All'Acqua","kind":"inn","e":2679580,"n":1148945,"alt":1618,"prio":50},
 {"id":"B8FDAA17-D09C","name":"Capanna Piansecco CAS","kind":"inn","e":2679290,"n":1149757,"alt":1984,"prio":50},

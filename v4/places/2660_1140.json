@@ -7,7 +7,6 @@
 {"id":"CC2D65A3-6587","name":"Ober Rappehorn","kind":"summit","e":2663918,"n":1140239,"alt":3175,"prio":90},
 {"id":"D435AF0C-0090","name":"Turbejoch","kind":"pass","e":2664055,"n":1140200,"alt":3127,"prio":60},
 {"id":"44959F00-DB1C","name":"Mittaghorn","kind":"summit","e":2663723,"n":1140731,"alt":3158,"prio":90},
-{"id":"44959F00-DB1C","name":"Rappehorn","kind":"summit","e":2663723,"n":1140731,"alt":3158,"prio":90},
 {"id":"28C1334D-7DC4","name":"Furggelti","kind":"pass","e":2660451,"n":1141143,"alt":2525,"prio":60},
 {"id":"18821400-2557","name":"Herchummegrat","kind":"ridge","e":2663019,"n":1141993,"alt":2622,"prio":20},
 {"id":"C3E134AF-7745","name":"Chummegrat","kind":"ridge","e":2663199,"n":1142929,"alt":2458,"prio":20},

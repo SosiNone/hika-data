@@ -88,8 +88,5 @@
 {"id":"5822B2F8-DFB4","name":"Eimatt","kind":"village","e":2650700,"n":1222308,"alt":541,"prio":5},
 {"id":"D4BF90C8-758A","name":"Schafweid","kind":"village","e":2650694,"n":1220597,"alt":709,"prio":5},
 {"id":"DA5AD6D8-6089","name":"Buechenacher","kind":"village","e":2653756,"n":1224074,"alt":563,"prio":5},
-{"id":"3835FA8C-2976","name":"Sempachersee","kind":"lake","e":2654171,"n":1221900,"alt":504,"prio":50},
-{"id":"3835FA8C-2976","name":"Lac de Sempach","kind":"lake","e":2654171,"n":1221900,"alt":504,"prio":50},
-{"id":"3835FA8C-2976","name":"Lago di Sempach","kind":"lake","e":2654171,"n":1221900,"alt":504,"prio":50},
-{"id":"3835FA8C-2976","name":"Lai da Sempach","kind":"lake","e":2654171,"n":1221900,"alt":504,"prio":50}
+{"id":"3835FA8C-2976","name":"Sempachersee","kind":"lake","e":2654171,"n":1221900,"alt":504,"prio":50}
 ]

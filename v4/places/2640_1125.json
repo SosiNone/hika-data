@@ -74,7 +74,5 @@
 {"id":"068A623D-BE33","name":"Wickert","kind":"village","e":2643195,"n":1128329,"alt":836,"prio":5},
 {"id":"1F12805E-AB2E","name":"Lingwurm","kind":"village","e":2643509,"n":1128820,"alt":831,"prio":15},
 {"id":"30B654DC-046C","name":"Brig","kind":"village","e":2642391,"n":1129576,"alt":682,"prio":55},
-{"id":"30B654DC-046C","name":"Briga","kind":"village","e":2642391,"n":1129576,"alt":682,"prio":55},
-{"id":"30B654DC-046C","name":"Brigue","kind":"village","e":2642391,"n":1129576,"alt":682,"prio":55},
 {"id":"894FBA10-3F3A","name":"Stückiegga","kind":"ridge","e":2644764,"n":1127760,"alt":1413,"prio":20}
 ]

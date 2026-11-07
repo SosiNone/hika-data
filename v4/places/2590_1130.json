@@ -9,7 +9,6 @@
 {"id":"9CE90B0F-FD3A","name":"Arpelistock","kind":"summit","e":2590499,"n":1132504,"alt":3036,"prio":90},
 {"id":"FDB0B3F1-791A","name":"Gältehore","kind":"summit","e":2591976,"n":1132781,"alt":3062,"prio":90},
 {"id":"9E41DCE4-AC6C","name":"Col du Brotsé","kind":"pass","e":2593194,"n":1133204,"alt":2757,"prio":60},
-{"id":"9E41DCE4-AC6C","name":"Gältelücke","kind":"pass","e":2593194,"n":1133204,"alt":2757,"prio":60},
 {"id":"ABC4D08A-0534","name":"Rossgrabelücke","kind":"pass","e":2590005,"n":1134053,"alt":2601,"prio":60},
 {"id":"3D72763D-2B26","name":"Aiguille du Sérac","kind":"summit","e":2591399,"n":1130300,"alt":2663,"prio":20},
 {"id":"0DA8CE2B-5233","name":"La Selle","kind":"pass","e":2594523,"n":1131843,"alt":2709,"prio":60},

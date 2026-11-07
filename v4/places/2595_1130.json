@@ -5,12 +5,8 @@
 {"id":"7753F7A6-AFD4","name":"Anzère Les Rousses","kind":"lift","e":2599849,"n":1131249,"alt":1773,"prio":40},
 {"id":"12E6958A-D21C","name":"Le Bâté","kind":"lift","e":2597171,"n":1130568,"alt":2418,"prio":40},
 {"id":"F047CE0A-FEB0","name":"Sé des Molettes","kind":"summit","e":2599880,"n":1134882,"alt":2798,"prio":90},
-{"id":"F047CE0A-FEB0","name":"Wetzsteihore","kind":"summit","e":2599880,"n":1134882,"alt":2798,"prio":90},
-{"id":"F047CE0A-FEB0","name":"Sex des Molettes","kind":"summit","e":2599880,"n":1134882,"alt":2798,"prio":90},
 {"id":"0C788C3E-9228","name":"Six des Eaux Froides","kind":"summit","e":2597264,"n":1132844,"alt":2906,"prio":90},
-{"id":"0C788C3E-9228","name":"Rawilhorn","kind":"summit","e":2597264,"n":1132844,"alt":2906,"prio":90},
 {"id":"EA35AD20-35BF","name":"Sé Rouge","kind":"summit","e":2595186,"n":1131290,"alt":2893,"prio":90},
-{"id":"EA35AD20-35BF","name":"Sex Rouge","kind":"summit","e":2595186,"n":1131290,"alt":2893,"prio":90},
 {"id":"97CF06F9-3B0C","name":"Col des Eaux Froides","kind":"pass","e":2596122,"n":1133334,"alt":2646,"prio":60},
 {"id":"3B3DA1CE-8FCC","name":"Pointe d'Hérémence","kind":"summit","e":2596566,"n":1130857,"alt":2732,"prio":90},
 {"id":"4020444E-F4A1","name":"La Motte","kind":"summit","e":2596176,"n":1130716,"alt":2756,"prio":90},
@@ -19,6 +15,5 @@
 {"id":"ACA82D60-4C2C","name":"Restaurant du Barrage de Zeuzier","kind":"inn","e":2599674,"n":1132693,"alt":1777,"prio":50},
 {"id":"10F48226-4736","name":"Lac de Téné","kind":"lake","e":2596940,"n":1134641,"alt":2437,"prio":50},
 {"id":"8F3F699C-8D0A","name":"Lac du Rawil","kind":"lake","e":2599358,"n":1133288,"alt":1774,"prio":50},
-{"id":"8F3F699C-8D0A","name":"Lac de Tseuzier","kind":"lake","e":2599358,"n":1133288,"alt":1774,"prio":50},
 {"id":"606D7A7D-C591","name":"Lac des Audannes","kind":"lake","e":2596095,"n":1132538,"alt":2451,"prio":50}
 ]

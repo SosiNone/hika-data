@@ -8,7 +8,6 @@
 {"id":"5C64E33C-0FBE","name":"Col des Becs de Bosson","kind":"pass","e":2606534,"n":1112769,"alt":2959,"prio":60},
 {"id":"C8D480A5-5473","name":"Col de la Tsevalire","kind":"pass","e":2605688,"n":1112487,"alt":2947,"prio":60},
 {"id":"BA7962B0-AE09","name":"Ché de Mareinda","kind":"summit","e":2608717,"n":1110921,"alt":2903,"prio":90},
-{"id":"BA7962B0-AE09","name":"Sex de Marinda","kind":"summit","e":2608717,"n":1110921,"alt":2903,"prio":90},
 {"id":"B3C6B8ED-2D84","name":"Basset de Lona","kind":"pass","e":2608431,"n":1110744,"alt":2791,"prio":60},
 {"id":"ED33477C-45C9","name":"Pas de Lona","kind":"pass","e":2606279,"n":1111587,"alt":2788,"prio":60},
 {"id":"5058EE81-8AC5","name":"Pointe de la Tsevalire","kind":"summit","e":2605408,"n":1112326,"alt":3025,"prio":90},

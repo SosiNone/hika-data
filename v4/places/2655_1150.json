@@ -18,7 +18,6 @@
 {"id":"9EDF4B06-66FB","name":"Firehorn","kind":"summit","e":2658719,"n":1150839,"alt":3182,"prio":90},
 {"id":"4D7DB214-CCBC","name":"Heji Zwächte","kind":"summit","e":2659276,"n":1150673,"alt":3086,"prio":90},
 {"id":"3DB5CA56-00AD","name":"Oberlicke","kind":"pass","e":2656448,"n":1150391,"alt":3144,"prio":60},
-{"id":"3DB5CA56-00AD","name":"Bieligerlicke","kind":"pass","e":2656448,"n":1150391,"alt":3144,"prio":60},
 {"id":"FF1EDAF1-AC48","name":"Unders Studerjoch","kind":"pass","e":2655358,"n":1153539,"alt":3382,"prio":60},
 {"id":"2A9AF02E-6F19","name":"Bächilicke","kind":"pass","e":2657280,"n":1151327,"alt":3376,"prio":60},
 {"id":"E8716228-4302","name":"Oberaarjochhütte SAC","kind":"inn","e":2656352,"n":1153013,"alt":3258,"prio":50},

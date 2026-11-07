@@ -74,6 +74,5 @@
 {"id":"56F397A5-872D","name":"Rohrbach","kind":"village","e":2628606,"n":1220722,"alt":585,"prio":45},
 {"id":"2D873187-9154","name":"Kleindietwil","kind":"village","e":2626739,"n":1221668,"alt":558,"prio":30},
 {"id":"2E233B38-C1AD","name":"Waldhaus Hochwacht","kind":"inn","e":2629912,"n":1223981,"alt":779,"prio":50},
-{"id":"5DB322FF-1EC5","name":"Buchberg Grat","kind":"ridge","e":2627494,"n":1221888,"alt":676,"prio":20},
-{"id":"5DB322FF-1EC5","name":"Hunzen Grat","kind":"ridge","e":2627494,"n":1221888,"alt":676,"prio":20}
+{"id":"5DB322FF-1EC5","name":"Buchberg Grat","kind":"ridge","e":2627494,"n":1221888,"alt":676,"prio":20}
 ]

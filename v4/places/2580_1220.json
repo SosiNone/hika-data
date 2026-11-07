@@ -52,7 +52,6 @@
 {"id":"034FA16C-EB5C","name":"La Hôle","kind":"village","e":2580583,"n":1222578,"alt":983,"prio":5},
 {"id":"28AA5DF8-8658","name":"Le Foncet","kind":"village","e":2584628,"n":1223396,"alt":604,"prio":5},
 {"id":"3F351904-B59C","name":"La Combe","kind":"village","e":2583824,"n":1221834,"alt":807,"prio":5},
-{"id":"FC5B1A1D-F87C","name":"Leubringen","kind":"village","e":2584848,"n":1222101,"alt":698,"prio":55},
 {"id":"FC5B1A1D-F87C","name":"Evilard","kind":"village","e":2584848,"n":1222101,"alt":698,"prio":55},
 {"id":"8B27793E-B51D","name":"Magglingen/Macolin","kind":"village","e":2583155,"n":1221170,"alt":868,"prio":30},
 {"id":"F86241F3-36DB","name":"Métairie Jobert","kind":"inn","e":2580028,"n":1224254,"alt":1302,"prio":50},

@@ -138,9 +138,6 @@
 {"id":"53018BF3-E93A","name":"Les Rittes","kind":"village","e":2579347,"n":1182059,"alt":660,"prio":5},
 {"id":"B08435AB-08F5","name":"Au Port","kind":"village","e":2576106,"n":1180510,"alt":579,"prio":5},
 {"id":"F35EAD7A-F212","name":"Fribourg","kind":"village","e":2578950,"n":1183901,"alt":588,"prio":70},
-{"id":"F35EAD7A-F212","name":"Freiburg","kind":"village","e":2578950,"n":1183901,"alt":588,"prio":70},
-{"id":"F35EAD7A-F212","name":"Friburg","kind":"village","e":2578950,"n":1183901,"alt":588,"prio":70},
-{"id":"F35EAD7A-F212","name":"Friburgo","kind":"village","e":2578950,"n":1183901,"alt":588,"prio":70},
 {"id":"D0C9408B-F125","name":"Givisiez","kind":"village","e":2576268,"n":1184654,"alt":646,"prio":55},
 {"id":"BC88A842-DBC1","name":"Villars-sur-Glâne","kind":"village","e":2576183,"n":1182445,"alt":670,"prio":70},
 {"id":"AB60891E-1994","name":"Lac de Pérolles","kind":"lake","e":2578866,"n":1181697,"alt":553,"prio":50}

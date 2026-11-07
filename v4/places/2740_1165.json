@@ -14,7 +14,6 @@
 {"id":"4B9C4899-6688","name":"Bruschgspitz","kind":"summit","e":2742613,"n":1167104,"alt":2624,"prio":90},
 {"id":"994749F9-5AE1","name":"Bruschghorn","kind":"summit","e":2743028,"n":1166134,"alt":3055,"prio":90},
 {"id":"0BD184AB-FCEA","name":"Gelbhorn","kind":"summit","e":2743034,"n":1165067,"alt":3036,"prio":90},
-{"id":"0BD184AB-FCEA","name":"Piz Mellen","kind":"summit","e":2743034,"n":1165067,"alt":3036,"prio":90},
 {"id":"568A02F4-808B","name":"Piz Tuf","kind":"summit","e":2744707,"n":1166485,"alt":2834,"prio":90},
 {"id":"CC388E71-0172","name":"Bäch","kind":"village","e":2740929,"n":1167822,"alt":1656,"prio":5},
 {"id":"1C4E58AD-ABBB","name":"Mura","kind":"village","e":2741972,"n":1169915,"alt":1592,"prio":5},

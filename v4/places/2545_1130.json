@@ -1,9 +1,6 @@
 [
 {"id":"310428AE-ED27","name":"Tête de Lantsenaire","kind":"summit","e":2549625,"n":1131891,"alt":2347,"prio":60},
-{"id":"310428AE-ED27","name":"Cornette de dessous","kind":"summit","e":2549625,"n":1131891,"alt":2347,"prio":60},
-{"id":"310428AE-ED27","name":"Tête de Lanche Naire","kind":"summit","e":2549625,"n":1131891,"alt":2347,"prio":60},
 {"id":"F1501A60-CE1B","name":"Dent du Lan","kind":"summit","e":2548887,"n":1133074,"alt":2087,"prio":20},
-{"id":"F1501A60-CE1B","name":"Dent du Velan","kind":"summit","e":2548887,"n":1133074,"alt":2087,"prio":20},
 {"id":"0C3DE215-8ABB","name":"Grande Miette","kind":"summit","e":2549520,"n":1133649,"alt":1937,"prio":20},
 {"id":"93CFDBD6-213C","name":"Col de la Croix","kind":"pass","e":2549565,"n":1133852,"alt":1757,"prio":60},
 {"id":"30204FAF-7E8E","name":"Col d'Ugeon","kind":"pass","e":2549280,"n":1133064,"alt":2017,"prio":60},

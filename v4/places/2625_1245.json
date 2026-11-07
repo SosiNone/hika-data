@@ -16,7 +16,6 @@
 {"id":"2B7FADEE-D37D","name":"Dürstelberg","kind":"summit","e":2627230,"n":1245654,"alt":1036,"prio":30},
 {"id":"E2053ED5-AD8A","name":"Fürbergsegg","kind":"summit","e":2629839,"n":1247758,"alt":797,"prio":10},
 {"id":"65FA8C7F-A038","name":"Bölcheflue","kind":"summit","e":2628089,"n":1245850,"alt":1099,"prio":30},
-{"id":"65FA8C7F-A038","name":"Belchenflue","kind":"summit","e":2628089,"n":1245850,"alt":1099,"prio":30},
 {"id":"93506765-A1D2","name":"Spitzeflüeli","kind":"summit","e":2627225,"n":1246352,"alt":1039,"prio":30},
 {"id":"FA9A6748-8BB0","name":"Sennhöchi","kind":"pass","e":2625008,"n":1247942,"alt":821,"prio":60},
 {"id":"0B525B60-555C","name":"Forehübel","kind":"summit","e":2629815,"n":1249836,"alt":722,"prio":10},

@@ -2,7 +2,6 @@
 {"id":"84046658-04C0","name":"Torrion","kind":"summit","e":2735655,"n":1122633,"alt":2030,"prio":60},
 {"id":"BAF9ACF6-1C7B","name":"Pizzo Campanile","kind":"summit","e":2739404,"n":1121686,"alt":2458,"prio":60},
 {"id":"553D0B51-54DF","name":"Bocchetta di Agnon","kind":"pass","e":2738439,"n":1121704,"alt":2270,"prio":60},
-{"id":"553D0B51-54DF","name":"Bocchetta di Cama","kind":"pass","e":2738439,"n":1121704,"alt":2270,"prio":60},
 {"id":"8FAD6D94-CFA7","name":"Sass Paia","kind":"summit","e":2737344,"n":1121589,"alt":2593,"prio":90},
 {"id":"F4C45313-BD52","name":"Sass Mogn","kind":"summit","e":2736580,"n":1121810,"alt":2440,"prio":60},
 {"id":"3F202A8A-23B1","name":"Bocheta d'Agnon","kind":"pass","e":2737243,"n":1122880,"alt":2168,"prio":60},

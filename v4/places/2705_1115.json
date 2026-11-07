@@ -49,7 +49,6 @@
 {"id":"A0883509-0180","name":"Bassa di Bietri","kind":"pass","e":2705438,"n":1118391,"alt":1467,"prio":60},
 {"id":"51564F7D-71C7","name":"El Motómm","kind":"summit","e":2706766,"n":1117849,"alt":1411,"prio":30},
 {"id":"48E4FFB0-0718","name":"El Madómm","kind":"summit","e":2705054,"n":1119930,"alt":2039,"prio":60},
-{"id":"48E4FFB0-0718","name":"Madone","kind":"summit","e":2705054,"n":1119930,"alt":2039,"prio":60},
 {"id":"A6360B58-677F","name":"Mergoscia","kind":"village","e":2708504,"n":1118439,"alt":670,"prio":30},
 {"id":"05360C33-0EA1","name":"Brione sopra Minusio","kind":"village","e":2706270,"n":1115605,"alt":444,"prio":30},
 {"id":"ED9E3C92-D8F4","name":"Contra","kind":"village","e":2708149,"n":1116246,"alt":495,"prio":30},

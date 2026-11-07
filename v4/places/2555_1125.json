@@ -22,7 +22,6 @@
 {"id":"CAB2E15B-A67A","name":"Col de la Folière","kind":"pass","e":2555649,"n":1125413,"alt":1912,"prio":60},
 {"id":"4AE12D35-716C","name":"Tour de Don","kind":"summit","e":2555529,"n":1126647,"alt":1999,"prio":60},
 {"id":"97E9F8FD-82A0","name":"Portes d'Onne","kind":"pass","e":2555732,"n":1125959,"alt":1911,"prio":60},
-{"id":"97E9F8FD-82A0","name":"Portes d'Onnaz","kind":"pass","e":2555732,"n":1125959,"alt":1911,"prio":60},
 {"id":"09C9F4E4-A57D","name":"Païeux","kind":"pass","e":2555088,"n":1127565,"alt":1677,"prio":60},
 {"id":"F4A0609B-6BFF","name":"Bec à l'Ane","kind":"summit","e":2557562,"n":1129591,"alt":865,"prio":20},
 {"id":"7B8D38E4-1A32","name":"Vionnaz","kind":"village","e":2558514,"n":1128888,"alt":404,"prio":55},

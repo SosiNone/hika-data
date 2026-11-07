@@ -59,8 +59,5 @@
 {"id":"D6743695-9A2A","name":"Teller","kind":"village","e":2616452,"n":1172670,"alt":570,"prio":5},
 {"id":"64AF36F2-14B4","name":"Spiez","kind":"village","e":2618442,"n":1170899,"alt":603,"prio":55},
 {"id":"F927FB7C-DD2B","name":"Thunersee","kind":"lake","e":2619890,"n":1172156,"alt":558,"prio":50},
-{"id":"F927FB7C-DD2B","name":"Lac de Thoune","kind":"lake","e":2619890,"n":1172156,"alt":558,"prio":50},
-{"id":"F927FB7C-DD2B","name":"Lago di Thun","kind":"lake","e":2619890,"n":1172156,"alt":558,"prio":50},
-{"id":"F927FB7C-DD2B","name":"Lai da Thun","kind":"lake","e":2619890,"n":1172156,"alt":558,"prio":50},
 {"id":"3E2767D3-C569","name":"Stauweier","kind":"lake","e":2617273,"n":1170967,"alt":623,"prio":50}
 ]

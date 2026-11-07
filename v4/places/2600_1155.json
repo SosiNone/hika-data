@@ -12,7 +12,6 @@
 {"id":"5D30EBCE-CAB5","name":"Geisshöri","kind":"summit","e":2600023,"n":1158497,"alt":2044,"prio":60},
 {"id":"288F8803-57BA","name":"Girehore","kind":"summit","e":2601721,"n":1158056,"alt":1987,"prio":60},
 {"id":"D6666629-BBE6","name":"Seehore","kind":"summit","e":2601743,"n":1157287,"alt":2281,"prio":60},
-{"id":"D6666629-BBE6","name":"Rötihore","kind":"summit","e":2601743,"n":1157287,"alt":2281,"prio":60},
 {"id":"0621300F-8A78","name":"Muntiggalm","kind":"summit","e":2600191,"n":1157999,"alt":2077,"prio":60},
 {"id":"05BA68FC-9891","name":"Schwenden im Diemtigtal","kind":"village","e":2604005,"n":1158732,"alt":1166,"prio":30},
 {"id":"28360A7F-7A3F","name":"Grabe","kind":"village","e":2603107,"n":1158399,"alt":1238,"prio":5},

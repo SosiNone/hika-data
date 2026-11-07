@@ -16,7 +16,6 @@
 {"id":"59269C2B-12E3","name":"Pörtlilücke","kind":"pass","e":2695216,"n":1174940,"alt":2505,"prio":60},
 {"id":"4938BBF1-052A","name":"Sunnig Wichel","kind":"summit","e":2695174,"n":1174248,"alt":2910,"prio":90},
 {"id":"1619BDD6-D3BE","name":"Piz Giuv","kind":"summit","e":2695897,"n":1173059,"alt":3096,"prio":100},
-{"id":"1619BDD6-D3BE","name":"Schattig Wichel","kind":"summit","e":2695897,"n":1173059,"alt":3096,"prio":100},
 {"id":"E5849BF7-3B50","name":"Rot Wichel","kind":"summit","e":2695784,"n":1172787,"alt":3084,"prio":90},
 {"id":"8EE32ACB-B24B","name":"Schijerlücke","kind":"pass","e":2695358,"n":1174036,"alt":2700,"prio":60},
 {"id":"0ABDD34A-3797","name":"Mittelplatten","kind":"pass","e":2698718,"n":1173861,"alt":2485,"prio":60},

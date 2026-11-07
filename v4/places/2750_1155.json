@@ -6,7 +6,6 @@
 {"id":"F022D5A7-78D2","name":"Piz la Mazza","kind":"summit","e":2754852,"n":1155404,"alt":2815,"prio":90},
 {"id":"E48CAEDC-17FC","name":"Mutta Radunda","kind":"summit","e":2752801,"n":1157390,"alt":1644,"prio":30},
 {"id":"6E712BCB-8F5C","name":"Crest Olt","kind":"summit","e":2753530,"n":1157080,"alt":1631,"prio":30},
-{"id":"D7865CCF-2E44","name":"Farera","kind":"village","e":2753429,"n":1158091,"alt":1304,"prio":10},
 {"id":"D7865CCF-2E44","name":"Ausserferrera","kind":"village","e":2753429,"n":1158091,"alt":1304,"prio":10},
 {"id":"B5488AE1-3755","name":"Lai dil Hirli","kind":"lake","e":2751111,"n":1155715,"alt":2530,"prio":50}
 ]

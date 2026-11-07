@@ -29,8 +29,5 @@
 {"id":"64A539D3-6146","name":"Looch","kind":"village","e":2731108,"n":1224021,"alt":1233,"prio":5},
 {"id":"CBBE3066-F45D","name":"Skiclubhütte Altschen","kind":"inn","e":2732488,"n":1224721,"alt":1389,"prio":50},
 {"id":"E0A3D1F1-3D86","name":"Achselchamm","kind":"ridge","e":2733681,"n":1222519,"alt":1532,"prio":20},
-{"id":"FCEFD879-578D","name":"Walensee","kind":"lake","e":2734948,"n":1220849,"alt":420,"prio":50},
-{"id":"FCEFD879-578D","name":"Lac de Walenstadt","kind":"lake","e":2734948,"n":1220849,"alt":420,"prio":50},
-{"id":"FCEFD879-578D","name":"Lago di Walenstadt","kind":"lake","e":2734948,"n":1220849,"alt":420,"prio":50},
-{"id":"FCEFD879-578D","name":"Lai Rivaun","kind":"lake","e":2734948,"n":1220849,"alt":420,"prio":50}
+{"id":"FCEFD879-578D","name":"Walensee","kind":"lake","e":2734948,"n":1220849,"alt":420,"prio":50}
 ]

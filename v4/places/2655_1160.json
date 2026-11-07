@@ -2,7 +2,6 @@
 {"id":"FD123243-FACB","name":"Chipfestock","kind":"summit","e":2658569,"n":1164325,"alt":2702,"prio":90},
 {"id":"C075891D-9EF1","name":"Ewigschneehoren","kind":"summit","e":2655931,"n":1160913,"alt":3330,"prio":90},
 {"id":"D5598F67-D338","name":"Gouwlipass","kind":"pass","e":2656185,"n":1160625,"alt":3190,"prio":60},
-{"id":"D5598F67-D338","name":"Gaulipass","kind":"pass","e":2656185,"n":1160625,"alt":3190,"prio":60},
 {"id":"DAD55B19-8255","name":"Trifthoren","kind":"summit","e":2656667,"n":1160333,"alt":3229,"prio":90},
 {"id":"B701E2C7-1F64","name":"Ränfenhorn","kind":"summit","e":2655502,"n":1164948,"alt":3255,"prio":90},
 {"id":"61B81C8A-0723","name":"Hangendgletscherhorn","kind":"summit","e":2656969,"n":1164507,"alt":3294,"prio":90},

@@ -6,7 +6,6 @@
 {"id":"74F4B4A2-7A7A","name":"Gletscherhorn","kind":"summit","e":2763215,"n":1139549,"alt":3106,"prio":90},
 {"id":"8D97C619-1A98","name":"Piz Duan","kind":"summit","e":2764993,"n":1138291,"alt":3135,"prio":100},
 {"id":"8C17536D-A4DD","name":"Bergalgapass","kind":"pass","e":2761991,"n":1139069,"alt":2793,"prio":60},
-{"id":"8C17536D-A4DD","name":"Pass da la Bergalga","kind":"pass","e":2761991,"n":1139069,"alt":2793,"prio":60},
 {"id":"CB7C7C4E-50B7","name":"Pass da la Duana","kind":"pass","e":2762849,"n":1137666,"alt":2691,"prio":60},
 {"id":"9CB4D82D-0420","name":"Pass da la Val da Roda","kind":"pass","e":2762497,"n":1138511,"alt":2777,"prio":60},
 {"id":"28F20DC6-259B","name":"Gletscherhornsattel","kind":"pass","e":2763347,"n":1139750,"alt":2987,"prio":60},

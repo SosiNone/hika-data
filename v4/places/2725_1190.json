@@ -1,9 +1,7 @@
 [
 {"id":"B2BA5A78-7841","name":"Crap Tgietschen","kind":"summit","e":2727568,"n":1190165,"alt":2624,"prio":90},
-{"id":"B2BA5A78-7841","name":"Rotstock","kind":"summit","e":2727568,"n":1190165,"alt":2624,"prio":90},
 {"id":"F639C480-E24A","name":"Piz Fluaz","kind":"summit","e":2725215,"n":1190452,"alt":2814,"prio":90},
 {"id":"8C4E5C64-FE5B","name":"Pass dil Veptga","kind":"pass","e":2726992,"n":1190753,"alt":2404,"prio":60},
-{"id":"8C4E5C64-FE5B","name":"Panixerpass","kind":"pass","e":2726992,"n":1190753,"alt":2404,"prio":60},
 {"id":"A52CDD44-CD4F","name":"Ringgenchopf","kind":"summit","e":2727543,"n":1191870,"alt":2626,"prio":90},
 {"id":"8B2E804E-46B3","name":"Chalchhoren","kind":"summit","e":2727347,"n":1192195,"alt":2682,"prio":90},
 {"id":"4E36B687-283F","name":"Ober Chämmler","kind":"summit","e":2726781,"n":1192911,"alt":2432,"prio":60},
@@ -11,7 +9,6 @@
 {"id":"DA01E783-967A","name":"Siwellenchopf","kind":"summit","e":2725169,"n":1193997,"alt":2115,"prio":30},
 {"id":"525D6ED8-0CA1","name":"Crap Ner","kind":"summit","e":2729248,"n":1190403,"alt":2615,"prio":90},
 {"id":"F618EC79-79B3","name":"Fuorcla da Siat","kind":"pass","e":2728556,"n":1190750,"alt":2588,"prio":60},
-{"id":"F618EC79-79B3","name":"Sether Furgglen","kind":"pass","e":2728556,"n":1190750,"alt":2588,"prio":60},
 {"id":"3F444B28-39D0","name":"Büelen","kind":"summit","e":2726512,"n":1194414,"alt":1595,"prio":30},
 {"id":"6AE276A3-76E4","name":"Crena Martin","kind":"pass","e":2729081,"n":1191242,"alt":2726,"prio":60},
 {"id":"EBF304F1-1F27","name":"Wannenbachfall","kind":"water","e":2728463,"n":1193219,"alt":1658,"prio":25},

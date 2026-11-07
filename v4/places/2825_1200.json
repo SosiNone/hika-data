@@ -8,7 +8,6 @@
 {"id":"E53CB538-B8A4","name":"Fuorcla Curschiglias","kind":"pass","e":2825953,"n":1204359,"alt":2135,"prio":60},
 {"id":"4B1DCEBA-8635","name":"Cuvetta","kind":"summit","e":2827451,"n":1204625,"alt":1747,"prio":60},
 {"id":"E47894A9-9714","name":"Fuorcla d'Ars","kind":"pass","e":2826424,"n":1204628,"alt":2117,"prio":60},
-{"id":"1806A964-A941","name":"Pfandshof","kind":"village","e":2828057,"n":1204792,"alt":1520,"prio":5},
 {"id":"1806A964-A941","name":"Acla da Fans","kind":"village","e":2828057,"n":1204792,"alt":1520,"prio":5},
 {"id":"3025E1BF-076B","name":"Restaurant Acla da Fans","kind":"inn","e":2828150,"n":1204807,"alt":1520,"prio":50},
 {"id":"BEF1F90E-9428","name":"Dösset","kind":"ridge","e":2826500,"n":1202692,"alt":2371,"prio":20},

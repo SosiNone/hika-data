@@ -40,7 +40,5 @@
 {"id":"0BAD912E-7441","name":"Reckholdern","kind":"village","e":2570196,"n":1206266,"alt":432,"prio":10},
 {"id":"9E3DC969-C5C0","name":"Hofmatte","kind":"village","e":2573306,"n":1206332,"alt":432,"prio":5},
 {"id":"10236364-A6E6","name":"Ins","kind":"village","e":2574672,"n":1206169,"alt":478,"prio":55},
-{"id":"10236364-A6E6","name":"Anet","kind":"village","e":2574672,"n":1206169,"alt":478,"prio":55},
-{"id":"BFACCBFD-46C2","name":"Gampelen","kind":"village","e":2571254,"n":1207095,"alt":435,"prio":30},
-{"id":"BFACCBFD-46C2","name":"Champion","kind":"village","e":2571254,"n":1207095,"alt":435,"prio":30}
+{"id":"BFACCBFD-46C2","name":"Gampelen","kind":"village","e":2571254,"n":1207095,"alt":435,"prio":30}
 ]

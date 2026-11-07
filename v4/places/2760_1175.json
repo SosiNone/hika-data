@@ -48,8 +48,6 @@
 {"id":"E5A3FC17-638C","name":"Crestas","kind":"ridge","e":2761084,"n":1176051,"alt":1615,"prio":20},
 {"id":"7A6011D6-350E","name":"Crest'Arsa","kind":"ridge","e":2761108,"n":1175778,"alt":1609,"prio":20},
 {"id":"83025F70-1843","name":"Igl Lai","kind":"lake","e":2761373,"n":1178688,"alt":1484,"prio":50},
-{"id":"83025F70-1843","name":"Heidsee","kind":"lake","e":2761373,"n":1178688,"alt":1484,"prio":50},
 {"id":"EC15F8CC-3D1B","name":"Igl Lai","kind":"lake","e":2761396,"n":1178233,"alt":1483,"prio":50},
-{"id":"EC15F8CC-3D1B","name":"Heidsee","kind":"lake","e":2761396,"n":1178233,"alt":1483,"prio":50},
 {"id":"AD06DFCB-65DB","name":"Lajet","kind":"lake","e":2761924,"n":1179996,"alt":1535,"prio":50}
 ]

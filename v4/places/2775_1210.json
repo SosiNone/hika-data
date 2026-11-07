@@ -5,7 +5,6 @@
 {"id":"618D5591-A94F","name":"Giraspitz","kind":"summit","e":2775174,"n":1210951,"alt":2393,"prio":60},
 {"id":"37BE3A42-C8D1","name":"Chilchli","kind":"summit","e":2776697,"n":1211915,"alt":2262,"prio":20},
 {"id":"0046B067-8ACB","name":"Cavälljoch","kind":"pass","e":2775792,"n":1212124,"alt":2238,"prio":60},
-{"id":"0046B067-8ACB","name":"Gafalljoch","kind":"pass","e":2775792,"n":1212124,"alt":2238,"prio":60},
 {"id":"3FDC7930-5053","name":"Chanzeljoch","kind":"pass","e":2775031,"n":1212635,"alt":2385,"prio":60},
 {"id":"ADFB4FDC-8CED","name":"Schwarza Chopf","kind":"summit","e":2775285,"n":1212366,"alt":2291,"prio":60},
 {"id":"EDC88AC6-9601","name":"Lüneregg","kind":"summit","e":2775457,"n":1212141,"alt":2296,"prio":60},

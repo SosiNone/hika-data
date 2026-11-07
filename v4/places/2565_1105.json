@@ -38,7 +38,6 @@
 {"id":"45A039D1-791C","name":"Les Marécottes, Zoo","kind":"stop","e":2566841,"n":1106621,"alt":1051,"prio":25},
 {"id":"11867F34-A48E","name":"Salvan, La Kònba","kind":"stop","e":2567963,"n":1108538,"alt":998,"prio":25},
 {"id":"AEE247DF-28F7","name":"Sé des Granges","kind":"summit","e":2566481,"n":1108940,"alt":2082,"prio":60},
-{"id":"AEE247DF-28F7","name":"Sex des Granges","kind":"summit","e":2566481,"n":1108940,"alt":2082,"prio":60},
 {"id":"0683B752-2F4F","name":"Le Tsarve","kind":"summit","e":2565084,"n":1108847,"alt":2503,"prio":90},
 {"id":"7E277352-07C1","name":"Pointe du Djoua","kind":"summit","e":2565821,"n":1108746,"alt":2276,"prio":60},
 {"id":"53FF87A6-9E42","name":"Tête des Crêtes","kind":"summit","e":2568023,"n":1109818,"alt":1048,"prio":30},
